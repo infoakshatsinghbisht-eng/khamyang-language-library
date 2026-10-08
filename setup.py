@@ -23,13 +23,18 @@ setup(
         "ResearchGate": "https://www.researchgate.net/profile/Akshat-Bisht-8",
         "Bug Tracker": "https://github.com/infoakshatsinghbisht-eng/khamyang-language-library/issues",
     },
-    packages=find_packages(),
+    packages=find_packages(exclude=["tests*"]),
     package_data={
         "khamyang": [
             "data/*.json",
+            "corpora/**/*.json",
+            "corpora/**/*.jsonl",
+            "corpora/sources/*.json",
             "web/static/*",
             "web/templates/*",
-        ]
+        ],
+        "tai_khamyang": ["*.py"],
+        "taikhamyang": ["*.py"],
     },
     include_package_data=True,
     classifiers=[

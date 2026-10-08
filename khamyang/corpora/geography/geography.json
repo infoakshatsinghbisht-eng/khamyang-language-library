@@ -1,0 +1,62 @@
+[
+  {
+    "id": "geo_001",
+    "name_khamyang": "Maan3 Paa1 Waai6",
+    "lik_tai": "မၢၼ်ႈပႃႉဝၢႆး",
+    "assamese_name": "পোৱাইমুখ গাঁও",
+    "english_name": "Powaimukh Village",
+    "type": "village",
+    "district": "Tinsukia",
+    "state": "Assam",
+    "country": "India",
+    "coordinates": {"lat": 27.279, "lon": 95.733},
+    "etymology": "maan3 (village) + paa1 (mouth of river) + waai6 (rattan cane) = 'Village at the River-Mouth of Rattan'.",
+    "historical_significance": "The primary remaining village where the spoken Tai Khamyang mother-tongue is preserved by resident elders and where the Buddhist monastery (Bapuchang) houses original manuscripts.",
+    "source_id": "src_morey2005"
+  },
+  {
+    "id": "geo_002",
+    "name_khamyang": "Nam6 Jin1",
+    "lik_tai": "ၼမ်ႉၵျိၼ်း",
+    "assamese_name": "বুঢ়ীদিহিং নদী",
+    "english_name": "Buridihing River",
+    "type": "river",
+    "etymology": "nam6 (water/river) + jin1 (clear/Dihing).",
+    "historical_significance": "Major river along whose fertile alluvial banks the Khamyang, Phake, and Aiton settled. Essential for fishing, irrigation, and boat transport.",
+    "source_id": "src_morey2005"
+  },
+  {
+    "id": "geo_003",
+    "name_khamyang": "Doi1 Pat4 Kai1",
+    "lik_tai": "လွႆပႅတ်ႇၵၢႆး",
+    "assamese_name": "পাতকাই পাহাৰ",
+    "english_name": "Patkai Mountain Range",
+    "type": "mountain_range",
+    "etymology": "doi1 (mountain) + pat4 kai1 (Patkai, historically associated with 'sacrificing fowl' in Tai accounts).",
+    "historical_significance": "Formidable mountainous barrier separating the Upper Chindwin and Shweli valleys of Burma/Yunnan from the Brahmaputra Valley of Assam; crossed by Tai Nora ancestors.",
+    "source_id": "src_morey2005"
+  },
+  {
+    "id": "geo_004",
+    "name_khamyang": "Mung1 Mau1",
+    "lik_tai": "မုင်းမၢဝ်",
+    "assamese_name": "মুং মাও ৰাজ্য",
+    "english_name": "Mung Mau Kingdom (Historic)",
+    "type": "historical_kingdom",
+    "region": "Shweli River Valley (Upper Burma / Dehong Yunnan)",
+    "etymology": "mung1 (country/realm) + mau1 (river Mau / Shweli).",
+    "historical_significance": "Legendary cradle of the Tai peoples ruled by the celestial brothers Khun Lung and Khun Lai, from which the Nora and other Tai diaspora branches originated.",
+    "source_id": "src_diller2008"
+  },
+  {
+    "id": "geo_005",
+    "name_khamyang": "Nam6 Ti1 Saang1",
+    "lik_tai": "ၼမ်ႉတီႈသၢင်",
+    "assamese_name": "দিচাং নদী",
+    "english_name": "Disang River",
+    "type": "river",
+    "etymology": "Tai toponym preserved in Assam hydrography.",
+    "historical_significance": "Historical settlement zone of the Nora clans during the Ahom kingdom period before relocation to the Dihing basin.",
+    "source_id": "src_phukan1992taiculture"
+  }
+]

@@ -133,42 +133,52 @@ class Khamyang:
         """Returns all annotated interlinear glossed folk texts (IGT)."""
         return self._corpus.get_all()
 
+    def _resolve_data_path(self, subpath: str) -> Optional[str]:
+        """Resolves path from packaged corpora or repository root."""
+        pkg_path = os.path.join(os.path.dirname(__file__), "corpora", subpath)
+        if os.path.exists(pkg_path):
+            return pkg_path
+        root_path = os.path.join(self._root_data_dir, subpath)
+        if os.path.exists(root_path):
+            return root_path
+        return None
+
     def proverbs(self) -> List[Dict[str, Any]]:
         """Returns authentic Tai Khamyang proverbs and sayings."""
-        path = os.path.join(self._root_data_dir, "proverbs", "proverbs.json")
-        if os.path.exists(path):
+        path = self._resolve_data_path(os.path.join("proverbs", "proverbs.json"))
+        if path and os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 return json.load(f)
         return []
 
     def conversations(self) -> List[Dict[str, Any]]:
         """Returns multi-turn everyday conversation dialogs."""
-        path = os.path.join(self._root_data_dir, "conversations", "conversations.json")
-        if os.path.exists(path):
+        path = self._resolve_data_path(os.path.join("conversations", "conversations.json"))
+        if path and os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 return json.load(f)
         return []
 
     def culture(self) -> Dict[str, Any]:
         """Returns material culture, ethnobotany, and festival records."""
-        path = os.path.join(self._root_data_dir, "culture", "material_culture.json")
-        if os.path.exists(path):
+        path = self._resolve_data_path(os.path.join("culture", "material_culture.json"))
+        if path and os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 return json.load(f)
         return {}
 
     def geography(self) -> List[Dict[str, Any]]:
         """Returns traditional toponyms, sacred rivers, and historical sites."""
-        path = os.path.join(self._root_data_dir, "geography", "geography.json")
-        if os.path.exists(path):
+        path = self._resolve_data_path(os.path.join("geography", "geography.json"))
+        if path and os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 return json.load(f)
         return []
 
     def audio_records(self) -> List[Dict[str, Any]]:
         """Returns catalog of documented audio recordings in PARADISEC & ELAR."""
-        path = os.path.join(self._root_data_dir, "audio_metadata", "audio_index.json")
-        if os.path.exists(path):
+        path = self._resolve_data_path(os.path.join("audio_metadata", "audio_index.json"))
+        if path and os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 return json.load(f)
         return []
@@ -197,9 +207,13 @@ class Khamyang:
     # --- SOURCES & CITATIONS ---
     def sources(self) -> List[Dict[str, Any]]:
         """Returns the primary source registry."""
-        path = os.path.join(os.path.dirname(__file__), "..", "sources", "source_registry.json")
-        if os.path.exists(path):
-            with open(path, "r", encoding="utf-8") as f:
+        pkg_src = os.path.join(os.path.dirname(__file__), "corpora", "sources", "source_registry.json")
+        if os.path.exists(pkg_src):
+            with open(pkg_src, "r", encoding="utf-8") as f:
+                return json.load(f)
+        root_src = os.path.join(os.path.dirname(__file__), "..", "sources", "source_registry.json")
+        if os.path.exists(root_src):
+            with open(root_src, "r", encoding="utf-8") as f:
                 return json.load(f)
         return []
 

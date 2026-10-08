@@ -1,0 +1,196 @@
+{
+  "material_culture": [
+    {
+      "id": "cult_mat_001",
+      "name_khamyang": "hɯn1 thaai1",
+      "lik_tai": "ႁိူၼ်းထႃႆ",
+      "assamese_script": "হ্যুন¹ থাই¹",
+      "ipa": "hɯːn³³ tʰaːi³³",
+      "category": "architecture",
+      "english_name": "traditional stilted Tai house",
+      "assamese_name": "চাংঘৰ",
+      "description": "Raised wooden and bamboo architecture built on hardwood piles 6-8 feet above ground level to withstand monsoon flooding from the Buridihing and keep out wild animals. The open area below (tai3 hɯn1) is used for weaving looms and keeping livestock.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "cult_mat_002",
+      "name_khamyang": "saaw1 mai6 luang1",
+      "lik_tai": "သၢဝ်မႆႉလွင်",
+      "assamese_script": "সাও¹ মাই⁶ লুৱাং¹",
+      "ipa": "saːu³³ mai³⁵ luaŋ³³",
+      "category": "architecture",
+      "english_name": "master center pillar of stilted house",
+      "assamese_name": "বৰখুটা",
+      "description": "The sacred central post of the Khamyang home, ritually erected during house construction with offerings to the guardian spirits of the dwelling (phi5 hɯn1).",
+      "source_id": "src_buragohain1998"
+    },
+    {
+      "id": "cult_mat_003",
+      "name_khamyang": "khaang1 fai1",
+      "lik_tai": "ၶၢင်ၾႆး",
+      "assamese_script": "খাং¹ ফাই¹",
+      "ipa": "kʰaːŋ³³ fai³³",
+      "category": "household",
+      "english_name": "central domestic hearth / fireplace",
+      "assamese_name": "জুহাল",
+      "description": "Central clay-lined earth box hearth suspended on the bamboo floor. Serves as the spiritual center of the family where food is cooked and tea is shared with guests.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "cult_mat_004",
+      "name_khamyang": "huuk4 phaa3",
+      "lik_tai": "ႁူၵ်ႉၽႃႉ",
+      "assamese_script": "হুক⁴ ফা³",
+      "ipa": "huːk⁵⁴ʔ pʰaː²¹̰",
+      "category": "textile_craft",
+      "english_name": "traditional handloom for weaving",
+      "assamese_name": "তাঁতশাল",
+      "description": "Wooden handloom operated beneath the stilted house where Khamyang women weave intricate geometric textiles, shoulder bags (tung1), and traditional lungis.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "cult_mat_005",
+      "name_khamyang": "sin3 thaai1",
+      "lik_tai": "သိၼ်ႈထႃႆ",
+      "assamese_script": "সিন³ থাই¹",
+      "ipa": "sin²¹̰ tʰaːi³³",
+      "category": "clothing",
+      "english_name": "traditional Tai handwoven sarong / skirt",
+      "assamese_name": "টাই মেখেলা",
+      "description": "Distinctive dark cotton or silk waist-cloth woven with horizontal stripes, worn by Tai Khamyang women on ceremonial and monastic occasions.",
+      "source_id": "src_gogoi1996"
+    },
+    {
+      "id": "cult_mat_006",
+      "name_khamyang": "khrɔk4 tam1 khaw3",
+      "lik_tai": "ၶျွၵ်းတမ်ၶဝ်ႈ",
+      "assamese_script": "খ্ৰক্⁴ তাম¹ খাও³",
+      "ipa": "kʰrɔk⁵⁴ʔ tam³³ kʰau²¹̰",
+      "category": "agriculture_tool",
+      "english_name": "wooden foot-pestle and mortar for husking rice",
+      "assamese_name": "ঢেঁকী",
+      "description": "Heavy wooden treadle-pestle operated by foot lever to dehusk paddy and crush rice into fine powder for festive rice cakes.",
+      "source_id": "src_morey2005"
+    }
+  ],
+  "ethnobotany_and_fauna": [
+    {
+      "id": "bio_001",
+      "khamyang_name": "ton4 khaw3",
+      "scientific_name": "Oryza sativa",
+      "category": "plant",
+      "english_name": "rice plant / paddy",
+      "assamese_name": "ধান গছ",
+      "description": "Primary staple crop of the Tai Khamyang. Cultivated in flooded alluvial wetlands (naa1). Varieties include sticky winter rice (khaw3 niew1) and dry rice.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "bio_002",
+      "khamyang_name": "ton4 phlu1",
+      "scientific_name": "Piper betle",
+      "category": "plant",
+      "english_name": "betel vine",
+      "assamese_name": "পাণ লতা",
+      "description": "Cultivated climbing creeper whose aromatic leaves are essential for hospitality, wedding ritual trays (phan1), and monastic offerings.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "bio_003",
+      "khamyang_name": "ton4 maak4",
+      "scientific_name": "Areca catechu",
+      "category": "plant",
+      "english_name": "areca nut palm",
+      "assamese_name": "তামোল গছ",
+      "description": "Tall slender palm producing areca nuts chewed with betel leaf. Chewed during social gatherings as an etiquette of respect.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "bio_004",
+      "khamyang_name": "ton4 mai6 waai6",
+      "scientific_name": "Calamus rotang",
+      "category": "plant",
+      "english_name": "rattan cane",
+      "assamese_name": "বেত গছ",
+      "description": "Climbing rattan cane abundant along local rivers. Gives Powaimukh its historical name: 'Maan3 Paa1 Waai6' (Village at the River-Mouth of Rattan). Used for sturdy basketry and ropes.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "bio_005",
+      "khamyang_name": "kwaai1",
+      "scientific_name": "Bubalus bubalis",
+      "category": "animal",
+      "english_name": "Asian water buffalo",
+      "assamese_name": "ম'হ",
+      "description": "Vital draft animal in Khamyang wet-rice tillage. Featured prominently in moral folklore (e.g. Lik Pung: Kwaai1 Kap4 Sɯa1).",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "bio_006",
+      "khamyang_name": "tsaang2",
+      "scientific_name": "Elephas maximus indicus",
+      "category": "animal",
+      "english_name": "Asian elephant",
+      "assamese_name": "হাতী",
+      "description": "Revered wildlife of the rainforests flanking the Patkai mountains. Historically captured and trained by Tai masters for timber work.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "bio_007",
+      "khamyang_name": "sɯa1",
+      "scientific_name": "Panthera tigris",
+      "category": "animal",
+      "english_name": "Bengal tiger",
+      "assamese_name": "বাঘ",
+      "description": "Apex predator of Upper Assam jungles; figures in traditional wisdom stories contrasting physical ferocity with animal intelligence.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "bio_008",
+      "khamyang_name": "nok4 yung1",
+      "scientific_name": "Pavo cristatus",
+      "category": "animal",
+      "english_name": "Indian peafowl / peacock",
+      "assamese_name": "ম'ৰা চৰাই",
+      "description": "Revered bird in Tai Buddhist art and iconography, symbolizing beauty and spiritual vigilance.",
+      "source_id": "src_morey2005"
+    }
+  ],
+  "festivals_and_rituals": [
+    {
+      "id": "fest_001",
+      "name_khamyang": "Poy1 Sang1 Ken1",
+      "lik_tai": "ပွႆးသၢင်းၵျႅၼ်ႇ",
+      "assamese_name": "চাংকেন উৎসৱ",
+      "season": "Mid-April (Bohag / Solar New Year)",
+      "description": "The paramount religious festival of the Tai Khamyang. Lasting 3 days, villagers take the Buddha statues from the monastery, erect a temporary pavilion (kyong1 phraa4), and pour consecrated water (song1 nam4 phraa4) to cleanse misfortune and welcome the new year.",
+      "source_id": "src_morey2005"
+    },
+    {
+      "id": "fest_002",
+      "name_khamyang": "Mai1 Ko1 Shum1 Phai1",
+      "lik_tai": "မႆႉၵေႃႈသုမ်ၾႆး",
+      "assamese_name": "মাই-ক'-চুম-ফাই",
+      "season": "Full moon of Magh (January/February)",
+      "description": "Tai Buddhist festival of offering firewood to the monastery. Youths construct an elaborate hexagonal wooden tower of fuel timber and burn it at dawn to symbolically warm the Lord Buddha.",
+      "source_id": "src_gogoi1996"
+    },
+    {
+      "id": "fest_003",
+      "name_khamyang": "Poy1 Lu1 Phraa4",
+      "lik_tai": "ပွႆးလူႇၽြႃး",
+      "assamese_name": "বুদ্ধ মূৰ্তি প্ৰতিষ্ঠা উৎসৱ",
+      "season": "Auspicious Buddhist calendar days",
+      "description": "Ceremony of consecrating and donating a newly sculpted Buddha image or sacred Lik Tai manuscript to the village temple.",
+      "source_id": "src_buragohain1998"
+    },
+    {
+      "id": "fest_004",
+      "name_khamyang": "Me1 Dam1 Me1 Phi1",
+      "lik_tai": "မေႇလမ်မေႇၽီ",
+      "assamese_name": "মে-ডাম-মে-ফি",
+      "season": "January 31",
+      "description": "Ancient ancestral worship ceremony honoring the departed spirits of forefathers (Dam) and celestial deities (Phi) for community peace and fertility.",
+      "source_id": "src_buragohain1998"
+    }
+  ]
+}

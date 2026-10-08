@@ -1,0 +1,124 @@
+[
+  {
+    "dialogue_id": "conv_001",
+    "title": "Morning Village Greeting & Inquiring about Health",
+    "setting": "Village path in Powaimukh in the early morning",
+    "speakers": [
+      {"code": "SPK1", "name": "Chaw Sa Myat", "gender": "male", "role": "village elder"},
+      {"code": "SPK2", "name": "Nang Mya", "gender": "female", "role": "neighbor"}
+    ],
+    "cultural_notes": "Traditional polite Tai greeting inquires about where one is going ('pai1 theu1?') or if one has eaten rice ('kin1 khaw3 yow3 haa1?').",
+    "source_id": "src_morey2005",
+    "verification_status": "verified",
+    "confidence": "high",
+    "data_level": "level_1_verified",
+    "turns": [
+      {
+        "turn": 1,
+        "speaker": "SPK1",
+        "khamyang_roman": "maɯ2 pai1 theu1 wan1 nai6 nang1?",
+        "lik_tai": "မႂ်ႇပႆထိုဝ်ဝၼ်းၼႆႉၼၢင်း",
+        "assamese_script": "মাই² পাই¹ থ্যউ¹ ৱান¹ নাই⁶ নাং¹?",
+        "gloss": "2SG go where day this lady",
+        "translation_en": "Where are you going this morning, lady?",
+        "translation_as": "আজি ৰাতিপুৱা ক'লৈ ওলাইছা, আইদেউ?"
+      },
+      {
+        "turn": 2,
+        "speaker": "SPK2",
+        "khamyang_roman": "khaa1 te5 pai1 vi1 haan1, ao1 khaw3 sang3 thawaai3 phraa4.",
+        "lik_tai": "ၶႃႈတေပႆဝိႁၢၼ်ႇ၊ ဢဝ်ၶဝ်ႈသၢင်ႉထဝၢႆးၽြႃး",
+        "assamese_script": "খা³ তে⁵ পাই¹ ৱি¹ হান¹, আও¹ খাও³ সাং³ থাৱাই³ ফ্ৰা⁴।",
+        "gloss": "1SG.POL IRR go monastery, take rice alms offer Buddha",
+        "translation_en": "I am going to the monastery to offer morning alms to the Buddha.",
+        "translation_as": "মই বৌদ্ধ বিহাৰলৈ গৈছোঁ, ভগৱান বুদ্ধলৈ পুৱাৰ ভোজন আগবঢ়াবলৈ।"
+      },
+      {
+        "turn": 3,
+        "speaker": "SPK1",
+        "khamyang_roman": "po5 me5 maɯ2 yu5 li1 kin1 waan1 yu5 haa1?",
+        "lik_tai": "ပေႃႈမႄႈမႂ်ႇယူႇလီၵိၼ်ဝၢၼ်ယူႇႁႃ",
+        "assamese_script": "পৌ⁵ মে⁵ মাই² য়ু⁵ লী¹ কিন¹ ৱান¹ য়ু⁵ হা¹?",
+        "gloss": "father mother 2SG live good eat sweet CONT Q",
+        "translation_en": "Are your parents keeping well and in good health?",
+        "translation_as": "তোমাৰ মা-দেউতা কুশলে আছেনে?"
+      },
+      {
+        "turn": 4,
+        "speaker": "SPK2",
+        "khamyang_roman": "khao5 yu5 di1 li1 chaw1. maɯ2 kin1 khaw3 yow3 haa1?",
+        "lik_tai": "ၶဝ်ယူႇလီလီၸဝ်ႈ။ မႂ်ႇၵိၼ်ၶဝ်ႈယဝ်ႉႁႃ",
+        "assamese_script": "খাও⁵ য়ু⁵ দী¹ লী¹ চাও¹। মাই² কিন¹ খাও³ য়ও³ হা¹?",
+        "gloss": "3PL live well good lord. 2SG eat rice COMPL Q",
+        "translation_en": "They are very well, sir. Have you eaten your morning meal yet?",
+        "translation_as": "তেওঁলোক বৰ কুশলে আছে। আপুনি পুৱাৰ ভাত খালে নে?"
+      },
+      {
+        "turn": 5,
+        "speaker": "SPK1",
+        "khamyang_roman": "kin1 yow3 chaw1. pai1 li1 li1 nɔ!",
+        "lik_tai": "ၵိၼ်ယဝ်ႉၸဝ်ႈ။ ပႆလီလီၼေႃႈ",
+        "assamese_script": "কিন¹ য়ও³ চাও¹। পাই¹ লী¹ লী¹ নৌ!",
+        "gloss": "eat COMPL lord. go good good EMPH",
+        "translation_en": "Yes, I have eaten. Go safely on your way!",
+        "translation_as": "খালোঁ দিয়া। শুভ যাত্ৰা হওক!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "conv_002",
+    "title": "Paddy Field Farming & Monsoon Cultivation Conversation",
+    "setting": "Edge of the rice paddy (naa1) in Powaimukh",
+    "speakers": [
+      {"code": "SPK1", "name": "Elder Farmer", "gender": "male", "role": "senior cultivator"},
+      {"code": "SPK2", "name": "Young Farmer", "gender": "male", "role": "cultivator"}
+    ],
+    "cultural_notes": "Agricultural mutual aid and water discussions are the foundation of Tai village cohesion.",
+    "source_id": "src_morey2005",
+    "verification_status": "verified",
+    "confidence": "high",
+    "data_level": "level_1_verified",
+    "turns": [
+      {
+        "turn": 1,
+        "speaker": "SPK1",
+        "khamyang_roman": "nam6 tem1 nai1 naa1 yow3 haa1 nɔŋ4 chaai1?",
+        "lik_tai": "ၼမ်ႉတဵမ်ၼႂ်းၼႃးယဝ်ႉႁႃၼွင်ႉၸၢႆး",
+        "assamese_script": "নাম⁶ তেম¹ নাই¹ না¹ য়ও³ হা¹ নং⁴ চাই¹?",
+        "gloss": "water full inside paddy COMPL Q younger-brother",
+        "translation_en": "Has the rain water filled the paddy field yet, younger brother?",
+        "translation_as": "পথাৰত পানী ভৰি পৰিলনে ভায়েক?"
+      },
+      {
+        "turn": 2,
+        "speaker": "SPK2",
+        "khamyang_roman": "nam6 jin1 khɯn3 maa1 tem1 thung2 yow3 lung1.",
+        "lik_tai": "ၼမ်ႉၵျိၼ်းၶိုၼ်ႈမႃးတဵမ်ထုင်ႉယဝ်ႉလုင်",
+        "assamese_script": "নাম⁶ জিন¹ খ্যুন³ মা¹ তেম¹ থুং² য়ও³ লুং¹।",
+        "gloss": "water Dihing rise come full field COMPL uncle",
+        "translation_en": "The Dihing river has risen and flooded the entire plain, uncle.",
+        "translation_as": "দিহিং নদীৰ পানী বাঢ়ি সমগ্ৰ পথাৰ ওপঙি পৰিছে, বৰদেউতা।"
+      },
+      {
+        "turn": 3,
+        "speaker": "SPK1",
+        "khamyang_roman": "mua4 nai6 haw1 te5 dam1 khaw3 niew1 phɔm6 kan1.",
+        "lik_tai": "မိူဝ်ႈၼႆႉႁဝ်းတေလမ်ၶဝ်ႈၼဵဝ်ၽွမ်ႉၵၼ်",
+        "assamese_script": "ম্যুৱা⁴ নাই⁶ হাও¹ তে⁵ দাম¹ খাও³ নিৱ¹ ফম্⁶ কান¹।",
+        "gloss": "time this 1PL IRR transplant rice sticky together RECIP",
+        "translation_en": "At this time we shall transplant the sticky rice together.",
+        "translation_as": "এতিয়া আমি মিলি বৰা ধানৰ কঠিয়া ৰুম।"
+      },
+      {
+        "turn": 4,
+        "speaker": "SPK2",
+        "khamyang_roman": "li1 yow3! haw1 khao5 te5 ao1 kwaai1 maa1 thai3 din1.",
+        "lik_tai": "လီယဝ်ႉ။ ႁဝ်းၶဝ်တေဢဝ်ၵႂၢႆးမႃးထႆလိၼ်",
+        "assamese_script": "লী¹ য়ও³! হাও¹ খাও⁵ তে⁵ আও¹ ক্বাই¹ মা¹ থাই³ দিন¹।",
+        "gloss": "good COMPL! 1PL 3PL IRR bring buffalo come plow soil",
+        "translation_en": "Very good! We will bring our water buffaloes to plow the soil.",
+        "translation_as": "বৰ ভাল! আমি ম'হবোৰ লৈ মাটি চহাবলৈ আহিম।"
+      }
+    ]
+  }
+]

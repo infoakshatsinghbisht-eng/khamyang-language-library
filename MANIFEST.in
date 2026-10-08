@@ -1,0 +1,18 @@
+include README.md
+include LICENSE
+include pyproject.toml
+include setup.py
+include CHANGELOG.md
+include CITATION.cff
+include CONTRIBUTING.md
+include DEVELOPER_GUIDE.md
+include STATISTICS.md
+include DATA_QUALITY_REPORT.md
+include BIBLIOGRAPHY.md
+
+recursive-include khamyang/data *.json
+recursive-include khamyang/web/static *
+recursive-include khamyang/web/templates *
+recursive-include data *.json *.jsonl
+recursive-include sources *.json
+recursive-include tests *.py

@@ -11,6 +11,8 @@ A comprehensive Python language library, computational linguistic toolkit, and c
 
 Developed under strict linguistic documentation standards: **Accuracy > volume**, **Authenticity > generation**, and **Provenance > convenience**.
 
+> 📖 **Developer Documentation:** For complete architecture details, API references, NLP pipeline guides, and AI dataset integration, see the [Developer Guide](DEVELOPER_GUIDE.md).
+
 ---
 
 ## Table of Contents

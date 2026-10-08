@@ -1,0 +1,39 @@
+{
+  "project_license": "MIT",
+  "project_license_file": "LICENSE",
+  "data_licensing_policy": {
+    "principle": "Preservation, Revitalization, and Open Scholarly Research for Endangered Languages",
+    "attribution_policy": "All computational representations cite primary field linguists, community elders, and academic documentation projects.",
+    "level_1_verified": "Authentic language data directly curated from published academic fieldwork (Stephen Morey, Palash Kumar Nath, G.A. Grierson) and publicly accessible endangered language archives (PARADISEC, ELAR). Free for educational, computational, and revitalization use with academic attribution.",
+    "level_2_documented_review": "Forms attested in historical dictionaries or secondary accounts that require ongoing native speaker committee verification.",
+    "level_3_derived": "AI-ready fine-tuning datasets, synthetic evaluation splits, and computational normalizations, strictly partitioned into separate files and explicitly tagged.",
+    "audio_redistribution_policy": "To respect informant rights and archive terms of deposit, original high-resolution audio files are referenced via persistent catalog URIs (PARADISEC, ELAR) and metadata rather than bundled directly. Synthesized audio profiles use the local browser Web Audio API oscillator models."
+  },
+  "referenced_licenses": [
+    {
+      "source_id": "src_morey2014",
+      "license_name": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "source_id": "src_grierson1904",
+      "license_name": "Public Domain (expired copyright)",
+      "url": "https://archive.org/details/linguisticsurvey02grie"
+    },
+    {
+      "source_id": "src_barua1964",
+      "license_name": "Public Domain (Government of Assam publication)",
+      "url": "https://archive.org/details/AhomLexicon"
+    },
+    {
+      "source_id": "src_paradisec_sdm03",
+      "license_name": "PARADISEC Conditions of Access (Academic Research & Community Benefit)",
+      "url": "https://catalog.paradisec.org.au/terms"
+    },
+    {
+      "source_id": "src_elar_nath",
+      "license_name": "ELAR Deposit Agreement (SOAS University of London)",
+      "url": "https://elar.soas.ac.uk/about/"
+    }
+  ]
+}

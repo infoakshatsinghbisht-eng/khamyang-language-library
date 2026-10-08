@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or linguistic datasets for academic, NLP, or revitalization research, please cite it as below."
+title: "Tai Khamyang Language & Cultural Corpus Library"
+version: 1.0.0
+date-released: 2026-10-08
+authors:
+  - family-names: "Chowlik"
+    given-names: "Deben"
+    affiliation: "Tai Khamyang Community Elder & Consultant"
+  - family-names: "Morey"
+    given-names: "Stephen"
+    affiliation: "Latrobe University / Research School of Pacific and Asian Studies, ANU"
+  - family-names: "Nath"
+    given-names: "Palash Kumar"
+    affiliation: "Department of Linguistics, Gauhati University"
+repository-code: "https://github.com/khamyang/khamyang"
+keywords:
+  - "Tai Khamyang"
+  - "Nora"
+  - "Southwestern Tai"
+  - "Endangered Languages"
+  - "Assam Linguistics"
+  - "Computational Linguistics"
+  - "Language Revitalization"
+  - "Lik Tai"
+license: "MIT"
+identifiers:
+  - type: url
+    value: "https://glottolog.org/resource/languoid/id/kham1282"
+    description: "Glottolog Language Identifier: kham1282"
+  - type: url
+    value: "https://iso639-3.sil.org/code/ksu"
+    description: "ISO 639-3 Code: ksu"

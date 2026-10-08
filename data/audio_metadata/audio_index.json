@@ -1,0 +1,98 @@
+[
+  {
+    "audio_id": "aud_sdm03_001",
+    "archive": "PARADISEC",
+    "collection_id": "SDM03",
+    "item_id": "SDM03-2000-01",
+    "persistent_url": "https://catalog.paradisec.org.au/repository/SDM03/2000-01",
+    "title": "Tai Khamyang Wedding Ceremony: Welcoming the Bride (Powaimukh)",
+    "recording_date": "2000-04-18",
+    "duration_minutes": 42.5,
+    "location": "Powaimukh village, Margherita, Assam",
+    "collector": "Stephen Morey",
+    "speakers": [
+      {"name": "Chaw Sa Myat Chowlik", "role": "ceremonial chanter"},
+      {"name": "Nang Mya Chowlik", "role": "elder singer"}
+    ],
+    "genres": ["wedding_ceremonial", "traditional_songs", "oral_ritual"],
+    "transcription_status": "transcribed_and_glossed",
+    "license": "PARADISEC Academic Access",
+    "notes": "Features authentic antiphonal chanting of 'Fɯn Ao Nang' and cotton-thread wrist-tying blessings."
+  },
+  {
+    "audio_id": "aud_sdm03_002",
+    "archive": "PARADISEC",
+    "collection_id": "SDM03",
+    "item_id": "SDM03-2001-04",
+    "persistent_url": "https://catalog.paradisec.org.au/repository/SDM03/2001-04",
+    "title": "Chaw Sa Myat Chowlik: Recollections of the 1942 Second World War",
+    "recording_date": "2001-11-05",
+    "duration_minutes": 28.0,
+    "location": "Powaimukh village, Margherita, Assam",
+    "collector": "Stephen Morey",
+    "speakers": [
+      {"name": "Chaw Sa Myat Chowlik", "role": "narrator"}
+    ],
+    "genres": ["oral_history", "personal_narrative"],
+    "transcription_status": "transcribed_and_glossed",
+    "license": "PARADISEC Academic Access",
+    "notes": "Historical narrative regarding military movements along the Stilwell Road near Margherita during WWII."
+  },
+  {
+    "audio_id": "aud_sdm03_003",
+    "archive": "PARADISEC",
+    "collection_id": "SDM03",
+    "item_id": "SDM03-2002-09",
+    "persistent_url": "https://catalog.paradisec.org.au/repository/SDM03/2002-09",
+    "title": "Tai Khamyang Traditional Lullabies & Cradle Songs (Fɯn Nɔn Luk)",
+    "recording_date": "2002-01-14",
+    "duration_minutes": 19.3,
+    "location": "Powaimukh village, Assam",
+    "collector": "Stephen Morey",
+    "speakers": [
+      {"name": "Elder Mothers of Powaimukh", "role": "singers"}
+    ],
+    "genres": ["lullaby", "traditional_songs"],
+    "transcription_status": "transcribed_and_glossed",
+    "license": "PARADISEC Academic Access",
+    "notes": "Soft pentatonic cradle melodies sung while swaying bamboo cradles (u1 mai6)."
+  },
+  {
+    "audio_id": "aud_sdm07_001",
+    "archive": "PARADISEC",
+    "collection_id": "SDM07",
+    "item_id": "SDM07-2007-001",
+    "persistent_url": "https://catalog.paradisec.org.au/repository/SDM07/2007-001",
+    "title": "Kham Soi Yoi Courting Song Practice with Ai Che",
+    "recording_date": "2007-02-12",
+    "duration_minutes": 35.8,
+    "location": "Powaimukh village, Assam",
+    "collector": "Stephen Morey",
+    "speakers": [
+      {"name": "Ai Che", "role": "lead singer / elder"}
+    ],
+    "genres": ["lyrical_courting", "traditional_songs", "kham_soi_yoi"],
+    "transcription_status": "transcribed_and_glossed",
+    "license": "PARADISEC Academic Access",
+    "notes": "Detailed elicitation and singing practice of the classical Kham Soi Yoi poetic meter."
+  },
+  {
+    "audio_id": "aud_elar_001",
+    "archive": "ELAR",
+    "collection_id": "MPI1029884",
+    "item_id": "ELAR-KHY-2015-01",
+    "persistent_url": "https://elar.soas.ac.uk/Collection/MPI1029884",
+    "title": "Tai Khamyang Monastic Rituals, Sangken Songs & Folk Narratives",
+    "recording_date": "2015-04-14",
+    "duration_minutes": 64.0,
+    "location": "Powaimukh Monastery (Bapuchang), Assam",
+    "collector": "Palash Kumar Nath",
+    "speakers": [
+      {"name": "Resident Abbot & Community Elders", "role": "ritual performers"}
+    ],
+    "genres": ["buddhist_chant", "festival_songs", "sangken"],
+    "transcription_status": "archived_with_metadata",
+    "license": "ELAR Deposit Terms",
+    "notes": "High-definition documentation of Sangken water consecration and community chanting."
+  }
+]

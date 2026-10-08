@@ -26,11 +26,20 @@ from khamyang.corpus.igt import InterlinearGloss
 from khamyang.corpus.songs import SongEngine
 from khamyang.grammar.kinship import KinshipEngine, CLANS
 from khamyang.scraper.downloader import BibliographyManager
+from khamyang.facade import Khamyang
+from khamyang.nlp import (
+    normalize,
+    tokenize,
+    detokenize,
+    pos_tag,
+    detect_language,
+)
 
 __all__ = [
     "__version__",
     "__author__",
     "__license__",
+    "Khamyang",
     "KhamyangDictionary",
     "get_dictionary",
     "ToneSystem",
@@ -56,5 +65,11 @@ __all__ = [
     "KinshipEngine",
     "CLANS",
     "BibliographyManager",
+    "normalize",
+    "tokenize",
+    "detokenize",
+    "pos_tag",
+    "detect_language",
 ]
+
 

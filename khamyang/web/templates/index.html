@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tai Khamyang Language Platform • ꩯမ်ထႃႆၶင်</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@400;500;600&family=Noto+Sans+Myanmar:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <!-- Header / Navigation -->
+  <header class="hero">
+    <div class="container hero-content">
+      <div class="brand">
+        <div class="brand-badge">ISO 639-3: ksu • Glottolog: kham1282</div>
+        <h1 class="brand-title">Tai Khamyang <span class="tai-script">ꩯမ်ထႃႆၶင်</span></h1>
+        <p class="brand-subtitle">
+          Revitalization, Linguistic Research, and Computational Language Platform for the Endangered Tai Language of Assam
+        </p>
+      </div>
+      <div class="stats-ribbon">
+        <div class="stat-pill">
+          <span class="stat-val" id="statWords">1,027</span>
+          <span class="stat-lbl">Lexicon Entries</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-val">6</span>
+          <span class="stat-lbl">Lexical Tones</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-val">Powaimukh</span>
+          <span class="stat-lbl">Margherita, Assam</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-val">3 Scripts</span>
+          <span class="stat-lbl">Lik Tai • অসমীয়া • IPA</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation Bar -->
+  <nav class="nav-bar">
+    <div class="container nav-container">
+      <button class="nav-tab active" data-tab="dictTab">🔍 Multi-Script Dictionary</button>
+      <button class="nav-tab" data-tab="toneTab">🎵 6-Tone Studio</button>
+      <button class="nav-tab" data-tab="transTab">🔤 Transliteration & Keyboard</button>
+      <button class="nav-tab" data-tab="phraseTab">💬 Fieldwork Phrasebook</button>
+      <button class="nav-tab" data-tab="grammarTab">⚖️ Grammar & Naming</button>
+      <button class="nav-tab" data-tab="corpusTab">📜 Folk Texts & Corpus</button>
+      <button class="nav-tab" data-tab="exportTab">📥 Export Center</button>
+    </div>
+  </nav>
+
+  <!-- Main Container -->
+  <main class="container main-content">
+
+    <!-- TAB 1: DICTIONARY -->
+    <section id="dictTab" class="tab-pane active">
+      <div class="panel-header">
+        <h2>Tai Khamyang Lexicon Explorer</h2>
+        <p>Explore over 1,000 authentic words with Lik Tai (Shan/Extended-A), Assamese script, and IPA.</p>
+      </div>
+
+      <div class="filter-bar">
+        <div class="search-input-group">
+          <input type="text" id="dictSearchInput" placeholder="Search in English, Roman (e.g. nam6), Lik Tai (ၼမ်ႊ), or Assamese (নাম)...">
+          <button id="dictSearchBtn" class="btn btn-primary">Search</button>
+          <button id="dictResetBtn" class="btn btn-secondary">Reset</button>
+        </div>
+
+        <div class="dropdown-filters">
+          <select id="categoryFilter" class="select-input">
+            <option value="">All Categories (45+)</option>
+          </select>
+
+          <select id="toneFilter" class="select-input">
+            <option value="">All Tones (1 to 6)</option>
+            <option value="1">Tone 1 (Mid Level 33)</option>
+            <option value="2">Tone 2 (High Falling 54)</option>
+            <option value="3">Tone 3 (Low Creaky 21)</option>
+            <option value="4">Tone 4 (High Falling Glottal 54ʔ)</option>
+            <option value="5">Tone 5 (Low Falling 31)</option>
+            <option value="6">Tone 6 (Level Rising 35)</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="wordsContainer" class="words-grid">
+        <!-- Cards dynamically injected -->
+      </div>
+      <div id="dictLoading" class="loader-container" style="display: none;">
+        <div class="spinner"></div> Loading lexical entries...
+      </div>
+    </section>
+
+    <!-- TAB 2: 6-TONE STUDIO -->
+    <section id="toneTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Interactive 6-Tone Synthesizer Studio</h2>
+        <p>
+          Tai Khamyang features six distinct phonemic tones documented by Stephen Morey.
+          Use the Web Audio synthesizer below to hear and visualize the exact pitch contours (Hz).
+        </p>
+      </div>
+
+      <div class="tones-grid" id="tonesContainer">
+        <!-- Dynamic Tone Cards -->
+      </div>
+
+      <div class="gedney-box-card">
+        <h3>Gedney Tone Box Distribution (Proto-Tai to Khamyang)</h3>
+        <p class="card-desc">
+          Mapping of Proto-Tai tone classes (A, B, C, D) and initial consonant voicing classes (1-4) to modern Khamyang tones:
+        </p>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Proto-Tai Class</th>
+                <th>*A (Open)</th>
+                <th>*B (Open)</th>
+                <th>*C (Open)</th>
+                <th>*DL (Dead Long)</th>
+                <th>*DS (Dead Short)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Series 1</strong> (Voiceless friction/aspirates)</td>
+                <td><span class="tone-badge t1">Tone 1 [33]</span></td>
+                <td><span class="tone-badge t1">Tone 1 [33]</span></td>
+                <td><span class="tone-badge t4">Tone 4 [54ʔ]</span></td>
+                <td><span class="tone-badge t4">Tone 4 [54ʔ]</span></td>
+                <td><span class="tone-badge t4">Tone 4 [54ʔ]</span></td>
+              </tr>
+              <tr>
+                <td><strong>Series 2</strong> (Voiceless unaspirated stops)</td>
+                <td><span class="tone-badge t6">Tone 6 [35]</span></td>
+                <td><span class="tone-badge t2">Tone 2 [54]</span></td>
+                <td><span class="tone-badge t2">Tone 2 [54]</span></td>
+                <td><span class="tone-badge t2">Tone 2 [54]</span></td>
+                <td><span class="tone-badge t2">Tone 2 [54]</span></td>
+              </tr>
+              <tr>
+                <td><strong>Series 3</strong> (Preglottalized *ʔb, *ʔd)</td>
+                <td><span class="tone-badge t1">Tone 1 [33]</span></td>
+                <td><span class="tone-badge t5">Tone 5 [31]</span></td>
+                <td><span class="tone-badge t5">Tone 5 [31]</span></td>
+                <td><span class="tone-badge t5">Tone 5 [31]</span></td>
+                <td><span class="tone-badge t5">Tone 5 [31]</span></td>
+              </tr>
+              <tr>
+                <td><strong>Series 4</strong> (Voiced obstruents/sonorants)</td>
+                <td><span class="tone-badge t3">Tone 3 [21̰]</span></td>
+                <td><span class="tone-badge t3">Tone 3 [21̰]</span></td>
+                <td><span class="tone-badge t4">Tone 4 [54ʔ]</span></td>
+                <td><span class="tone-badge t4">Tone 4 [54ʔ]</span></td>
+                <td><span class="tone-badge t4">Tone 4 [54ʔ]</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: TRANSLITERATION & KEYBOARD -->
+    <section id="transTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Multi-Script Transliteration & Virtual Lik Tai Keyboard</h2>
+        <p>Convert freely between Romanization (with tone digits 1-6), Lik Tai script, Assamese script, and IPA.</p>
+      </div>
+
+      <div class="converter-box">
+        <div class="trans-controls">
+          <label>Source Script:
+            <select id="transSource" class="select-input">
+              <option value="roman">Romanized (e.g. nam6, khaw3, maan3)</option>
+              <option value="liktai">Lik Tai (Shan/Extended-A script)</option>
+              <option value="assamese">Assamese Script (অসমীয়া লিপি)</option>
+            </select>
+          </label>
+          <label>Target Script:
+            <select id="transTarget" class="select-input">
+              <option value="liktai">Lik Tai (Shan/Extended-A)</option>
+              <option value="assamese">Assamese Script (অসমীয়া লিপি)</option>
+              <option value="ipa">IPA (Phonetic Alphabet)</option>
+              <option value="roman">Romanized</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="converter-areas">
+          <div class="area-col">
+            <label>Input Text:</label>
+            <textarea id="transInput" placeholder="Type Romanized text (e.g., 'kaw1 kin1 nam6 saa1 di1 laai1')..."></textarea>
+          </div>
+          <div class="area-col">
+            <label>Converted Output:</label>
+            <textarea id="transOutput" readonly placeholder="Output will appear here..."></textarea>
+          </div>
+        </div>
+
+        <button id="btnTransliterate" class="btn btn-primary btn-large">Convert Now</button>
+
+        <!-- Virtual Keyboard -->
+        <div class="virtual-keyboard">
+          <h3>Virtual Lik Tai (Tai Phake / Shan) Keyboard</h3>
+          <p class="kb-hint">Click any letter below to insert into the input box:</p>
+          <div class="kb-keys" id="virtualKeys">
+            <!-- Consonants -->
+            <button class="key-btn" data-char="ၵ">ၵ (k)</button>
+            <button class="key-btn" data-char="ၶ">ၶ (kh)</button>
+            <button class="key-btn" data-char="င">င (ng)</button>
+            <button class="key-btn" data-char="ၸ">ၸ (ts)</button>
+            <button class="key-btn" data-char="သ">သ (ch)</button>
+            <button class="key-btn" data-char="ꩢ">ꩢ (s)</button>
+            <button class="key-btn" data-char="ၺ">ၺ (ny)</button>
+            <button class="key-btn" data-char="တ">တ (t)</button>
+            <button class="key-btn" data-char="ထ">ထ (th)</button>
+            <button class="key-btn" data-char="ၼ">ၼ (n)</button>
+            <button class="key-btn" data-char="ပ">ပ (p)</button>
+            <button class="key-btn" data-char="ၽ">ၽ (ph)</button>
+            <button class="key-btn" data-char="ꩯ">ꩯ (f)</button>
+            <button class="key-btn" data-char="မ">မ (m)</button>
+            <button class="key-btn" data-char="ယ">ယ (y)</button>
+            <button class="key-btn" data-char="ဝ">ဝ (w)</button>
+            <button class="key-btn" data-char="လ">လ (l)</button>
+            <button class="key-btn" data-char="ႁ">ႁ (h)</button>
+            <button class="key-btn" data-char="ဢ">ဢ (?)</button>
+            <!-- Vowels & Diacritics -->
+            <button class="key-btn key-vowel" data-char="ႃ">ႃ (-aa)</button>
+            <button class="key-btn key-vowel" data-char="ိ">ိ (-i)</button>
+            <button class="key-btn key-vowel" data-char="ေ">ေ (e-)</button>
+            <button class="key-btn key-vowel" data-char="ႄ">ႄ (ɛ-)</button>
+            <button class="key-btn key-vowel" data-char="ု">ု (-u)</button>
+            <button class="key-btn key-vowel" data-char="ူ">ူ (-o)</button>
+            <button class="key-btn key-vowel" data-char="ို">ို (-ɯ)</button>
+            <button class="key-btn key-vowel" data-char="ႆ">ႆ (-ai)</button>
+            <button class="key-btn key-vowel" data-char="်">် (asat)</button>
+            <!-- Tone signs -->
+            <button class="key-btn key-tone" data-char="ႇ">ႇ (t2)</button>
+            <button class="key-btn key-tone" data-char="ႈ">ႈ (t3)</button>
+            <button class="key-btn key-tone" data-char="း">း (t4)</button>
+            <button class="key-btn key-tone" data-char="ႉ">ႉ (t5)</button>
+            <button class="key-btn key-tone" data-char="ႊ">ႊ (t6)</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 4: PHRASEBOOK -->
+    <section id="phraseTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Fieldwork Elicitation & Conversational Phrasebook</h2>
+        <p>Essential expressions for linguists conducting field work in Powaimukh village, and daily greetings.</p>
+      </div>
+
+      <div class="phrase-filter-bar">
+        <select id="phraseCatFilter" class="select-input">
+          <option value="">All Categories</option>
+          <option value="fieldwork">Fieldwork & Consent</option>
+          <option value="greeting">Daily Greetings</option>
+          <option value="hospitality">Hospitality & Visiting</option>
+          <option value="identity">Powaimukh & Tai Identity</option>
+          <option value="culture">Buddhist Culture & Festivals</option>
+          <option value="revitalization">Language Revitalization</option>
+        </select>
+      </div>
+
+      <div class="phrases-grid" id="phrasesContainer">
+        <!-- Injected dynamically -->
+      </div>
+    </section>
+
+    <!-- TAB 5: GRAMMAR & NAMING -->
+    <section id="grammarTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Grammar, Classifiers & Traditional Naming</h2>
+        <p>Explore Tai classifier agreement, birth-order naming conventions, and number systems.</p>
+      </div>
+
+      <div class="grammar-tools-grid">
+        <!-- Tool 1: Classifier Agreement -->
+        <div class="tool-card">
+          <h3>Noun Classifier Agreement</h3>
+          <p class="tool-desc">
+            Tai syntax requires: <code>Noun + Numeral + Classifier</code> (e.g. <i>maa1 sɔŋ1 to1</i> = 2 dogs).
+          </p>
+          <div class="tool-inputs">
+            <label>Noun:
+              <select id="clfNounSelect" class="select-input">
+                <option value="maa1">maa1 (dog - animal)</option>
+                <option value="nok4">nok4 (bird - creature)</option>
+                <option value="paa1">paa1 (fish - aquatic)</option>
+                <option value="khon1">khon1 (person - human)</option>
+                <option value="luk4">luk4 (child - human)</option>
+                <option value="hɯn1">hɯn1 (house - building)</option>
+                <option value="ton3 mai6">ton3 mai6 (tree - plant)</option>
+                <option value="lik4">lik4 (book / manuscript)</option>
+                <option value="mit4">mit4 (knife - blade)</option>
+                <option value="phaa3 sin3">phaa3 sin3 (sarong - cloth)</option>
+                <option value="maak4 mai6">maak4 mai6 (fruit - fruit)</option>
+                <option value="nam6 saa1">nam6 saa1 (tea - cup)</option>
+              </select>
+            </label>
+            <label>Count:
+              <input type="number" id="clfCountInput" value="2" min="1" max="100" class="select-input">
+            </label>
+            <button id="btnQuantify" class="btn btn-primary">Construct Phrase</button>
+          </div>
+          <div id="clfResultBox" class="result-box">
+            <div class="res-roman" id="clfResRoman">maa1 sɔŋ1 to1</div>
+            <div class="res-scripts" id="clfResScripts">Lik Tai: <b>မႃ တူဝ်</b> • Assamese: <b>মা¹ চং¹ টো¹</b></div>
+            <div class="res-meaning" id="clfResMeaning">Classifier: <code>to1</code> (Living animals, quadrupeds, birds)</div>
+          </div>
+        </div>
+
+        <!-- Tool 2: Birth Order Naming -->
+        <div class="tool-card">
+          <h3>Traditional Birth-Order Naming</h3>
+          <p class="tool-desc">
+            Khamyang children receive traditional birth-order titles for 1st–8th born sons & daughters.
+          </p>
+          <div class="tool-inputs">
+            <label>Gender:
+              <select id="nameGender" class="select-input">
+                <option value="m">Son (Male)</option>
+                <option value="f">Daughter (Female)</option>
+              </select>
+            </label>
+            <label>Birth Order:
+              <select id="nameOrder" class="select-input">
+                <option value="1">1st Born (Eldest)</option>
+                <option value="2">2nd Born</option>
+                <option value="3">3rd Born</option>
+                <option value="4">4th Born</option>
+                <option value="5">5th Born</option>
+                <option value="6">6th Born</option>
+                <option value="7">7th Born</option>
+                <option value="8">8th Born (Youngest)</option>
+              </select>
+            </label>
+            <label>Clan Surname:
+              <select id="nameClan" class="select-input">
+                <option value="Thomung">Thomung (Royal/Ministerial clan)</option>
+                <option value="Chowlik">Chowlik (Scribal/Elder clan)</option>
+                <option value="Chaohai">Chaohai (Village leaders)</option>
+                <option value="Pangyok">Pangyok (Patkai pioneers)</option>
+                <option value="Wailong">Wailong (Elder council)</option>
+              </select>
+            </label>
+            <label>Personal Name (Optional):
+              <input type="text" id="namePersonal" placeholder="e.g. Deben, Sa Myat..." class="select-input">
+            </label>
+            <button id="btnGenerateName" class="btn btn-primary">Generate Name</button>
+          </div>
+          <div id="nameResultBox" class="result-box">
+            <div class="res-roman" id="nameResFull">Chaw Aai Thomung</div>
+            <div class="res-scripts" id="nameResSignificance">First-born son (eldest son)</div>
+          </div>
+        </div>
+
+        <!-- Tool 3: Numeral Generator -->
+        <div class="tool-card">
+          <h3>Tai Numeral Generator (1 – 1,000,000)</h3>
+          <p class="tool-desc">Convert any integer into authentic Tai Khamyang number words.</p>
+          <div class="tool-inputs">
+            <input type="number" id="numInput" value="24" min="0" max="1000000" class="select-input">
+            <button id="btnConvertNum" class="btn btn-primary">Translate Number</button>
+          </div>
+          <div id="numResultBox" class="result-box">
+            <div class="res-roman" id="numResRoman">saaw1 si5</div>
+            <div class="res-scripts" id="numResScripts">Lik Tai: <b>သၢဝ်သီႇ</b> • Assamese: <b>চাও¹ চি⁵</b></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 6: CORPUS & FOLK TEXTS -->
+    <section id="corpusTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Annotated Corpus & Oral Narratives</h2>
+        <p>Interlinear Glossed Texts (IGT) preserving oral history and folk traditions of Powaimukh elders.</p>
+      </div>
+
+      <div id="corpusContainer" class="corpus-grid">
+        <!-- Injected dynamically -->
+      </div>
+    </section>
+
+    <!-- TAB 7: EXPORT CENTER -->
+    <section id="exportTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Export Center for Researchers & Developers</h2>
+        <p>Download the Tai Khamyang linguistic dataset in standard computational formats.</p>
+      </div>
+
+      <div class="export-cards-grid">
+        <div class="export-card">
+          <div class="card-icon">📇</div>
+          <h3>Anki Flashcard Deck</h3>
+          <p>Ready-to-import <code>.tsv</code> file with Lik Tai script, tone contours, definitions, and IPA for memory learning.</p>
+          <a href="/api/export/anki" class="btn btn-primary" download>Download Anki TSV</a>
+        </div>
+
+        <div class="export-card">
+          <div class="card-icon">📊</div>
+          <h3>Complete CSV Dataset</h3>
+          <p>Tabular dataset with all 1,000+ words, POS, Gedney categories, tone contours, and Assamese meanings for Pandas / R analysis.</p>
+          <a href="/api/export/csv" class="btn btn-primary" download>Download Lexicon CSV</a>
+        </div>
+
+        <div class="export-card">
+          <div class="card-icon">⚙️</div>
+          <h3>REST API Access</h3>
+          <p>Developers can fetch live dictionary, transliteration, and tone profiles directly via JSON endpoints:</p>
+          <ul class="api-links">
+            <li><code>/api/words?q=water</code></li>
+            <li><code>/api/transliterate?text=nam6&target=liktai</code></li>
+            <li><code>/api/tones</code></li>
+            <li><code>/api/phrases</code></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-content">
+      <p>
+        Tai Khamyang Language Revitalization Initiative • Dedicated to the speakers of Powaimukh, Margherita, Assam.
+      </p>
+      <p class="citations">
+        Academic References: Stephen Morey (2005, 2008) "The Tai Languages of Assam"; Palash Kumar Nath (ELDP); CFEL Tezpur University.
+      </p>
+    </div>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,397 @@
+"""
+Tai Khamyang Fieldwork & Conversational Phrasebook
+==================================================
+Essential communication tools for researchers, field linguists,
+and community language learners in Powaimukh village, Assam.
+"""
+
+import json
+import os
+from typing import Dict, List, Optional
+from khamyang.core.models import Phrase
+from khamyang.transliteration.converter import (
+    roman_to_liktai,
+    roman_to_assamese,
+    roman_to_ipa,
+)
+
+DATA_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "phrases.json")
+
+# Curated authentic phrase collection
+PHRASES_DATA: List[Dict[str, str]] = [
+    # --- FIELDWORK ELICITATION & RESEARCH ---
+    {
+        "id": "phr_001",
+        "roman": "wai1 saa1 chaw1 thao3",
+        "english": "Respectful greetings, revered elder.",
+        "assamese_trans": "প্ৰণাম, শ্ৰদ্ধাৰ বয়োজ্যেষ্ঠ ককা/আইতা।",
+        "category": "fieldwork",
+        "literal": "bow holy elder old",
+        "context": "Initial respectful greeting when meeting an elder language consultant in Powaimukh.",
+    },
+    {
+        "id": "phr_002",
+        "roman": "tsɯ5 kaw1 pen1 ...",
+        "english": "My name is ...",
+        "assamese_trans": "মোৰ নাম ...",
+        "category": "fieldwork",
+        "literal": "name I be ...",
+        "context": "Introducing oneself to community members.",
+    },
+    {
+        "id": "phr_003",
+        "roman": "kaw1 aw1 siang1 maɯ2 dai3 ka1?",
+        "english": "May I record your voice (audio)?",
+        "assamese_trans": "মই আপোনাৰ মাতটো বাণীবদ্ধ (ৰেকৰ্ড) কৰিব পাৰোঁনে?",
+        "category": "fieldwork",
+        "literal": "I take voice you can [Q]?",
+        "context": "Seeking formal oral consent before making linguistic recordings.",
+    },
+    {
+        "id": "phr_004",
+        "roman": "kham1 thaai1 khamyang1 waa5 tsang1 hɯ1?",
+        "english": "How do you say it in the Tai Khamyang language?",
+        "assamese_trans": "টাই খাময়াং ভাষাত ইয়াক কেনেকৈ কয়?",
+        "category": "fieldwork",
+        "literal": "word Tai Khamyang say how?",
+        "context": "Core elicitation prompt for eliciting target vocabulary.",
+    },
+    {
+        "id": "phr_005",
+        "roman": "an1 nai6 hɔng3 tsang1 hɯ1?",
+        "english": "What is this called?",
+        "assamese_trans": "ইয়াক কি বুলি মাতে?",
+        "category": "fieldwork",
+        "literal": "item this call how?",
+        "context": "Pointing to an object (plant, implement, food) during fieldwork.",
+    },
+    {
+        "id": "phr_006",
+        "roman": "waa5 tsaa3 tsaa3 taaw1",
+        "english": "Please speak slowly.",
+        "assamese_trans": "অনুগ্ৰহ কৰি লাহে লাহে কওক।",
+        "category": "fieldwork",
+        "literal": "speak slow slow please",
+        "context": "Requesting consultant to moderate speech tempo for phonetic transcription.",
+    },
+    {
+        "id": "phr_007",
+        "roman": "waa5 thau3 nɯŋ5 taaw1",
+        "english": "Please say it once again.",
+        "assamese_trans": "অনুগ্ৰহ কৰি আৰু এবাৰ কওক।",
+        "category": "fieldwork",
+        "literal": "say again one please",
+        "context": "Requesting repetition during audio recording or acoustic tone verification.",
+    },
+    {
+        "id": "phr_008",
+        "roman": "kaw1 am1 hu3",
+        "english": "I do not understand / I do not know.",
+        "assamese_trans": "মই বুজি পোৱা নাই / মই নাজানো।",
+        "category": "fieldwork",
+        "literal": "I not know",
+        "context": "Communicating comprehension difficulty.",
+    },
+    {
+        "id": "phr_009",
+        "roman": "kham1 nai6 mi1 paaw5 tsang1 hɯ1?",
+        "english": "What is the meaning of this word?",
+        "assamese_trans": "এই শব্দটোৰ অৰ্থ কি?",
+        "category": "fieldwork",
+        "literal": "word this have meaning how?",
+        "context": "Linguistic semantic elicitation.",
+    },
+    {
+        "id": "phr_010",
+        "roman": "di1 tsaw3 laai1 laai1",
+        "english": "Thank you very much (from a good heart).",
+        "assamese_trans": "বহুত বহুত ধন্যবাদ।",
+        "category": "fieldwork",
+        "literal": "good heart many many",
+        "context": "Expressing deep gratitude to language consultants.",
+    },
+
+    # --- DAILY GREETINGS & ETIQUETTE ---
+    {
+        "id": "phr_011",
+        "roman": "mai5 sung1",
+        "english": "Prosperous greetings / Hello!",
+        "assamese_trans": "জয়জয়কাৰ হওক / নমস্কাৰ!",
+        "category": "greeting",
+        "literal": "new elevated/prosperous",
+        "context": "Standard Pan-Tai friendly greeting across communities.",
+    },
+    {
+        "id": "phr_012",
+        "roman": "maɯ2 yu5 di1 ka1?",
+        "english": "Are you doing well / How are you?",
+        "assamese_trans": "আপুনি ভালে আছেনে?",
+        "category": "greeting",
+        "literal": "you stay good [Q]?",
+        "context": "Inquiring about well-being.",
+    },
+    {
+        "id": "phr_013",
+        "roman": "kaw1 yu5 di1",
+        "english": "I am doing well.",
+        "assamese_trans": "মই ভালে আছোঁ।",
+        "category": "greeting",
+        "literal": "I stay good",
+        "context": "Response to 'maɯ2 yu5 di1 ka1?'.",
+    },
+    {
+        "id": "phr_014",
+        "roman": "maɯ2 kin1 khaw3 yow3 ka1?",
+        "english": "Have you eaten rice yet?",
+        "assamese_trans": "ভাত খালা নে / খালে নে?",
+        "category": "greeting",
+        "literal": "you eat rice already [Q]?",
+        "context": "Traditional Southeast Asian & Tai social greeting showing care.",
+    },
+    {
+        "id": "phr_015",
+        "roman": "kin1 khaw3 yow3",
+        "english": "I have already eaten.",
+        "assamese_trans": "খালোঁ / ভাত খাই উঠিছোঁ।",
+        "category": "greeting",
+        "literal": "eat rice already",
+        "context": "Affirmative answer to meal greeting.",
+    },
+    {
+        "id": "phr_016",
+        "roman": "am1 pai5 kin1",
+        "english": "Not eaten yet.",
+        "assamese_trans": "খোৱা নাই এতিয়াও।",
+        "category": "greeting",
+        "literal": "not yet eat",
+        "context": "Negative response to meal greeting.",
+    },
+    {
+        "id": "phr_017",
+        "roman": "maɯ2 pai1 lau1?",
+        "english": "Where are you going?",
+        "assamese_trans": "ক'লৈ যোৱা / ক'লৈ যায়?",
+        "category": "daily",
+        "literal": "you go where?",
+        "context": "Casual street greeting when passing someone on a village path.",
+    },
+    {
+        "id": "phr_018",
+        "roman": "kaw1 pai1 maan3",
+        "english": "I am going to the village.",
+        "assamese_trans": "মই গাঁৱলৈ যাওঁ।",
+        "category": "daily",
+        "literal": "I go village",
+        "context": "Stating destination.",
+    },
+    {
+        "id": "phr_019",
+        "roman": "kaw1 pai1 naa1",
+        "english": "I am going to the paddy field.",
+        "assamese_trans": "মই পথাৰলৈ যাওঁ।",
+        "category": "daily",
+        "literal": "I go paddy-field",
+        "context": "Everyday response during farming hours.",
+    },
+    {
+        "id": "phr_020",
+        "roman": "khao3 maa1 hɯn1 taaw1",
+        "english": "Please come inside the house.",
+        "assamese_trans": "অনুগ্ৰহ কৰি ঘৰৰ ভিতৰলৈ আহক।",
+        "category": "hospitality",
+        "literal": "enter come house please",
+        "context": "Inviting a guest into the stilted house.",
+    },
+    {
+        "id": "phr_021",
+        "roman": "nang5 taaw1",
+        "english": "Please sit down.",
+        "assamese_trans": "অনুগ্ৰহ কৰি বহক।",
+        "category": "hospitality",
+        "literal": "sit please",
+        "context": "Offering a seat on a woven mat (phɯk4).",
+    },
+    {
+        "id": "phr_022",
+        "roman": "kin1 nam6 saa1 taaw1",
+        "english": "Please have some tea.",
+        "assamese_trans": "অনুগ্ৰহ কৰি চাহ খাওক।",
+        "category": "hospitality",
+        "literal": "drink water tea please",
+        "context": "Traditional Assam Tai hospitality.",
+    },
+    {
+        "id": "phr_023",
+        "roman": "an1 nai6 waan1 laai1",
+        "english": "This is very delicious / sweet.",
+        "assamese_trans": "এইটো বৰ সুস্বাদু / মিঠা।",
+        "category": "food",
+        "literal": "item this sweet very",
+        "context": "Complimenting hosts on food.",
+    },
+    {
+        "id": "phr_024",
+        "roman": "yu5 di1 ngam1",
+        "english": "Stay well and fine (Goodbye, said by departing person).",
+        "assamese_trans": "ভালে থাকক / কুশলে থাকক।",
+        "category": "farewell",
+        "literal": "stay good beautiful",
+        "context": "Farewell wish to the person staying behind.",
+    },
+    {
+        "id": "phr_025",
+        "roman": "pai1 di1 ngam1",
+        "english": "Go well and safe (Goodbye, said by person staying).",
+        "assamese_trans": "ভালে ভালে যাওক / শুভ যাত্ৰা।",
+        "category": "farewell",
+        "literal": "go good beautiful",
+        "context": "Farewell wish to the departing person.",
+    },
+
+    # --- POWAIMUKH & IDENTITY ---
+    {
+        "id": "phr_026",
+        "roman": "kaw1 yu5 maan3 paa1 waai6",
+        "english": "I live in Powaimukh village.",
+        "assamese_trans": "মই পোৱাইমুখ গাঁৱত থাকোঁ।",
+        "category": "identity",
+        "literal": "I stay village river-mouth rattan",
+        "context": "Explaining residence in Powaimukh.",
+    },
+    {
+        "id": "phr_027",
+        "roman": "haw1 pen1 khon1 tai1 khamyang1",
+        "english": "We are the Tai Khamyang people.",
+        "assamese_trans": "আমি টাই খাময়াং মানুহ।",
+        "category": "identity",
+        "literal": "we be person Tai Khamyang",
+        "context": "Community identity declaration.",
+    },
+    {
+        "id": "phr_028",
+        "roman": "kham1 pen1 kham1, yang1 pen1 mi1",
+        "english": "'Kham' means gold, and 'yang' means to have.",
+        "assamese_trans": "'খাম' মানে সোণ আৰু 'য়াং' মানে থকা।",
+        "category": "identity",
+        "literal": "kham be gold, yang be have",
+        "context": "Traditional etymological explanation of the ethnonym 'Khamyang'.",
+    },
+    {
+        "id": "phr_029",
+        "roman": "pu5 yaa3 haw1 maa1 thaang1 doi1 pat4 kai1",
+        "english": "Our ancestors migrated through the Patkai mountains.",
+        "assamese_trans": "আমাৰ পূৰ্বপুৰুষসকল পাতকাই পাহাৰৰ বাটেৰে আহিছিল।",
+        "category": "history",
+        "literal": "grandparents we come way mountain Patkai",
+        "context": "Oral historical recollection of migration from Mung Mau to Assam.",
+    },
+    {
+        "id": "phr_030",
+        "roman": "wat4 yu5 ti6 lau1?",
+        "english": "Where is the Buddhist monastery?",
+        "assamese_trans": "বৌদ্ধ বিহাৰখন ক'ত আছে?",
+        "category": "culture",
+        "literal": "monastery stay place where?",
+        "context": "Asking directions to Powaimukh monastery.",
+    },
+    {
+        "id": "phr_031",
+        "roman": "wan1 nai6 mi1 poi1 sangken1",
+        "english": "Today is the Sangken water festival celebration.",
+        "assamese_trans": "আজি চাংকেন উৎসৱৰ পৱিত্ৰ দিন।",
+        "category": "culture",
+        "literal": "day this have festival Sangken",
+        "context": "Announcing the annual spring New Year water festival.",
+    },
+    {
+        "id": "phr_032",
+        "roman": "haw1 haak4 kham1 thaai1 haw1",
+        "english": "We love and cherish our Tai language.",
+        "assamese_trans": "আমি আমাৰ টাই ভাষাক মৰম কৰোঁ / শ্ৰদ্ধা কৰোঁ।",
+        "category": "revitalization",
+        "literal": "we love word Tai we",
+        "context": "Language revitalization motto.",
+    },
+    {
+        "id": "phr_033",
+        "roman": "son1 lik4 thaai1 hɯ3 luk4 noi3",
+        "english": "Teach Tai script and reading to the young children.",
+        "assamese_trans": "কণ-কণ ল'ৰা-ছোৱালীক টাই আখৰ শিকাওক।",
+        "category": "revitalization",
+        "literal": "teach script Tai to child small",
+        "context": "Revitalization instruction for community workshops.",
+    },
+    {
+        "id": "phr_034",
+        "roman": "kham1 nai6 am1 taai1",
+        "english": "This language shall not die.",
+        "assamese_trans": "এই ভাষা কোনোদিনে মৰি নাযায়।",
+        "category": "revitalization",
+        "literal": "word this not die",
+        "context": "Revitalization rallying cry.",
+    },
+]
+
+
+class KhamyangPhrasebook:
+    """Manages conversational phrases and fieldwork elicitation guides."""
+
+    def __init__(self, data_path: Optional[str] = None):
+        self.data_path = data_path or DATA_FILE
+        self._phrases: List[Phrase] = []
+        self._by_category: Dict[str, List[Phrase]] = {}
+        self._load()
+
+    def _load(self):
+        # Load from memory or file
+        raw = []
+        if os.path.exists(self.data_path):
+            with open(self.data_path, "r", encoding="utf-8") as f:
+                raw = json.load(f)
+        else:
+            raw = PHRASES_DATA
+
+        for item in raw:
+            p_dict = dict(item)
+            if not p_dict.get("lik_tai"):
+                p_dict["lik_tai"] = roman_to_liktai(p_dict["roman"])
+            if not p_dict.get("assamese"):
+                p_dict["assamese"] = roman_to_assamese(p_dict["roman"])
+            if not p_dict.get("ipa"):
+                p_dict["ipa"] = roman_to_ipa(p_dict["roman"])
+
+            p = Phrase.from_dict(p_dict)
+            self._phrases.append(p)
+            self._by_category.setdefault(p.category.lower(), []).append(p)
+
+    def get_all(self) -> List[Phrase]:
+        return list(self._phrases)
+
+    def get_by_category(self, category: str) -> List[Phrase]:
+        return self._by_category.get(category.lower(), [])
+
+    def list_categories(self) -> List[str]:
+        return sorted(list(self._by_category.keys()))
+
+    def search(self, query: str) -> List[Phrase]:
+        q = query.strip().lower()
+        res = []
+        for p in self._phrases:
+            if q in p.roman.lower() or q in p.english.lower() or q in p.assamese_trans:
+                res.append(p)
+        return res
+
+    def save(self, path: Optional[str] = None):
+        out_p = path or self.data_path
+        with open(out_p, "w", encoding="utf-8") as f:
+            json.dump([p.to_dict() for p in self._phrases], f, ensure_ascii=False, indent=2)
+
+
+_GLOBAL_PHRASEBOOK: Optional[KhamyangPhrasebook] = None
+
+
+def get_phrasebook() -> KhamyangPhrasebook:
+    global _GLOBAL_PHRASEBOOK
+    if _GLOBAL_PHRASEBOOK is None:
+        _GLOBAL_PHRASEBOOK = KhamyangPhrasebook()
+    return _GLOBAL_PHRASEBOOK

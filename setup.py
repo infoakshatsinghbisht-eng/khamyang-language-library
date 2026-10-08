@@ -7,12 +7,22 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="khamyang",
     version="1.0.0",
-    author="Khamyang Language Revitalization Initiative",
-    author_email="info@khamyang-language.org",
+    author="Akshat Singh Bisht",
+    author_email="infoakshatsinghbisht@gmail.com",
+    maintainer="Akshat Singh Bisht",
+    maintainer_email="infoakshatsinghbisht@gmail.com",
     description="A Python language library and revitalization toolkit for Tai Khamyang (ksu)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/khamyang-revitalization/khamyang",
+    url="https://github.com/infoakshatsinghbisht-eng/khamyang",
+    project_urls={
+        "Homepage": "https://akshatsinghbisht.com/",
+        "GitHub": "https://github.com/infoakshatsinghbisht-eng/khamyang",
+        "LinkedIn": "https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/",
+        "Amazon Author": "https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28",
+        "ResearchGate": "https://www.researchgate.net/profile/Akshat-Bisht-8",
+        "Bug Tracker": "https://github.com/infoakshatsinghbisht-eng/khamyang/issues",
+    },
     packages=find_packages(),
     package_data={
         "khamyang": [

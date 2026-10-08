@@ -3,6 +3,8 @@
 [![PyPI version](https://img.shields.io/badge/pypi-v1.0.0-blue.svg)](https://pypi.org/project/khamyang/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Amazon Author](https://img.shields.io/badge/Amazon-Author_Page-FF9900.svg)](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
+[![Website](https://img.shields.io/badge/Website-akshatsinghbisht.com-purple.svg)](https://akshatsinghbisht.com/)
 [![Endangered Status: Critical](https://img.shields.io/badge/UNESCO-Critically%20Endangered-red.svg)](https://en.wikipedia.org/wiki/Khamyang_language)
 [![ISO 639-3: ksu](https://img.shields.io/badge/ISO%20639--3-ksu-orange.svg)](https://iso639-3.sil.org/code/ksu)
 [![Glottolog: kham1282](https://img.shields.io/badge/Glottolog-kham1282-lightgrey.svg)](https://glottolog.org/resource/languoid/id/kham1282)
@@ -321,6 +323,20 @@ Primary references:
 - **Nath, Palash Kumar (2015–2026).** *Documentation and Digitization of Tai Khamyang Oral Literature and Manuscripts.* ELAR & ABILAC.
 - **Grierson, George A. (1904).** *Linguistic Survey of India*, Vol. II: *Mon-Khmer and Tai Families*. Calcutta: Office of the Superintendent of Government Printing.
 - **Buragohain, Yehom (1998).** *The Tai-Khamyangs of Assam: A Study in Social and Cultural Continuity and Change.* Dibrugarh University.
+
+---
+
+## 👨‍💻 Author & Creator Profile
+
+* **Creator & Author**: **Akshat Singh Bisht**
+* **Official Website**: [https://akshatsinghbisht.com/](https://akshatsinghbisht.com/)
+* **Email**: [infoakshatsinghbisht@gmail.com](mailto:infoakshatsinghbisht@gmail.com)
+* **LinkedIn**: [Akshat Singh Bisht on LinkedIn](https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/)
+* **Amazon Author Profile**: [Akshat Singh Bisht on Amazon](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
+* **ResearchGate**: [Akshat Bisht on ResearchGate](https://www.researchgate.net/profile/Akshat-Bisht-8)
+* **GitHub**: [@infoakshatsinghbisht-eng](https://github.com/infoakshatsinghbisht-eng)
+* **Repository**: [https://github.com/infoakshatsinghbisht-eng/khamyang](https://github.com/infoakshatsinghbisht-eng/khamyang)
+* **PyPI Package**: [https://pypi.org/project/khamyang/](https://pypi.org/project/khamyang/)
 
 ---
 

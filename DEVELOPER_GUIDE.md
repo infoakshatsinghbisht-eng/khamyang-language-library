@@ -482,4 +482,18 @@ with open("data/ai/instruction_dataset.jsonl", "r", encoding="utf-8") as f:
 
 ---
 
+## 👨‍💻 Author & Creator Profile
+
+* **Creator & Author**: **Akshat Singh Bisht**
+* **Official Website**: [https://akshatsinghbisht.com/](https://akshatsinghbisht.com/)
+* **Email**: [infoakshatsinghbisht@gmail.com](mailto:infoakshatsinghbisht@gmail.com)
+* **LinkedIn**: [Akshat Singh Bisht on LinkedIn](https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/)
+* **Amazon Author Profile**: [Akshat Singh Bisht on Amazon](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
+* **ResearchGate**: [Akshat Bisht on ResearchGate](https://www.researchgate.net/profile/Akshat-Bisht-8)
+* **GitHub**: [@infoakshatsinghbisht-eng](https://github.com/infoakshatsinghbisht-eng)
+* **Repository**: [https://github.com/infoakshatsinghbisht-eng/khamyang](https://github.com/infoakshatsinghbisht-eng/khamyang)
+* **PyPI Package**: [https://pypi.org/project/khamyang/](https://pypi.org/project/khamyang/)
+
+---
+
 *For contributions, questions, or field data submissions, please consult [CONTRIBUTING.md](CONTRIBUTING.md) and [CITATION.cff](CITATION.cff).*

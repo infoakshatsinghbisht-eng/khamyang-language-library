@@ -7,7 +7,10 @@ name = "khamyang"
 version = "1.0.0"
 description = "A Python language library and revitalization toolkit for Tai Khamyang (ksu)"
 authors = [
-    { name = "Khamyang Language Revitalization Initiative", email = "info@khamyang-language.org" }
+    { name = "Akshat Singh Bisht", email = "infoakshatsinghbisht@gmail.com" }
+]
+maintainers = [
+    { name = "Akshat Singh Bisht", email = "infoakshatsinghbisht@gmail.com" }
 ]
 license = { text = "MIT" }
 readme = "README.md"
@@ -30,3 +33,11 @@ dependencies = [
 
 [project.scripts]
 khamyang = "khamyang.cli:cli"
+
+[project.urls]
+Homepage = "https://akshatsinghbisht.com/"
+GitHub = "https://github.com/infoakshatsinghbisht-eng/khamyang"
+LinkedIn = "https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/"
+"Amazon Author" = "https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28"
+ResearchGate = "https://www.researchgate.net/profile/Akshat-Bisht-8"
+"Bug Tracker" = "https://github.com/infoakshatsinghbisht-eng/khamyang/issues"

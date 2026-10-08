@@ -4,16 +4,21 @@ title: "Tai Khamyang Language & Cultural Corpus Library"
 version: 1.0.0
 date-released: 2026-10-08
 authors:
+  - family-names: "Bisht"
+    given-names: "Akshat Singh"
+    affiliation: "Computational Linguistics & Endangered Language Engineering"
+    email: "infoakshatsinghbisht@gmail.com"
+    website: "https://akshatsinghbisht.com/"
   - family-names: "Chowlik"
     given-names: "Deben"
-    affiliation: "Tai Khamyang Community Elder & Consultant"
+    affiliation: "Tai Khamyang Community Elder & Consultant, Powaimukh"
   - family-names: "Morey"
     given-names: "Stephen"
     affiliation: "Latrobe University / Research School of Pacific and Asian Studies, ANU"
   - family-names: "Nath"
     given-names: "Palash Kumar"
     affiliation: "Department of Linguistics, Gauhati University"
-repository-code: "https://github.com/khamyang/khamyang"
+repository-code: "https://github.com/infoakshatsinghbisht-eng/khamyang"
 keywords:
   - "Tai Khamyang"
   - "Nora"

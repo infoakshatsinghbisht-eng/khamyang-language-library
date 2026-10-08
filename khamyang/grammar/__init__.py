@@ -26,6 +26,10 @@ from khamyang.grammar.syntax import (
     TAM_MARKERS,
     SentenceBuilder,
 )
+from khamyang.grammar.kinship import (
+    KinshipEngine,
+    CLANS,
+)
 
 __all__ = [
     "Classifier",
@@ -44,4 +48,7 @@ __all__ = [
     "TAMMarker",
     "TAM_MARKERS",
     "SentenceBuilder",
+    "KinshipEngine",
+    "CLANS",
 ]
+

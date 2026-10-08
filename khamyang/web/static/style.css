@@ -912,3 +912,219 @@ body {
 @keyframes spin {
   to { transform: rotate(360deg); }
 }
+
+/* KINSHIP & CLANS */
+.clans-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.clan-card {
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1.2rem;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.clan-card:hover {
+  border-color: var(--accent-gold);
+  transform: translateY(-2px);
+}
+
+.clan-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+}
+
+.clan-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--accent-gold);
+}
+
+.clan-meaning {
+  font-size: 0.85rem;
+  color: var(--primary);
+  font-style: italic;
+}
+
+.clan-role {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+/* TRADITIONAL SONGS */
+.songs-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.song-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.8rem;
+  box-shadow: var(--shadow);
+}
+
+.song-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+  margin-bottom: 1.2rem;
+}
+
+.song-title-group h3 {
+  font-size: 1.35rem;
+  color: var(--text-main);
+  margin-bottom: 0.3rem;
+}
+
+.song-subtitles {
+  display: flex;
+  gap: 1rem;
+  font-size: 1rem;
+}
+
+.song-meta-pill {
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--primary);
+  padding: 0.3rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.song-stanzas {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.stanza-block {
+  background: rgba(15, 23, 42, 0.5);
+  border-left: 3px solid var(--accent-gold);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  padding: 1rem 1.4rem;
+}
+
+.stanza-num {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: var(--accent-gold);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+}
+
+.song-line {
+  margin-bottom: 0.8rem;
+}
+
+.line-khamyang {
+  font-weight: 600;
+  color: var(--text-main);
+  font-size: 0.95rem;
+}
+
+.line-liktai {
+  color: var(--accent-gold);
+  font-size: 1.05rem;
+  margin: 0.1rem 0;
+}
+
+.line-assamese {
+  color: #c084fc;
+  font-size: 0.85rem;
+}
+
+.line-en {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+/* SCHOLARLY LIBRARY */
+.bib-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.bib-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1.4rem;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.bib-card:hover {
+  border-color: var(--primary);
+  background: var(--bg-card-hover);
+}
+
+.bib-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.bib-type-badge {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-sm);
+  background: rgba(251, 191, 36, 0.15);
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
+.bib-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text-main);
+  margin-bottom: 0.3rem;
+}
+
+.bib-authors {
+  font-size: 0.9rem;
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+}
+
+.bib-desc {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+  margin-bottom: 0.8rem;
+}
+
+.bib-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.bib-link:hover {
+  text-decoration: underline;
+}
+

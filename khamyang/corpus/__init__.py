@@ -11,6 +11,7 @@ from khamyang.corpus.exporters import (
     export_to_latex,
     export_to_elan_eaf,
 )
+from khamyang.corpus.songs import SongEngine
 
 __all__ = [
     "InterlinearGloss",
@@ -20,4 +21,6 @@ __all__ = [
     "get_default_corpus",
     "export_to_latex",
     "export_to_elan_eaf",
+    "SongEngine",
 ]
+

@@ -257,5 +257,160 @@ def web_cmd(port: int, host: str):
     run_server(host=host, port=port)
 
 
+@cli.command("song")
+@click.argument("action", default="list", type=click.Choice(["list", "show", "search"]))
+@click.argument("query", required=False, default="")
+def song_cmd(action: str, query: str):
+    """Browse, view lyrics, and search authentic Tai Khamyang traditional songs."""
+    from khamyang.corpus.songs import SongEngine
+
+    if action == "list":
+        songs = SongEngine.all_songs()
+        table = Table(title="Tai Khamyang Traditional Songs & Ballads (Fɯn)")
+        table.add_column("ID", style="bold cyan")
+        table.add_column("Title (Khamyang)", style="bold yellow")
+        table.add_column("English Title", style="bold green")
+        table.add_column("Genre", style="magenta")
+        table.add_column("Informant / Origin", style="white")
+
+        for s in songs:
+            table.add_row(s["id"], s["title_khamyang"], s["title_english"], s["genre"], s["informant"])
+        console.print(table)
+        console.print("\n[italic dim]Use 'khamyang song show <id>' to read complete lyrics, glosses, and cultural context.[/italic dim]")
+
+    elif action == "show":
+        if not query:
+            console.print("[bold red]Please specify a song ID, e.g.:[/bold red] 'khamyang song show song_001'")
+            return
+        s = SongEngine.get_song(query)
+        if not s:
+            console.print(f"[bold red]Song not found:[/bold red] '{query}'")
+            return
+        text = SongEngine.format_song_text(s)
+        console.print(Panel(text, title=f"🎵 {s['title_khamyang']} ({s['title_english']})", border_style="yellow"))
+
+    elif action == "search":
+        if not query:
+            console.print("[bold red]Please provide a search term.[/bold red]")
+            return
+        res = SongEngine.search(query)
+        if not res:
+            console.print(f"[bold red]No songs found matching:[/bold red] '{query}'")
+            return
+        for s in res:
+            console.print(f"[bold yellow]{s['id']}[/bold yellow] - [bold cyan]{s['title_khamyang']}[/bold cyan] ({s['title_english']}): {s['description']}")
+
+
+@cli.command("kinship")
+@click.argument("action", default="resolve", type=click.Choice(["resolve", "search", "generation", "clans"]))
+@click.argument("query", required=False, default="")
+def kinship_cmd(action: str, query: str):
+    """Solve and inspect Tai Khamyang kinship relations, terms, and clan lineages."""
+    from khamyang.grammar.kinship import KinshipEngine
+
+    if action == "resolve":
+        if not query:
+            console.print("[bold cyan]Common codes:[/bold cyan] Fa (father), Mo (mother), FaFa (paternal grandfather), MoMo (maternal grandmother), FaElBr (elder paternal uncle), YoBr (younger brother), So (son), DaHu (son-in-law)")
+            query = "FaElBr"
+        res = KinshipEngine.resolve(query)
+        if not res:
+            console.print(f"[bold red]Could not resolve code:[/bold red] '{query}'")
+            return
+        explanation = KinshipEngine.explain_relationship(query)
+        console.print(Panel(explanation, title=f"👨‍👩‍👧‍👦 Kinship Term: {res['khamyang_roman']}", border_style="cyan"))
+
+    elif action == "search":
+        if not query:
+            console.print("[bold red]Please provide a search term (e.g. 'uncle', 'grandmother', 'lung1').[/bold red]")
+            return
+        matches = KinshipEngine.lookup(query)
+        if not matches:
+            console.print(f"[bold red]No kinship terms matching:[/bold red] '{query}'")
+            return
+        table = Table(title=f"Kinship Search Results for '{query}'")
+        table.add_column("Roman", style="bold cyan")
+        table.add_column("Lik Tai", style="yellow")
+        table.add_column("Assamese", style="magenta")
+        table.add_column("English", style="green")
+        table.add_column("Generation", style="blue")
+        for m in matches:
+            table.add_row(m["khamyang_roman"], m["lik_tai"], m["assamese_script"], m["english"], str(m["generation"]))
+        console.print(table)
+
+    elif action == "generation":
+        gen = int(query) if query.lstrip("-").isdigit() else 1
+        terms = KinshipEngine.list_by_generation(gen)
+        table = Table(title=f"Generation {gen} Relatives ({'Ancestors' if gen > 0 else 'Descendants' if gen < 0 else 'Ego Generation'})")
+        table.add_column("Roman", style="bold cyan")
+        table.add_column("Lik Tai", style="yellow")
+        table.add_column("English", style="green")
+        table.add_column("Assamese", style="magenta")
+        table.add_column("Relation Codes", style="dim")
+        for t in terms:
+            table.add_row(t["khamyang_roman"], t["lik_tai"], t["english"], t["assamese"], ", ".join(t.get("relation_codes", [])))
+        console.print(table)
+
+    elif action == "clans":
+        clans = KinshipEngine.list_clans()
+        table = Table(title="Tai Khamyang Historical Clans (Khɯa1)")
+        table.add_column("Clan Name", style="bold yellow")
+        table.add_column("Lik Tai", style="bold cyan")
+        table.add_column("Meaning", style="bold green")
+        table.add_column("Traditional Hereditary Role", style="white")
+        for c in clans:
+            table.add_row(c["name_tai"], c["lik_tai"], c["meaning"], c["role"])
+        console.print(table)
+
+
+@cli.command("biblio")
+@click.argument("action", default="list", type=click.Choice(["list", "search", "bibtex", "markdown"]))
+@click.argument("query", required=False, default="")
+@click.option("--output", "-o", default="", help="Optional output file destination")
+def biblio_cmd(action: str, query: str, output: str):
+    """Browse scholarly literature, books, articles, and export BibTeX citations."""
+    from khamyang.scraper.downloader import BibliographyManager
+
+    if action == "list":
+        entries = BibliographyManager.all_entries()
+        table = Table(title="Tai Khamyang Scholarly Bibliography & Resource Archive")
+        table.add_column("ID", style="bold cyan")
+        table.add_column("Year", style="bold yellow")
+        table.add_column("Type", style="magenta")
+        table.add_column("Author(s)", style="green")
+        table.add_column("Title", style="white")
+
+        for e in entries:
+            authors = ", ".join(e.get("authors", []))
+            table.add_row(e["id"], str(e.get("year", "")), e.get("entry_type", ""), authors[:28], e["title"][:48])
+        console.print(table)
+
+    elif action == "search":
+        if not query:
+            console.print("[bold red]Please enter search term (e.g. 'Morey', 'songs', 'tones', 'Nath').[/bold red]")
+            return
+        matches = BibliographyManager.search(query)
+        if not matches:
+            console.print(f"[bold red]No entries found matching:[/bold red] '{query}'")
+            return
+        for m in matches:
+            apa = BibliographyManager.format_apa(m)
+            console.print(f"• [bold cyan]{m['id']}[/bold cyan] ({m['entry_type']}):\n  {apa}\n  [dim]{m.get('description', '')}[/dim]\n")
+
+    elif action == "bibtex":
+        content = BibliographyManager.export_all_bibtex()
+        if output:
+            with open(output, "w", encoding="utf-8") as f:
+                f.write(content)
+            console.print(f"[bold green]BibTeX citations successfully saved to:[/bold green] {output}")
+        else:
+            console.print(content)
+
+    elif action == "markdown":
+        out = output or "BIBLIOGRAPHY.md"
+        BibliographyManager.save_markdown_file(out)
+        console.print(f"[bold green]Markdown bibliography saved to:[/bold green] {out}")
+
+
 if __name__ == "__main__":
     cli()
+

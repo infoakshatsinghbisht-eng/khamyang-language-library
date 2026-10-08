@@ -429,6 +429,189 @@ async function loadCorpus() {
 }
 
 // -------------------------------------------------------------
+// KINSHIP & FAMILY MODULE
+// -------------------------------------------------------------
+async function initKinshipTools() {
+  const kinSelect = document.getElementById('kinSelect');
+  const resultCard = document.getElementById('kinResultCard');
+  const clansList = document.getElementById('clansList');
+  if (!kinSelect || !resultCard) return;
+
+  async function resolveSelected() {
+    const code = kinSelect.value;
+    try {
+      const res = await fetch(`/api/kinship/resolve?code=${encodeURIComponent(code)}`);
+      if (!res.ok) return;
+      const data = await res.json();
+      const term = data.term;
+      resultCard.innerHTML = `
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.5rem;">
+          <span style="font-size: 1.5rem; font-weight: 700; color: var(--accent-gold);">${term.khamyang_roman}</span>
+          <span style="font-size: 1.6rem; color: var(--primary);" class="tai-script">${term.lik_tai}</span>
+        </div>
+        <div style="font-size: 1.1rem; color: #c084fc; margin-bottom: 0.4rem;">${term.assamese_script} (${term.assamese})</div>
+        <div style="font-size: 0.95rem; color: var(--text-main); margin-bottom: 0.4rem;">
+          <b>English:</b> ${term.english} • <b>IPA:</b> <code>/${term.ipa}/</code> (Tone ${term.tone})
+        </div>
+        <div style="font-size: 0.85rem; color: var(--primary); margin-bottom: 0.4rem;">
+          <b>Generation:</b> ${term.generation > 0 ? '+' + term.generation + ' Ascending' : (term.generation < 0 ? term.generation + ' Descending' : 'Ego Level')} • <b>Lineage:</b> ${term.line} (${term.side})
+        </div>
+        <div style="font-size: 0.85rem; color: var(--accent-gold); margin-bottom: 0.4rem;">
+          <b>Address Form:</b> "${term.address_term}"
+        </div>
+        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; border-top: 1px solid var(--border-color); padding-top: 0.5rem; margin-top: 0.5rem;">
+          ${term.cultural_notes}
+        </p>
+      `;
+    } catch (err) {
+      console.error('Error resolving kinship', err);
+    }
+  }
+
+  kinSelect.addEventListener('change', resolveSelected);
+  resolveSelected();
+
+  // Load clans
+  try {
+    const cRes = await fetch('/api/kinship/clans');
+    const clans = await cRes.json();
+    if (clansList) {
+      clansList.innerHTML = '';
+      clans.forEach(c => {
+        const el = document.createElement('div');
+        el.className = 'clan-card';
+        el.innerHTML = `
+          <div class="clan-card-header">
+            <span class="clan-name">${c.name_tai} <span class="tai-script">(${c.lik_tai})</span></span>
+            <span class="clan-meaning">${c.meaning}</span>
+          </div>
+          <div class="clan-role">${c.role}</div>
+        `;
+        clansList.appendChild(el);
+      });
+    }
+  } catch (err) {
+    console.error('Error loading clans', err);
+  }
+}
+
+// -------------------------------------------------------------
+// TRADITIONAL SONGS (Fɯn) MODULE
+// -------------------------------------------------------------
+async function loadSongs(query = "") {
+  const container = document.getElementById('songsContainer');
+  if (!container) return;
+  try {
+    let url = '/api/songs';
+    if (query) url += `?q=${encodeURIComponent(query)}`;
+    const res = await fetch(url);
+    const songs = await res.json();
+    container.innerHTML = "";
+
+    if (songs.length === 0) {
+      container.innerHTML = "<p style='color: var(--text-muted); padding: 2rem;'>No songs found.</p>";
+      return;
+    }
+
+    songs.forEach(s => {
+      const card = document.createElement('div');
+      card.className = 'song-card';
+
+      let stanzasHtml = "";
+      (s.stanzas || []).forEach(st => {
+        let linesHtml = "";
+        (st.lines || []).forEach(l => {
+          linesHtml += `
+            <div class="song-line">
+              <div class="line-khamyang">${l.roman}</div>
+              <div class="line-liktai">${l.lik_tai}</div>
+              <div class="line-assamese">${l.assamese_script} (${l.translation_as})</div>
+              <div class="line-en">EN: "${l.translation_en}"</div>
+            </div>
+          `;
+        });
+
+        stanzasHtml += `
+          <div class="stanza-block">
+            <div class="stanza-num">Stanza ${st.stanza_number}</div>
+            ${linesHtml}
+          </div>
+        `;
+      });
+
+      card.innerHTML = `
+        <div class="song-header">
+          <div class="song-title-group">
+            <h3>🎵 ${s.title_khamyang} (${s.title_english})</h3>
+            <div class="song-subtitles">
+              <span class="tai-script" style="color: var(--accent-gold); font-size: 1.2rem;">${s.title_liktai}</span>
+              <span style="color: #c084fc;">${s.title_assamese}</span>
+            </div>
+          </div>
+          <div>
+            <span class="song-meta-pill">${s.genre}</span>
+          </div>
+        </div>
+        <div style="font-size: 0.85rem; color: var(--text-dim); margin-bottom: 0.8rem;">
+          Informant: <b>${s.informant}</b> • Village: <b>${s.village}</b> • Ref: <b>${s.archive_ref}</b>
+        </div>
+        <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1.2rem; line-height: 1.45;">
+          ${s.description}
+        </p>
+        <div class="song-stanzas">
+          ${stanzasHtml}
+        </div>
+      `;
+      container.appendChild(card);
+    });
+  } catch (err) {
+    console.error('Failed to load songs', err);
+  }
+}
+
+// -------------------------------------------------------------
+// SCHOLARLY LIBRARY & BIBLIOGRAPHY MODULE
+// -------------------------------------------------------------
+async function loadBibliography(query = "") {
+  const container = document.getElementById('bibContainer');
+  if (!container) return;
+  try {
+    let url = '/api/bibliography';
+    if (query) url += `?q=${encodeURIComponent(query)}`;
+    const res = await fetch(url);
+    const entries = await res.json();
+    container.innerHTML = "";
+
+    if (entries.length === 0) {
+      container.innerHTML = "<p style='color: var(--text-muted); padding: 2rem;'>No bibliographic entries found.</p>";
+      return;
+    }
+
+    entries.forEach(e => {
+      const card = document.createElement('div');
+      card.className = 'bib-card';
+
+      const authorsStr = (e.authors || []).join(', ');
+      const linkHtml = e.url ? `<a href="${e.url}" target="_blank" rel="noopener noreferrer" class="bib-link">🔗 Access Resource / Archive ↗</a>` : '';
+
+      card.innerHTML = `
+        <div class="bib-top">
+          <span class="bib-type-badge">${e.entry_type}</span>
+          <span style="font-size: 0.85rem; color: var(--accent-gold); font-weight: 600;">${e.year || ''}</span>
+        </div>
+        <h4 class="bib-title">${e.title}</h4>
+        <div class="bib-authors">${authorsStr} • ${e.publisher || e.journal || ''}</div>
+        <p class="bib-desc">${e.description || ''}</p>
+        ${linkHtml}
+      `;
+      container.appendChild(card);
+    });
+  } catch (err) {
+    console.error('Failed to load bibliography', err);
+  }
+}
+
+// -------------------------------------------------------------
 // INITIALIZATION
 // -------------------------------------------------------------
 document.addEventListener('DOMContentLoaded', () => {
@@ -439,6 +622,9 @@ document.addEventListener('DOMContentLoaded', () => {
   initTransliteration();
   loadPhrases();
   initGrammarTools();
+  initKinshipTools();
+  loadSongs();
+  loadBibliography();
   loadCorpus();
 
   // Search event listeners
@@ -456,4 +642,39 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   document.getElementById('phraseCatFilter').addEventListener('change', loadPhrases);
+
+  // Songs listeners
+  const songSearchBtn = document.getElementById('songSearchBtn');
+  const songSearchInput = document.getElementById('songSearchInput');
+  const songResetBtn = document.getElementById('songResetBtn');
+  if (songSearchBtn && songSearchInput) {
+    songSearchBtn.addEventListener('click', () => loadSongs(songSearchInput.value));
+    songSearchInput.addEventListener('keyup', (e) => {
+      if (e.key === 'Enter') loadSongs(songSearchInput.value);
+    });
+  }
+  if (songResetBtn) {
+    songResetBtn.addEventListener('click', () => {
+      if (songSearchInput) songSearchInput.value = '';
+      loadSongs();
+    });
+  }
+
+  // Bibliography listeners
+  const bibSearchBtn = document.getElementById('bibSearchBtn');
+  const bibSearchInput = document.getElementById('bibSearchInput');
+  const bibResetBtn = document.getElementById('bibResetBtn');
+  if (bibSearchBtn && bibSearchInput) {
+    bibSearchBtn.addEventListener('click', () => loadBibliography(bibSearchInput.value));
+    bibSearchInput.addEventListener('keyup', (e) => {
+      if (e.key === 'Enter') loadBibliography(bibSearchInput.value);
+    });
+  }
+  if (bibResetBtn) {
+    bibResetBtn.addEventListener('click', () => {
+      if (bibSearchInput) bibSearchInput.value = '';
+      loadBibliography();
+    });
+  }
 });
+

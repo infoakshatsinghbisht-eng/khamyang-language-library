@@ -1,0 +1,388 @@
+[
+  {
+    "id": "song_001",
+    "title_khamyang": "Fɯn Ao Nang",
+    "title_liktai": "ၽိုၼ်ဢဝ်ၼၢင်း",
+    "title_assamese": "ফ্য়ুন আও নাং (বিয়াৰ গীত)",
+    "title_english": "Song of Welcoming the Bride (Traditional Wedding Ballad)",
+    "genre": "wedding_ceremonial",
+    "informant": "Late Chaw Sa Myat Chowlik & Nang Mya Chowlik",
+    "village": "Powaimukh, Margherita, Assam",
+    "archive_ref": "PARADISEC SDM03 / Wedding Documentation",
+    "description": "Ceremonial song chanted at the door threshold of the groom's household in Powaimukh when welcoming the bride into her new family. Includes offerings of betel leaves, silver coins, and sacred blessing cotton threads (saai1 phuk4 mɯ1).",
+    "cultural_context": "The song is performed in alternating antiphonal verses by senior women of both lineages, ensuring ancestral blessings (phi5 yaa3) and peace in the household.",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "lines": [
+          {
+            "roman": "ao1 nang1 maa1 hɯn1 wan1 nai6 chaw1",
+            "lik_tai": "ဢဝ်ၼၢင်းမႃးႁိူၼ်းဝၼ်းၼႆႉၸဝ်ႈ",
+            "assamese_script": "আও¹ নাং¹ মা¹ হ্যুন¹ ৱান¹ নাই⁶ চাও¹",
+            "gloss": "take lady come house day this lord",
+            "translation_en": "Bring the bride to this household on this auspicious day, O lord.",
+            "translation_as": "হে প্ৰভু, এই শুভ দিনটোত বোৱাৰীক গৃহলৈ লৈ আহা।"
+          },
+          {
+            "roman": "hɯn1 haw1 mi5 khaw3 kham1 tɯm1 lɯn1",
+            "lik_tai": "ႁိူၼ်းႁဝ်းမီႈၶဝ်ႈၶမ်းတိုမ်းလိူၼ်",
+            "assamese_script": "হ্যুন¹ হাও¹ মী⁵ খাও³ খাম¹ ত্যুম¹ ল্যুন¹",
+            "gloss": "house our have rice gold fill moon",
+            "translation_en": "Our granary is filled with golden rice to illuminate the whole moon.",
+            "translation_as": "আমাৰ ঘৰ সোণালী ধানেৰে চন্দ্ৰৰ দৰে উজলি ভৰি আছে।"
+          },
+          {
+            "roman": "kin1 yu5 wan1 nai6 pen1 nɔŋ4 pi5",
+            "lik_tai": "ၵိၼ်ယူႇဝၼ်းၼႆႉပဵၼ်ၼွင်ႉပီႈ",
+            "assamese_script": "কিন¹ য়ু⁵ ৱান¹ নাই⁶ পেন¹ নং⁴ পি⁵",
+            "gloss": "eat live day this become younger elder",
+            "translation_en": "From this day forth, live and share together as brother, sister, and kin.",
+            "translation_as": "আজিৰ পৰা ভাই-ভনী আৰু আত্মীয় হিচাপে একেলগে বাস কৰা।"
+          },
+          {
+            "roman": "phi5 hɯn1 haksaa5 heu3 mi5 suk4",
+            "lik_tai": "ၽီႁိူၼ်းႁၵ်ႉသႃႁႂ်ႈမီႈသုၵ်း",
+            "assamese_script": "ফী⁵ হ্যুন¹ হাক্সাহ্⁵ হেউ³ মী⁵ শুক⁴",
+            "gloss": "spirit house protect give have peace",
+            "translation_en": "May the guardian spirits of the hearth protect this home and bestow lasting peace.",
+            "translation_as": "ঘৰৰ দেৱতাই ৰক্ষা কৰক আৰু চিৰশান্তি প্ৰদান কৰক।"
+          }
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines": [
+          {
+            "roman": "phak1 phlu1 kham1 khao5 wai3 nai1 phan1",
+            "lik_tai": "ၽၵ်းၽလူၶမ်းၶဝ်ဝႆႉၼႂ်းၽၢၼ်ႇ",
+            "assamese_script": "ফাক¹ ফ্লু¹ খাম¹ খাও⁵ ৱাই³ নাই¹ ফান¹",
+            "gloss": "vegetable betel gold 3PL place inside tray",
+            "translation_en": "Golden betel leaf and areca nut are placed within the ceremonial brass tray.",
+            "translation_as": "সোণালী পাণ আৰু তামোল কাঁহৰ থালত সজাই ৰখা হৈছে।"
+          },
+          {
+            "roman": "phuk4 saai1 mɯ1 heu3 man3 nai1 chɯ5",
+            "lik_tai": "ၽူၵ်ႉသၢႆမိုဝ်းႁႂ်ႈမၼ်ႈၼႂ်းၸိုဝ်ႈ",
+            "assamese_script": "ফুক⁴ সাই¹ ম্যু¹ হেউ³ মান³ নাই¹ চ্যু⁵",
+            "gloss": "tie cord hand give steadfast inside name",
+            "translation_en": "Tie the sacred white thread around their wrists, binding them in steadfast fidelity.",
+            "translation_as": "হাতত মঙ্গলীয়া সূতা বান্ধি দিয়া, যাতে তেওঁলোকৰ বন্ধন চিৰস্থায়ী হয়।"
+          },
+          {
+            "roman": "luk4 sao1 maa1 pen1 luk4 pae1 hɯn1",
+            "lik_tai": "လုၵ်ႈသၢဝ်မႃးပဵၼ်လုၵ်ႈပႄႈႁိူၼ်း",
+            "assamese_script": "লুক⁴ সাও¹ মা¹ পেন¹ লুক⁴ পে³ হ্যুন¹",
+            "gloss": "daughter come become daughter-in-law house",
+            "translation_en": "The beloved maiden has now arrived to be the daughter-in-law of this home.",
+            "translation_as": "মৰমৰ কন্যা এতিয়া আমাৰ গৃহৰ বোৱাৰী হৈ পৰিল।"
+          },
+          {
+            "roman": "chawphaa1 phraa4 thaa3 pon1 phɔɔn1 heu3",
+            "lik_tai": "ၸဝ်ႈၽႃၽြႃးထႃးပွၼ်းၽွၼ်းႁႂ်ႈ",
+            "assamese_script": "চাওফা¹ ফ্ৰা⁴ থা³ পন¹ ফন¹ হেউ³",
+            "gloss": "lord-sky Buddha Dharma grant blessing give",
+            "translation_en": "May the Buddha and the Holy Dhamma grant heavenly blessings upon this union.",
+            "translation_as": "ভগৱান বুদ্ধ আৰু ধৰ্মই এই দম্পতীক আশীৰ্বাদ কৰক।"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "song_002",
+    "title_khamyang": "Fɯn Nɔn Luk",
+    "title_liktai": "ၽိုၼ်ၼွၼ်းလုၵ်ႈ",
+    "title_assamese": "ফ্য়ুন নন লুক (নিচুকনি গীত)",
+    "title_english": "Lullaby: Sleep, My Little Child",
+    "genre": "lullaby",
+    "informant": "Elder Mothers of Powaimukh",
+    "village": "Powaimukh, Margherita, Assam",
+    "archive_ref": "PARADISEC SDM03 / Traditional Song Documentation",
+    "description": "Gentle traditional cradle song sung by Tai Khamyang mothers while swinging the bamboo-woven cradle (u1) suspended from the ceiling rafters.",
+    "cultural_context": "Sung in soft rising and falling cadences to soothe infants while invoking the quiet breeze of the evening and protecting the child from frightful night spirits.",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "lines": [
+          {
+            "roman": "nɔn1 hye5 luk4 kɔk4 nɔn1 lap4 dai3",
+            "lik_tai": "ၼွၼ်းႁျေႈလုၵ်ႈၵွၵ်းၼွၼ်းလပ်းလႆႈ",
+            "assamese_script": "নন¹ হ্যে⁵ লুক⁴ কক্⁴ নন¹ লাপ⁴ দাই³",
+            "gloss": "sleep O child firstborn sleep shut-eye able",
+            "translation_en": "Sleep now, O precious firstborn, close your eyes in deep slumber.",
+            "translation_as": "শুই থাকা সোণমণি, চকু মুদি টোপনি যোৱা।"
+          },
+          {
+            "roman": "lom1 yen1 phat4 maa1 thung1 rim1 nam6",
+            "lik_tai": "လမေ်းယဵၼ်ၽတ်ႉမႃးထိုင်ရိမ်ႇၼမ်ႉ",
+            "assamese_script": "লম¹ য়েন¹ ফাত⁴ মা¹ থুং¹ ৰিম¹ নাম⁶",
+            "gloss": "wind cool blow come reach bank water",
+            "translation_en": "A cool breeze is blowing softly from the banks of the river.",
+            "translation_as": "নদীৰ পাৰৰ পৰা শীতল বতাহ বলি আহিছে।"
+          },
+          {
+            "roman": "nok4 khao5 khao3 rang1 wan1 kham5 yow3",
+            "lik_tai": "ၼူၵ်ႉၶဝ်ၶဝ်ႈႁၢင်းဝၼ်းၶမ်းယဝ်ႉ",
+            "assamese_script": "নুক⁴ খাও⁵ খাও³ ৰাং¹ ৱান¹ খাম⁵ য়ও³",
+            "gloss": "bird 3PL enter nest day evening COMPL",
+            "translation_en": "The birds have all returned to their nests as dusk has fallen.",
+            "translation_as": "আবেলি পৰত চৰাইবোৰ বাহলৈ উভতি আহিল।"
+          },
+          {
+            "roman": "me5 kaap4 u1 heu3 lap4 fan1 li1",
+            "lik_tai": "မႄႈၵၢပ်ႈဢူးႁႂ်ႈလပ်းၽၼ်ႇလီ",
+            "assamese_script": "মে⁵ কাপ⁴ উ¹ হেউ³ লাপ⁴ ফান¹ লী¹",
+            "gloss": "mother swing cradle give sleep dream good",
+            "translation_en": "Mother rocks your gentle cradle so you may dream sweet dreams.",
+            "translation_as": "মাকে দোলনা দোল খাই নিচুকাই আছে, যাতে শুই শুই ভাল সপোন দেখা।"
+          }
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines": [
+          {
+            "roman": "yaa3 khaa5 hai3 nɔŋ4 chaai1 luk4 nɔi4",
+            "lik_tai": "ယႃႇၶႃႈႁႆႈၼွင်ႉၸၢႆးလုၵ်ႈၼွႆႉ",
+            "assamese_script": "য়া³ খা⁵ হাই³ নং⁴ চাই¹ লুক⁴ নই⁴",
+            "gloss": "do-not weep younger-brother child tiny",
+            "translation_en": "Do not weep, my tiny little boy, weep no more.",
+            "translation_as": "কান্দি নাথাকিবা মোৰ কণমানি ল'ৰাটো।"
+          },
+          {
+            "roman": "po5 te5 maa1 sang3 khrɔŋ1 kin1 wan1",
+            "lik_tai": "ပေႃႈတေမႃးသၢင်ႉၶျွင်ၵိၼ်ဝၼ်း",
+            "assamese_script": "পৌ⁵ তে⁵ মা¹ সাং³ খ্ৰং¹ কিন¹ ৱান¹",
+            "gloss": "father IRR come buy thing eat day",
+            "translation_en": "Father will soon return from the bazaar bringing sweet treats.",
+            "translation_as": "দেউতা বজাৰৰ পৰা মিঠাই লৈ সোনকালে আহিব।"
+          },
+          {
+            "roman": "lap4 taa1 saang3 su1 nai1 u1 mai6",
+            "lik_tai": "လပ်းတႃသၢင်ႉသူးၼႂ်းဢူးမႆႉ",
+            "assamese_script": "লাপ⁴ তা¹ সাং³ সু¹ নাই¹ উ¹ মাই⁶",
+            "gloss": "close eye quiet inside cradle bamboo",
+            "translation_en": "Close your eyes in peaceful rest inside your bamboo cradle.",
+            "translation_as": "বাঁহৰ দোলনাত নীৰৱে চকু মুদা।"
+          },
+          {
+            "roman": "phraa4 pen1 chaw1 chɯi3 haksaa5 luk4",
+            "lik_tai": "ၽြႃးပဵၼ်ၸဝ်ႈၸိုဝ်ႈႁၵ်ႉသႃလုၵ်ႈ",
+            "assamese_script": "ফ্ৰা⁴ পেন¹ চাও¹ চ্যু³ হাক্সাহ্⁵ লুক⁴",
+            "gloss": "Lord Buddha help protect child",
+            "translation_en": "May the Lord Buddha protect my child throughout the silent night.",
+            "translation_as": "ভগৱান বুদ্ধই ৰাতিটো মোৰ শিশুটিক সুৰক্ষিত ৰাখক।"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "song_003",
+    "title_khamyang": "Fɯn Tam Khaw",
+    "title_liktai": "ၽိုၼ်တမ်ၶဝ်ႈ",
+    "title_assamese": "ফ্য়ুন তাম খাও (ধান বনা গীত)",
+    "title_english": "Rice Pounding Song (Rhythm Work Ballad)",
+    "genre": "work_song",
+    "informant": "Powaimukh Village Elders & Women's Society",
+    "village": "Powaimukh, Assam",
+    "archive_ref": "PARADISEC SDM03 / Community Work Songs",
+    "description": "Rhythmic communal work song sung by young women and maidens while operating the wooden foot-pestle (khrɔk4 tam1 khaw3) to dehusk fragrant glutinous winter paddy.",
+    "cultural_context": "Rice pounding is a major communal activity before festivals (Sangken, Poy Lu Phraa). Singing in synchronized meter ensures energy and collective joy during arduous physical labor.",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "lines": [
+          {
+            "roman": "tam1 khaw3 niew1 khrɔk4 mai6 dang1 tung1",
+            "lik_tai": "တမ်ၶဝ်ႈၼဵဝ်ၶျွၵ်းမႆႉလင်တူင်",
+            "assamese_script": "তাম¹ খাও³ নিৱ¹ খ্ৰক্⁴ মাই⁶ দাং¹ তুং¹",
+            "gloss": "pound rice sticky mortar wood sound echo",
+            "translation_en": "Pound the sticky rice! The wooden pestle echoes through the whole village.",
+            "translation_as": "বৰা ধান বনা! কাঠৰ ঢেঁকীৰ শব্দ গাওঁখনত প্ৰতিধ্বনিত হৈছে।"
+          },
+          {
+            "roman": "sao1 sao1 haw1 yiap4 sak4 phɔm6 kan1",
+            "lik_tai": "သၢဝ်သၢဝ်ႁဝ်းယဵပ်ႈသၵ်းၽွမ်ႉၵၼ်",
+            "assamese_script": "সাও¹ সাও¹ হাও¹ য়াপ⁴ সাক⁴ ফম্⁶ কান¹",
+            "gloss": "maidens our step pestle together RECIP",
+            "translation_en": "All of us young maidens step on the pestle together in rhythm.",
+            "translation_as": "আমি যুৱতীসকলে মিলি একে লগে ঢেঁকীত ভৰি দিছোঁ।"
+          },
+          {
+            "roman": "khaw3 saarn1 khao1 phɯk4 tɔk4 long1 ngaang1",
+            "lik_tai": "ၶဝ်ႈသၢၼ်ၶၢဝ်ၽိုၵ်းတွၵ်းလူင်းငၢင်",
+            "assamese_script": "খাও³ সান¹ খাও¹ ফ্যক⁴ তক্⁴ লং¹ ঙাং¹",
+            "gloss": "rice husked white pure pour down winnow",
+            "translation_en": "The polished white rice grains fall pure into the winnowing tray.",
+            "translation_as": "বগা চাউলবোৰ কুলাখনত সৰি পৰিছে।"
+          },
+          {
+            "roman": "te5 ao1 maa1 thong1 thawaai3 phraa4",
+            "lik_tai": "တေဢဝ်မႃးထူင်ထဝၢႆးၽြႃး",
+            "assamese_script": "তে⁵ আও¹ মা¹ থুং¹ থাৱাই³ ফ্ৰা⁴",
+            "gloss": "IRR take come offer Buddha",
+            "translation_en": "We shall carry it forth as an offering to the sacred monastery.",
+            "translation_as": "আমি এই পবিত্ৰ চাউল বৌদ্ধ বিহাৰত দান কৰিম।"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "song_004",
+    "title_khamyang": "Fɯn Poy Sangken",
+    "title_liktai": "ၽိုၼ်ပွႆးသၢင်းၵျႅၼ်ႇ",
+    "title_assamese": "ফ্য়ুন পয় চাংকেন (চাংকেন পানী উৎসৱৰ গীত)",
+    "title_english": "Song of the Sangken Water Festival (Tai New Year)",
+    "genre": "festival_celebration",
+    "informant": "Youth & Elders of Powaimukh",
+    "village": "Powaimukh, Assam",
+    "archive_ref": "PARADISEC SDM03 / Sangken Festival Recordings",
+    "description": "Celebratory song sung during Sangken (the Tai Buddhist Water Festival in mid-April). Villagers sprinkle consecrated scented water on the Buddha image, venerable monks, and one another to cleanse ill fortune and welcome the New Year.",
+    "cultural_context": "Sangken is the most important cultural festival of the Tai Khamyang. It marks the transition of the sun from Pisces to Aries and strengthens community solidarity across all generations.",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "lines": [
+          {
+            "roman": "pi5 mai5 maa1 thung1 poy1 sang1 ken1",
+            "lik_tai": "ပီႈမႂ်ႇမႃးထိုင်ပွႆးသၢင်းၵျႅၼ်ႇ",
+            "assamese_script": "পি⁵ মাই⁵ মা¹ থুং¹ পয়¹ সাং¹ কেন¹",
+            "gloss": "year new come reach festival Sangken",
+            "translation_en": "The New Year has arrived with the joyful festival of Sangken!",
+            "translation_as": "নতুন বছৰ আহি পালেহি আনন্দৰ চাংকেন উৎসৱ লৈ!"
+          },
+          {
+            "roman": "song1 nam4 phraa4 chaw1 nai1 vi1 haan1",
+            "lik_tai": "သွၼ်းၼမ်ႉၽြႃးၸဝ်ႈၼႂ်းဝိႁၢၼ်ႇ",
+            "assamese_script": "সং¹ নাম⁶ ফ্ৰা⁴ চাও¹ নাই¹ ৱি¹ হান¹",
+            "gloss": "pour water Buddha Lord inside monastery",
+            "translation_en": "Pour consecrated clean water over the Lord Buddha inside the temple.",
+            "translation_as": "বৌদ্ধ বিহাৰত ভগৱান বুদ্ধৰ মূৰ্তিত সুগন্ধি পানী ঢালা।"
+          },
+          {
+            "roman": "wat4 nam4 saai1 su1 phuu5 thau3 haw1",
+            "lik_tai": "ဝတ်ႉၼမ်ႉသၢႆသူးၽူႈထဝ်ႈႁဝ်း",
+            "assamese_script": "ৱাত⁴ নাম⁶ সাই¹ সু¹ ফু⁵ থাও³ হাও¹",
+            "gloss": "sprinkle water clear pure elderly our",
+            "translation_en": "Sprinkle clear water on our elders to ask for their blessings and long life.",
+            "translation_as": "আমাৰ জ্যেষ্ঠসকলৰ ওপৰত শুভ পানী ছটিয়াই আশীৰ্বাদ লোৱা।"
+          },
+          {
+            "roman": "suk4 som1 chɯn1 chai1 tang1 baan3 khao5",
+            "lik_tai": "သုၵ်းသူမ်ၸိုၼ်ႈၸႂ်တင်းဝၢၼ်ႈၶဝ်",
+            "assamese_script": "শুক⁴ সম¹ চ্যুন¹ চাই¹ তাং¹ বান³ খাও⁵",
+            "gloss": "peace happy rejoice heart whole village 3PL",
+            "translation_en": "May joy and peaceful bliss fill the hearts of everyone throughout our village.",
+            "translation_as": "সমগ্ৰ গাঁওবাসীৰ মন শান্তি আৰু আনন্দৰে ভৰি পৰক।"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "song_005",
+    "title_khamyang": "Fɯn Cholim / Kham Soi Yoi",
+    "title_liktai": "ၽိုၼ်ၶျေႃးလိမ်း / ၶမ်းသွႆႈယွႆႈ",
+    "title_assamese": "ফ্য়ুন চলিম / খাম চৈ য়ৈ (প্ৰেম আৰু প্ৰকৃতিৰ গীত)",
+    "title_english": "Cholim Ballad / Kham Soi Yoi (Courting & Nature Lyric)",
+    "genre": "lyrical_courting",
+    "informant": "Ai Che & Senior Singers of Powaimukh",
+    "village": "Powaimukh, Assam",
+    "archive_ref": "PARADISEC SDM07-2007-001 / Song Kham Soi Yoi",
+    "description": "Lyrical dialogue ballad (Kham Soi Yoi / Cholim) exchanged poetically between young men (bao1) and maidens (sao1), invoking nature allegories, the blooming of wild forest orchids, and deep affection.",
+    "cultural_context": "Preserves the classical rhythmic poetry of Southwestern Tai, with internal rhymes, assonance, and metaphorical language representing the peaks of the Patkai and the crystal waters of the streams.",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "lines": [
+          {
+            "roman": "dɔk4 mai6 baan1 nai1 thɯn2 doi1 sung1",
+            "lik_tai": "မွၵ်ႇမႆႉဝၢၼ်ၼႂ်းထိူၼ်ႇလွႆသုင်",
+            "assamese_script": "দক্⁴ মাই⁶ বান¹ নাই¹ থ্যুন² দৈ¹ সুং¹",
+            "gloss": "flower bloom inside forest mountain high",
+            "translation_en": "The forest blossoms are in full bloom upon the high green mountains.",
+            "translation_as": "ওখ পাহাৰৰ বননিত ফুলবোৰ ফুলি উঠিছে।"
+          },
+          {
+            "roman": "kham1 soi5 yoi3 rim1 thaang1 nam6 rin1",
+            "lik_tai": "ၶမ်းသွႆႈယွႆႈရိမ်ႇထၢင်ႇၼမ်ႉရိၼ်း",
+            "assamese_script": "খাম¹ চৈ⁵ য়ৈ³ ৰিম¹ থাং¹ নাম⁶ ৰিন¹",
+            "gloss": "words cascade hang bank path water flowing",
+            "translation_en": "Words of sweet poetry cascade down like clear water flowing by the path.",
+            "translation_as": "বৈ থকা জুৰিৰ কাষত মিঠা সুৰবোৰ ধাৰে ধাৰে নামি আহিছে।"
+          },
+          {
+            "roman": "bao1 sao1 sop4 khao5 laang2 waam1 kham1",
+            "lik_tai": "မၢဝ်ႇသၢဝ်သူပ်းၶဝ်လၢင်ႇဝၢမ်းၶမ်း",
+            "assamese_script": "বাও¹ সাও¹ সপ⁴ খাও⁵ লাং² ৱাম¹ খাম¹",
+            "gloss": "youth maiden mouth 3PL speak words golden",
+            "translation_en": "The youth and the maiden exchange golden words of tender affection.",
+            "translation_as": "ডেকা আৰু গাভৰুৱে ইজনে সিজনক সোণালী মৰমৰ কথা কৈছে।"
+          },
+          {
+            "roman": "hɯ1 chai1 hak1 man3 bo1 mi5 waang1",
+            "lik_tai": "ႁိုဝ်ၸႂ်ႁၵ်ႉမၼ်ႈဝေႃးမီႈဝၢင်း",
+            "assamese_script": "হ্যু¹ চাই¹ হাক¹ মান³ বাে¹ মী⁵ ৱাং¹",
+            "gloss": "heart love steadfast not have depart",
+            "translation_en": "Their devoted love remains steadfast, never to waver nor part.",
+            "translation_as": "তেওঁলোকৰ সঁচা ভালপোৱা কেতিয়াও ম্লান নপৰে।"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "song_006",
+    "title_khamyang": "Fɯn Dam Khaw",
+    "title_liktai": "ၽိုၼ်လမ်ၶဝ်ႈ",
+    "title_assamese": "ফ্য়ুন দাম খাও (ৰোৱা গীত)",
+    "title_english": "Rice Transplanting Song (Monsoon Agricultural Chant)",
+    "genre": "agricultural_song",
+    "informant": "Women Farmers of Powaimukh",
+    "village": "Powaimukh, Assam",
+    "archive_ref": "PARADISEC SDM03 / Agricultural Songs",
+    "description": "Field song chanted by Tai Khamyang women as they bend down in rows to transplant green rice seedlings into water-flooded paddy fields (naa1) under the summer monsoon skies.",
+    "cultural_context": "Agriculture is intimately tied to Tai identity. The songs petition the water spirits and ancestral masters to grant abundant grain without flood or drought.",
+    "stanzas": [
+      {
+        "stanza_number": 1,
+        "lines": [
+          {
+            "roman": "fon1 tok2 maa1 nam6 tem1 thung2 naa1",
+            "lik_tai": "ၽူၼ်တူၵ်းမႃးၼမ်ႉတဵမ်ထုင်ႉၼႃး",
+            "assamese_script": "ফন¹ তক্² মা¹ নাম⁶ তেম¹ থুং² না¹",
+            "gloss": "rain fall come water full field paddy",
+            "translation_en": "The rains have fallen, and the water fills the wide green paddy fields.",
+            "translation_as": "বৰষুণ আহি পালে আৰু পথাৰবোৰ পানীত ওপঙি উঠিল।"
+          },
+          {
+            "roman": "dam1 ton4 khaw3 heu3 khiaw1 tang1 mung1",
+            "lik_tai": "လမ်တူၼ်ႈၶဝ်ႈႁႂ်ႈၶဵဝ်တင်းမုင်း",
+            "assamese_script": "দাম¹ তন⁴ খাও³ হেউ³ খিৱ¹ তাং¹ মুং¹",
+            "gloss": "plant plant rice give green all country",
+            "translation_en": "Plant the young rice shoots, so green emerald covers our entire land.",
+            "translation_as": "ধানৰ কঠিয়াবোৰ ৰোৱা, যাতে সমগ্ৰ দেশ সেউজীয়া হৈ পৰে।"
+          },
+          {
+            "roman": "lɯn1 sip4 maa1 khaw3 khao5 pen1 kham1",
+            "lik_tai": "လိူၼ်သိပ်းမႃးၶဝ်ႈၶဝ်ပဵၼ်ၶမ်း",
+            "assamese_script": "ল্যুন¹ সিপ⁴ মা¹ খাও³ খাও⁵ পেন¹ খাম¹",
+            "gloss": "month ten come rice 3PL become gold",
+            "translation_en": "When the tenth month arrives, the harvest will turn to radiant gold.",
+            "translation_as": "দহম মাহ আহিলে ধানবোৰ সোণালী হৈ পকিব।"
+          },
+          {
+            "roman": "kin1 im2 chai1 haw1 suk4 som1 li1",
+            "lik_tai": "ၵိၼ်ဢิ่มၸႂ်ႁဝ်းသုၵ်းသူမ်လီ",
+            "assamese_script": "কিন¹ ইম² চাই¹ হাও¹ শুক⁴ সম¹ লী¹",
+            "gloss": "eat satisfied heart our peace joy good",
+            "translation_en": "All will eat their fill, and peace and happiness shall reign over our people.",
+            "translation_as": "সকলোৱে পেট ভৰাই খাব আৰু আনন্দ আৰু শান্তিত থাকিব।"
+          }
+        ]
+      }
+    ]
+  }
+]

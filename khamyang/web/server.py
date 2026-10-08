@@ -166,6 +166,84 @@ async def api_get_texts():
     return [t.to_dict() for t in corpus.get_all()]
 
 
+@app.get("/api/songs")
+async def api_get_songs(
+    q: Optional[str] = Query(None, description="Search query"),
+    genre: Optional[str] = Query(None, description="Genre filter"),
+):
+    from khamyang.corpus.songs import SongEngine
+    if q:
+        return SongEngine.search(q)
+    if genre:
+        return SongEngine.filter_by_genre(genre)
+    return SongEngine.all_songs()
+
+
+@app.get("/api/songs/{song_id}")
+async def api_get_song_detail(song_id: str):
+    from khamyang.corpus.songs import SongEngine
+    song = SongEngine.get_song(song_id)
+    if not song:
+        raise HTTPException(status_code=404, detail=f"Song '{song_id}' not found")
+    return song
+
+
+@app.get("/api/kinship")
+async def api_get_kinship(
+    q: Optional[str] = Query(None, description="Search query"),
+    generation: Optional[int] = Query(None, description="Generation level (-3 to +3)"),
+):
+    from khamyang.grammar.kinship import KinshipEngine
+    if q:
+        return KinshipEngine.lookup(q)
+    if generation is not None:
+        return KinshipEngine.list_by_generation(generation)
+    return KinshipEngine.all_terms()
+
+
+@app.get("/api/kinship/resolve")
+async def api_resolve_kinship(code: str = Query(..., description="Kinship code, e.g. FaElBr, MoFa, YoBr")):
+    from khamyang.grammar.kinship import KinshipEngine
+    term = KinshipEngine.resolve(code)
+    if not term:
+        raise HTTPException(status_code=404, detail=f"No kinship mapping for '{code}'")
+    explanation = KinshipEngine.explain_relationship(code)
+    return {"term": term, "explanation": explanation}
+
+
+@app.get("/api/kinship/clans")
+async def api_get_kinship_clans():
+    from khamyang.grammar.kinship import KinshipEngine
+    return KinshipEngine.list_clans()
+
+
+@app.get("/api/bibliography")
+async def api_get_bibliography(
+    q: Optional[str] = Query(None, description="Search query"),
+    type: Optional[str] = Query(None, description="Entry type (book, article, archive, web_resource)"),
+):
+    from khamyang.scraper.downloader import BibliographyManager
+    if q:
+        return BibliographyManager.search(q)
+    if type:
+        return BibliographyManager.filter_by_type(type)
+    return BibliographyManager.all_entries()
+
+
+@app.get("/api/bibliography/bibtex")
+async def api_get_bibliography_bibtex():
+    from khamyang.scraper.downloader import BibliographyManager
+    bib_text = BibliographyManager.export_all_bibtex()
+    return HTMLResponse(content=bib_text, media_type="text/plain; charset=utf-8")
+
+
+@app.get("/api/bibliography/markdown")
+async def api_get_bibliography_markdown():
+    from khamyang.scraper.downloader import BibliographyManager
+    md_text = BibliographyManager.generate_markdown_bibliography()
+    return HTMLResponse(content=md_text, media_type="text/markdown; charset=utf-8")
+
+
 @app.get("/api/export/csv")
 async def api_export_csv():
     temp_p = os.path.join(STATIC_DIR, "khamyang_lexicon.csv")
@@ -178,6 +256,7 @@ async def api_export_anki():
     temp_p = os.path.join(STATIC_DIR, "khamyang_anki_deck.tsv")
     export_to_anki_tsv(temp_p)
     return FileResponse(temp_p, filename="khamyang_anki_deck.tsv", media_type="text/tab-separated-values")
+
 
 
 def run_server(host: str = "127.0.0.1", port: int = 8000):

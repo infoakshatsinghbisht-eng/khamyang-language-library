@@ -49,7 +49,10 @@
       <button class="nav-tab" data-tab="transTab">🔤 Transliteration & Keyboard</button>
       <button class="nav-tab" data-tab="phraseTab">💬 Fieldwork Phrasebook</button>
       <button class="nav-tab" data-tab="grammarTab">⚖️ Grammar & Naming</button>
+      <button class="nav-tab" data-tab="kinshipTab">👨‍👩‍👧‍👦 Kinship & Family</button>
+      <button class="nav-tab" data-tab="songsTab">🎶 Traditional Songs (Fɯn)</button>
       <button class="nav-tab" data-tab="corpusTab">📜 Folk Texts & Corpus</button>
+      <button class="nav-tab" data-tab="biblioTab">📚 Library & Archives</button>
       <button class="nav-tab" data-tab="exportTab">📥 Export Center</button>
     </div>
   </nav>
@@ -379,8 +382,112 @@
       </div>
     </section>
 
+    <!-- TAB: KINSHIP & FAMILY -->
+    <section id="kinshipTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Tai Khamyang Kinship & Family Heritage</h2>
+        <p>Explore the traditional Southwestern Tai multi-generational kinship structure, age-graded address etiquette, and historic clans.</p>
+      </div>
+
+      <div class="grammar-split">
+        <!-- Kinship Solver -->
+        <div class="grammar-card">
+          <h3>👨‍👩‍👧 Family Relative Solver</h3>
+          <p class="card-desc">Select a genealogical relationship to inspect its Tai Khamyang address form, script, and tone.</p>
+          
+          <div class="control-row">
+            <label for="kinSelect">Select Relationship:</label>
+            <select id="kinSelect" class="select-input">
+              <option value="Fa">Father (Fa) • po5</option>
+              <option value="Mo">Mother (Mo) • me5</option>
+              <option value="FaFa">Paternal Grandfather (FaFa) • pu5</option>
+              <option value="FaMo">Paternal Grandmother (FaMo) • yaa3</option>
+              <option value="MoFa">Maternal Grandfather (MoFa) • taa1</option>
+              <option value="MoMo">Maternal Grandmother (MoMo) • naai1</option>
+              <option value="FaElBr">Father's Elder Brother (FaElBr) • lung1</option>
+              <option value="FaYoBr">Father's Younger Brother (FaYoBr) • aao1</option>
+              <option value="MoElSi">Mother's Elder Sister (MoElSi) • paa3</option>
+              <option value="MoYoSi">Mother's Younger Sibling (MoYoSi) • naa1</option>
+              <option value="ElBr">Elder Brother (ElBr) • pi5 chaai1</option>
+              <option value="ElSi">Elder Sister (ElSi) • pi5 sao1</option>
+              <option value="YoBr">Younger Brother (YoBr) • nɔŋ4 chaai1</option>
+              <option value="YoSi">Younger Sister (YoSi) • nɔŋ4 sao1</option>
+              <option value="Hu">Husband (Hu) • phua1</option>
+              <option value="Wi">Wife (Wi) • mia1</option>
+              <option value="So">Son (So) • luk4 chaai1</option>
+              <option value="Da">Daughter (Da) • luk4 sao1</option>
+              <option value="ElChild">Firstborn Child • luk4 kɔk4</option>
+              <option value="YoChild">Lastborn Child • luk4 laai1</option>
+              <option value="DaHu">Son-in-Law (DaHu) • khɯi1</option>
+              <option value="SoWi">Daughter-in-Law (SoWi) • pae1</option>
+              <option value="FaFaFa">Great-Grandfather • chua2</option>
+              <option value="FaFaMo">Great-Grandmother • mɔn1</option>
+            </select>
+          </div>
+
+          <div id="kinResultCard" class="result-box">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Clans Lineage -->
+        <div class="grammar-card">
+          <h3>🏛️ Historical Clans (Khɯa1) of Powaimukh</h3>
+          <p class="card-desc">The 6 ancestral Nora/Khamyang patrilineal clans and their hereditary state and ritual functions.</p>
+          <div id="clansList" class="clans-grid">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB: TRADITIONAL SONGS (Fɯn) -->
+    <section id="songsTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Authentic Tai Khamyang Songs & Ballads (Fɯn)</h2>
+        <p>Documented oral literature collected from Powaimukh village elders (PARADISEC & ELAR collections). Features wedding songs, lullabies, work chants, and courting poetry.</p>
+      </div>
+
+      <div class="filter-bar">
+        <div class="search-input-group">
+          <input type="text" id="songSearchInput" placeholder="Search song titles, lyrics, or informants...">
+          <button id="songSearchBtn" class="btn btn-primary">Search Songs</button>
+          <button id="songResetBtn" class="btn btn-secondary">All Songs</button>
+        </div>
+      </div>
+
+      <div id="songsContainer" class="songs-grid">
+        <!-- Injected dynamically -->
+      </div>
+    </section>
+
+    <!-- TAB: SCHOLARLY LIBRARY & SOURCES -->
+    <section id="biblioTab" class="tab-pane">
+      <div class="panel-header">
+        <h2>Scholarly Library & Resource Repository</h2>
+        <p>Curated books, peer-reviewed articles, endangered language archives (PARADISEC, ELAR, CFEL), and field dissertations on Tai Khamyang.</p>
+      </div>
+
+      <div class="filter-bar">
+        <div class="search-input-group">
+          <input type="text" id="bibSearchInput" placeholder="Search literature by author (Morey, Nath, Grierson), title, year...">
+          <button id="bibSearchBtn" class="btn btn-primary">Search Library</button>
+          <button id="bibResetBtn" class="btn btn-secondary">All Records</button>
+        </div>
+        <div class="dropdown-filters">
+          <a href="/api/bibliography/bibtex" class="btn btn-primary" download="khamyang_bibliography.bib">📥 Download BibTeX (.bib)</a>
+          <a href="/api/bibliography/markdown" class="btn btn-secondary" download="BIBLIOGRAPHY.md">📄 Download Markdown</a>
+        </div>
+      </div>
+
+      <div id="bibContainer" class="bib-grid">
+        <!-- Injected dynamically -->
+      </div>
+    </section>
+
     <!-- TAB 6: CORPUS & FOLK TEXTS -->
     <section id="corpusTab" class="tab-pane">
+
       <div class="panel-header">
         <h2>Annotated Corpus & Oral Narratives</h2>
         <p>Interlinear Glossed Texts (IGT) preserving oral history and folk traditions of Powaimukh elders.</p>

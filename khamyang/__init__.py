@@ -23,6 +23,9 @@ from khamyang.grammar.numerals import num_to_khamyang, khamyang_to_num
 from khamyang.phrases.phrasebook import KhamyangPhrasebook, get_phrasebook
 from khamyang.corpus.texts import KhamyangCorpus, get_corpus
 from khamyang.corpus.igt import InterlinearGloss
+from khamyang.corpus.songs import SongEngine
+from khamyang.grammar.kinship import KinshipEngine, CLANS
+from khamyang.scraper.downloader import BibliographyManager
 
 __all__ = [
     "__version__",
@@ -49,4 +52,9 @@ __all__ = [
     "KhamyangCorpus",
     "get_corpus",
     "InterlinearGloss",
+    "SongEngine",
+    "KinshipEngine",
+    "CLANS",
+    "BibliographyManager",
 ]
+

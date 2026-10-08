@@ -265,5 +265,211 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "text_004",
+    "title_khamyang": "Hong1 Khwan1: Heu3 Khwan1 Maa1 Yu5 Nai1 To1",
+    "title_english": "Calling of the Soul: Return of the Life Spirit",
+    "genre": "ritual_chant",
+    "informant": "Elder Chaw Sa Myat Chowlik",
+    "village": "Powaimukh, Assam",
+    "description": "Ancient Tai healing chant performed to summon back the 32 vital spirit-essences (khwan) when someone is afflicted by sickness or trauma.",
+    "sentences": [
+      {
+        "id": "t4_s1",
+        "text_roman": "khwan1 hua1 khwan1 chai1 maa1 hɯn1 wan1 nai6",
+        "lik_tai": "ၶႂၼ်ႁူဝ်ၶႂၼ်ၸႂ်မႃးႁိူၼ်းဝၼ်းၼႆႉ",
+        "assamese_script": "খ্বন¹ হুৱা¹ খ্বন¹ চাই¹ মা¹ হ্যুন¹ ৱান¹ নাই⁶",
+        "morphemes": [
+          "khwan1",
+          "hua1",
+          "khwan1",
+          "chai1",
+          "maa1",
+          "hɯn1",
+          "wan1",
+          "nai6"
+        ],
+        "glosses": [
+          "soul",
+          "head",
+          "soul",
+          "heart",
+          "come",
+          "house",
+          "day",
+          "this"
+        ],
+        "free_translation_en": "O soul of the head and spirit of the heart, return home this day!",
+        "free_translation_as": "হে মূৰৰ প্ৰাণ আৰু হৃদয়ৰ আত্মা, আজি নিজৰ গৃহলৈ ঘূৰি আহা!",
+        "speaker": "Traditional / Elder",
+        "location": "Powaimukh, Assam",
+        "audio_ref": "",
+        "notes": ""
+      },
+      {
+        "id": "t4_s2",
+        "text_roman": "am1 heu3 pai1 nai1 thɯn2 doi1 lɯk4",
+        "lik_tai": "ဢမ်ႇႁႂ်ႈပႆၼႂ်းထိူၼ်ႇလွႆလိုၵ်ႉ",
+        "assamese_script": "আম¹ হেউ³ পাই¹ নাই¹ থ্যুন² দৈ¹ ল্যক⁴",
+        "morphemes": [
+          "am1",
+          "heu3",
+          "pai1",
+          "nai1",
+          "thɯn2",
+          "doi1",
+          "lɯk4"
+        ],
+        "glosses": [
+          "NEG",
+          "allow",
+          "wander",
+          "inside",
+          "forest",
+          "mountain",
+          "deep"
+        ],
+        "free_translation_en": "Do not wander astray into the deep forest and wild mountains.",
+        "free_translation_as": "গভীৰ অৰণ্য আৰু অচিনাকি পাহাৰত হেৰাই নাথাকিবা।",
+        "speaker": "Traditional / Elder",
+        "location": "Powaimukh, Assam",
+        "audio_ref": "",
+        "notes": ""
+      },
+      {
+        "id": "t4_s3",
+        "text_roman": "maa1 yu5 kap4 po5 me5 phuu5 thau3 haw1",
+        "lik_tai": "မႃးယူႇၵပ်းပေႃႈမႄႈၽူႈထဝ်ႈႁဝ်း",
+        "assamese_script": "মা¹ য়ু⁵ কাপ⁴ পৌ⁵ মে⁵ ফু⁵ থাও³ হাও¹",
+        "morphemes": [
+          "maa1",
+          "yu5",
+          "kap4",
+          "po5",
+          "me5",
+          "phuu5-thau3",
+          "haw1"
+        ],
+        "glosses": [
+          "come",
+          "stay",
+          "with",
+          "father",
+          "mother",
+          "elder",
+          "our"
+        ],
+        "free_translation_en": "Come dwell in safety with your father, mother, and our elders.",
+        "free_translation_as": "আহি দেউতা, মা আৰু জ্যেষ্ঠসকলৰ সতে সুৰক্ষিত হৈ বাস কৰা।",
+        "speaker": "Traditional / Elder",
+        "location": "Powaimukh, Assam",
+        "audio_ref": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "text_005",
+    "title_khamyang": "Prawat1 Mung1 Mau1: Khun1 Lung1 tang1 Khun1 Lai1",
+    "title_english": "The Legend of Mung Mau: The Celestial Kings Khun Lung and Khun Lai",
+    "genre": "historical_legend",
+    "informant": "Elder Deben Chowlik",
+    "village": "Powaimukh, Assam",
+    "description": "Sacred Tai chronicle relating the descent of the divine celestial ancestors Khun Lung and Khun Lai from heaven to rule over Mung Mau.",
+    "sentences": [
+      {
+        "id": "t5_s1",
+        "text_roman": "chaophaa1 lung1 lai1 long1 maa1 luk4 faa3",
+        "lik_tai": "ၸဝ်ႈၽႃလုင်လၢႆလူင်းမႃးလုၵ်ႉၽႃႉ",
+        "assamese_script": "চাওফা¹ লুং¹ লাই¹ লং¹ মা¹ লুক⁴ ফা³",
+        "morphemes": [
+          "chaophaa1",
+          "lung1",
+          "lai1",
+          "long1",
+          "maa1",
+          "luk4",
+          "faa3"
+        ],
+        "glosses": [
+          "king",
+          "Lung",
+          "Lai",
+          "descend",
+          "come",
+          "from",
+          "sky/heaven"
+        ],
+        "free_translation_en": "The celestial royal brothers Khun Lung and Khun Lai descended down from heaven.",
+        "free_translation_as": "স্বৰ্গৰ পৰা স্বৰ্গীয় ভাতৃদ্বয় খুন লুং আৰু খুন লাই মৰ্ত্যলৈ নামি আহিছিল।",
+        "speaker": "Traditional / Elder",
+        "location": "Powaimukh, Assam",
+        "audio_ref": "",
+        "notes": ""
+      },
+      {
+        "id": "t5_s2",
+        "text_roman": "khao5 tang3 mung1 mau1 rim1 nam6 mau1",
+        "lik_tai": "ၶဝ်တၢင်ႇမုင်းမၢဝ်ရိမ်ႇၼမ်ႉမၢဝ်",
+        "assamese_script": "খাও⁵ তাং³ মুং¹ মাও¹ ৰিম¹ নাম⁶ মাও¹",
+        "morphemes": [
+          "khao5",
+          "tang3",
+          "mung1",
+          "mau1",
+          "rim1",
+          "nam6",
+          "mau1"
+        ],
+        "glosses": [
+          "3PL",
+          "establish",
+          "country",
+          "Mau",
+          "bank",
+          "water",
+          "Shweli"
+        ],
+        "free_translation_en": "They established the glorious kingdom of Mung Mau along the fertile river Mau (Shweli).",
+        "free_translation_as": "তেওঁলোকে মাও নদীৰ পাৰত সুবিখ্যাত মুং মাও ৰাজ্য প্ৰতিষ্ঠা কৰিলে।",
+        "speaker": "Traditional / Elder",
+        "location": "Powaimukh, Assam",
+        "audio_ref": "",
+        "notes": ""
+      },
+      {
+        "id": "t5_s3",
+        "text_roman": "khɯa1 nora1 luk4 mung1 mau1 khaa3 maa1 pat4kai1",
+        "lik_tai": "ၶိူဝ်ၼေႃးရႃႉလုၵ်ႉမုင်းမၢဝ်ၶႃႉမႃးပႅတ်ႇၵၢႆး",
+        "assamese_script": "খুৱা¹ নোৰা¹ লুক⁴ মুং¹ মাও¹ খা³ মা¹ পেত⁴ কাই¹",
+        "morphemes": [
+          "khɯa1",
+          "nora1",
+          "luk4",
+          "mung1",
+          "mau1",
+          "khaa3",
+          "maa1",
+          "pat4kai1"
+        ],
+        "glosses": [
+          "clan",
+          "Nora",
+          "from",
+          "country",
+          "Mau",
+          "cross",
+          "come",
+          "Patkai"
+        ],
+        "free_translation_en": "From Mung Mau, the ancestral Nora (Khamyang) clan crossed the rugged Patkai to Assam.",
+        "free_translation_as": "মুং মাওৰ পৰাই নোৰা (খাময়াং) বংশৰ পূৰ্বপুৰুষসকলে পাতকাই পাৰ হৈ অসমলৈ আহিছিল।",
+        "speaker": "Traditional / Elder",
+        "location": "Powaimukh, Assam",
+        "audio_ref": "",
+        "notes": ""
+      }
+    ]
   }
 ]

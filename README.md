@@ -27,13 +27,16 @@ The primary objective of this library is **language preservation, computational 
    - [Phonology & 6-Tone Engine](#2-phonology--6-tone-engine)
    - [Bidirectional Script Transliteration](#3-bidirectional-script-transliteration)
    - [Grammar, Classifiers & Naming System](#4-grammar-classifiers--naming-system)
-   - [Phrasebook & Fieldwork Elicitation](#5-phrasebook--fieldwork-elicitation)
-   - [Annotated Corpus & Interlinear Glossing (IGT)](#6-annotated-corpus--interlinear-glossing-igt)
-   - [Data Exporters (Anki, CSV, HTML, LaTeX, ELAN)](#7-data-exporters-anki-csv-html-latex-elan)
+   - [Kinship & Family Relations System](#5-kinship--family-relations-system)
+   - [Traditional Songs & Ballads (Fɯn)](#6-traditional-songs--ballads-fɯn)
+   - [Folklore & Annotated Corpus (IGT)](#7-folklore--annotated-corpus-igt)
+   - [Scholarly Bibliography & Download Downloader](#8-scholarly-bibliography--download-downloader)
+   - [Data Exporters (Anki, CSV, HTML, LaTeX, ELAN)](#9-data-exporters-anki-csv-html-latex-elan)
 7. [Command-Line Interface (CLI)](#command-line-interface-cli)
 8. [Interactive Web Platform (`khamyang web`)](#interactive-web-platform-khamyang-web)
 9. [Academic Sources & Citations](#academic-sources--citations)
 10. [License](#license)
+
 
 ---
 

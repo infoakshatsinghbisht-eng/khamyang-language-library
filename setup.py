@@ -14,14 +14,14 @@ setup(
     description="A Python language library and revitalization toolkit for Tai Khamyang (ksu)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/infoakshatsinghbisht-eng/khamyang",
+    url="https://github.com/infoakshatsinghbisht-eng/khamyang-language-library",
     project_urls={
         "Homepage": "https://akshatsinghbisht.com/",
-        "GitHub": "https://github.com/infoakshatsinghbisht-eng/khamyang",
+        "GitHub": "https://github.com/infoakshatsinghbisht-eng/khamyang-language-library",
         "LinkedIn": "https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/",
         "Amazon Author": "https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28",
         "ResearchGate": "https://www.researchgate.net/profile/Akshat-Bisht-8",
-        "Bug Tracker": "https://github.com/infoakshatsinghbisht-eng/khamyang/issues",
+        "Bug Tracker": "https://github.com/infoakshatsinghbisht-eng/khamyang-language-library/issues",
     },
     packages=find_packages(),
     package_data={

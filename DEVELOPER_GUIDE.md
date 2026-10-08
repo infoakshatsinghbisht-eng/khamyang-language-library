@@ -491,7 +491,7 @@ with open("data/ai/instruction_dataset.jsonl", "r", encoding="utf-8") as f:
 * **Amazon Author Profile**: [Akshat Singh Bisht on Amazon](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
 * **ResearchGate**: [Akshat Bisht on ResearchGate](https://www.researchgate.net/profile/Akshat-Bisht-8)
 * **GitHub**: [@infoakshatsinghbisht-eng](https://github.com/infoakshatsinghbisht-eng)
-* **Repository**: [https://github.com/infoakshatsinghbisht-eng/khamyang](https://github.com/infoakshatsinghbisht-eng/khamyang)
+* **Repository**: [https://github.com/infoakshatsinghbisht-eng/khamyang-language-library](https://github.com/infoakshatsinghbisht-eng/khamyang-language-library)
 * **PyPI Package**: [https://pypi.org/project/khamyang/](https://pypi.org/project/khamyang/)
 
 ---

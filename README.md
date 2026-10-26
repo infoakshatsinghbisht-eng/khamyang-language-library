@@ -197,7 +197,7 @@ print(res)     # {'language': 'ksu', 'confidence': 1.0, ...}
 ## Sub-Corpora & Cultural Resources
 
 ### Dictionary & Lexicon
-- **1,099 verified lexical entries** across 48 semantic domains (kinship, flora, fauna, agriculture, religion, bodily anatomy).
+- **4,063 verified lexical entries** across 61 semantic domains (kinship, flora, fauna, agriculture, religion, bodily anatomy, discourse particles, tool implements).
 - Every entry contains: `id`, `roman`, `lik_tai`, `assamese`, `ipa`, `tone`, `pos`, `definition_en`, `definition_as`, `category`, and `gedney_box`.
 
 ### Traditional Songs (*Fɯn*)
@@ -210,16 +210,18 @@ print(res)     # {'language': 'ksu', 'confidence': 1.0, ...}
   6. *Fɯn Dam Khaw* (Song of Rice Seedling Transplantation)
 
 ### Folklore & Interlinear Texts (IGT)
-- **5 complete narratives** formatted in Leipzig-compliant interlinear glosses (IGT):
+- **5 foundational narratives** formatted in Leipzig-compliant interlinear glosses (IGT):
   - *The Quail and the Egret* (*Lik Pung: Nok4 Kot4 Kap4 Nok4 Yang1*)
   - *The Hornbill and the Drongo* (*Lik Pung: Nok4 Kok4 Kap4 Nok4 Te3*)
   - *The Water Buffalo and the Tiger* (*Lik Pung: Kwaai1 Kap4 Sɯa1*)
   - *The Five Siblings Journeying* (*Lik Pung: Khon1 Haa3 Luk4 Phaai1*)
   - *Mahosadha Jataka* (*Lik Chau: Mahosadha*)
+- Expanded with **234 deep-annotated master book volumes** in `data/books/` and **2,298 cataloged texts** in `khamyang/data/books_catalog.json`.
 
 ### Proverbs & Sayings (*Kham1 Thum3*)
-- Moral aphorisms preserving traditional wisdom, agricultural advice, and filial duty:
+- **12 authentic moral proverbs** preserving traditional wisdom, agricultural advice, and filial duty:
   - *"Kin1 khaw3 haam1 luang1, kin1 nam6 haam1 thung1"* (Eat rice respecting the grain, drink water respecting the stream).
+  - Complete with morphemic breakdowns, cultural explanations, and Assamese equivalents.
 
 ### Material Culture & Ethnobotany
 - **Traditional architecture & implements:** Raised stilt house (*hɯn1 thaai1*), center pillar (*saaw1 mai6 luang1*), domestic hearth (*khaang1 fai1*), handloom (*huuk4 phaa3*), handwoven skirt (*sin3 thaai1*), foot-lever mortar (*khrɔk4 tam1 khaw3*).
@@ -230,12 +232,13 @@ print(res)     # {'language': 'ksu', 'confidence': 1.0, ...}
 - Indices of permanent archival recordings held in **PARADISEC** (`SDM03`, `SDM07`) and **ELAR** (`MPI1029884`).
 - Catalogs recording dates, durations, informants, locations, and persistent archive URLs. (Audio binaries are preserved via source links to honor depositor rights).
 
-### Parallel Sentence Corpus
-- 16 fully aligned Tai Khamyang <-> English <-> Assamese sentence pairs with full morphemic breakdown and provenance.
+### PyPI Distribution Scope vs. Archival Datasets
+- **PyPI Package (`khamyang` ~ 1.8 MB):** Contains the production-ready Python computational engine, unified facade (`Khamyang`), full 4,063-entry verified lexicon, 6-tone audio synthesizer, transliterators, NLP pipeline, CLI, and catalog index. It is deliberately streamlined for instant installation.
+- **Large-Scale NLP Corpus (500,000 sentences, ~250 MB):** A **Level 3 (Algorithmic / Synthetic)** parallel training dataset engineered via combinatorial grammar templates for Neural Machine Translation (NMT) and language model pre-training. To keep the Python package lightweight and protect community data, this corpus and the raw 12.7 MB archival scans are maintained locally / in standalone research dumps rather than bloated inside the core PyPI wheel.
 
 ### AI Datasets & Partitioning
 - AI instruction and evaluation sets are stored strictly separately in `data/ai/instruction_dataset.jsonl`.
-- Explicitly labeled with `source_type: "human_verified"` to prevent data poisoning.
+- Explicitly labeled with `source_type: "human_verified"` vs `source_type: "algorithmic_synthetic"` to prevent data poisoning.
 
 ---
 

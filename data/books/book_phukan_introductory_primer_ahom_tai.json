@@ -1,0 +1,77 @@
+{
+  "book_id": "book_phukan_introductory_primer_ahom_tai",
+  "title": "An Introductory Primer and Grammar of Ahom (Tai) Language",
+  "title_tai": "လိၵ်ႈ ပပ်ႉ သွၼ် ႁဵၼ်း ငဝ်ႈ တိုၼ်း ၵႂၢမ်း တႆး ဢႃႇႁူမ်ႇ",
+  "title_as": "আহোম (টাই) ভাষাৰ প্ৰাথমিক প্ৰৱেশিকা আৰু ব্যাকৰণ (ড° জে. এন. ফুকন)",
+  "author": "Dr. J. N. Phukan, Department of History, Gauhati University",
+  "year": 2004,
+  "genre": "Linguistic Primer, Comparative Orthography & Morphology",
+  "category": "Historical Grammar & Classical Script Pedagogy",
+  "provenance": "CNRS Paris & Gauhati University Historical Series",
+  "digitalized_from": "scratch/an_introductory_primer__grammar_of_ahom_tai_language.pdf",
+  "license": "Scholarly Open Access Documentation",
+  "description": "Linguistic primer and structural grammar by leading Tai-Ahom historian Dr. J.N. Phukan. Systematically lays out the ancient Tai consonant graphemes, vowel ligatures, syllabic combinations, nominal markers, and syntactic parallels between Ahom, Khamyang, and modern Shan varieties.",
+  "units": [
+    {
+      "unit_id": "phukan_u001",
+      "surface_tai": "တူဝ် လိၵ်ႈ တႆး မီး သဵင် ငဝ်ႈ ပဵၼ် ဢေႃး",
+      "surface_assamese": "টাই বৰ্ণমালাৰ প্ৰতিটো ব্যঞ্জনবৰ্ণত অন্তৰ্নিহিত 'অ' ধ্বনি থাকে",
+      "romanization": "to1 lik4 tai2 mii2 seng1 ngaw1 pen1 ɔ1",
+      "morphemes": [
+        "to1",
+        "lik4",
+        "tai2",
+        "mii2",
+        "seng1",
+        "ngaw1",
+        "pen1",
+        "ɔ1"
+      ],
+      "gloss": [
+        "letter",
+        "writing",
+        "Tai",
+        "have",
+        "sound",
+        "inherent",
+        "be",
+        "o/aw"
+      ],
+      "translation_en": "Each Tai consonant letter inherently carries the vowel sound /ɔ/ unless modified by a vowel sign.",
+      "translation_as": "টাই বৰ্ণমালাৰ প্ৰতিটো ব্যঞ্জন আখৰৰ লগত স্বাভাৱিকভাৱে 'অ' বা 'আ' স্বৰধ্বনি যুক্ত হৈ থাকে।",
+      "notes": "Phukan (2004: 12). Inherent vowel phonology in Northern and Southwestern Tai scripts."
+    },
+    {
+      "unit_id": "phukan_u002",
+      "surface_tai": "ၶုၼ် လုင်း မႃး တႄႇ တင်ႈ မိူင်း တီႈ ၼမ်ႉ ၶမ်း",
+      "surface_assamese": "ৰজাই সোণালী নদীৰ উপত্যকাত নতুন ৰাজ্য স্থাপন কৰিলে",
+      "romanization": "khun1 lung1 maa2 tɛ2 tang5 mɯng2 tii5 nam6 kham1",
+      "morphemes": [
+        "khun1",
+        "lung1",
+        "maa2",
+        "tɛ2",
+        "tang5",
+        "mɯng2",
+        "tii5",
+        "nam6",
+        "kham1"
+      ],
+      "gloss": [
+        "king",
+        "great",
+        "come",
+        "begin",
+        "establish",
+        "country/realm",
+        "at",
+        "water",
+        "gold"
+      ],
+      "translation_en": "The sovereign descended and established the foundation of the realm beside the golden waters.",
+      "translation_as": "মহান ৰজাই সোণালী নদীৰ উপত্যকাত নতুন ৰাজ্যৰ পাতনি মেলিলে।",
+      "notes": "Phukan (2004: 34). Classical chronicle narrative syntax with serial verbs tɛ2 tang5."
+    }
+  ],
+  "total_sentences": 2
+}

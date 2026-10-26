@@ -1,0 +1,46 @@
+{
+  "book_id": "book_dhammacakka_shan_poetry",
+  "title": "Dhammacakka in Shan-Tai Metrical Poetry (Lik Tham Verses)",
+  "title_tai": "လိၵ်ႈ ထမ်း ထမ်ႇမၸၵ်ႉၵႃႇ ပွႆး ဝွၵ်း တႆး",
+  "title_as": "টাই পদ ছন্দত ধৰ্মচক্ৰ প্ৰৱৰ্তন সূত্ৰ (লিক থাম পদ্য আখ্যান)",
+  "author": "Sayadaw U Tejavanta & Traditional Lik-Tham Scribes",
+  "year": 1985,
+  "genre": "Buddhist Classical Verse (Lik Tham) & Metrical Poetry",
+  "category": "Sacred Buddhist Literature & Kham Khom Rhymes",
+  "provenance": "Monastery Manuscripts of Margherita & Powaimukh Sacred Viharas",
+  "digitalized_from": "scratch/dhammacakka_in_shan_poetry.pdf",
+  "license": "Community Religious Cultural Archive",
+  "description": "Classical metrical translation of the First Sermon of the Buddha (Dhammacakkappavattana Sutta) into exquisite Tai rhymed verse (Lik Tham). Composed in the traditional four-line kham khom poetic meter utilized during Vassa ceremonies across Upper Assam viharas.",
+  "units": [
+    {
+      "unit_id": "dhamma_u001",
+      "surface_tai": "တြႃး ထမ်ႇမၸၵ်ႉၵႃႇ ပဵၼ် တၢင်း ဢွၵ်ႇ လွတ်ႈ တၢင်း တုၵ်ႉၶႉ",
+      "surface_assamese": "ধৰ্মচক্ৰ সূত্ৰই সংসাৰৰ সকলো দুখ-যন্ত্ৰণাৰ পৰা মুক্তিৰ পথ দেখুৱায়",
+      "romanization": "traa2 tham1-ma1-cak1-kaa2 pen1 taang2 ɔk5 lɔt5 taang2 tuk1-kha1",
+      "morphemes": [
+        "traa2",
+        "tham1-ma1-cak1-kaa2",
+        "pen1",
+        "taang2",
+        "ɔk5",
+        "lɔt5",
+        "taang2",
+        "tuk1-kha1"
+      ],
+      "gloss": [
+        "dharma",
+        "Dhammacakka",
+        "be",
+        "way",
+        "exit/escape",
+        "liberate",
+        "way",
+        "suffering/dukkha"
+      ],
+      "translation_en": "The sacred Dhammacakka discourse reveals the noble path leading to freedom from all earthly suffering.",
+      "translation_as": "পৱিত্ৰ ধৰ্মচক্ৰ প্ৰৱৰ্তন সূত্ৰই সংসাৰৰ সকলো দুখ-যন্ত্ৰণাৰ পৰা নিবাৰণৰ পথ প্ৰদৰ্শন কৰে।",
+      "notes": "Sayadaw U Tejavanta (1985: 4). Opening stanza in traditional metrical Tai cadence."
+    }
+  ],
+  "total_sentences": 1
+}

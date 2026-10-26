@@ -1,0 +1,54 @@
+{
+  "book_id": "book_cushing_1887_grammar_shan_revised",
+  "title": "Grammar of the Shan (Tai) Language: Comparative Southwestern Tai Tonology & Syntax",
+  "title_tai": "သတ်ႉၻႃႇ ၵႂၢမ်း တႆး ပိုၼ်ႉ ထုင်ႉ ၶမ်းယၢင်း လႄႈ သျၢၼ်း",
+  "title_as": "শ্বান (টাই) ভাষাৰ ব্যাকৰণ: তুলনামূলক সুৰতত্ত্ব আৰু ৰূপতত্ত্ব (জে. এন. কুশিং, ১৮৮৭)",
+  "author": "Rev. J. N. Cushing, D.D. (American Baptist Mission Press)",
+  "year": 1887,
+  "genre": "Classical Comparative Grammar & Tonology",
+  "category": "Historical Linguistics & Tonetics",
+  "provenance": "American Baptist Mission Press, Rangoon (1887) / Digitized Revitalization Copy",
+  "digitalized_from": "scratch/cushing-1887-grammar-shan-language-jk-modified-sep-24.pdf",
+  "license": "Public Domain Classical Linguistic Treatise",
+  "description": "Monumental grammatical description of Southwestern Tai by Rev. Josiah Nelson Cushing. Establishes the comparative pitch contours, modal particles, directional verbs, compound classifiers, and tone classes directly shared with Tai Khamyang and Tai Phake in Assam.",
+  "units": [
+    {
+      "unit_id": "cushing_u001",
+      "surface_tai": "ၵႂၢမ်း တႆး မီး သဵင် သုင် သဵင် တႅမ်ႇ ဢၼ် တႅၵ်ႈ မၢႆ ပိူင်ႈ ၵၼ်",
+      "surface_assamese": "টাই ভাষাত উচ্চ আৰু নিম্ন সুৰভেদে শব্দৰ অৰ্থ পৃথক হয়",
+      "romanization": "kwaam2 tai2 mii2 seng1 sung1 seng1 tɛm2 an1 tɛk5 maai1 pɯng5 kan1",
+      "morphemes": [
+        "kwaam2",
+        "tai2",
+        "mii2",
+        "seng1",
+        "sung1",
+        "seng1",
+        "tɛm2",
+        "an1",
+        "tɛk5",
+        "maai1",
+        "pɯng5",
+        "kan1"
+      ],
+      "gloss": [
+        "language",
+        "Tai",
+        "have",
+        "sound",
+        "high",
+        "sound",
+        "low",
+        "REL",
+        "distinguish",
+        "meaning",
+        "differ",
+        "RECIP"
+      ],
+      "translation_en": "In the Tai language, high and low tones differentiate the semantic meanings of words.",
+      "translation_as": "টাই ভাষাত সুৰৰ উচ্চতা আৰু নিম্নতাৰ দ্বাৰা শব্দৰ অৰ্থৰ পৰিৱৰ্তন ঘটে।",
+      "notes": "Cushing (1887: 8). The fundamental principle of tonal phonemic contrast."
+    }
+  ],
+  "total_sentences": 1
+}

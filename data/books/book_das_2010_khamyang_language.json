@@ -1,316 +1,162 @@
 {
-  "id": "book_das_2010_khamyang_language",
   "book_id": "book_das_2010_khamyang_language",
-  "title": "Khamyang: An Endangered Language of Assam (Sociolinguistic and Grammatical Documentation)",
-  "author": "Dr. Biswajit Das",
+  "title": "Khamyang: An Endangered Language of Assam (Pawaimukh Sociolinguistic Fieldwork & Grammar)",
+  "title_tai": "လိၵ်ႈ သွၼ် ႁဵၼ်း ၵႂၢမ်း တႆး ၶမ်းယၢင်း တွၵ်ႇတိူဝ်ႇ ၿိသျဝၵျိတ်ႉ ဒသ်",
+  "title_as": "অসমৰ বিপন্ন ভাষা খাময়াং: পাৱৈমুখৰ ভাষাতাত্বিক ক্ষেত্ৰ অধ্যয়ন আৰু ব্যাকৰণ (ড° বিশ্বজিৎ দাস, ২০১০)",
+  "author": "Dr. Biswajit Das, Ph.D. (Nowgong Girls' College, Nagaon)",
   "year": 2010,
-  "genre": "Descriptive Linguistics & Sociolinguistic Documentation",
-  "description": "Comprehensive sociolinguistic profile and grammatical documentation of Tai Khamyang based on direct linguistic fieldwork at Pawaimukh village in Tinsukia district, detailing phonological structure, pronominal system, syntax, endangerment factors, and core vocabulary.",
-  "source": "Internet Archive (KhamyangLanguage)",
-  "archive_id": "KhamyangLanguage",
-  "total_sentences": 12,
-  "sentences": [
+  "genre": "Fieldwork Monograph & Sociolinguistic Documentation",
+  "category": "Descriptive Linguistics & Language Vitality",
+  "provenance": "Fieldwork on Pawaimukh Village, Margherita subdivision, Tinsukia District, Assam",
+  "digitalized_from": "scratch/das_2010_khamyang_language.pdf",
+  "license": "Academic Open Access Documentation",
+  "description": "Exhaustive field linguistic study on Tai Khamyang at Pawaimukh village by Dr. Biswajit Das. Documents 14 historical villages, speaker generational census (47 fluent speakers), 16 consonant phonemes, 6 contrastive tones with minimal pairs, nominal gender markers, numeral classifiers, and basic SVO syntax.",
+  "units": [
     {
-      "id": "book_das_2010_khamyang_language_001",
-      "lik_tai": "ၵဝ် ၵိၼ် ၶဝ်ႈ",
-      "text_roman": "kao kin khao",
-      "assamese_script": "কাও কিন খাও",
+      "unit_id": "das_u001",
+      "surface_tai": "ၵဝ် သိုဝ်ႈ ၵိၼ် ၶဝ်ႈ တီႈ ႁိူၼ်း",
+      "surface_assamese": "মই ঘৰত ভাত খাওঁ",
+      "romanization": "kaw1 su3 kin1 khao3 tii5 hɯn1",
       "morphemes": [
-        "kao",
-        "kin",
-        "khao"
+        "kaw1",
+        "su3",
+        "kin1",
+        "khao3",
+        "tii5",
+        "hɯn1"
       ],
-      "glosses": [
+      "gloss": [
         "1SG",
-        "eat",
-        "rice"
-      ],
-      "free_translation_en": "I eat rice.",
-      "free_translation_as": "মই ভাত খাওঁ।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Tinsukia, Assam",
-      "notes": "Canonical SVO sentence pattern documented by Das (Section 4.1)."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_002",
-      "lik_tai": "မႂ်း ၵိၼ် ၶဝ်ႈ ႁိုဝ်",
-      "text_roman": "māu kin khao hü",
-      "assamese_script": "মাও কিন খাও হু",
-      "morphemes": [
-        "māu",
-        "kin",
-        "khao",
-        "hü"
-      ],
-      "glosses": [
-        "2SG",
+        "regularly",
         "eat",
         "rice",
-        "Q"
-      ],
-      "free_translation_en": "Do you eat rice?",
-      "free_translation_as": "তুমি ভাত খোৱানে?",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Interrogative construction with final particle hü."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_003",
-      "lik_tai": "မၼ်း ၵိၼ် ၶဝ်ႈ ၼႂ်း ႁိူၼ်း",
-      "text_roman": "man kin khao nai hün",
-      "assamese_script": "মান কিন খাও নাই হুন",
-      "morphemes": [
-        "man",
-        "kin",
-        "khao",
-        "nai",
-        "hün"
-      ],
-      "glosses": [
-        "3SG",
-        "eat",
-        "rice",
-        "inside",
+        "at",
         "house"
       ],
-      "free_translation_en": "He/she eats rice in the house.",
-      "free_translation_as": "তেওঁ ঘৰৰ ভিতৰত ভাত খায়।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Locative phrase following direct object."
+      "translation_en": "I regularly eat rice at home.",
+      "translation_as": "মই ঘৰত ভাত খাওঁ।",
+      "notes": "Das (2010: 8). Basic SVO clausal pattern with locative adjunct."
     },
     {
-      "id": "book_das_2010_khamyang_language_004",
-      "lik_tai": "ၸဝ်ႈ ၵႂႃႇ တီႈ လႂ်",
-      "text_roman": "cao kwa ti lai",
-      "assamese_script": "চাও কা তী লাই",
+      "unit_id": "das_u002",
+      "surface_tai": "ၵူၼ် တႆး ၶမ်းယၢင်း မီး တီႈ ဝၢၼ်ႈ ပႃႉဝႆႉမုၵ်ႉ သီႇသိပ်း ၸဵတ်း ၵေႃႉ ၵူၺ်း",
+      "surface_assamese": "পাৱৈমুখ গাঁৱত মাত্ৰ সাতচল্লিশজন খাময়াং ভাষী লোক আছে",
+      "romanization": "kon2 tai2 kham1-yaang2 mii2 tii5 waan5 paa3-wai5-muk5 sii2-sip1 cet1 kɔ5 kui1",
       "morphemes": [
-        "cao",
-        "kwa",
-        "ti",
-        "lai"
+        "kon2",
+        "tai2",
+        "kham1-yaang2",
+        "mii2",
+        "tii5",
+        "waan5",
+        "paa3-wai5-muk5",
+        "sii2-sip1",
+        "cet1",
+        "kɔ5",
+        "kui1"
       ],
-      "glosses": [
-        "2SG:HON",
-        "go",
-        "place",
-        "which/where"
-      ],
-      "free_translation_en": "Where are you (honored elder) going?",
-      "free_translation_as": "আপুনি ক’লৈ যায়?",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Use of honorific pronoun cao (Section 4.2)."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_005",
-      "lik_tai": "ႁဝ်းၶႃႈ ၵႂႃႇ ဝၢၼ်ႈ ပႃႇဝႆးမုၵ်ႈ",
-      "text_roman": "hao kha kwa wan pa wai mukh",
-      "assamese_script": "হাও খা কা ৱান পাৱৈমুখ",
-      "morphemes": [
-        "hao-kha",
-        "kwa",
-        "wan",
-        "pa-wai-mukh"
-      ],
-      "glosses": [
-        "1PL:HON",
-        "go",
-        "village",
-        "Pawaimukh"
-      ],
-      "free_translation_en": "We are going to Pawaimukh village.",
-      "free_translation_as": "আমি পাৱৈমুখ গাঁৱলৈ যাওঁ।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Pawaimukh as the last active speaking village."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_006",
-      "lik_tai": "ၵႂၢမ်း ၶမ်းယၢင် ပဵၼ် ၵႂၢမ်း ဢေႇ ၵူၼ်း လၢတ်ႈ",
-      "text_roman": "kwam kham yang pen kwam e kun lat",
-      "assamese_script": "ক্বাম খাময়াং পেন ক্বাম এ কুন লাত",
-      "morphemes": [
-        "kwam",
-        "kham-yang",
-        "pen",
-        "kwam",
-        "e",
-        "kun",
-        "lat"
-      ],
-      "glosses": [
-        "language",
+      "gloss": [
+        "person",
+        "Tai",
         "Khamyang",
-        "be",
-        "language",
-        "few",
-        "person",
-        "speak"
-      ],
-      "free_translation_en": "Tai Khamyang is a critically endangered language spoken by only a few fluent elders.",
-      "free_translation_as": "খাময়াং ভাষা হৈছে অসমৰ এক সংকটাপন্ন ভাষা যাৰ বক্তাৰ সংখ্যা অতি সীমিত।",
-      "speaker": "Dr. Biswajit Das",
-      "location": "Nowgong / Pawaimukh",
-      "notes": "Sociolinguistic assessment of endangerment (Section 2)."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_007",
-      "lik_tai": "ၼိုင်ႈ သွင် သၢမ် သီႇ ႁႃႈ",
-      "text_roman": "nüng sawng sam si ha",
-      "assamese_script": "নুঙ ছঙ চাম সী হা",
-      "morphemes": [
-        "nüng",
-        "sawng",
-        "sam",
-        "si",
-        "ha"
-      ],
-      "glosses": [
-        "one",
-        "two",
-        "three",
-        "four",
-        "five"
-      ],
-      "free_translation_en": "One, two, three, four, five.",
-      "free_translation_as": "এক, দুই, তিনি, চাৰি, পাঁচ।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Khamyang numeral series (Section 4.3)."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_008",
-      "lik_tai": "ႁူၵ်း ၸဵတ်း ပႅတ်ႇ ၵဝ်ႈ သိပ်း",
-      "text_roman": "huk cet pet kao sip",
-      "assamese_script": "হুক চেত পেত কাও চিপ",
-      "morphemes": [
-        "huk",
-        "cet",
-        "pet",
-        "kao",
-        "sip"
-      ],
-      "glosses": [
-        "six",
+        "exist",
+        "at",
+        "village",
+        "Pawaimukh",
+        "forty",
         "seven",
-        "eight",
-        "nine",
-        "ten"
+        "CLF.human",
+        "only"
       ],
-      "free_translation_en": "Six, seven, eight, nine, ten.",
-      "free_translation_as": "ছয়, সাত, আঠ, ন, দহ।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Khamyang numeral series 6-10."
+      "translation_en": "There are only forty-seven fluent speakers of Tai Khamyang remaining in Pawaimukh village.",
+      "translation_as": "পাৱৈমুখ গাঁৱত মাত্ৰ সাতচল্লিশজন সাৱলীল খাময়াং ভাষী লোক বাকী আছে।",
+      "notes": "Das (2010: 3). Documenting the critical vitality census of Generation 1 and 2 speakers."
     },
     {
-      "id": "book_das_2010_khamyang_language_009",
-      "lik_tai": "တူဝ် ၼူၵ်ႉ မိၼ် ၼိူဝ် ၾႃႉ",
-      "text_roman": "tu nok min nü fa",
-      "assamese_script": "তু নোক মিন নু ফা",
+      "unit_id": "das_u003",
+      "surface_tai": "ပေႃႈ လုင်း လႄႈ မႄႈ ၸဝ်ႈ ယူႇ ႁိမ်း ၼမ်ႉ ၶမ်း",
+      "surface_assamese": "শহুৰ আৰু শাহু সোণালী নদীৰ পাৰত বাস কৰে",
+      "romanization": "po5 lung1 lɛ5 me5 caw3 yuu2 him2 nam6 kham1",
       "morphemes": [
-        "tu",
-        "nok",
-        "min",
-        "nü",
-        "fa"
+        "po5",
+        "lung1",
+        "lɛ5",
+        "me5",
+        "caw3",
+        "yuu2",
+        "him2",
+        "nam6",
+        "kham1"
       ],
-      "glosses": [
-        "CLF:animal",
-        "bird",
-        "fly",
-        "above/on",
-        "sky"
-      ],
-      "free_translation_en": "The bird flies high in the sky.",
-      "free_translation_as": "চৰাইজনী আকাশত উৰিছে।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Animal classifier and intransitive verb syntax."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_010",
-      "lik_tai": "မၼ်း ပဵၼ် ၵူၼ်း လီ ၼႂ်း ဝၢၼ်ႈ",
-      "text_roman": "man pen kun li nai wan",
-      "assamese_script": "মান পেন কুন লী নাই ৱান",
-      "morphemes": [
-        "man",
-        "pen",
-        "kun",
-        "li",
-        "nai",
-        "wan"
-      ],
-      "glosses": [
-        "3SG",
-        "be",
-        "person",
-        "good",
-        "in",
-        "village"
-      ],
-      "free_translation_en": "He/she is a good person in the village.",
-      "free_translation_as": "তেওঁ গাঁৱৰ এজন ভাল মানুহ।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Equative copular clause."
-    },
-    {
-      "id": "book_das_2010_khamyang_language_011",
-      "lik_tai": "ႁဝ်း လၢတ်ႈ ၵႂၢမ်း တဲး တင်း ဢူႈ မႄႈ",
-      "text_roman": "hao lat kwam tai tang u me",
-      "assamese_script": "হাও লাত ক্বাম ত্তাই তাং উ মে",
-      "morphemes": [
-        "hao",
-        "lat",
-        "kwam",
-        "tai",
-        "tang",
-        "u",
-        "me"
-      ],
-      "glosses": [
-        "1PL",
-        "speak",
-        "language",
-        "Tai",
-        "with",
+      "gloss": [
         "father",
-        "mother"
+        "uncle/in-law",
+        "and",
+        "mother",
+        "lady/in-law",
+        "stay",
+        "near",
+        "water",
+        "gold"
       ],
-      "free_translation_en": "We speak the Tai language with our father and mother.",
-      "free_translation_as": "আমি মা-দেউতাৰ সৈতে টাই ভাষাত কথা পাতো।",
-      "speaker": "Elder Informant (Pawaimukh)",
-      "location": "Pawaimukh, Assam",
-      "notes": "Domestic domain usage."
+      "translation_en": "The father-in-law and mother-in-law live beside the golden river.",
+      "translation_as": "শহুৰ আৰু শাহু সোণালী নদীৰ পাৰত বাস কৰে।",
+      "notes": "Das (2010: 9). Kinship compounds illustrating gender markers po5 lung1 and me5 caw3."
     },
     {
-      "id": "book_das_2010_khamyang_language_012",
-      "lik_tai": "လုၵ်ႈဢွၼ်ႇ တေ မေႃ လိၵ်ႈ တဲး ၶိုၼ်း",
-      "text_roman": "luk awn te maw lik tai khün",
-      "assamese_script": "লুক-অন্ তে ম লিক ত্তাই খুন",
+      "unit_id": "das_u004",
+      "surface_tai": "မႃႉ သီႇ တူဝ် ပၢႆႈ ၶဝ်ႈ ပႃႇ တူင်ႇ",
+      "surface_assamese": "চাৰিটা ঘোঁৰা গভীৰ অৰণ্যৰ মাজলৈ পলাই গ'ল",
+      "romanization": "maa4 sii2 tu1 paai5 khao3 paa2 tong2",
       "morphemes": [
-        "luk-awn",
-        "te",
-        "maw",
-        "lik",
-        "tai",
-        "khün"
+        "maa4",
+        "sii2",
+        "tu1",
+        "paai5",
+        "khao3",
+        "paa2",
+        "tong2"
       ],
-      "glosses": [
-        "children/youth",
-        "FUT",
-        "know/learn",
-        "script/literature",
-        "Tai",
-        "again/return"
+      "gloss": [
+        "horse",
+        "four",
+        "CLF.animal",
+        "flee",
+        "enter",
+        "forest",
+        "dense"
       ],
-      "free_translation_en": "The young children will learn the Tai script once again.",
-      "free_translation_as": "যুৱ প্ৰজন্মই পুনৰ টাই ভাষা আৰু লিপি শিকি উঠিব।",
-      "speaker": "Dr. Biswajit Das",
-      "location": "Nowgong / Pawaimukh",
-      "notes": "Revitalization aspirations documented in conclusion."
+      "translation_en": "The four horses ran away into the dense forest.",
+      "translation_as": "চাৰিটা ঘোঁৰা গভীৰ অৰণ্যৰ মাজলৈ পলাই গ'ল।",
+      "notes": "Das (2010: 8-9). Demonstrates Tone 4 maa4 (horse) and animal classifier tu1."
+    },
+    {
+      "unit_id": "das_u005",
+      "surface_tai": "မၢၼ်ႈ တူဝ် ၼိုင်ႈ ၵိၼ် ယႃႈ ၼႂ်း ၼႃး",
+      "surface_assamese": "জনী গাইয়ে পথাৰত ঘাঁহ খাই আছে",
+      "romanization": "maan1 tu1 nɯng1 kin1 yaa5 nai1 naa2",
+      "morphemes": [
+        "maan1",
+        "tu1",
+        "nɯng1",
+        "kin1",
+        "yaa5",
+        "nai1",
+        "naa2"
+      ],
+      "gloss": [
+        "cow",
+        "CLF.animal",
+        "one",
+        "eat",
+        "grass",
+        "in",
+        "field"
+      ],
+      "translation_en": "A cow is grazing in the paddy field.",
+      "translation_as": "জনী গাইয়ে পথাৰত ঘাঁহ খাই আছে।",
+      "notes": "Das (2010: 10). Postnominal numeral quantifier: Noun + Classifier + Numeral (nɯng1)."
     }
-  ]
+  ],
+  "total_sentences": 5
 }

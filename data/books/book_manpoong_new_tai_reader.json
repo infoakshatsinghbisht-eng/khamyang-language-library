@@ -1,0 +1,77 @@
+{
+  "book_id": "book_manpoong_new_tai_reader",
+  "title": "New Tai Reader: Graded Syllabary, Readings and Moral Tales",
+  "title_tai": "ပပ်ႉ ႁဵၼ်း လိၵ်ႈ တႆး မႂ်ႇ ၶွင်ႇ ၸဝ်ႈ ၶုၵ်ႉ မၢၼ်းပူင်း",
+  "title_as": "নতুন টাই পাঠপুথি: বৰ্ণমালা, যুক্তাক্ষৰ আৰু নীতি পাঠ (চাও খুক মানপুং)",
+  "author": "Chow Khouk Manpoong",
+  "year": 2004,
+  "genre": "Pedagogical Reader, Literacy Primer & Graded Texts",
+  "category": "Literacy & Early Reading Acquisition",
+  "provenance": "All Assam Buddhist Association & Tai Literature Academy, Margherita",
+  "digitalized_from": "scratch/NewTaiReaderBasicBookChowKhoukManpoong.pdf",
+  "license": "Community Education Open Access",
+  "description": "Standard pedagogical primer published for revitalizing literacy in the Southwestern Tai (Lik Tai) script across Upper Assam villages. Contains systematic syllabary drills, graded reading passages on rural village life, agriculture, ethical duties, and Buddhist fables.",
+  "units": [
+    {
+      "unit_id": "manpoong_u001",
+      "surface_tai": "လုၵ်ႈ ဢွၼ်ႇ တႆး ၶတ်းၸႂ် ႁဵၼ်း လိၵ်ႈ တႆး ၵူႈ ဝၼ်း",
+      "surface_assamese": "টাই ল'ৰা-ছোৱালীবোৰে প্ৰতিদিনে নিজৰ মাতৃভাষা নিষ্ঠাৰে শিকে",
+      "romanization": "luk4 ɔn1 tai2 khat5-cai1 hen1 lik4 tai2 kuu5 wan1",
+      "morphemes": [
+        "luk4",
+        "ɔn1",
+        "tai2",
+        "khat5-cai1",
+        "hen1",
+        "lik4",
+        "tai2",
+        "kuu5",
+        "wan1"
+      ],
+      "gloss": [
+        "child",
+        "young",
+        "Tai",
+        "strive/persevere",
+        "learn",
+        "writing",
+        "Tai",
+        "every",
+        "day"
+      ],
+      "translation_en": "The young Tai children diligently strive to study their native script every day.",
+      "translation_as": "টাই ল'ৰা-ছোৱালীবোৰে প্ৰতিদিনে নিজৰ মাতৃভাষা নিষ্ঠাৰে শিকে।",
+      "notes": "Manpoong (2004: 15). Didactic lesson on pedagogical literacy and perseverance."
+    },
+    {
+      "unit_id": "manpoong_u002",
+      "surface_tai": "ဝၢၼ်ႈ ႁဝ်း မီး ၼႃး လီ လႄႈ ၼမ်ႉ သႂ်",
+      "surface_assamese": "আমাৰ গাঁৱত উৰ্বৰ পথাৰ আৰু নিৰ্মল পানীৰ নদী আছে",
+      "romanization": "waan5 haw1 mii2 naa2 lii1 lɛ5 nam6 sai1",
+      "morphemes": [
+        "waan5",
+        "haw1",
+        "mii2",
+        "naa2",
+        "lii1",
+        "lɛ5",
+        "nam6",
+        "sai1"
+      ],
+      "gloss": [
+        "village",
+        "1PL",
+        "have",
+        "paddy-field",
+        "good",
+        "and",
+        "water",
+        "clear/pure"
+      ],
+      "translation_en": "Our village has fertile paddy fields and streams of pure, clear water.",
+      "translation_as": "আমাৰ গাঁৱত শস্য-শ্যামলা পথাৰ আৰু ফটফটীয়া নিৰ্মল পানীৰ জান আছে।",
+      "notes": "Manpoong (2004: 28). Elementary reading unit on geography and village life."
+    }
+  ],
+  "total_sentences": 2
+}

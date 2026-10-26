@@ -1,0 +1,81 @@
+{
+  "book_id": "book_gogoi_1976_tai_religion_customs",
+  "title": "Tai Religion and Customs: Ritual Terminology and Ancestral Deities",
+  "title_tai": "ထုင်း ၾိင်ႈ လႄႈ သႃႇသၼႃႇ မူဝ်း တႆး ၶမ်းယၢင်း ဢႃႇႁူမ်ႇ",
+  "title_as": "টাই ধৰ্ম আৰু সংস্কৃতি: পৰম্পৰাগত ৰীতি-নীতি আৰু পূজা-অৰ্চনা (পদ্মেশ্বৰ গগৈ, ১৯৭৬)",
+  "author": "Padmeswar Gogoi, M.A.",
+  "year": 1976,
+  "genre": "Anthropological Linguistics, Ritual Formularies & Ethnography",
+  "category": "Sacred Liturgy & Cultural Heritage",
+  "provenance": "Publication Board Assam, Gauhati",
+  "digitalized_from": "scratch/Gogoi_1976_Tai_Religion_and_Customs.pdf",
+  "license": "Academic Cultural Monograph",
+  "description": "Comprehensive ethnographic treatise by Padmeswar Gogoi detailing the ancient religion, cosmology, and ritual vocabulary of the Tai peoples of Northeast India. Records ritual terminologies for ancestor worship (Me-Dam-Me-Phi), the celestial deity Chao Pha, guardian territorial spirits (Phi Mueang), and sacred sacrificial prayers.",
+  "units": [
+    {
+      "unit_id": "gogoi_u001",
+      "surface_tai": "ၸဝ်ႈ ၾႃႉ လူင် ပဵၼ် ၸဝ်ႈ ၽူႈ သၢင်း ၾႃႉ သၢင်း လိၼ်",
+      "surface_assamese": "চাওফা হৈছে আকাশ আৰু পৃথিৱীৰ সৰ্বোচ্চ স্ৰষ্টা",
+      "romanization": "caw3 faa6 lung1 pen1 caw3 phuu5 saang1 faa6 saang1 lin1",
+      "morphemes": [
+        "caw3",
+        "faa6",
+        "lung1",
+        "pen1",
+        "caw3",
+        "phuu5",
+        "saang1",
+        "faa6",
+        "saang1",
+        "lin1"
+      ],
+      "gloss": [
+        "lord",
+        "sky/heaven",
+        "great",
+        "be",
+        "lord",
+        "person",
+        "create",
+        "sky",
+        "create",
+        "earth"
+      ],
+      "translation_en": "Chao Pha is the supreme celestial divinity who created the heavens and the earth.",
+      "translation_as": "চাওফা হৈছে আকাশ আৰু পৃথিৱীৰ সৰ্বোচ্চ স্ৰষ্টা ভগৱান।",
+      "notes": "Gogoi (1976: 18). Tai theological cosmology and creation deities."
+    },
+    {
+      "unit_id": "gogoi_u002",
+      "surface_tai": "ႁဝ်း ၶဝ် လူႇ ၾီ ပူႇ မွၵ်ႈ ၵူႈ ပီ ပီ",
+      "surface_assamese": "আমি প্ৰতি বছৰে পূৰ্বপুৰুষসকলৰ উদ্দেশ্যে পূজা-অৰ্চনা কৰোঁ",
+      "romanization": "haw1 khaw1 luu2 phii1 pu5 mɔk5 kuu5 pii1 pii1",
+      "morphemes": [
+        "haw1",
+        "khaw1",
+        "luu2",
+        "phii1",
+        "pu5",
+        "mɔk5",
+        "kuu5",
+        "pii1",
+        "pii1"
+      ],
+      "gloss": [
+        "1PL",
+        "PL",
+        "offer/worship",
+        "spirit/ancestor",
+        "grandfather",
+        "elder",
+        "every",
+        "year",
+        "year"
+      ],
+      "translation_en": "We make sacred offerings to the spirits of the revered ancestors every year.",
+      "translation_as": "আমি প্ৰতি বছৰে পূৰ্বপুৰুষৰ পৱিত্ৰ আত্মাৰ উদ্দেশ্যে বলিদান আৰু পূজা আগবঢ়াওঁ।",
+      "notes": "Gogoi (1976: 45). Ritual phraseology for ancestral commemoration ceremonies."
+    }
+  ],
+  "total_sentences": 2
+}

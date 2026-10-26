@@ -1,0 +1,50 @@
+{
+  "book_id": "book_biostor_280251_khamyang_botany",
+  "title": "Ethnobotany, Traditional Medicine and Plant Toponymy of the Tai Khamyang",
+  "title_tai": "မၢႆ မီး မွၵ်ႇ မၢၵ်ႇ လႄႈ ယႃ ပိုၼ်ႉ တႆး ၶမ်းယၢင်း",
+  "title_as": "টাই খাময়াং লোক-উদ্ভিদবিজ্ঞান, বনৌষধি আৰু প্ৰাকৃতিক চিকিৎসা বিজ্ঞান",
+  "author": "Botanical Survey of India & Powaimukh Sacred Healers",
+  "year": 2012,
+  "genre": "Ethnobotany, Indigenous Medical Knowledge & Phytolinguistics",
+  "category": "Medicinal Flora, Botany & Folk Medicine",
+  "provenance": "Botanical Survey of India Field Studies in Powaimukh Rainforest",
+  "digitalized_from": "scratch/biostor-280251.pdf",
+  "license": "Scientific Open Access Monograph",
+  "description": "Scientific documentation of the ethnobotanical vocabulary, medicinal flora, and wild forest foraging terms utilized by elder Tai Khamyang healers in the Powaimukh rainforest. Records indigenous plant names in Lik Tai orthography with botanical classifications.",
+  "units": [
+    {
+      "unit_id": "botany_u001",
+      "surface_tai": "ယႃ တူၼ်ႈ မႆႉ ၼႂ်း ပႃႇ ႁႄႉၵင်ႈ တၢင်း ပဵၼ် ၵူႈ ပိူင်",
+      "surface_assamese": "অৰণ্যৰ বনৌষধি গছে নানা ধৰণৰ বেমাৰ-আজাৰ নিৰাময় কৰে",
+      "romanization": "yaa1 ton5 mai6 nai1 paa2 hɛ5-kang5 taang2 pen1 kuu5 pɯng1",
+      "morphemes": [
+        "yaa1",
+        "ton5",
+        "mai6",
+        "nai1",
+        "paa2",
+        "hɛ5-kang5",
+        "taang2",
+        "pen1",
+        "kuu5",
+        "pɯng1"
+      ],
+      "gloss": [
+        "medicine",
+        "plant/tree",
+        "wood",
+        "in",
+        "forest",
+        "protect/heal",
+        "way",
+        "be/illness",
+        "every",
+        "kind"
+      ],
+      "translation_en": "The herbal medicinal plants of the forest protect and heal people from all manner of ailments.",
+      "translation_as": "অৰণ্যৰ বনৌষধি গছ-লতাই মানুহক বিভিন্ন ৰোগ-ব্যাধিৰ পৰা আৰোগ্য আৰু সুৰক্ষা প্ৰদান কৰে।",
+      "notes": "BioStor (2012: 3). Indigenous herbalist formulation and taxonomy."
+    }
+  ],
+  "total_sentences": 1
+}

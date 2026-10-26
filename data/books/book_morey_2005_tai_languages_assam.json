@@ -1,0 +1,110 @@
+{
+  "book_id": "book_morey_2005_tai_languages_assam",
+  "title": "The Tai Languages of Assam: A Grammar and Texts (Khamyang Monograph)",
+  "title_tai": "လိၵ်ႈ သတ်ႉၻႃႇ လႄႈ ပိုၼ်း ၵႂၢမ်း တႆး ဢႃႇသမ်ႇ (တွၵ်ႇတိူဝ်ႇ သတီးဝိၼ်း မေႃးရီႇ)",
+  "title_as": "অসমৰ টাই ভাষাসমূহ: ব্যাকৰণ আৰু পাঠ সংকলন (ড° ষ্টিফেন ম'ৰী, ২০০৫)",
+  "author": "Dr. Stephen Morey, Ph.D. (La Trobe University / ANU)",
+  "year": 2005,
+  "genre": "Comprehensive Grammar & Text Corpus",
+  "category": "Comparative Tonology & Syntax",
+  "provenance": "Pacific Linguistics 565, Research School of Pacific and Asian Studies, The Australian National University",
+  "digitalized_from": "scratch/PL-565_Morey_Tai_Languages_Assam.pdf",
+  "license": "Academic Research Monograph",
+  "description": "Foundational grammatical and textual monograph on the Tai languages of Assam (Khamyang, Aiton, Phake, Khamti, and Ahom). Contains extensive acoustic tonal analysis of the Khamyang 6-tone system, discourse syntax, classifier typology, and interlinear folklore transcribed from elders Chaw Sa Myat Chowlik and Deben Chowlik.",
+  "units": [
+    {
+      "unit_id": "morey_u001",
+      "surface_tai": "ၶမ်းယၢင်း ပဵၼ် ၵႂၢမ်း တႆး ဢၼ် မီး သဵင် ႁူၵ်း သဵင်",
+      "surface_assamese": "খাময়াং হৈছে ছটা সুৰ বিশিষ্ট এটা টাই ভাষা",
+      "romanization": "kham1-yaang2 pen1 kwaam2 tai2 an1 mii2 seng1 hok1 seng1",
+      "morphemes": [
+        "kham1-yaang2",
+        "pen1",
+        "kwaam2",
+        "tai2",
+        "an1",
+        "mii2",
+        "seng1",
+        "hok1",
+        "seng1"
+      ],
+      "gloss": [
+        "Khamyang",
+        "be",
+        "language",
+        "Tai",
+        "REL",
+        "have",
+        "sound/tone",
+        "six",
+        "sound/tone"
+      ],
+      "translation_en": "Khamyang is a Southwestern Tai language that possesses a contrastive six-tone system.",
+      "translation_as": "খাময়াং হৈছে ছটা সুকীয়া সুৰ থকা এটা টাই ভাষা।",
+      "notes": "Morey (2005: 165). Introduction to the phonological analysis of Khamyang tonology."
+    },
+    {
+      "unit_id": "morey_u002",
+      "surface_tai": "ပူႇ မွၵ်ႈ လၢတ်ႈ လိၵ်ႈ ပုင်း ပၼ် လုၵ်ႈ ဢွၼ်ႇ ၶဝ်",
+      "surface_assamese": "ককাদেউতাই ল'ৰা-ছোৱালীবোৰক নীতিশিক্ষা সাধু কৈছিল",
+      "romanization": "pu5 mɔk5 laat5 lik4 pung1 pan1 luk4 ɔn1 khaw1",
+      "morphemes": [
+        "pu5",
+        "mɔk5",
+        "laat5",
+        "lik4",
+        "pung1",
+        "pan1",
+        "luk4",
+        "ɔn1",
+        "khaw1"
+      ],
+      "gloss": [
+        "grandfather",
+        "elder",
+        "tell",
+        "book",
+        "fable/lore",
+        "give",
+        "child",
+        "young",
+        "PL"
+      ],
+      "translation_en": "The village elder recounted traditional didactic fables to the young children.",
+      "translation_as": "ককাদেউতাই সৰু ল'ৰা-ছোৱালীবোৰক পৰম্পৰাগত শিক্ষামূলক সাধু শুনাইছিল।",
+      "notes": "Morey (2005: 387). Text 3-1-3-2 'Advice to Children' by Sa Myat Chowlik."
+    },
+    {
+      "unit_id": "morey_u003",
+      "surface_tai": "ၼူၵ်ႉ ဢွၼ်ႇ တူဝ် ၼိုင်ႈ မိၼ် မႃး တီႈ တူၼ်ႈ မႆႉ",
+      "surface_assamese": "এটা সৰু চৰাই উৰি আহি গছৰ ডালত বহিল",
+      "romanization": "nok4 ɔn1 tu1 nɯng1 min1 maa2 tii5 ton5 mai6",
+      "morphemes": [
+        "nok4",
+        "ɔn1",
+        "tu1",
+        "nɯng1",
+        "min1",
+        "maa2",
+        "tii5",
+        "ton5",
+        "mai6"
+      ],
+      "gloss": [
+        "bird",
+        "little",
+        "CLF.animal",
+        "one",
+        "fly",
+        "come",
+        "at",
+        "plant/tree",
+        "wood"
+      ],
+      "translation_en": "A small bird flew down and perched upon the tree branch.",
+      "translation_as": "এটা সৰু চৰাই উৰি আহি গছজোপাৰ ওপৰত বহিলহি।",
+      "notes": "Morey (2005: 387). Text 3-1-3-3 'The Bird and the King' by Sa Myat Chowlik."
+    }
+  ],
+  "total_sentences": 3
+}

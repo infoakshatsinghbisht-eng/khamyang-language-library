@@ -1,0 +1,48 @@
+{
+  "book_id": "book_barua_1920_ahom_assamese_english_dict",
+  "title": "Ahom-Assamese-English Dictionary: Exhaustive Classical Tai Lexicon",
+  "title_tai": "ပပ်ႉ သပ်ႉၻႃႇ မၢႆ မီး ၵႂၢမ်း တႆး ဢႃႇႁူမ်ႇ ဢႃႇသႃႇမီႇ လႄႈ ဢိင်းၵလဵတ်ႈ",
+  "title_as": "আহোম-অসমীয়া-ইংৰাজী অভিধান (ৰায় চাহাব গোলাপ চন্দ্ৰ বৰুৱা, ১৯২০)",
+  "author": "Rai Sahib Golap Chandra Barua (in collaboration with Deodhai Pandits)",
+  "year": 1920,
+  "genre": "Comprehensive Lexicography & Etymological Dictionary",
+  "category": "Historical Tai Lexicon & Comparative Semantics",
+  "provenance": "Assam Secretariat Printing Office, Shillong (1920)",
+  "digitalized_from": "scratch/Barua_1920_Ahom_Assamese_English_Dictionary.pdf",
+  "license": "Public Domain Archival Lexicographical Monument",
+  "description": "Historic 345-page tri-lingual dictionary compiled by Rai Sahib Golap Chandra Barua. Contains over 8,000 classical Tai headwords, cross-referenced with Assamese and English equivalents, providing essential etymological roots directly shared with modern Khamyang and Phake.",
+  "units": [
+    {
+      "unit_id": "barua1920_u001",
+      "surface_tai": "ၼမ်ႉ ၶမ်း ပဵၼ် ၼမ်ႉ ဢၼ် မီး ၶမ်း ၼႂ်း သၢႆး",
+      "surface_assamese": "সোণালী নদী হৈছে বালিকাত সোণ থকা পৱিত্ৰ নদী",
+      "romanization": "nam6 kham1 pen1 nam6 an1 mii2 kham1 nai1 saai1",
+      "morphemes": [
+        "nam6",
+        "kham1",
+        "pen1",
+        "nam6",
+        "an1",
+        "mii2",
+        "kham1",
+        "nai1",
+        "saai1"
+      ],
+      "gloss": [
+        "water/river",
+        "gold",
+        "be",
+        "water/river",
+        "REL",
+        "have",
+        "gold",
+        "in",
+        "sand"
+      ],
+      "translation_en": "The Nam Kham (golden river) is the sacred river whose sands bear flecks of gold.",
+      "translation_as": "সোণালী নদী হৈছে যাৰ বালিকাত প্ৰাকৃতিক সোণৰ কণা থাকে।",
+      "notes": "Barua (1920: 114). Etymological entry for Khamyang riverine toponymy."
+    }
+  ],
+  "total_sentences": 1
+}

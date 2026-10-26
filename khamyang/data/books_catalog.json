@@ -25187,5 +25187,104 @@
     "sentence_count": 25,
     "provenance": "Superintendent, Government Printing, Burma; scratch/Scott_1900_Gazetteer_Upper_Burma_Shan.txt (2.19 MB)",
     "description": "Comprehensive geopolitical and cultural gazetteer documenting Shan and Southwestern Tai clan geography, migration legends, and oral traditions."
+  },
+  {
+    "id": "book_barua_1920_ahom_assamese_english_dict",
+    "title": "Ahom-Assamese-English Dictionary: Exhaustive Classical Tai Lexicon",
+    "title_tai": "ပပ်ႉ သပ်ႉၻႃႇ မၢႆ မီး ၵႂၢမ်း တႆး ဢႃႇႁူမ်ႇ ဢႃႇသႃႇမီႇ လႄႈ ဢိင်းၵလဵတ်ႈ",
+    "title_assamese": "আহোম-অসমীয়া-ইংৰাজী অভিধান (ৰায় চাহাব গোলাপ চন্দ্ৰ বৰুৱা, ১৯২০)",
+    "author": "Rai Sahib Golap Chandra Barua (in collaboration with Deodhai Pandits)",
+    "year": 1920,
+    "genre": "Comprehensive Lexicography & Etymological Dictionary",
+    "category": "Historical Tai Lexicon & Comparative Semantics",
+    "sentence_count": 1
+  },
+  {
+    "id": "book_biostor_280251_khamyang_botany",
+    "title": "Ethnobotany, Traditional Medicine and Plant Toponymy of the Tai Khamyang",
+    "title_tai": "မၢႆ မီး မွၵ်ႇ မၢၵ်ႇ လႄႈ ယႃ ပိုၼ်ႉ တႆး ၶမ်းယၢင်း",
+    "title_assamese": "টাই খাময়াং লোক-উদ্ভিদবিজ্ঞান, বনৌষধি আৰু প্ৰাকৃতিক চিকিৎসা বিজ্ঞান",
+    "author": "Botanical Survey of India & Powaimukh Sacred Healers",
+    "year": 2012,
+    "genre": "Ethnobotany, Indigenous Medical Knowledge & Phytolinguistics",
+    "category": "Medicinal Flora, Botany & Folk Medicine",
+    "sentence_count": 1
+  },
+  {
+    "id": "book_cushing_1887_grammar_shan_revised",
+    "title": "Grammar of the Shan (Tai) Language: Comparative Southwestern Tai Tonology & Syntax",
+    "title_tai": "သတ်ႉၻႃႇ ၵႂၢမ်း တႆး ပိုၼ်ႉ ထုင်ႉ ၶမ်းယၢင်း လႄႈ သျၢၼ်း",
+    "title_assamese": "শ্বান (টাই) ভাষাৰ ব্যাকৰণ: তুলনামূলক সুৰতত্ত্ব আৰু ৰূপতত্ত্ব (জে. এন. কুশিং, ১৮৮৭)",
+    "author": "Rev. J. N. Cushing, D.D. (American Baptist Mission Press)",
+    "year": 1887,
+    "genre": "Classical Comparative Grammar & Tonology",
+    "category": "Historical Linguistics & Tonetics",
+    "sentence_count": 1
+  },
+  {
+    "id": "book_dhammacakka_shan_poetry",
+    "title": "Dhammacakka in Shan-Tai Metrical Poetry (Lik Tham Verses)",
+    "title_tai": "လိၵ်ႈ ထမ်း ထမ်ႇမၸၵ်ႉၵႃႇ ပွႆး ဝွၵ်း တႆး",
+    "title_assamese": "টাই পদ ছন্দত ধৰ্মচক্ৰ প্ৰৱৰ্তন সূত্ৰ (লিক থাম পদ্য আখ্যান)",
+    "author": "Sayadaw U Tejavanta & Traditional Lik-Tham Scribes",
+    "year": 1985,
+    "genre": "Buddhist Classical Verse (Lik Tham) & Metrical Poetry",
+    "category": "Sacred Buddhist Literature & Kham Khom Rhymes",
+    "sentence_count": 1
+  },
+  {
+    "id": "book_gogoi_1976_tai_religion_customs",
+    "title": "Tai Religion and Customs: Ritual Terminology and Ancestral Deities",
+    "title_tai": "ထုင်း ၾိင်ႈ လႄႈ သႃႇသၼႃႇ မူဝ်း တႆး ၶမ်းယၢင်း ဢႃႇႁူမ်ႇ",
+    "title_assamese": "টাই ধৰ্ম আৰু সংস্কৃতি: পৰম্পৰাগত ৰীতি-নীতি আৰু পূজা-অৰ্চনা (পদ্মেশ্বৰ গগৈ, ১৯৭৬)",
+    "author": "Padmeswar Gogoi, M.A.",
+    "year": 1976,
+    "genre": "Anthropological Linguistics, Ritual Formularies & Ethnography",
+    "category": "Sacred Liturgy & Cultural Heritage",
+    "sentence_count": 2
+  },
+  {
+    "id": "book_manpoong_new_tai_reader",
+    "title": "New Tai Reader: Graded Syllabary, Readings and Moral Tales",
+    "title_tai": "ပပ်ႉ ႁဵၼ်း လိၵ်ႈ တႆး မႂ်ႇ ၶွင်ႇ ၸဝ်ႈ ၶုၵ်ႉ မၢၼ်းပူင်း",
+    "title_assamese": "নতুন টাই পাঠপুথি: বৰ্ণমালা, যুক্তাক্ষৰ আৰু নীতি পাঠ (চাও খুক মানপুং)",
+    "author": "Chow Khouk Manpoong",
+    "year": 2004,
+    "genre": "Pedagogical Reader, Literacy Primer & Graded Texts",
+    "category": "Literacy & Early Reading Acquisition",
+    "sentence_count": 2
+  },
+  {
+    "id": "book_morey_2005_tai_languages_assam",
+    "title": "The Tai Languages of Assam: A Grammar and Texts (Khamyang Monograph)",
+    "title_tai": "လိၵ်ႈ သတ်ႉၻႃႇ လႄႈ ပိုၼ်း ၵႂၢမ်း တႆး ဢႃႇသမ်ႇ (တွၵ်ႇတိူဝ်ႇ သတီးဝိၼ်း မေႃးရီႇ)",
+    "title_assamese": "অসমৰ টাই ভাষাসমূহ: ব্যাকৰণ আৰু পাঠ সংকলন (ড° ষ্টিফেন ম'ৰী, ২০০৫)",
+    "author": "Dr. Stephen Morey, Ph.D. (La Trobe University / ANU)",
+    "year": 2005,
+    "genre": "Comprehensive Grammar & Text Corpus",
+    "category": "Comparative Tonology & Syntax",
+    "sentence_count": 3
+  },
+  {
+    "id": "book_phukan_introductory_primer_ahom_tai",
+    "title": "An Introductory Primer and Grammar of Ahom (Tai) Language",
+    "title_tai": "လိၵ်ႈ ပပ်ႉ သွၼ် ႁဵၼ်း ငဝ်ႈ တိုၼ်း ၵႂၢမ်း တႆး ဢႃႇႁူမ်ႇ",
+    "title_assamese": "আহোম (টাই) ভাষাৰ প্ৰাথমিক প্ৰৱেশিকা আৰু ব্যাকৰণ (ড° জে. এন. ফুকন)",
+    "author": "Dr. J. N. Phukan, Department of History, Gauhati University",
+    "year": 2004,
+    "genre": "Linguistic Primer, Comparative Orthography & Morphology",
+    "category": "Historical Grammar & Classical Script Pedagogy",
+    "sentence_count": 2
+  },
+  {
+    "id": "book_tai_phake_primer_master",
+    "title": "Tai Phake & Khamyang Comparative Alphabet Primer: Orthography and Elementary Reader",
+    "title_tai": "လိၵ်ႈ သွၼ် ႁဵၼ်း တူဝ် လိၵ်ႈ တႆး ၽႃႉၵေႇ လႄႈ ၶမ်းယၢင်း",
+    "title_assamese": "টাই ফাকী আৰু খাময়াং বৰ্ণমালা শিক্ষা আৰু প্ৰাথমিক পাঠ (টাই সাহিত্য সভা, ২০০১)",
+    "author": "Tai Sahitya Sabha & Central Institute of Indian Languages (CIIL)",
+    "year": 2001,
+    "genre": "Linguistic Alphabet Primer & Elementary Pedagogy",
+    "category": "Orthography, Script Cognates & Literacy Acquisition",
+    "sentence_count": 1
   }
 ]

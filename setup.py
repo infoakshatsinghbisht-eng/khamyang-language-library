@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="khamyang",
-    version="1.1.3",
+    version="1.1.4",
     author="Akshat Singh Bisht",
     author_email="infoakshatsinghbisht@gmail.com",
     maintainer="Akshat Singh Bisht",

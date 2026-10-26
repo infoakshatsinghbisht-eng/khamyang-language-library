@@ -1,6 +1,6 @@
 # Tai Khamyang (`khamyang`) Language & Cultural Corpus ꩯမ်ထႃႆၶင်
 
-[![PyPI version](https://img.shields.io/badge/pypi-v1.1.2-blue.svg)](https://pypi.org/project/khamyang/)
+[![PyPI version](https://img.shields.io/badge/pypi-v1.1.4-blue.svg)](https://pypi.org/project/khamyang/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Amazon Author](https://img.shields.io/badge/Amazon-Author_Page-FF9900.svg)](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)

@@ -1,4 +1,4 @@
-__version__ = "1.1.3"
+__version__ = "1.1.4"
 __author__ = "Akshat Singh Bisht"
 __author_email__ = "infoakshatsinghbisht@gmail.com"
 __maintainer__ = "Akshat Singh Bisht"

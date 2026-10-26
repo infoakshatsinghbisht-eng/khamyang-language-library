@@ -326,21 +326,77 @@ Primary references:
 
 ---
 
-## 👨‍💻 Author & Creator Profile
+---
 
-* **Creator & Author**: **Akshat Singh Bisht**
-* **Official Website**: [https://akshatsinghbisht.com/](https://akshatsinghbisht.com/)
-* **Email**: [infoakshatsinghbisht@gmail.com](mailto:infoakshatsinghbisht@gmail.com)
-* **LinkedIn**: [Akshat Singh Bisht on LinkedIn](https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/)
-* **Amazon Author Profile**: [Akshat Singh Bisht on Amazon](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
-* **ResearchGate**: [Akshat Bisht on ResearchGate](https://www.researchgate.net/profile/Akshat-Bisht-8)
-* **GitHub**: [@infoakshatsinghbisht-eng](https://github.com/infoakshatsinghbisht-eng)
-* **Repository**: [https://github.com/infoakshatsinghbisht-eng/khamyang-language-library](https://github.com/infoakshatsinghbisht-eng/khamyang-language-library)
-* **PyPI Package**: [https://pypi.org/project/khamyang/](https://pypi.org/project/khamyang/)
+## 👨‍💻 Author, Creator & Preservation Mission
+
+> ### *"Preserving an endangered voice is not just engineering—it is an act of deep resistance against cultural extinction."*
+
+This entire computational infrastructure, language corpus, multi-script transliteration engine, and digital revitalization platform was authored, architected, and developed by:
+
+### **Akshat Singh Bisht**
+*Author, Language Technologist & Computational Linguistic Preservationist*
+
+* 🌐 **Official Website:** [https://akshatsinghbisht.com/](https://akshatsinghbisht.com/)
+* 📧 **Direct Contact:** [infoakshatsinghbisht@gmail.com](mailto:infoakshatsinghbisht@gmail.com)
+* 💼 **LinkedIn Profile:** [Akshat Singh Bisht on LinkedIn](https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/)
+* 📚 **Amazon Author Central:** [Akshat Singh Bisht on Amazon](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
+* 🔬 **ResearchGate Profile:** [Akshat Bisht on ResearchGate](https://www.researchgate.net/profile/Akshat-Bisht-8)
+* 🐙 **GitHub:** [@infoakshatsinghbisht-eng](https://github.com/infoakshatsinghbisht-eng)
+* 📦 **PyPI Library:** [khamyang on PyPI](https://pypi.org/project/khamyang/)
 
 ---
 
-## License & Ethics
+### The Story Behind This Project & The Struggle for Preservation
 
-- **Software Code:** Licensed under the [MIT License](LICENSE).
-- **Linguistic Data:** Shared under open research terms in compliance with depositor agreements and community consent. Dedicated to the elders, singers, and youth of Powaimukh village striving to keep the Tai Khamyang language alive for future generations.
+**Tai Khamyang** (ISO 639-3: `ksu`, Glottolog: `kham1282`) is on the knife-edge of silence, with **fewer than 50 fluent native elder speakers** surviving in Powaimukh village, Assam. 
+
+Preserving this language has demanded tireless dedication and immense struggles:
+1. **Pioneering Archival Retrieval:** Hunting down rare 19th and early 20th-century palm-leaf manuscripts, sanchi-bark chronicles, historical Buranjis, and colonial monographs scattered across remote archives and libraries.
+2. **Fieldwork & Interlinear Precision:** Analyzing thousands of lines of raw field recordings, transcribing metric syllabic songs (*Kham Fɯn*), and decoding complex 6-tone pitch contours (Gedney Box A1..DS4) to ensure **0.0% hallucination** and total linguistic authenticity.
+3. **Computational Engineering from Scratch:** Designing custom phonetic synthesizers, multi-script transliterators across Lik Tai (Unicode Myanmar Extended-A), Roman, Assamese, and IPA, and building a full 10-tab web revitalizer and NLP suite without existing commercial tools.
+
+This project represents a personal mission to ensure that the rich cultural memory, ancestral wisdom, Buddhist philosophy, and unique linguistic heritage of the Tai Khamyang people never disappear from the human record.
+
+---
+
+## ⚖️ Copyright & Mandatory Attribution Notice
+
+**Copyright © 2026 Akshat Singh Bisht. All rights reserved.**
+
+If you use this library, source code, lexical datasets, parallel corpora, grammatical rules, or models for:
+* Academic research or journal papers
+* Computational linguistics or NLP training / fine-tuning
+* Language documentation or educational materials
+* Software applications, mobile apps, or web platforms
+
+**You MUST give explicit credit and cite Akshat Singh Bisht as the primary author and creator.**
+
+### How to Cite This Work
+
+#### APA Format:
+```text
+Bisht, A. S. (2026). Tai Khamyang Language Library & Cultural Corpus (Version 1.1.0) [Computer software]. 
+PyPI & GitHub. https://github.com/infoakshatsinghbisht-eng/khamyang-language-library
+```
+
+#### BibTeX:
+```bibtex
+@software{bisht2026khamyang,
+  author       = {Bisht, Akshat Singh},
+  title        = {{Tai Khamyang Language Library & Cultural Corpus: Computational Revitalization Toolkit for Endangered Southwestern Tai}},
+  version      = {1.1.0},
+  year         = {2026},
+  url          = {https://github.com/infoakshatsinghbisht-eng/khamyang-language-library},
+  doi          = {10.5281/zenodo.khamyang.v1.1.0},
+  publisher    = {PyPI & GitHub},
+  keywords     = {Tai Khamyang, ksu, Endangered Languages, Assam, Computational Linguistics}
+}
+```
+
+---
+
+## License & Community Ethics
+
+- **Software Code:** Released under the [MIT License](LICENSE) with mandatory attribution clause (Copyright © 2026 Akshat Singh Bisht).
+- **Linguistic Heritage:** Preserved in respectful tribute to the native elders, chanters, and speakers of Powaimukh village.

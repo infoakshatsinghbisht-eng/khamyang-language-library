@@ -1,14 +1,15 @@
 cff-version: 1.2.0
-message: "If you use this software or linguistic datasets for academic, NLP, or revitalization research, please cite it as below."
-title: "Tai Khamyang Language & Cultural Corpus Library"
-version: 1.0.0
-date-released: 2026-10-08
+message: "If you utilize this library, codebase, linguistic models, or datasets for academic, NLP, or revitalization work, you MUST cite the primary author and creator, Akshat Singh Bisht, as below."
+title: "Tai Khamyang Language Library & Cultural Corpus"
+version: 1.1.0
+date-released: 2026-10-27
 authors:
   - family-names: "Bisht"
     given-names: "Akshat Singh"
-    affiliation: "Computational Linguistics & Endangered Language Engineering"
+    affiliation: "Computational Linguistics, Artificial Intelligence & Endangered Language Revitalization"
     email: "infoakshatsinghbisht@gmail.com"
     website: "https://akshatsinghbisht.com/"
+    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"
   - family-names: "Chowlik"
     given-names: "Deben"
     affiliation: "Tai Khamyang Community Elder & Consultant, Powaimukh"

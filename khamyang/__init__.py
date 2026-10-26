@@ -6,7 +6,7 @@ and computational processing of the critically endangered Tai Khamyang
 language (ISO 639-3: ksu, Glottolog: kham1282) spoken in Assam, India.
 """
 
-from khamyang.version import __version__, __author__, __license__
+from khamyang.version import __version__, __author__, __license__, __copyright__
 from khamyang.lexicon.dictionary import KhamyangDictionary, get_dictionary
 from khamyang.phonology.tones import ToneSystem, KhamyangTone, gedney_lookup
 from khamyang.transliteration.converter import (
@@ -38,6 +38,7 @@ from khamyang.nlp import (
 __all__ = [
     "__version__",
     "__author__",
+    "__copyright__",
     "__license__",
     "Khamyang",
     "KhamyangDictionary",

@@ -1,0 +1,1498 @@
+{
+  "id": "book_advice_women_ms",
+  "title_khamyang": "Lik4 Kham1 Son3 Me5 Nang1",
+  "title_english": "Traditional Tai Wisdom and Counsel to Noble Daughters",
+  "genre": "moral_instruction",
+  "informant": "Manuscript in Ancient Tai Script",
+  "village": "Upper Assam Tai Archive",
+  "audio_ref": "2-4-2-2.mp3",
+  "description": "Ancient instructional manuscript containing moral advice, household management, weaving artistry, and spiritual virtue for Tai women.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 50,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "na1 ta1 phak1",
+      "lik_tai": "ၼႃ တႃ ၽၵ်",
+      "assamese_script": "না¹ তা¹ ফাক্‌¹",
+      "ipa": "[na˧˧] [ta˧˧] [pʰak˧˧]",
+      "morphemes": [
+        "na1",
+        "ta1",
+        "phak1"
+      ],
+      "glosses": [
+        "honour",
+        "to him",
+        "to one who is illustrious"
+      ],
+      "translation": "Blessings.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Blessings.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "maɯ2 naang2 khjn2 waai1 tang1 naa3 maa2 khaan1 khuu1",
+      "lik_tai": "မႇ ၼႃင်ႇ ၶၼ်ႇ ဝႃႆ တင် ၼႃႈ မႃႇ ၶႃၼ် ၶ",
+      "assamese_script": "ম² নাঙ² খন² ৱাই¹ তাঙ¹ না³ মা² খান¹ খ¹",
+      "ipa": "[maɯ˥˦] [naːŋ˥˦] [kʰjn˥˦] [waːi˧˧] [taŋ˧˧] [naː˨˩̰] [maː˥˦] [kʰaːn˧˧] [kʰuu˧˧]",
+      "morphemes": [
+        "maɯ2",
+        "naang2",
+        "khjn2",
+        "waai1",
+        "tang1",
+        "naa3",
+        "maa2",
+        "khaan1",
+        "khuu1"
+      ],
+      "glosses": [
+        "you",
+        "lady",
+        "please",
+        "turn",
+        "all",
+        "face",
+        "COME",
+        "speak",
+        "smile"
+      ],
+      "translation": "Dear lady, please turn your face, with a smile and laugh.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Dear lady, please turn your face, with a smile and laugh.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "khaam2 nii2 sii1 tsuu3 sɯn1 sɯn1 ta1",
+      "lik_tai": "ၶႃမ်ႇ ၼႇ ꩢ ၸႈ ꩢိုၼ် ꩢိုၼ် တႃ",
+      "assamese_script": "খাম² ন² স¹ চ³ সুন¹ সুন¹ তা¹",
+      "ipa": "[kʰaːm˥˦] [nii˥˦] [sii˧˧] [tɕuu˨˩̰] [sɯn˧˧] [sɯn˧˧] [ta˧˧]",
+      "morphemes": [
+        "khaam2",
+        "nii2",
+        "sii1",
+        "tsuu3",
+        "sɯn1",
+        "sɯn1",
+        "ta1"
+      ],
+      "glosses": [
+        "word",
+        "good",
+        "four",
+        "CLF",
+        "",
+        "",
+        "Dharma"
+      ],
+      "translation": "There are four types of the good words of Dharma.",
+      "translation_assamese": "অসমীয়া অৰ্থ: There are four types of the good words of Dharma.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "kau2 tak1 lau2 maɯ2 naang2 hit1 ruu3 ki3 saɯ1 naang2 ɯi2",
+      "lik_tai": "ၵဝ်ႇ တၵ် လဝ်ႇ မႇ ၼႃင်ႇ ႁိတ် ရႈ ၵိႈ ꩢ ၼႃင်ႇ ဢိုႆႇ",
+      "assamese_script": "কাও² তাক্‌¹ লাও² ম² নাঙ² হিত্‌¹ ৰ³ কি³ স¹ নাঙ² অুই²",
+      "ipa": "[kau˥˦] [tak˧˧] [lau˥˦] [maɯ˥˦] [naːŋ˥˦] [hit˧˧] [ruu˨˩̰] [ki˨˩̰] [saɯ˧˧] [naːŋ˥˦] [ɯi˥˦]",
+      "morphemes": [
+        "kau2",
+        "tak1",
+        "lau2",
+        "maɯ2",
+        "naang2",
+        "hit1",
+        "ruu3",
+        "ki3",
+        "saɯ1",
+        "naang2",
+        "ɯi2"
+      ],
+      "glosses": [
+        "1Sg",
+        "will",
+        "tell",
+        "2Sg",
+        "lady",
+        "make",
+        "know",
+        "PRT",
+        "put in",
+        "lady",
+        "EXCL"
+      ],
+      "translation": "I will tell you, my lady, so that you may know them and put them in (your mind), oh lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will tell you, my lady, so that you may know them and put them in (your mind), oh lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "an2 waa2 khaam2 nui3 mɯng2 kuu2 nai3 k3 sii1 lak1",
+      "lik_tai": "ဢၼ်ႇ ဝႃႇ ၶႃမ်ႇ ၼုႆႈ မိုင်ႇ ၵႇ ၼႆႈ ၵႈ ꩢ လၵ်",
+      "assamese_script": "অন² ৱা² খাম² নুই³ মুঙ² ক² নাই³ ক³ স¹ লাক্‌¹",
+      "ipa": "[an˥˦] [waː˥˦] [kʰaːm˥˦] [nui˨˩̰] [mɯŋ˥˦] [kuu˥˦] [nai˨˩̰] [k˨˩̰] [sii˧˧] [lak˧˧]",
+      "morphemes": [
+        "an2",
+        "waa2",
+        "khaam2",
+        "nui3",
+        "mɯng2",
+        "kuu2",
+        "nai3",
+        "k3",
+        "sii1",
+        "lak1"
+      ],
+      "glosses": [
+        "CLF",
+        "say",
+        "word",
+        "with",
+        "country",
+        "earth",
+        "this",
+        "PRT",
+        "four",
+        "stick"
+      ],
+      "translation": "I will tell these words for the whole earth, for all the four parts, oh my lady.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will tell these words for the whole earth, for all the four parts, oh my lady.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "kau2 tsau3 tak1 lau2 haɯ2 naang2 nai3",
+      "lik_tai": "ၵဝ်ႇ ၸဝ်ႈ တၵ် လဝ်ႇ ႁႇ ၼႃင်ႇ ၼႆႈ",
+      "assamese_script": "কাও² চাও³ তাক্‌¹ লাও² হ² নাঙ² নাই³",
+      "ipa": "[kau˥˦] [tɕau˨˩̰] [tak˧˧] [lau˥˦] [haɯ˥˦] [naːŋ˥˦] [nai˨˩̰]",
+      "morphemes": [
+        "kau2",
+        "tsau3",
+        "tak1",
+        "lau2",
+        "haɯ2",
+        "naang2",
+        "nai3"
+      ],
+      "glosses": [
+        "1Sg",
+        "RESP",
+        "will",
+        "tell",
+        "GIVE",
+        "lady",
+        "hear"
+      ],
+      "translation": "I will tell so that you can listen.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will tell so that you can listen.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "naang2 tsang1 waai1 naa3 tang3 naa3",
+      "lik_tai": "ၼႃင်ႇ ၸင် ဝႃႆ ၼႃႈ တင်ႈ ၼႃႈ",
+      "assamese_script": "নাঙ² চাঙ¹ ৱাই¹ না³ তাঙ³ না³",
+      "ipa": "[naːŋ˥˦] [tɕaŋ˧˧] [waːi˧˧] [naː˨˩̰] [taŋ˨˩̰] [naː˨˩̰]",
+      "morphemes": [
+        "naang2",
+        "tsang1",
+        "waai1",
+        "naa3",
+        "tang3",
+        "naa3"
+      ],
+      "glosses": [
+        "lady",
+        "so",
+        "turn",
+        "face",
+        "set up",
+        "face"
+      ],
+      "translation": "Lady, turn your face and gaze.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Lady, turn your face and gaze.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "maa2 khan1",
+      "lik_tai": "မႃႇ ၶၼ်",
+      "assamese_script": "মা² খান¹",
+      "ipa": "[maː˥˦] [kʰan˧˧]",
+      "morphemes": [
+        "maa2",
+        "khan1"
+      ],
+      "glosses": [
+        "come",
+        "quick"
+      ],
+      "translation": "Come quickly.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Come quickly.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "phum1 sng1 tin2 nk3 tsau3",
+      "lik_tai": "ၽုမ် ꩢင် တိၼ်ႇ ၼၵ်ႈ ၸဝ်ႈ",
+      "assamese_script": "ফুম¹ সঙ¹ তিন² নক্‌³ চাও³",
+      "ipa": "[pʰum˧˧] [sŋ˧˧] [tin˥˦] [nk˨˩̰] [tɕau˨˩̰]",
+      "morphemes": [
+        "phum1",
+        "sng1",
+        "tin2",
+        "nk3",
+        "tsau3"
+      ],
+      "glosses": [
+        "hair",
+        "two",
+        "feet",
+        "prayer",
+        "RESP"
+      ],
+      "translation": "From top to toe we make our prayers.",
+      "translation_assamese": "অসমীয়া অৰ্থ: From top to toe we make our prayers.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "kau2 khun1 tak1 lau2 khaam2 tɯ2 ta1 ta1",
+      "lik_tai": "ၵဝ်ႇ ၶုၼ် တၵ် လဝ်ႇ ၶႃမ်ႇ တိုႇ တႃ တႃ",
+      "assamese_script": "কাও² খুন¹ তাক্‌¹ লাও² খাম² তু² তা¹ তা¹",
+      "ipa": "[kau˥˦] [kʰun˧˧] [tak˧˧] [lau˥˦] [kʰaːm˥˦] [tɯ˥˦] [ta˧˧] [ta˧˧]",
+      "morphemes": [
+        "kau2",
+        "khun1",
+        "tak1",
+        "lau2",
+        "khaam2",
+        "tɯ2",
+        "ta1",
+        "ta1"
+      ],
+      "glosses": [
+        "1Sg",
+        "prince",
+        "will",
+        "tell",
+        "word",
+        "hold",
+        "Dharma",
+        "Dharma"
+      ],
+      "translation": "I will tell the words of Dharma.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will tell the words of Dharma.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "haɯ3 naang2 ruu3 sjn1 sing1 ta1",
+      "lik_tai": "ႁႈ ၼႃင်ႇ ရႈ ꩢၼ် ꩢိင် တႃ",
+      "assamese_script": "হ³ নাঙ² ৰ³ সন¹ সিঙ¹ তা¹",
+      "ipa": "[haɯ˨˩̰] [naːŋ˥˦] [ruu˨˩̰] [sjn˧˧] [siŋ˧˧] [ta˧˧]",
+      "morphemes": [
+        "haɯ3",
+        "naang2",
+        "ruu3",
+        "sjn1",
+        "sing1",
+        "ta1"
+      ],
+      "glosses": [
+        "GIVE",
+        "lady",
+        "know",
+        "many",
+        "sound",
+        "Dharma"
+      ],
+      "translation": "So that the lady may know the many sounds of the Dharma, think oh Lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: So that the lady may know the many sounds of the Dharma, think oh Lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "tang1 nii2 tang1 kin2 k3 mau1 tsut3 raai1",
+      "lik_tai": "တင် ၼႇ တင် ၵိၼ်ႇ ၵႈ မဝ် ၸုတ်ႈ ရႃႆ",
+      "assamese_script": "তাঙ¹ ন² তাঙ¹ কিন² ক³ মাও¹ চুত্‌³ ৰাই¹",
+      "ipa": "[taŋ˧˧] [nii˥˦] [taŋ˧˧] [kin˥˦] [k˨˩̰] [mau˧˧] [tɕut˨˩̰] [raːi˧˧]",
+      "morphemes": [
+        "tang1",
+        "nii2",
+        "tang1",
+        "kin2",
+        "k3",
+        "mau1",
+        "tsut3",
+        "raai1"
+      ],
+      "glosses": [
+        "all",
+        "good",
+        "all",
+        "eat",
+        "link",
+        "NEG",
+        "poor",
+        "disappear"
+      ],
+      "translation": "(For in this Dharma), all is good, there is much to eat, and none are poor.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (For in this Dharma), all is good, there is much to eat, and none are poor.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "tang1 kaa1 khng1 kin2 tsam3 yaa1 lɯk3 sju3",
+      "lik_tai": "တင် ၵႃ ၶင် ၵိၼ်ႇ ၸမ်ႈ ယႃ လိုၵ်ႈ ꩢႈ",
+      "assamese_script": "তাঙ¹ কা¹ খঙ¹ কিন² চাম³ যা¹ লুক্‌³ স³",
+      "ipa": "[taŋ˧˧] [kaː˧˧] [kʰŋ˧˧] [kin˥˦] [tɕam˨˩̰] [jaː˧˧] [lɯk˨˩̰] [sju˨˩̰]",
+      "morphemes": [
+        "tang1",
+        "kaa1",
+        "khng1",
+        "kin2",
+        "tsam3",
+        "yaa1",
+        "lɯk3",
+        "sju3"
+      ],
+      "glosses": [
+        "all",
+        "PRT",
+        "thing",
+        "eat",
+        "PRT",
+        "don't",
+        "choose",
+        "take"
+      ],
+      "translation": "Of all the things which are offered to eat, do not choose, but take all.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Of all the things which are offered to eat, do not choose, but take all.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "tang1 wan2 tang1 khɯn2 kau2 thɯng1 phaa3 ta1 ta1",
+      "lik_tai": "တင် ဝၼ်ႇ တင် ၶိုၼ်ႇ ၵဝ်ႇ ထိုင် ၽႃႈ တႃ တႃ",
+      "assamese_script": "তাঙ¹ ৱান² তাঙ¹ খুন² কাও² থুঙ¹ ফা³ তা¹ তা¹",
+      "ipa": "[taŋ˧˧] [wan˥˦] [taŋ˧˧] [kʰɯn˥˦] [kau˥˦] [tʰɯŋ˧˧] [pʰaː˨˩̰] [ta˧˧] [ta˧˧]",
+      "morphemes": [
+        "tang1",
+        "wan2",
+        "tang1",
+        "khɯn2",
+        "kau2",
+        "thɯng1",
+        "phaa3",
+        "ta1",
+        "ta1"
+      ],
+      "glosses": [
+        "all",
+        "day",
+        "all",
+        "night",
+        "1Sg",
+        "reach",
+        "God",
+        "Dharma",
+        "Dharma"
+      ],
+      "translation": "Both day and night I reach reach towards God, towards Dharma and the teaching.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Both day and night I reach reach towards God, towards Dharma and the teaching.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "tang1 khau1 nai3 khau1 au2 tsam3",
+      "lik_tai": "တင် ၶဝ် ၼႆႈ ၶဝ် ဢဝ်ႇ ၸမ်ႈ",
+      "assamese_script": "তাঙ¹ খাও¹ নাই³ খাও¹ ঔ² চাম³",
+      "ipa": "[taŋ˧˧] [kʰau˧˧] [nai˨˩̰] [kʰau˧˧] [au˥˦] [tɕam˨˩̰]",
+      "morphemes": [
+        "tang1",
+        "khau1",
+        "nai3",
+        "khau1",
+        "au2",
+        "tsam3"
+      ],
+      "glosses": [
+        "all",
+        "3Pl",
+        "this",
+        "3Pl",
+        "take",
+        "PRT"
+      ],
+      "translation": "All of this should be taken, don't just read it, put it into your mind.",
+      "translation_assamese": "অসমীয়া অৰ্থ: All of this should be taken, don't just read it, put it into your mind.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "an2 naɯ2 tak1 tsaa3 tsam3 yaa1 haɯ3 maa2",
+      "lik_tai": "ဢၼ်ႇ ၼႇ တၵ် ၸႃႈ ၸမ်ႈ ယႃ ႁႈ မႃႇ",
+      "assamese_script": "অন² ন² তাক্‌¹ চা³ চাম³ যা¹ হ³ মা²",
+      "ipa": "[an˥˦] [naɯ˥˦] [tak˧˧] [tɕaː˨˩̰] [tɕam˨˩̰] [jaː˧˧] [haɯ˨˩̰] [maː˥˦]",
+      "morphemes": [
+        "an2",
+        "naɯ2",
+        "tak1",
+        "tsaa3",
+        "tsam3",
+        "yaa1",
+        "haɯ3",
+        "maa2"
+      ],
+      "glosses": [
+        "CLF",
+        "what",
+        "will",
+        "bad",
+        "PRT",
+        "don't",
+        "GIVE",
+        "come"
+      ],
+      "translation": "Allow (the Dharma) to touch all of your body, Oh Lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Allow (the Dharma) to touch all of your body, Oh Lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "an2 tak1 saa1 tak1 nan3 tsam3 yaa1 laat3 png1",
+      "lik_tai": "ဢၼ်ႇ တၵ် ꩢႃ တၵ် ၼၼ်ႈ ၸမ်ႈ ယႃ လႃတ်ႈ ပင်",
+      "assamese_script": "অন² তাক্‌¹ সা¹ তাক্‌¹ নান³ চাম³ যা¹ লাত্‌³ পঙ¹",
+      "ipa": "[an˥˦] [tak˧˧] [saː˧˧] [tak˧˧] [nan˨˩̰] [tɕam˨˩̰] [jaː˧˧] [laːt˨˩̰] [pŋ˧˧]",
+      "morphemes": [
+        "an2",
+        "tak1",
+        "saa1",
+        "tak1",
+        "nan3",
+        "tsam3",
+        "yaa1",
+        "laat3",
+        "png1"
+      ],
+      "glosses": [
+        "CLF",
+        "will",
+        "good",
+        "will",
+        "that",
+        "PRT",
+        "don't",
+        "speak",
+        "complain"
+      ],
+      "translation": "Let the good come and do not speak words of complaint.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Let the good come and do not speak words of complaint.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "kaa3 maɯ2 naang2 yaa1 pui1 kaau1",
+      "lik_tai": "ၵႃႈ မႇ ၼႃင်ႇ ယႃ ပုႆ ၵႃဝ်",
+      "assamese_script": "কা³ ম² নাঙ² যা¹ পুই¹ কাও¹",
+      "ipa": "[kaː˨˩̰] [maɯ˥˦] [naːŋ˥˦] [jaː˧˧] [pui˧˧] [kaːu˧˧]",
+      "morphemes": [
+        "kaa3",
+        "maɯ2",
+        "naang2",
+        "yaa1",
+        "pui1",
+        "kaau1"
+      ],
+      "glosses": [
+        "Lest",
+        "2Sg",
+        "lady",
+        "don't",
+        "?",
+        "pray to spirits"
+      ],
+      "translation": "Oh lady, you should not ask for the help of spirits, you should not let bad things enter your mind.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh lady, you should not ask for the help of spirits, you should not let bad things enter your mind.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "an2 hit1 kuu2 tsng3 nai3 k3 maɯ2 naang2",
+      "lik_tai": "ဢၼ်ႇ ႁိတ် ၵႇ ၸင်ႈ ၼႆႈ ၵႈ မႇ ၼႃင်ႇ",
+      "assamese_script": "অন² হিত্‌¹ ক² চঙ³ নাই³ ক³ ম² নাঙ²",
+      "ipa": "[an˥˦] [hit˧˧] [kuu˥˦] [tɕŋ˨˩̰] [nai˨˩̰] [k˨˩̰] [maɯ˥˦] [naːŋ˥˦]",
+      "morphemes": [
+        "an2",
+        "hit1",
+        "kuu2",
+        "tsng3",
+        "nai3",
+        "k3",
+        "maɯ2",
+        "naang2"
+      ],
+      "glosses": [
+        "CLF",
+        "do",
+        "all",
+        "CLF",
+        "this",
+        "LINK",
+        "2Sg",
+        "lady"
+      ],
+      "translation": "All types of bad action, oh lady, you should not do.",
+      "translation_assamese": "অসমীয়া অৰ্থ: All types of bad action, oh lady, you should not do.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "khaam2 sui3 yaa1 tɯ2 t1 naa3 naang2 ɯi2",
+      "lik_tai": "ၶႃမ်ႇ ꩢုႆႈ ယႃ တိုႇ တ ၼႃႈ ၼႃင်ႇ ဢိုႆႇ",
+      "assamese_script": "খাম² সুই³ যা¹ তু² ত¹ না³ নাঙ² অুই²",
+      "ipa": "[kʰaːm˥˦] [sui˨˩̰] [jaː˧˧] [tɯ˥˦] [t˧˧] [naː˨˩̰] [naːŋ˥˦] [ɯi˥˦]",
+      "morphemes": [
+        "khaam2",
+        "sui3",
+        "yaa1",
+        "tɯ2",
+        "t1",
+        "naa3",
+        "naang2",
+        "ɯi2"
+      ],
+      "glosses": [
+        "word",
+        "jealous",
+        "don't",
+        "hold",
+        "PRT",
+        "PRT",
+        "lady",
+        "EXCL"
+      ],
+      "translation": "Do not speak jealous words, oh Lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Do not speak jealous words, oh Lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "khaam2 naa1 khaam2 t2 pɯn2 tsam3 yaa1 laat3 png1",
+      "lik_tai": "ၶႃမ်ႇ ၼႃ ၶႃမ်ႇ တႇ ပိုၼ်ႇ ၸမ်ႈ ယႃ လႃတ်ႈ ပင်",
+      "assamese_script": "খাম² না¹ খাম² ত² পুন² চাম³ যা¹ লাত্‌³ পঙ¹",
+      "ipa": "[kʰaːm˥˦] [naː˧˧] [kʰaːm˥˦] [t˥˦] [pɯn˥˦] [tɕam˨˩̰] [jaː˧˧] [laːt˨˩̰] [pŋ˧˧]",
+      "morphemes": [
+        "khaam2",
+        "naa1",
+        "khaam2",
+        "t2",
+        "pɯn2",
+        "tsam3",
+        "yaa1",
+        "laat3",
+        "png1"
+      ],
+      "glosses": [
+        "word",
+        "curse",
+        "word",
+        "fight",
+        "other",
+        "PRT",
+        "don't",
+        "say",
+        "complain"
+      ],
+      "translation": "Do not speaking abusive or fighting words, and do not complain.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Do not speaking abusive or fighting words, and do not complain.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "khaam2 an2 nj2 maɯ1 pɯn2 nam1 maa2 nang1 nai3 tsam3",
+      "lik_tai": "ၶႃမ်ႇ ဢၼ်ႇ ၼႇ မ ပိုၼ်ႇ ၼမ် မႃႇ ၼင် ၼႆႈ ၸမ်ႈ",
+      "assamese_script": "খাম² অন² ন² ম¹ পুন² নাম¹ মা² নাঙ¹ নাই³ চাম³",
+      "ipa": "[kʰaːm˥˦] [an˥˦] [nj˥˦] [maɯ˧˧] [pɯn˥˦] [nam˧˧] [maː˥˦] [naŋ˧˧] [nai˨˩̰] [tɕam˨˩̰]",
+      "morphemes": [
+        "khaam2",
+        "an2",
+        "nj2",
+        "maɯ1",
+        "pɯn2",
+        "nam1",
+        "maa2",
+        "nang1",
+        "nai3",
+        "tsam3"
+      ],
+      "glosses": [
+        "word",
+        "CLF",
+        "censure",
+        "big",
+        "others",
+        "many",
+        "come",
+        "like",
+        "this",
+        "PRT"
+      ],
+      "translation": "Words of censuring others like this should not be spoken, oh my Lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Words of censuring others like this should not be spoken, oh my Lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "khaam2 tsaa3 nai3 tsam3 maɯ2 naang2",
+      "lik_tai": "ၶႃမ်ႇ ၸႃႈ ၼႆႈ ၸမ်ႈ မႇ ၼႃင်ႇ",
+      "assamese_script": "খাম² চা³ নাই³ চাম³ ম² নাঙ²",
+      "ipa": "[kʰaːm˥˦] [tɕaː˨˩̰] [nai˨˩̰] [tɕam˨˩̰] [maɯ˥˦] [naːŋ˥˦]",
+      "morphemes": [
+        "khaam2",
+        "tsaa3",
+        "nai3",
+        "tsam3",
+        "maɯ2",
+        "naang2"
+      ],
+      "glosses": [
+        "word",
+        "bad",
+        "this",
+        "PRT",
+        "2Sg",
+        "lady"
+      ],
+      "translation": "Though bad words may come, oh Lady, leave them aside every day.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Though bad words may come, oh Lady, leave them aside every day.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "sang1 phaɯ1 phit1 lung1 k3 maɯ2 naang2 khaɯ3 thɯng1",
+      "lik_tai": "ꩢင် ၽ ၽိတ် လုင် ၵႈ မႇ ၼႃင်ႇ ၶႈ ထိုင်",
+      "assamese_script": "সাঙ¹ ফ¹ ফিত্‌¹ লুঙ¹ ক³ ম² নাঙ² খ³ থুঙ¹",
+      "ipa": "[saŋ˧˧] [pʰaɯ˧˧] [pʰit˧˧] [luŋ˧˧] [k˨˩̰] [maɯ˥˦] [naːŋ˥˦] [kʰaɯ˨˩̰] [tʰɯŋ˧˧]",
+      "morphemes": [
+        "sang1",
+        "phaɯ1",
+        "phit1",
+        "lung1",
+        "k3",
+        "maɯ2",
+        "naang2",
+        "khaɯ3",
+        "thɯng1"
+      ],
+      "glosses": [
+        "if",
+        "who",
+        "wrong",
+        "big",
+        "LINK",
+        "2Sg",
+        "lady",
+        "think",
+        "arrive"
+      ],
+      "translation": "If someone does wrong, oh lady, think well.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If someone does wrong, oh lady, think well.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "yaa1 hit1 luu3 naa3 naang2 ɯi2",
+      "lik_tai": "ယႃ ႁိတ် လႈ ၼႃႈ ၼႃင်ႇ ဢိုႆႇ",
+      "assamese_script": "যা¹ হিত্‌¹ ল³ না³ নাঙ² অুই²",
+      "ipa": "[jaː˧˧] [hit˧˧] [luu˨˩̰] [naː˨˩̰] [naːŋ˥˦] [ɯi˥˦]",
+      "morphemes": [
+        "yaa1",
+        "hit1",
+        "luu3",
+        "naa3",
+        "naang2",
+        "ɯi2"
+      ],
+      "glosses": [
+        "don't",
+        "do",
+        "destroy",
+        "PRT",
+        "lady",
+        "EXCL"
+      ],
+      "translation": "Don't do anything destructive, oh lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Don't do anything destructive, oh lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "kuu2 wan2 k3 maɯ2 naang2 khaɯ3",
+      "lik_tai": "ၵႇ ဝၼ်ႇ ၵႈ မႇ ၼႃင်ႇ ၶႈ",
+      "assamese_script": "ক² ৱান² ক³ ম² নাঙ² খ³",
+      "ipa": "[kuu˥˦] [wan˥˦] [k˨˩̰] [maɯ˥˦] [naːŋ˥˦] [kʰaɯ˨˩̰]",
+      "morphemes": [
+        "kuu2",
+        "wan2",
+        "k3",
+        "maɯ2",
+        "naang2",
+        "khaɯ3"
+      ],
+      "glosses": [
+        "every",
+        "day",
+        "LINK",
+        "2Sg",
+        "lady",
+        "think"
+      ],
+      "translation": "Every day, Oh lady, you should think and speak diamond words, listen, oh my Lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Every day, Oh lady, you should think and speak diamond words, listen, oh my Lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "maɯ2 naang2 rɯ1 tak1 sau2 yɯn2 tsuk1 naa3",
+      "lik_tai": "မႇ ၼႃင်ႇ ရို တၵ် ꩢဝ်ႇ ယိုၼ်ႇ ၸုၵ် ၼႃႈ",
+      "assamese_script": "ম² নাঙ² ৰু¹ তাক্‌¹ সাও² যুন² চুক্‌¹ না³",
+      "ipa": "[maɯ˥˦] [naːŋ˥˦] [rɯ˧˧] [tak˧˧] [sau˥˦] [jɯn˥˦] [tɕuk˧˧] [naː˨˩̰]",
+      "morphemes": [
+        "maɯ2",
+        "naang2",
+        "rɯ1",
+        "tak1",
+        "sau2",
+        "yɯn2",
+        "tsuk1",
+        "naa3"
+      ],
+      "glosses": [
+        "2Sg",
+        "lady",
+        "how",
+        "will",
+        "stay",
+        "cool",
+        "stand",
+        "face"
+      ],
+      "translation": "Oh you lady, how will you remain cool (headed)?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh you lady, how will you remain cool (headed)?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "tsam3 maɯ2 naang2 tɯ2 tang1 khaam2 ta1 ta1",
+      "lik_tai": "ၸမ်ႈ မႇ ၼႃင်ႇ တိုႇ တင် ၶႃမ်ႇ တႃ တႃ",
+      "assamese_script": "চাম³ ম² নাঙ² তু² তাঙ¹ খাম² তা¹ তা¹",
+      "ipa": "[tɕam˨˩̰] [maɯ˥˦] [naːŋ˥˦] [tɯ˥˦] [taŋ˧˧] [kʰaːm˥˦] [ta˧˧] [ta˧˧]",
+      "morphemes": [
+        "tsam3",
+        "maɯ2",
+        "naang2",
+        "tɯ2",
+        "tang1",
+        "khaam2",
+        "ta1",
+        "ta1"
+      ],
+      "glosses": [
+        "PRT",
+        "2Sg",
+        "lady",
+        "hold",
+        "all",
+        "word",
+        "Dharma",
+        "Dharma"
+      ],
+      "translation": "If, oh my lady, you hold all the words of Dharma and do not release them, it will be good, oh Lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: If, oh my lady, you hold all the words of Dharma and do not release them, it will be good, oh Lady!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "pi2 khai2 nuu2 khai2 aan1 k3",
+      "lik_tai": "ပိႇ ၶႆႇ ၼႇ ၶႆႇ ဢႃၼ် ၵႈ",
+      "assamese_script": "পি² খাই² ন² খাই² আন¹ ক³",
+      "ipa": "[pi˥˦] [kʰai˥˦] [nuu˥˦] [kʰai˥˦] [aːn˧˧] [k˨˩̰]",
+      "morphemes": [
+        "pi2",
+        "khai2",
+        "nuu2",
+        "khai2",
+        "aan1",
+        "k3"
+      ],
+      "glosses": [
+        "after",
+        "speak",
+        "look",
+        "speak",
+        "read",
+        "LINK"
+      ],
+      "translation": "You should look at and read the words of Dharma, all of them, oh Lady.",
+      "translation_assamese": "অসমীয়া অৰ্থ: You should look at and read the words of Dharma, all of them, oh Lady.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "an2 naɯ1 tak1 nii2 tsam3 maɯ2 naang2 laak1 sju3",
+      "lik_tai": "ဢၼ်ႇ ၼ တၵ် ၼႇ ၸမ်ႈ မႇ ၼႃင်ႇ လႃၵ် ꩢႈ",
+      "assamese_script": "অন² ন¹ তাক্‌¹ ন² চাম³ ম² নাঙ² লাক্‌¹ স³",
+      "ipa": "[an˥˦] [naɯ˧˧] [tak˧˧] [nii˥˦] [tɕam˨˩̰] [maɯ˥˦] [naːŋ˥˦] [laːk˧˧] [sju˨˩̰]",
+      "morphemes": [
+        "an2",
+        "naɯ1",
+        "tak1",
+        "nii2",
+        "tsam3",
+        "maɯ2",
+        "naang2",
+        "laak1",
+        "sju3"
+      ],
+      "glosses": [
+        "CLF",
+        "this",
+        "WILL",
+        "good",
+        "PRT",
+        "2Sg",
+        "lady",
+        "PRT",
+        "catch"
+      ],
+      "translation": "Oh, it will be good, my Lady, if you catch (this Dharma).",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh, it will be good, my Lady, if you catch (this Dharma).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "maɯ2 laak1 au2 khaam2 ta1 ta1 yaa1 phwaa3",
+      "lik_tai": "မႇ လႃၵ် ဢဝ်ႇ ၶႃမ်ႇ တႃ တႃ ယႃ ၽႂႃႈ",
+      "assamese_script": "ম² লাক্‌¹ ঔ² খাম² তা¹ তা¹ যা¹ ফ্বা³",
+      "ipa": "[maɯ˥˦] [laːk˧˧] [au˥˦] [kʰaːm˥˦] [ta˧˧] [ta˧˧] [jaː˧˧] [pʰwaː˨˩̰]",
+      "morphemes": [
+        "maɯ2",
+        "laak1",
+        "au2",
+        "khaam2",
+        "ta1",
+        "ta1",
+        "yaa1",
+        "phwaa3"
+      ],
+      "glosses": [
+        "2Sg",
+        "PRT",
+        "take",
+        "word",
+        "Dharma",
+        "Dharma",
+        "don't",
+        "release"
+      ],
+      "translation": "If you take the words of Dharma, do not release them.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If you take the words of Dharma, do not release them.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "naɯ2 tsaɯ2 maɯ2 naang2 sng1 yaa1 tsam3 naang2 ɯi2",
+      "lik_tai": "ၼႇ ၸႇ မႇ ၼႃင်ႇ ꩢင် ယႃ ၸမ်ႈ ၼႃင်ႇ ဢိုႆႇ",
+      "assamese_script": "ন² চ² ম² নাঙ² সঙ¹ যা¹ চাম³ নাঙ² অুই²",
+      "ipa": "[naɯ˥˦] [tɕaɯ˥˦] [maɯ˥˦] [naːŋ˥˦] [sŋ˧˧] [jaː˧˧] [tɕam˨˩̰] [naːŋ˥˦] [ɯi˥˦]",
+      "morphemes": [
+        "naɯ2",
+        "tsaɯ2",
+        "maɯ2",
+        "naang2",
+        "sng1",
+        "yaa1",
+        "tsam3",
+        "naang2",
+        "ɯi2"
+      ],
+      "glosses": [
+        "in",
+        "mind",
+        "3Sg",
+        "lady",
+        "clear",
+        "don't",
+        "make blemish",
+        "lady",
+        "EXCL"
+      ],
+      "translation": "Put them clearly in your mind, without blemish.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Put them clearly in your mind, without blemish.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "p2 nang1 nam3 sjn1 khj2 lai1 png1",
+      "lik_tai": "ပႇ ၼင် ၼမ်ႈ ꩢၼ် ၶႇ လႆ ပင်",
+      "assamese_script": "প² নাঙ¹ নাম³ সন¹ খ² লাই¹ পঙ¹",
+      "ipa": "[p˥˦] [naŋ˧˧] [nam˨˩̰] [sjn˧˧] [kʰj˥˦] [lai˧˧] [pŋ˧˧]",
+      "morphemes": [
+        "p2",
+        "nang1",
+        "nam3",
+        "sjn1",
+        "khj2",
+        "lai1",
+        "png1"
+      ],
+      "glosses": [
+        "PRT",
+        "like",
+        "water",
+        "many",
+        "river",
+        "flow",
+        "through"
+      ],
+      "translation": "Like the water of many river, (the Dharma) will flow into your mind, like a clear spirit.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Like the water of many river, (the Dharma) will flow into your mind, like a clear spirit.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "sjn1 khun1 phaɯ1 nai3 pai2 aap1 maa2 lau2",
+      "lik_tai": "ꩢၼ် ၶုၼ် ၽ ၼႆႈ ပႆႇ ဢႃပ် မႃႇ လဝ်ႇ",
+      "assamese_script": "সন¹ খুন¹ ফ¹ নাই³ পাই² আপ্‌¹ মা² লাও²",
+      "ipa": "[sjn˧˧] [kʰun˧˧] [pʰaɯ˧˧] [nai˨˩̰] [pai˥˦] [aːp˧˧] [maː˥˦] [lau˥˦]",
+      "morphemes": [
+        "sjn1",
+        "khun1",
+        "phaɯ1",
+        "nai3",
+        "pai2",
+        "aap1",
+        "maa2",
+        "lau2"
+      ],
+      "glosses": [
+        "many",
+        "prince",
+        "who",
+        "this",
+        "go",
+        "bathe",
+        "come",
+        "tell"
+      ],
+      "translation": "Those many people who (accept the Dharma) will be as bathed in it many times, oh good lady.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Those many people who (accept the Dharma) will be as bathed in it many times, oh good lady.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "t1 maɯ2 naang2 yaa1 pui1 kaau1 lai3 maa2 png1",
+      "lik_tai": "တ မႇ ၼႃင်ႇ ယႃ ပုႆ ၵႃဝ် လႆႈ မႃႇ ပင်",
+      "assamese_script": "ত¹ ম² নাঙ² যা¹ পুই¹ কাও¹ লাই³ মা² পঙ¹",
+      "ipa": "[t˧˧] [maɯ˥˦] [naːŋ˥˦] [jaː˧˧] [pui˧˧] [kaːu˧˧] [lai˨˩̰] [maː˥˦] [pŋ˧˧]",
+      "morphemes": [
+        "t1",
+        "maɯ2",
+        "naang2",
+        "yaa1",
+        "pui1",
+        "kaau1",
+        "lai3",
+        "maa2",
+        "png1"
+      ],
+      "glosses": [
+        "until",
+        "2Sg",
+        "lady",
+        "don't",
+        "pray to spirit",
+        "why",
+        "come",
+        "clear"
+      ],
+      "translation": "Oh my lady, do not pray to the spirits, and all will become clear.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh my lady, do not pray to the spirits, and all will become clear.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "maɯ2 naang2 laak1 kaau1 taang1 phaa3 ta1",
+      "lik_tai": "မႇ ၼႃင်ႇ လႃၵ် ၵႃဝ် တႃင် ၽႃႈ တႃ",
+      "assamese_script": "ম² নাঙ² লাক্‌¹ কাও¹ তাঙ¹ ফা³ তা¹",
+      "ipa": "[maɯ˥˦] [naːŋ˥˦] [laːk˧˧] [kaːu˧˧] [taːŋ˧˧] [pʰaː˨˩̰] [ta˧˧]",
+      "morphemes": [
+        "maɯ2",
+        "naang2",
+        "laak1",
+        "kaau1",
+        "taang1",
+        "phaa3",
+        "ta1"
+      ],
+      "glosses": [
+        "2Sg",
+        "lady",
+        "PRT",
+        "tell",
+        "worship",
+        "God",
+        "Dharma"
+      ],
+      "translation": "Oh my lady, worship God and hold to this Dharma.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh my lady, worship God and hold to this Dharma.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "kaa3 aan1 tsaɯ2 sjn1 mɯn1 tsɯ3",
+      "lik_tai": "ၵႃႈ ဢႃၼ် ၸႇ ꩢၼ် မိုၼ် ၸိုႈ",
+      "assamese_script": "কা³ আন¹ চ² সন¹ মুন¹ চু³",
+      "ipa": "[kaː˨˩̰] [aːn˧˧] [tɕaɯ˥˦] [sjn˧˧] [mɯn˧˧] [tɕɯ˨˩̰]",
+      "morphemes": [
+        "kaa3",
+        "aan1",
+        "tsaɯ2",
+        "sjn1",
+        "mɯn1",
+        "tsɯ3"
+      ],
+      "glosses": [
+        "if",
+        "read",
+        "mind",
+        "10000",
+        "10000",
+        "kind"
+      ],
+      "translation": "There are so many many minds to be read.",
+      "translation_assamese": "অসমীয়া অৰ্থ: There are so many many minds to be read.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "nai3 k3 hit1 naang2 tsaɯ2 maɯ2 naang2 tang1",
+      "lik_tai": "ၼႆႈ ၵႈ ႁိတ် ၼႃင်ႇ ၸႇ မႇ ၼႃင်ႇ တင်",
+      "assamese_script": "নাই³ ক³ হিত্‌¹ নাঙ² চ² ম² নাঙ² তাঙ¹",
+      "ipa": "[nai˨˩̰] [k˨˩̰] [hit˧˧] [naːŋ˥˦] [tɕaɯ˥˦] [maɯ˥˦] [naːŋ˥˦] [taŋ˧˧]",
+      "morphemes": [
+        "nai3",
+        "k3",
+        "hit1",
+        "naang2",
+        "tsaɯ2",
+        "maɯ2",
+        "naang2",
+        "tang1"
+      ],
+      "glosses": [
+        "this",
+        "LINK",
+        "make",
+        "lady",
+        "mind",
+        "2Sg",
+        "lady",
+        "all"
+      ],
+      "translation": "This, Oh my lady, makes your mind ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: This, Oh my lady, makes your mind ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_001",
+      "text_roman": "na1 ta1 phak1",
+      "lik_tai": "ၼႃ တႃ ၽၵ်",
+      "assamese_script": "না¹ তা¹ ফাক্‌¹",
+      "ipa": "[na˧˧] [ta˧˧] [pʰak˧˧]",
+      "morphemes": [
+        "na1",
+        "ta1",
+        "phak1"
+      ],
+      "glosses": [
+        "honour",
+        "to him",
+        "to one who is illustrious"
+      ],
+      "translation": "Blessings.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Blessings.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "maɯ2 naang2 khjn2 waai1 tang1 naa3 maa2 khaan1 khuu1",
+      "lik_tai": "မႇ ၼႃင်ႇ ၶၼ်ႇ ဝႃႆ တင် ၼႃႈ မႃႇ ၶႃၼ် ၶ",
+      "assamese_script": "ম² নাঙ² খন² ৱাই¹ তাঙ¹ না³ মা² খান¹ খ¹",
+      "ipa": "[maɯ˥˦] [naːŋ˥˦] [kʰjn˥˦] [waːi˧˧] [taŋ˧˧] [naː˨˩̰] [maː˥˦] [kʰaːn˧˧] [kʰuu˧˧]",
+      "morphemes": [
+        "maɯ2",
+        "naang2",
+        "khjn2",
+        "waai1",
+        "tang1",
+        "naa3",
+        "maa2",
+        "khaan1",
+        "khuu1"
+      ],
+      "glosses": [
+        "you",
+        "lady",
+        "please",
+        "turn",
+        "all",
+        "face",
+        "COME",
+        "speak",
+        "smile"
+      ],
+      "translation": "Keep smiling ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Keep smiling ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "khaam2 nii2 sii1 tsuu3 sɯn1 sɯn1 ta1",
+      "lik_tai": "ၶႃမ်ႇ ၼႇ ꩢ ၸႈ ꩢိုၼ် ꩢိုၼ် တႃ",
+      "assamese_script": "খাম² ন² স¹ চ³ সুন¹ সুন¹ তা¹",
+      "ipa": "[kʰaːm˥˦] [nii˥˦] [sii˧˧] [tɕuu˨˩̰] [sɯn˧˧] [sɯn˧˧] [ta˧˧]",
+      "morphemes": [
+        "khaam2",
+        "nii2",
+        "sii1",
+        "tsuu3",
+        "sɯn1",
+        "sɯn1",
+        "ta1"
+      ],
+      "glosses": [
+        "word",
+        "good",
+        "four",
+        "CLF",
+        "",
+        "",
+        "Dharma"
+      ],
+      "translation": "Good and beautiful words, the words of Dharma.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Good and beautiful words, the words of Dharma.",
+      "audio_file": null,
+      "notes": "* In reading it, Nabin stated sEnqyEnqt;r; s*n Y*n ta1 raa2. When the translation was revised in March 2002, Nabin stated that it might be as follows"
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "kau2 tak1 lau2 maɯ2 naang2 hit1 ruu3 ki3 saɯ1 naang2 ɯi2",
+      "lik_tai": "ၵဝ်ႇ တၵ် လဝ်ႇ မႇ ၼႃင်ႇ ႁိတ် ရႈ ၵိႈ ꩢ ၼႃင်ႇ ဢိုႆႇ",
+      "assamese_script": "কাও² তাক্‌¹ লাও² ম² নাঙ² হিত্‌¹ ৰ³ কি³ স¹ নাঙ² অুই²",
+      "ipa": "[kau˥˦] [tak˧˧] [lau˥˦] [maɯ˥˦] [naːŋ˥˦] [hit˧˧] [ruu˨˩̰] [ki˨˩̰] [saɯ˧˧] [naːŋ˥˦] [ɯi˥˦]",
+      "morphemes": [
+        "kau2",
+        "tak1",
+        "lau2",
+        "maɯ2",
+        "naang2",
+        "hit1",
+        "ruu3",
+        "ki3",
+        "saɯ1",
+        "naang2",
+        "ɯi2"
+      ],
+      "glosses": [
+        "1Sg",
+        "will",
+        "tell",
+        "2Sg",
+        "lady",
+        "make",
+        "know",
+        "PRT",
+        "put in",
+        "lady",
+        "EXCL"
+      ],
+      "translation": "I will tell, I will explain to you, my lady.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will tell, I will explain to you, my lady.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "an2 waa2 khaam2 nui3 mɯng2 kuu2 nai3 k3 sii1 lak1",
+      "lik_tai": "ဢၼ်ႇ ဝႃႇ ၶႃမ်ႇ ၼုႆႈ မိုင်ႇ ၵႇ ၼႆႈ ၵႈ ꩢ လၵ်",
+      "assamese_script": "অন² ৱা² খাম² নুই³ মুঙ² ক² নাই³ ক³ স¹ লাক্‌¹",
+      "ipa": "[an˥˦] [waː˥˦] [kʰaːm˥˦] [nui˨˩̰] [mɯŋ˥˦] [kuu˥˦] [nai˨˩̰] [k˨˩̰] [sii˧˧] [lak˧˧]",
+      "morphemes": [
+        "an2",
+        "waa2",
+        "khaam2",
+        "nui3",
+        "mɯng2",
+        "kuu2",
+        "nai3",
+        "k3",
+        "sii1",
+        "lak1"
+      ],
+      "glosses": [
+        "CLF",
+        "say",
+        "word",
+        "with",
+        "country",
+        "earth",
+        "this",
+        "PRT",
+        "four",
+        "stick"
+      ],
+      "translation": "Those words for the people of this earth...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Those words for the people of this earth...",
+      "audio_file": null,
+      "notes": "* When read, pronounced as [khwaam2]"
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "kau2 tsau3 tak1 lau2 haɯ2 naang2 nai3",
+      "lik_tai": "ၵဝ်ႇ ၸဝ်ႈ တၵ် လဝ်ႇ ႁႇ ၼႃင်ႇ ၼႆႈ",
+      "assamese_script": "কাও² চাও³ তাক্‌¹ লাও² হ² নাঙ² নাই³",
+      "ipa": "[kau˥˦] [tɕau˨˩̰] [tak˧˧] [lau˥˦] [haɯ˥˦] [naːŋ˥˦] [nai˨˩̰]",
+      "morphemes": [
+        "kau2",
+        "tsau3",
+        "tak1",
+        "lau2",
+        "haɯ2",
+        "naang2",
+        "nai3"
+      ],
+      "glosses": [
+        "1Sg",
+        "RESP",
+        "will",
+        "tell",
+        "GIVE",
+        "lady",
+        "hear"
+      ],
+      "translation": "I will relate and tell for you, lady, to hear.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will relate and tell for you, lady, to hear.",
+      "audio_file": null,
+      "notes": "Both the words l] and h] are spelled with the same final, possibly suggesting a vowel merge in Ahom at the time of the writing of this manuscript."
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "naang2 tsang1 waai1 naa3 tang3 naa3",
+      "lik_tai": "ၼႃင်ႇ ၸင် ဝႃႆ ၼႃႈ တင်ႈ ၼႃႈ",
+      "assamese_script": "নাঙ² চাঙ¹ ৱাই¹ না³ তাঙ³ না³",
+      "ipa": "[naːŋ˥˦] [tɕaŋ˧˧] [waːi˧˧] [naː˨˩̰] [taŋ˨˩̰] [naː˨˩̰]",
+      "morphemes": [
+        "naang2",
+        "tsang1",
+        "waai1",
+        "naa3",
+        "tang3",
+        "naa3"
+      ],
+      "glosses": [
+        "lady",
+        "so",
+        "turn",
+        "face",
+        "set up",
+        "face"
+      ],
+      "translation": "(What is) win1?",
+      "translation_assamese": "অসমীয়া অৰ্থ: (What is) win1?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "maa2 khan1",
+      "lik_tai": "မႃႇ ၶၼ်",
+      "assamese_script": "মা² খান¹",
+      "ipa": "[maː˥˦] [kʰan˧˧]",
+      "morphemes": [
+        "maa2",
+        "khan1"
+      ],
+      "glosses": [
+        "come",
+        "quick"
+      ],
+      "translation": "maa2 khan1 means 'come quickly'.",
+      "translation_assamese": "অসমীয়া অৰ্থ: maa2 khan1 means 'come quickly'.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "phum1 sng1 tin2 nk3 tsau3",
+      "lik_tai": "ၽုမ် ꩢင် တိၼ်ႇ ၼၵ်ႈ ၸဝ်ႈ",
+      "assamese_script": "ফুম¹ সঙ¹ তিন² নক্‌³ চাও³",
+      "ipa": "[pʰum˧˧] [sŋ˧˧] [tin˥˦] [nk˨˩̰] [tɕau˨˩̰]",
+      "morphemes": [
+        "phum1",
+        "sng1",
+        "tin2",
+        "nk3",
+        "tsau3"
+      ],
+      "glosses": [
+        "hair",
+        "two",
+        "feet",
+        "prayer",
+        "RESP"
+      ],
+      "translation": "Um, at that time, to bow the head and pray to the Lord.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Um, at that time, to bow the head and pray to the Lord.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "kau2 khun1 tak1 lau2 khaam2 tɯ2 ta1 ta1",
+      "lik_tai": "ၵဝ်ႇ ၶုၼ် တၵ် လဝ်ႇ ၶႃမ်ႇ တိုႇ တႃ တႃ",
+      "assamese_script": "কাও² খুন¹ তাক্‌¹ লাও² খাম² তু² তা¹ তা¹",
+      "ipa": "[kau˥˦] [kʰun˧˧] [tak˧˧] [lau˥˦] [kʰaːm˥˦] [tɯ˥˦] [ta˧˧] [ta˧˧]",
+      "morphemes": [
+        "kau2",
+        "khun1",
+        "tak1",
+        "lau2",
+        "khaam2",
+        "tɯ2",
+        "ta1",
+        "ta1"
+      ],
+      "glosses": [
+        "1Sg",
+        "prince",
+        "will",
+        "tell",
+        "word",
+        "hold",
+        "Dharma",
+        "Dharma"
+      ],
+      "translation": "Then that respected person said \"I will teach the words of Dharma, the words of the teaching.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then that respected person said \"I will teach the words of Dharma, the words of the teaching.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "haɯ3 naang2 ruu3 sjn1 sing1 ta1",
+      "lik_tai": "ႁႈ ၼႃင်ႇ ရႈ ꩢၼ် ꩢိင် တႃ",
+      "assamese_script": "হ³ নাঙ² ৰ³ সন¹ সিঙ¹ তা¹",
+      "ipa": "[haɯ˨˩̰] [naːŋ˥˦] [ruu˨˩̰] [sjn˧˧] [siŋ˧˧] [ta˧˧]",
+      "morphemes": [
+        "haɯ3",
+        "naang2",
+        "ruu3",
+        "sjn1",
+        "sing1",
+        "ta1"
+      ],
+      "glosses": [
+        "GIVE",
+        "lady",
+        "know",
+        "many",
+        "sound",
+        "Dharma"
+      ],
+      "translation": "So that the lady may know the many sounds of the Dharma, think oh Lady!",
+      "translation_assamese": "অসমীয়া অৰ্থ: So that the lady may know the many sounds of the Dharma, think oh Lady!",
+      "audio_file": null,
+      "notes": "Nabin read as [pha*1], but it seems to be clearly y]."
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "tang1 nii2 tang1 kin2 k3 mau1 tsut3 raai1",
+      "lik_tai": "တင် ၼႇ တင် ၵိၼ်ႇ ၵႈ မဝ် ၸုတ်ႈ ရႃႆ",
+      "assamese_script": "তাঙ¹ ন² তাঙ¹ কিন² ক³ মাও¹ চুত্‌³ ৰাই¹",
+      "ipa": "[taŋ˧˧] [nii˥˦] [taŋ˧˧] [kin˥˦] [k˨˩̰] [mau˧˧] [tɕut˨˩̰] [raːi˧˧]",
+      "morphemes": [
+        "tang1",
+        "nii2",
+        "tang1",
+        "kin2",
+        "k3",
+        "mau1",
+        "tsut3",
+        "raai1"
+      ],
+      "glosses": [
+        "all",
+        "good",
+        "all",
+        "eat",
+        "link",
+        "NEG",
+        "poor",
+        "disappear"
+      ],
+      "translation": "All is good, there is much to eat, there is no poverty.",
+      "translation_assamese": "অসমীয়া অৰ্থ: All is good, there is much to eat, there is no poverty.",
+      "audio_file": null,
+      "notes": ""
+    }
+  ],
+  "full_translation": "Blessings. Dear lady, please turn your face, with a smile and laugh. There are four types of the good words of Dharma. I will tell you, my lady, so that you may know them and put them in (your mind), oh lady! I will tell these words for the whole earth, for all the four parts, oh my lady. I will tell so that you can listen. Lady, turn your face and gaze. Come quickly. From top to toe we make our prayers. I will tell the words of Dharma. So that the lady may know the many sounds of the Dharma, think oh Lady! (For in this Dharma), all is good, there is much to eat, and none are poor. Of all the things which are offered to eat, do not choose, but take all. Both day and night I reach reach towards God, towards Dharma and the teaching. All of this should be taken, don't just read it, put it into your mind. Allow (the Dharma) to touch all of your body, Oh Lady! Let the good come and do not speak words of complaint. Oh lady, you should not ask for the help of spirits, you should not let bad things enter your mind. All types of bad action, oh lady, you should not do. Do not speak jealous words, oh Lady! Do not speaking abusive or fighting words, and do not complain. Words of censuring others like this should not be spoken, oh my Lady! Though bad words may come, oh Lady, leave them aside every day. If someone does wrong, oh lady, think well. Don't do anything destructive, oh lady! Every day, Oh lady, you should think and speak diamond words, listen, oh my Lady! Oh you lady, how will you remain cool (headed)? If, oh my lady, you hold all the words of Dharma and do not release them, it will be good, oh Lady! You should look at and read the words of Dharma, all of them, oh Lady. Oh, it will be good, my Lady, if you catch (this Dharma). If you take the words of Dharma, do not release them. Put them clearly in your mind, without blemish. Like the water of many river, (the Dharma) will flow into your mind, like a clear spirit. Those many people who (accept the Dharma) will be as bathed in it many times, oh good lady. Oh my lady, do not pray to the spirits, and all will become clear. Oh my lady, worship God and hold to this Dharma. There are so many many minds to be read. This, Oh my lady, makes your mind ... Blessings. Keep smiling ... Good and beautiful words, the words of Dharma. I will tell, I will explain to you, my lady. Those words for the people of this earth... I will relate and tell for you, lady, to hear. (What is) win1? maa2 khan1 means 'come quickly'. Um, at that time, to bow the head and pray to the Lord. Then that respected person said \"I will teach the words of Dharma, the words of the teaching. So that the lady may know the many sounds of the Dharma, think oh Lady! All is good, there is much to eat, there is no poverty.",
+  "book_id": "book_advice_women_ms",
+  "title": "Traditional Tai Wisdom and Counsel to Noble Daughters",
+  "title_tai": "Lik4 Kham1 Son3 Me5 Nang1",
+  "title_as": ""
+}

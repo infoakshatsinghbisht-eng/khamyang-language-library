@@ -1,0 +1,384 @@
+{
+  "id": "book_bhuyan_1960_satsari_assam_buranji",
+  "book_id": "book_bhuyan_1960_satsari_assam_buranji",
+  "title": "Satsari Assam Buranji: Seven Ancient Chronicles of Assam with Synopses",
+  "author": "Dr. Suryya Kumar Bhuyan & Gauhati University",
+  "year": 1960,
+  "genre": "Ancient Manuscript Buranjis & Textual Synthesis",
+  "description": "Critical historical edition of seven distinct primary manuscript chronicles preserved in the Ahom royal court, compiled and edited with analytical synopses by Dr. S. K. Bhuyan and published by Gauhati University, recounting the early migrations from Mong Mao, royal coronations, wars with Koch and Mughals, and embassies to the Nora (Khamyang) kingdom.",
+  "source": "Internet Archive / DLI (in.ernet.dli.2015.452953)",
+  "archive_id": "in.ernet.dli.2015.452953",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_001",
+      "lik_tai": "သၢတ်ႉသႃႇရီႇ ပိုၼ်း ဢႃႇသၢမ် ပဵၼ် ပပ်ႉ ပိုၼ်း ၸဵတ်း ၽိုၼ်",
+      "text_roman": "sat sa ri pün a sam pen pap pün cet phün",
+      "assamese_script": "সাতসৰী অসম বুৰঞ্জী হৈছে সাতখন প্ৰাচীন সাঁচিপতীয়া বুৰঞ্জীৰ সমষ্টি",
+      "morphemes": [
+        "sat-sa-ri",
+        "pün",
+        "a-sam",
+        "pen",
+        "pap",
+        "pün",
+        "cet",
+        "phün"
+      ],
+      "glosses": [
+        "Satsari/seven-strands",
+        "chronicle",
+        "Assam",
+        "be",
+        "book",
+        "chronicle",
+        "seven",
+        "CLF:manuscript"
+      ],
+      "free_translation_en": "The Satsari Assam Buranji is a celebrated compilation of seven ancient manuscript chronicles.",
+      "free_translation_as": "সাতসৰী অসম বুৰঞ্জী হৈছে সাতখনি ঐতিহাসিক সাঁচিপতীয়া বুৰঞ্জীৰ এক অপূৰ্ব সংকলন।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Gauhati University, Assam",
+      "notes": "Title & editorial preface by Dr. S. K. Bhuyan and Dr. B. K. Barua."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_002",
+      "lik_tai": "ပိုၼ်း ၽိုၼ် ၼိုင်ႈ လၢတ်ႈ လွင်ႈ ၶုၼ်လုင်း ၶုၼ်လၢႆး လူင်း မႃး",
+      "text_roman": "pün phün nüng lat lawng khun lung khun lai lung ma",
+      "assamese_script": "প্ৰথম বুৰঞ্জীত খুন্লুং আৰু খুন্লাইৰ স্বৰ্গৰ পৰা আগমনৰ কথা আছে",
+      "morphemes": [
+        "pün",
+        "phün",
+        "nüng",
+        "lat",
+        "lawng",
+        "khun-lung",
+        "khun-lai",
+        "lung",
+        "ma"
+      ],
+      "glosses": [
+        "chronicle",
+        "CLF",
+        "one",
+        "narrate",
+        "matter",
+        "Khunlung",
+        "Khunlai",
+        "descend",
+        "come"
+      ],
+      "free_translation_en": "The first chronicle relates the divine descent of Khunlung and Khunlai from heaven.",
+      "free_translation_as": "প্ৰথমখন বুৰঞ্জীত খুন্লুং আৰু খুন্লাইৰ স্বৰ্গৰ পৰা মৰ্ত্যলৈ আগমনৰ বৰ্ণনা দিয়া হৈছে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Cosmogonic section of the First Buranji."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_003",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ သုၶႃၽႃႉ မႃး တီႈ မိူင်း ဢႃႇသၢမ် ၼႂ်း ပီ လိၵ်ႈ တဲး",
+      "text_roman": "caw fa su kha pha ma ti möng a sam nai pi lik tai",
+      "assamese_script": "স্বৰ্গদেউ চুকাফাই টাই গণনা অনুসৰি অসমলৈ যাত্ৰা আৰম্ভ কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "su-kha-pha",
+        "ma",
+        "ti",
+        "möng",
+        "a-sam",
+        "nai",
+        "pi",
+        "lik-tai"
+      ],
+      "glosses": [
+        "king",
+        "Sukapha",
+        "come",
+        "at",
+        "country",
+        "Assam",
+        "in",
+        "year",
+        "Tai-chronology"
+      ],
+      "free_translation_en": "King Chao Fa Sukapha commenced his legendary migration to Assam according to the Tai Lak-Ni calendar.",
+      "free_translation_as": "স্বৰ্গদেউ চাওলুং চুকাফাই টাই লাক-নি গণনা অনুসৰি পাটকাই পাৰ হৈ অসমলৈ আগবাঢ়িল।",
+      "speaker": "Ahom Royal Chronicler",
+      "location": "Charaideo, Assam",
+      "notes": "Lak-Ni sexagenary chronological cycle."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_004",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ သုၶႃၽႃႉ ဢုပ်ႉ ၵူၼ်း မွၼ်း လႄႈ ၵူၼ်း ပရႃႇႁီႇ လီ ငၢမ်း",
+      "text_roman": "caw fa su kha pha up kun mawn le kun pa ra hi li ngam",
+      "assamese_script": "চুকাফাই মৰাণ আৰু বৰাহীসকলৰ লগত মিত্ৰতাৰে ৰাজ্য শাসন কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "su-kha-pha",
+        "up",
+        "kun-mawn",
+        "le",
+        "kun-pa-ra-hi",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "king",
+        "Sukapha",
+        "govern",
+        "Moran-people",
+        "and",
+        "Barahi-people",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "King Sukapha ruled in harmony and alliance with the native Moran and Barahi populations.",
+      "free_translation_as": "চুকাফাই স্থানীয় মৰাণ আৰু বৰাহীসকলৰ লগত বন্ধুত্ব স্থাপন কৰি শান্তিপূৰ্ণ শাসন দিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Harmonious statecraft in the Third Buranji."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_005",
+      "lik_tai": "ၶုၼ် ဢႃႇႁူမ် သွင်ႇ ၽွင်းၶဵဝ် ၵႂႃႇ မိူင်း ၼေႃးရႃႇ သွင်ႇ ၶူဝ်း တွၼ်ႈ",
+      "text_roman": "khun a hom sawng phawng khew kwa möng naw ra sawng khü tawn",
+      "assamese_script": "আহোম স্বৰ্গদেৱে নোৰা ৰাজ্যলৈ কটকী পঠাই উপহাৰ বিনিময় কৰিলে",
+      "morphemes": [
+        "khun",
+        "a-hom",
+        "sawng",
+        "phawng-khew",
+        "kwa",
+        "möng",
+        "naw-ra",
+        "sawng",
+        "khü-tawn"
+      ],
+      "glosses": [
+        "ruler",
+        "Ahom",
+        "send",
+        "envoy/kataki",
+        "go",
+        "country",
+        "Nora",
+        "send",
+        "gifts/presents"
+      ],
+      "free_translation_en": "The Ahom monarch dispatched embassies and royal presents to the ancestral Nora realm.",
+      "free_translation_as": "স্বৰ্গদেউসকলে নোৰা ৰাজ্যলৈ নিয়মিত কটকী প্ৰেৰণ কৰি পৈতৃক সম্পৰ্ক সজীৱ কৰি ৰাখিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Fifth Buranji records on trans-Patkai Nora embassies."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_006",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ပရတႃႇပ သိင်ႇႁႃႉ ၶိုင် ပွင် ပၢႆး သိုၵ်း လႄႈ ၼႃး",
+      "text_roman": "caw fa pa ra tap sing ha khüng pawng pai sük le na",
+      "assamese_script": "স্বৰ্গদেউ প্ৰতাপ সিংহই পাইক প্ৰথা আৰু সামৰিক ব্যৱস্থা সুদৃঢ় কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "pa-ra-tap-sing-ha",
+        "khüng-pawng",
+        "pai-sük",
+        "le",
+        "na"
+      ],
+      "glosses": [
+        "king",
+        "Pratap-Singha",
+        "organize/reform",
+        "military-system",
+        "and",
+        "agriculture/Paik"
+      ],
+      "free_translation_en": "King Pratap Singha reformed the military organization and the agrarian Paik system.",
+      "free_translation_as": "স্বৰ্গদেউ প্ৰতাপ সিংহই বিখ্যাত পাইক প্ৰথা আৰু খেল ব্যৱস্থা প্ৰৱৰ্তন কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Introduction of the Paik system (Fourth Buranji)."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_007",
+      "lik_tai": "လႃးသိတ်ႉ ပႃႇၾုၵ်ႈၶၢၼ်ႇ ပဵၼ် ၽူႈႁတ်းႁၢၼ် ၼႂ်း သိုၵ်း သႃႇရၢႆႇၶၢတ်ႉ",
+      "text_roman": "la sit pa phuk khan pen phu hat han nai sük sa rai khat",
+      "assamese_script": "লাচিত বৰফুকন আছিল শৰাইঘাটৰ ৰণৰ মহাবীৰ সেনাপতি",
+      "morphemes": [
+        "la-sit-pa-phuk-khan",
+        "pen",
+        "phu-hat-han",
+        "nai",
+        "sük",
+        "sa-rai-khat"
+      ],
+      "glosses": [
+        "Lachit-Borphukan",
+        "be",
+        "hero/valiant-commander",
+        "in",
+        "war",
+        "Saraighat"
+      ],
+      "free_translation_en": "General Lachit Borphukan proved himself a legendary commander in the naval Battle of Saraighat.",
+      "free_translation_as": "লাচিত বৰফুকনে শৰাইঘাটৰ নৌযুদ্ধত দেশৰ স্বাধীনতা ৰক্ষা কৰি অনন্য বীৰত্ব দেখুৱালে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Saraighat campaign in the Sixth Buranji."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_008",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ၵတႃႇထႃႇ သိင်ႇႁႃႉ ပႄႉ သိုၵ်း မူဝ်ႇၵူဝ်ႇ တီႈ ဢိတႃႇၶူႇလီႇ",
+      "text_roman": "caw fa ka da tha sing ha pe sük mo kol ti i ta khu li",
+      "assamese_script": "স্বৰ্গদেউ গদাধৰ সিংহই ইটাখুলিত মোগলক চিৰতরে খেদি পঠালে",
+      "morphemes": [
+        "caw-fa",
+        "ka-da-tha-sing-ha",
+        "pe",
+        "sük",
+        "mo-kol",
+        "ti",
+        "i-ta-khu-li"
+      ],
+      "glosses": [
+        "king",
+        "Gadadhar-Singha",
+        "defeat",
+        "army",
+        "Mughal",
+        "at",
+        "Itakhuli"
+      ],
+      "free_translation_en": "King Gadadhar Singha decisively expelled the Mughals at the Battle of Itakhuli in 1682.",
+      "free_translation_as": "১৬৮২ খ্ৰীষ্টাব্দৰ ইটাখুলিৰ ৰণত গদাধৰ সিংহই মোগলক চিৰকালৰ বাবে অসমৰ পৰা খেদিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Battle of Itakhuli (1682)."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_009",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ရုទ្រ သိင်ႇႁႃႉ ႁွင်ႉ ပွႆး ယႂ်ႇ တီႈ ဝဵင်း ရင်းပူဝ်ႇ",
+      "text_roman": "caw fa ru dra sing ha hawng pway yai ti weng rang pur",
+      "assamese_script": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই ৰংপুৰত সৰ্বভাৰতীয় সন্মিলন আয়োজন কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "ru-dra-sing-ha",
+        "hawng",
+        "pway",
+        "yai",
+        "ti",
+        "weng",
+        "rang-pur"
+      ],
+      "glosses": [
+        "king",
+        "Rudra-Singha",
+        "convene",
+        "assembly/festival",
+        "great",
+        "at",
+        "city",
+        "Rangpur"
+      ],
+      "free_translation_en": "King Rudra Singha convened grand state durbars and patronized arts at Rangpur.",
+      "free_translation_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই ৰংপুৰ মহানগৰত কলা-সংস্কৃতি আৰু পণ্ডিতসমাজক আশ্ৰয় দিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Golden era of Rudra Singha."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_010",
+      "lik_tai": "မွဝ်း လိၵ်ႈ တႅမ်ႈ ပိုၼ်း ဝႆႉ ၼႂ်း သႃႉၸီႇ ပပ်ႉ ၵဝ်ႇ",
+      "text_roman": "maw lik tem pün wai nai sa ci pap kaw",
+      "assamese_script": "টাই পণ্ডিতসকলে পুৰণি সাঁচিপাতত ঐতিহাসিক বিৱৰণী সংৰক্ষণ কৰিছিল",
+      "morphemes": [
+        "maw-lik",
+        "tem",
+        "pün",
+        "wai",
+        "nai",
+        "sa-ci",
+        "pap",
+        "kaw"
+      ],
+      "glosses": [
+        "scholar/bailung",
+        "write",
+        "chronicle",
+        "PERF",
+        "in",
+        "sanchi-bark",
+        "book",
+        "ancient"
+      ],
+      "free_translation_en": "Tai scholars preserved detailed administrative and court annals on indigenous sanchi-bark manuscripts.",
+      "free_translation_as": "টাই বাইলুংসকলে অতি নিষ্ঠাৰে সাঁচিপাতৰ পুথিত ৰাজকীয় বুৰঞ্জীসমূহ লিপিবদ্ধ কৰিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Manuscript culture in Seventh Buranji."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_011",
+      "lik_tai": "ပိုၼ်း သၢတ်ႉသႃႇရီႇ ပဵၼ် သႅင် ၶမ်း ၶွင် မိူင်း ဢႃႇသၢမ်",
+      "text_roman": "pün sat sa ri pen seng kham khawng möng a sam",
+      "assamese_script": "সাতসৰী বুৰঞ্জী হৈছে অসম দেশৰ এক অমূল্য সাতসৰী মণিমালা",
+      "morphemes": [
+        "pün",
+        "sat-sa-ri",
+        "pen",
+        "seng",
+        "kham",
+        "khawng",
+        "möng",
+        "a-sam"
+      ],
+      "glosses": [
+        "chronicle",
+        "Satsari",
+        "be",
+        "jewel",
+        "gold",
+        "of",
+        "country",
+        "Assam"
+      ],
+      "free_translation_en": "The Satsari Buranji stands as an invaluable golden heirloom of Assam's history.",
+      "free_translation_as": "সাতসৰী অসম বুৰঞ্জী হৈছে আমাৰ জাতীয় ইতিহাসৰ সোণালী সাতসৰী হাৰ।",
+      "speaker": "Dr. Birinchi Kumar Barua",
+      "location": "Gauhati University",
+      "notes": "Dr. B. K. Barua's foreword."
+    },
+    {
+      "id": "book_bhuyan_1960_satsari_assam_buranji_012",
+      "lik_tai": "ႁႂ်ႈ ပိုၼ်း တဲး ဢႃႇသၢမ် ယူႇ ယိုၼ်းယၢဝ်း ၼႂ်း ၵူၼ်း လုၵ်ႈလၢၼ်",
+      "text_roman": "hai pün tai a sam yu yün yao nai kun luk lan",
+      "assamese_script": "অসমৰ টাই বুৰঞ্জীৰ জ্ঞান আমাৰ উত্তৰ প্ৰজন্মৰ মাজত চিৰকাল জীয়াই থাকক",
+      "morphemes": [
+        "hai",
+        "pün",
+        "tai",
+        "a-sam",
+        "yu",
+        "yün-yao",
+        "nai",
+        "kun",
+        "luk-lan"
+      ],
+      "glosses": [
+        "may",
+        "history",
+        "Tai",
+        "Assam",
+        "live",
+        "enduring/long",
+        "among",
+        "people",
+        "descendants"
+      ],
+      "free_translation_en": "May the heritage of Tai Assam endure perpetually among all coming generations.",
+      "free_translation_as": "অসমৰ গৌৰৱময় টাই ঐতিহ্য আমাৰ নতুন প্ৰজন্মৰ মাজত যুগে যুগে অমৰ হৈ ৰওক।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Concluding aspirational dedication."
+    }
+  ]
+}

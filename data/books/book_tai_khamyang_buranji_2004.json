@@ -1,0 +1,390 @@
+{
+  "id": "book_tai_khamyang_buranji_2004",
+  "book_id": "book_tai_khamyang_buranji_2004",
+  "title": "Tai Khamyang Buranji: Historical Chronicle and Clan Genealogy of the Tai Khamyang Community",
+  "author": "Tai Khamyang Buranji Pranayan Samiti (Sri Chaimet Bailung & Sri Aongching Shyam)",
+  "year": 2004,
+  "genre": "Historical Chronicle & Clan Genealogy",
+  "description": "The definitive native history and migration chronicle of the Tai Khamyang (Nora) community of Assam and Arunachal Pradesh, covering clan origins (Thaumung, Chowhai, Chowlu, Shyam), migration across Patkai, settlements in Disangpani, Pawaimukh, and Sivasagar, and sociolinguistic heritage.",
+  "source": "Internet Archive (tai-khamyang-buranji)",
+  "archive_id": "tai-khamyang-buranji",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_tai_khamyang_buranji_2004_001",
+      "lik_tai": "ပိုၼ်းတဲးၶမ်းယၢင် ပဵၼ် ပိုၼ်း ၵဝ်ႇၵႄႇ ၶွင် ပီႈၼွင်ႉ တဲး",
+      "text_roman": "pün tai kham yang pen pün kaw ke khawng pi nawng tai",
+      "assamese_script": "পুন্ ত্তাই খাময়াং পেন পুন্ কৌ কে খঙ পী-নঙ ত্তাই",
+      "morphemes": [
+        "pün",
+        "tai",
+        "kham",
+        "yang",
+        "pen",
+        "pün",
+        "kaw-ke",
+        "khawng",
+        "pi-nawng",
+        "tai"
+      ],
+      "glosses": [
+        "history/chronicle",
+        "Tai",
+        "gold",
+        "Khamyang",
+        "be",
+        "history",
+        "ancient",
+        "of",
+        "brethren",
+        "Tai"
+      ],
+      "free_translation_en": "The Tai Khamyang Buranji is an ancient historical chronicle of the Tai brethren.",
+      "free_translation_as": "ত্তাই খাময়াং বুৰঞ্জী হৈছে টাই ভাতৃসকলৰ এক প্ৰাচীন বুৰঞ্জী।",
+      "speaker": "Sri Chaimet Bailung",
+      "location": "Sivasagar, Assam",
+      "notes": "Opening chronicle invocation."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_002",
+      "lik_tai": "ဝႆႈသႃ ပူႇလိၼ် ပူႇထဝ်ႈ ယႃႈလိၼ် ယႃႈထဝ်ႈ ၵူႈ ၵေႃႉ",
+      "text_roman": "wai sa pu lin pu thao ya lin ya thao ku kaw",
+      "assamese_script": "ৱাই সা পু-লিন পু-থাও য়া-লিন য়া-থাও কু ক",
+      "morphemes": [
+        "wai-sa",
+        "pu-lin",
+        "pu-thao",
+        "ya-lin",
+        "ya-thao",
+        "ku",
+        "kaw"
+      ],
+      "glosses": [
+        "pay-homage",
+        "ancestor-patriarch",
+        "old-grandfather",
+        "ancestor-matriarch",
+        "old-grandmother",
+        "every",
+        "CLF:person"
+      ],
+      "free_translation_en": "We pay humble homage to all our ancestral grandfathers and grandmothers (Pu-Lin Pu-Thao, Ya-Lin Ya-Thao).",
+      "free_translation_as": "সেই সকল পথিকৃত পু-লিন-পু-থাও, জ্যালিন্‌-জ্যাথাওলৈ আমাৰ সশ্ৰদ্ধ প্ৰণাম যাচিছো।",
+      "speaker": "Tai Khamyang Buranji Editorial Committee",
+      "location": "Sivasagar, Assam",
+      "notes": "Dedication page (উচৰ্গা) honoring pioneering ancestors."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_003",
+      "lik_tai": "ၶမ်းယၢင် လုၵ်ႉ မိူင်းမၢဝ်း လၢမ်း ၶၢမ်ႈ လွႆ ပတ်ႉၵၢႆႇ မႃး",
+      "text_roman": "kham yang luk möng mao lam kham loy pat kai ma",
+      "assamese_script": "খাময়াং লুক ম্যং মাও লাম খাম লয় পাটকাই মা",
+      "morphemes": [
+        "kham-yang",
+        "luk",
+        "möng-mao",
+        "lam",
+        "kham",
+        "loy",
+        "pat-kai",
+        "ma"
+      ],
+      "glosses": [
+        "Khamyang",
+        "originate/arise",
+        "Mong-Mao",
+        "march/trek",
+        "cross",
+        "hill/mountain",
+        "Patkai",
+        "come"
+      ],
+      "free_translation_en": "The Khamyang people originated from Mong Mao and crossed the rugged Patkai ranges into Assam.",
+      "free_translation_as": "খাময়াংসকল পূৰ্বে মং মাওৰ পৰা আহি পাটকাই পৰ্ব্বত অতিক্ৰমি অসমত প্ৰৱেশ কৰিছিল।",
+      "speaker": "Sri Aongching Shyam",
+      "location": "Sivasagar, Assam",
+      "notes": "Account of historical migration."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_004",
+      "lik_tai": "ၶိူဝ်း တဝ်ႈမိူင်း ၸဝ်ႈႁႆ ၸဝ်ႈလူႇ ၶိူဝ်း သျၢမ်း ၸိုဝ်ႈသဵင် ယႂ်ႇ",
+      "text_roman": "khü tao möng caw hai caw lu khü syam cü syeŋ yai",
+      "assamese_script": "খু তাও-ম্যং চাও-হাই চাও-লু খু শ্যাম চ্যু ছেং য়াই",
+      "morphemes": [
+        "khü",
+        "tao-möng",
+        "caw-hai",
+        "caw-lu",
+        "khü",
+        "syam",
+        "cü-syeŋ",
+        "yai"
+      ],
+      "glosses": [
+        "clan",
+        "Thaumung",
+        "Chowhai",
+        "Chowlu",
+        "clan",
+        "Shyam",
+        "reputation",
+        "great"
+      ],
+      "free_translation_en": "The clans of Thaumung, Chowhai, Chowlu, and Shyam achieved high renown among the Khamyang.",
+      "free_translation_as": "থাওমুং, চাওহাই, চাউলু আৰু শ্যাম বংশই খাময়াংসকলৰ মাজত বিশেষ মৰ্যাদা লাভ কৰিছিল।",
+      "speaker": "Sri Chaimet Bailung",
+      "location": "Sivasagar, Assam",
+      "notes": "Clan lineages (বংশাৱলী)."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_005",
+      "lik_tai": "ဝၢၼ်ႈ တီႈ ပႃႇဝႆးမုၵ်ႈ တင်း လၢတ်ႈ ၵႂၢမ်း တဲး ယူႇ",
+      "text_roman": "wan ti pa wai mukh tang lat kwam tai yu",
+      "assamese_script": "ৱান তী পাৱৈমুখ তাং লাত ক্বাম ত্তাই য়ু",
+      "morphemes": [
+        "wan",
+        "ti",
+        "pa-wai-mukh",
+        "tang",
+        "lat",
+        "kwam",
+        "tai",
+        "yu"
+      ],
+      "glosses": [
+        "village",
+        "at/loc",
+        "Pawaimukh",
+        "still/continue",
+        "speak",
+        "speech/language",
+        "Tai",
+        "stay/exist"
+      ],
+      "free_translation_en": "At Pawaimukh village, people still actively speak the ancestral Tai Khamyang language.",
+      "free_translation_as": "পাৱৈমুখ গাঁৱৰ লোকে আজিও নিজৰ পূৰ্বপুৰুষৰ টাই খাময়াং ভাষা সংৰক্ষণ কৰি আহিছে।",
+      "speaker": "Sri Aongching Shyam",
+      "location": "Pawaimukh, Margherita",
+      "notes": "Sociolinguistic note on language vitality."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_006",
+      "lik_tai": "ဝၢၼ်ႈ တီႈ တိသၢင်ႇပႃႇၼီႇ တင်း ၸႃႇလပႃႇထႃႇ ပဵၼ် ဝၢၼ်ႈ ယႂ်ႇ",
+      "text_roman": "wan ti ti sang pa ni tang ca la pa tha pen wan yai",
+      "assamese_script": "ৱান তী দিচাংপানী তাং চালাপথাৰ পেন ৱান য়াই",
+      "morphemes": [
+        "wan",
+        "ti",
+        "ti-sang-pa-ni",
+        "tang",
+        "ca-la-pa-tha",
+        "pen",
+        "wan",
+        "yai"
+      ],
+      "glosses": [
+        "village",
+        "at",
+        "Disangpani",
+        "and",
+        "Chalapathar",
+        "be",
+        "village",
+        "large/major"
+      ],
+      "free_translation_en": "The settlements at Disangpani and Chalapathar are major centers of the Tai Khamyang community.",
+      "free_translation_as": "দিচাংপানী আৰু চালাপথাৰ হৈছে টাই খাময়াং সমাজৰ অন্যতম প্ৰধান গাঁও।",
+      "speaker": "Sri Chaimet Bailung",
+      "location": "Sivasagar, Assam",
+      "notes": "Geographical distribution of villages."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_007",
+      "lik_tai": "ပိုၼ်း တဲး ဢႃႇႁူမ် လႄႈ ၶမ်းယၢင် မီး ၸိုဝ်ႈ ၸွမ်း ၵၼ်",
+      "text_roman": "pün tai a hom le kham yang mi cü cwom kan",
+      "assamese_script": "পুন্ ত্তাই আহোম লে খাময়াং মী চ্যু চোম কান",
+      "morphemes": [
+        "pün",
+        "tai",
+        "a-hom",
+        "le",
+        "kham-yang",
+        "mi",
+        "cü",
+        "cwom",
+        "kan"
+      ],
+      "glosses": [
+        "history",
+        "Tai",
+        "Ahom",
+        "and",
+        "Khamyang",
+        "have",
+        "record/tie",
+        "together",
+        "RECIP"
+      ],
+      "free_translation_en": "The history of the Tai Ahom and Tai Khamyang has been deeply intertwined for centuries.",
+      "free_translation_as": "টাই আহোম আৰু টাই খাময়াংসকলৰ ইতিহাস শতাব্দী ধৰি পৰস্পৰ সংলগ্ন।",
+      "speaker": "Sri Chaimet Bailung",
+      "location": "Sivasagar, Assam",
+      "notes": "Historical kinship between Tai groups of Assam."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_008",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ သုၶႃၽႃႉ မႃး မိူင်း တႆး သွင်ႇ ၼႂ်း ၵၢဝ်ႇ",
+      "text_roman": "caw fa su kha pha ma möng tai sawng nai kaw",
+      "assamese_script": "চাও ফা ছুকাফা মা ম্যং ত্তাই ছঙ নাই কাও",
+      "morphemes": [
+        "caw-fa",
+        "su-kha-pha",
+        "ma",
+        "möng",
+        "tai",
+        "sawng",
+        "nai",
+        "kaw"
+      ],
+      "glosses": [
+        "king",
+        "Sukhapha",
+        "come",
+        "realm",
+        "Tai",
+        "send",
+        "in",
+        "ancient-time"
+      ],
+      "free_translation_en": "King Chao Fa Sukapha arrived in the fertile valley of the Brahmaputra in ancient times.",
+      "free_translation_as": "স্বৰ্গদেউ চাওলুং চুকাফা প্ৰাচীন কালত ব্ৰহ্মপুত্ৰ উপত্যকালৈ আগমন কৰিছিল।",
+      "speaker": "Tai Khamyang Buranji Editorial Committee",
+      "location": "Sivasagar, Assam",
+      "notes": "Foundation of the Ahom kingdom in 1228 AD."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_009",
+      "lik_tai": "ပီႈၼွင်ႉ ၼေႃးရႃႇ ပဵၼ် ၸိုဝ်ႈ ၵဝ်ႇ ၶွင် တဲး ၶမ်းယၢင်",
+      "text_roman": "pi nawng naw ra pen cü kaw khawng tai kham yang",
+      "assamese_script": "পী-নঙ নোৰা পেন চ্যু কৌ খঙ ত্তাই খাময়াং",
+      "morphemes": [
+        "pi-nawng",
+        "naw-ra",
+        "pen",
+        "cü",
+        "kaw",
+        "khawng",
+        "tai",
+        "kham",
+        "yang"
+      ],
+      "glosses": [
+        "brethren",
+        "Nora",
+        "be",
+        "name",
+        "ancient",
+        "of",
+        "Tai",
+        "gold",
+        "Khamyang"
+      ],
+      "free_translation_en": "The Nora people are the historical ancestors and alternate designation of the Tai Khamyang.",
+      "free_translation_as": "বুৰঞ্জীত উল্লেখিত ‘নোৰা’ জনগোষ্ঠীয়েই হৈছে টাই খাময়াংসকলৰ পূৰ্বপুৰুষ।",
+      "speaker": "Sri Aongching Shyam",
+      "location": "Sivasagar, Assam",
+      "notes": "Equivalence of Nora and Khamyang in historical chronicles."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_010",
+      "lik_tai": "ၶမ်းယၢင် ၼပ်ႉထိုဝ် သႃႇသၼႃႇ ၽြႃး ပုတ်ႉထ လီ လီ",
+      "text_roman": "kham yang nap thö sa sa na phra put tha li li",
+      "assamese_script": "খাময়াং নাপ থৌ শাসনা ফ্ৰা বুদ্ধ লী লী",
+      "morphemes": [
+        "kham-yang",
+        "nap-thö",
+        "sa-sa-na",
+        "phra",
+        "put-tha",
+        "li",
+        "li"
+      ],
+      "glosses": [
+        "Khamyang",
+        "revere/venerate",
+        "religion/dispensation",
+        "lord",
+        "Buddha",
+        "good",
+        "good"
+      ],
+      "free_translation_en": "The Khamyang people faithfully adhere to the sublime teachings of Theravada Buddhism.",
+      "free_translation_as": "খাময়াংসকলে পৰম ভক্তিৰে থেৰবাদী বৌদ্ধ ধৰ্ম পালন কৰে।",
+      "speaker": "Sri Chaimet Bailung",
+      "location": "Sivasagar, Assam",
+      "notes": "Religious practices and Vihara centers."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_011",
+      "lik_tai": "ၵျွင်း ပုတ်ႉထ မီး တီႈ ၵူႈ ဝၢၼ်ႈ ၶွင် တဲး",
+      "text_roman": "kyawng put tha mi ti ku wan khawng tai",
+      "assamese_script": "ক্যং বুদ্ধ মী তী কু ৱান খঙ ত্তাই",
+      "morphemes": [
+        "kyawng",
+        "put-tha",
+        "mi",
+        "ti",
+        "ku",
+        "wan",
+        "khawng",
+        "tai"
+      ],
+      "glosses": [
+        "monastery/vihara",
+        "Buddha",
+        "exist",
+        "at",
+        "every",
+        "village",
+        "of",
+        "Tai"
+      ],
+      "free_translation_en": "A Buddhist monastery (kyawng / vihara) is present in every Tai Khamyang village.",
+      "free_translation_as": "প্ৰতিখন টাই খাময়াং গাঁৱতে একোটাকৈ বৌদ্ধ বিহাৰ অৱস্থিত।",
+      "speaker": "Sri Aongching Shyam",
+      "location": "Pawaimukh, Assam",
+      "notes": "Vihara culture in Khamyang settlements."
+    },
+    {
+      "id": "book_tai_khamyang_buranji_2004_012",
+      "lik_tai": "ႁဝ်းၶႃႈ လုၵ်ႈလၢၼ် တေ ႁၵ်ႉသႃ ၵႂၢမ်း လႄႈ လိၵ်ႈ ႁဝ်း",
+      "text_roman": "hao kha luk lan te hak sa kwam le lik hao",
+      "assamese_script": "হাও খা লুক লান তে হাক সা ক্বাম লে লিক হাও",
+      "morphemes": [
+        "hao-kha",
+        "luk-lan",
+        "te",
+        "hak-sa",
+        "kwam",
+        "le",
+        "lik",
+        "hao"
+      ],
+      "glosses": [
+        "1PL:HON",
+        "descendants/youth",
+        "FUT",
+        "preserve/protect",
+        "speech",
+        "and",
+        "script",
+        "1PL:POSS"
+      ],
+      "free_translation_en": "We, the descendants, shall preserve and protect our ancestral language and script.",
+      "free_translation_as": "আমি উত্তৰপ্ৰজন্মই আমাৰ মাতৃভাষা আৰু লিপি সংৰক্ষণ কৰিবলৈ প্ৰতিশ্ৰুতিবদ্ধ।",
+      "speaker": "Tai Khamyang Buranji Editorial Committee",
+      "location": "Sivasagar, Assam",
+      "notes": "Resolution for revitalization in the Buranji."
+    }
+  ]
+}

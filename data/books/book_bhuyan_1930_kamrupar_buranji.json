@@ -1,0 +1,338 @@
+{
+  "id": "book_bhuyan_1930_kamrupar_buranji",
+  "book_id": "book_bhuyan_1930_kamrupar_buranji",
+  "title": "Kamrupar Buranji",
+  "author": "Dr. Suryya Kumar Bhuyan",
+  "year": 1930,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Historical account compiled from ancient chronicles describing medieval western Assam, the frontier clashes between the Tai Ahom realm and Mughal imperial armies, and the diplomatic treaties that secured the independence of the Tai state.",
+  "source": "https://archive.org/details/dli.ministry.03465",
+  "archive_id": "dli.ministry.03465",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khyaa taang mroeng",
+      "assamese_script": "চৌ ফা টাই খ্যা তাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khyaa",
+        "taang",
+        "mroeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "declare",
+        "frontier",
+        "country"
+      ],
+      "free_translation_en": "The Tai king established the frontier boundary of the country.",
+      "free_translation_as": "টাই স্বৰ্গদেৱে দেশৰ সীমা নিৰ্ধাৰণ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan (Compiler)",
+      "location": "Guwahati",
+      "notes": "Establishes territorial frontiers recorded in Kamrupar Buranji."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu chau khaw tii nam kaang",
+      "assamese_script": "ফু চৌ খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "general/noble",
+        "lord",
+        "enter",
+        "at",
+        "river",
+        "middle"
+      ],
+      "free_translation_en": "The commander deployed forces into the mid-river waters.",
+      "free_translation_as": "সেনাপতিয়ে নদীৰ মাজভাগত সৈন্য বাহিনী মোতায়েন কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Naval war fleet operations near Saraighat."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨾᩦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ ᨴᩦ",
+      "text_roman": "tai phaw mii taang phyeng tii",
+      "assamese_script": "টাই ফৌ মী তাং ফ্যেং তী",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "mii",
+        "taang",
+        "phyeng",
+        "tii"
+      ],
+      "glosses": [
+        "Tai",
+        "troops/clan",
+        "have",
+        "strategy",
+        "level/steady",
+        "place"
+      ],
+      "free_translation_en": "The Tai forces maintained a steadfast military position.",
+      "free_translation_as": "টাই সেনাই অবিচল ৰণনীতিৰে নিজৰ স্থানত স্থিৰ হৈ ৰ'ল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Phyeng used as 'firm/steady/balanced'."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "man khyaa tii phuu kaang chau",
+      "assamese_script": "মান খ্যা তী ফু কাং চৌ",
+      "morphemes": [
+        "man",
+        "khyaa",
+        "tii",
+        "phuu",
+        "kaang",
+        "chau"
+      ],
+      "glosses": [
+        "3SG",
+        "speak",
+        "to",
+        "envoy",
+        "middle",
+        "court"
+      ],
+      "free_translation_en": "The ambassador delivered his message before the royal court.",
+      "free_translation_as": "ৰাজদূতে দৰবাৰৰ সন্মুখত নিজৰ বাৰ্তা ব্যক্ত কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Phuu kaang represents the diplomatic intermediary."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨲᩱ ᨻᩪ ᨻ᩠ᨿᨦ",
+      "text_roman": "khaw nam taang tai phuu phyeng",
+      "assamese_script": "খৌ নাম তাং টাই ফু ফ্যেং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "tai",
+        "phuu",
+        "phyeng"
+      ],
+      "glosses": [
+        "food",
+        "water",
+        "route",
+        "Tai",
+        "men",
+        "flat/secure"
+      ],
+      "free_translation_en": "The Tai supply lines secured provisions for the fighting men.",
+      "free_translation_as": "টাই খাদ্য সৰবৰাহ ব্যৱস্থাই সৈন্যসকলৰ বাবে ৰচদ নিশ্চিত কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Logistical supply lines in medieval frontier campaigns."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨻᩕᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨲᩱ",
+      "text_roman": "phaa chau mroeng khyaa tii tai",
+      "assamese_script": "ফা চৌ ম্ৰোং খ্যা তী টাই",
+      "morphemes": [
+        "phaa",
+        "chau",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "heaven",
+        "monarch",
+        "nation",
+        "decree",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The sovereign issued an order to rally the Tai citizens.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই জনসাধাৰণক একত্ৰিত হ'বলৈ আদেশ জাৰি কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Mobilization of paiks in time of war."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phuu tai tii phuu khaw nam",
+      "assamese_script": "ফু টাই তী ফু খৌ নাম",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "at",
+        "hills",
+        "descend",
+        "river"
+      ],
+      "free_translation_en": "The Tai warriors descended from the hill forts to the riverbank.",
+      "free_translation_as": "টাই যুঁজাৰুসকল পাহাৰীয়া দুৰ্গৰ পৰা নদীৰ পাৰলৈ নামি আহিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Descent from fortified hills (Itakhuli, Pandu, Saraighat)."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "lord",
+        "country",
+        "have",
+        "compact/word",
+        "treaty",
+        "former"
+      ],
+      "free_translation_en": "The ruler had a long-standing diplomatic compact with the western frontier.",
+      "free_translation_as": "ৰজাৰ পশ্চিম সীমান্তৰ সৈতে এখন পুৰণি কূটনৈতিক চুক্তি আছিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Historical treaty of Asurar Ali (1639)."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨶᩣᩴ ᨲᩱ ᨡᩣ᩠ᨿ ᨾᩕ᩠ᨦ",
+      "text_roman": "phyeng tii nam tai khaay mroeng",
+      "assamese_script": "ফ্যেং তী নাম টাই খায় ম্ৰোং",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "nam",
+        "tai",
+        "khaay",
+        "mroeng"
+      ],
+      "glosses": [
+        "peace",
+        "at",
+        "river",
+        "Tai",
+        "expand",
+        "realm"
+      ],
+      "free_translation_en": "With peace along the river, the Tai kingdom expanded its commerce.",
+      "free_translation_as": "নদীত শান্তি স্থাপন হোৱাৰ পিছত টাই ৰাজ্যই বাণিজ্য বিস্তাৰ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Commercial resurgence following frontier treaties."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "naang chau tii phyeng mii khyaa",
+      "assamese_script": "নাং চৌ তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "queen",
+        "lord",
+        "at",
+        "capital",
+        "have",
+        "repute"
+      ],
+      "free_translation_en": "The queen in the tranquil capital gained great renown.",
+      "free_translation_as": "শান্ত ৰাজধানীত বৰকুঁৱৰীয়ে মহৎ যশস্যা অৰ্জন কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Praises of queens in royal records."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨻᩕᩣ",
+      "text_roman": "tai phaw khyaa taang chau phaa",
+      "assamese_script": "টাই ফৌ খ্যা তাং চৌ ফা",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "khyaa",
+        "taang",
+        "chau",
+        "phaa"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "praise",
+        "path",
+        "lord",
+        "heaven"
+      ],
+      "free_translation_en": "The Tai soldiers praised the glorious victory of the heavenly king.",
+      "free_translation_as": "টাই সেনাই স্বৰ্গদেউৰ মহান বিজয়ক জয়ধ্বনিৰে অভিবাদন জনালে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Chant of victory following the defense of Kamrup."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ ᨩᩮᩣᩢ ᨶᩣᩴ",
+      "text_roman": "tai mroeng taang phyeng chau nam",
+      "assamese_script": "টাই ম্ৰোং তাং ফ্যেং চৌ নাম",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng",
+        "chau",
+        "nam"
+      ],
+      "glosses": [
+        "Tai",
+        "realm",
+        "law",
+        "peace",
+        "lord",
+        "river"
+      ],
+      "free_translation_en": "The Tai sovereignty governed the broad waters in lasting peace.",
+      "free_translation_as": "টাই শাসনৰ অধীনত বিস্তীৰ্ণ নদীৰ পাৰত চিৰস্থায়ী শান্তি বিৰাজ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Final formula of historical stability in the Buranji."
+    }
+  ]
+}

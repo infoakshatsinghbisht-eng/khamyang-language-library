@@ -1,0 +1,1317 @@
+{
+  "id": "book_stepmother",
+  "title_khamyang": "Pung1 Me5 Phau4 Kap4 Luk4 On1",
+  "title_english": "The Stepmother and the Clever Children",
+  "genre": "folktale",
+  "informant": "Aithown Che Chakap",
+  "village": "Namphakey Village",
+  "audio_ref": "1-1-1-5.mp3",
+  "description": "Classic Tai hearthside folk story depicting filial patience, tests of loyalty, and justice prevailing against cruelty.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 45,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "mz5 nan4 p5 k4 nvng5 au2 me2 kaa1 k4 lvng5",
+      "lik_tai": "မႉ ၼၼ်း ပႉ ၵး ၼင်ႉ ဢဝ်ႇ ေမႇ ၵႃ ၵး လင်ႉ",
+      "assamese_script": "ম⁵ নান⁴ প⁵ ক⁴ নঙ⁵ ঔ² মে² কা¹ ক⁴ লঙ⁵",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [p˧˩] [k˥˦ʔ] [nvŋ˧˩] [au˥˦] [me˥˦] [kaː˧˧] [k˥˦ʔ] [lvŋ˧˩]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "p5",
+        "k4",
+        "nvng5",
+        "au2",
+        "me2",
+        "kaa1",
+        "k4",
+        "lvng5"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "man",
+        "CLF",
+        "one",
+        "take",
+        "wife",
+        "GO",
+        "CLF",
+        "one"
+      ],
+      "translation": "Once upon a time a man had a wife.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Once upon a time a man had a wife.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "mvn2 het1 a1 t2 phaa3",
+      "lik_tai": "မၼ်ႇ ေႁတ် ဢႃ တႇ ၽႃႈ",
+      "assamese_script": "মন² হেত্‌¹ অ¹ ত² ফা³",
+      "ipa": "[mvn˥˦] [het˧˧] [a˧˧] [t˥˦] [pʰaː˨˩̰]",
+      "morphemes": [
+        "mvn2",
+        "het1",
+        "a1",
+        "t2",
+        "phaa3"
+      ],
+      "glosses": [
+        "3Sg",
+        "do",
+        "work",
+        "weave",
+        "cloth"
+      ],
+      "translation": "She was a weaver.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She was a weaver.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "t2 phaa3 se6 khaai6 tvng1 pho6 tvng1 me2",
+      "lik_tai": "တႇ ၽႃႈ ေꩢႊ ၶႃႆႊ တင် ၽူႊ တင် ေမႇ",
+      "assamese_script": "ত² ফা³ সে⁶ খাই⁶ তঙ¹ ফো⁶ তঙ¹ মে²",
+      "ipa": "[t˥˦] [pʰaː˨˩̰] [se˧˥] [kʰaːi˧˥] [tvŋ˧˧] [pʰo˧˥] [tvŋ˧˧] [me˥˦]",
+      "morphemes": [
+        "t2",
+        "phaa3",
+        "se6",
+        "khaai6",
+        "tvng1",
+        "pho6",
+        "tvng1",
+        "me2"
+      ],
+      "glosses": [
+        "weave",
+        "cloth",
+        "PRT",
+        "sell",
+        "both",
+        "husband",
+        "both",
+        "wife"
+      ],
+      "translation": "When the cloth was woven, both husband and wife went out to sell it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: When the cloth was woven, both husband and wife went out to sell it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "t2 phaa3 se6 khaai6",
+      "lik_tai": "တႇ ၽႃႈ ေꩢႊ ၶႃႆႊ",
+      "assamese_script": "ত² ফা³ সে⁶ খাই⁶",
+      "ipa": "[t˥˦] [pʰaː˨˩̰] [se˧˥] [kʰaːi˧˥]",
+      "morphemes": [
+        "t2",
+        "phaa3",
+        "se6",
+        "khaai6"
+      ],
+      "glosses": [
+        "weave",
+        "cloth",
+        "PRT",
+        "sell"
+      ],
+      "translation": "When the cloth was woven, it was sold.",
+      "translation_assamese": "অসমীয়া অৰ্থ: When the cloth was woven, it was sold.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "haa1 nai4 yj4 uu1 yj4 luk4 saau6 k4 lvng5 nai3 kaa1",
+      "lik_tai": "ႁႃ ၼႆး ယး ဢ ယး လုၵ်း ꩢႃဝ်ႊ ၵး လင်ႉ ၼႆႈ ၵႃ",
+      "assamese_script": "হা¹ নাই⁴ য⁴ অ¹ য⁴ লুক্‌⁴ সাও⁶ ক⁴ লঙ⁵ নাই³ কা¹",
+      "ipa": "[haː˧˧] [nai˥˦ʔ] [jj˥˦ʔ] [uu˧˧] [jj˥˦ʔ] [luk˥˦ʔ] [saːu˧˥] [k˥˦ʔ] [lvŋ˧˩] [nai˨˩̰] [kaː˧˧]",
+      "morphemes": [
+        "haa1",
+        "nai4",
+        "yj4",
+        "uu1",
+        "yj4",
+        "luk4",
+        "saau6",
+        "k4",
+        "lvng5",
+        "nai3",
+        "kaa1"
+      ],
+      "glosses": [
+        "time",
+        "this",
+        "PRT",
+        "stay",
+        "PRT",
+        "child",
+        "female",
+        "CLF",
+        "one",
+        "get",
+        "GO"
+      ],
+      "translation": "Then she had a daughter.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then she had a daughter.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "luk4 saau6 k4 nvng5 yang2 yj4 yav1",
+      "lik_tai": "လုၵ်း ꩢႃဝ်ႊ ၵး ၼင်ႉ ယင်ႇ ယး ယ",
+      "assamese_script": "লুক্‌⁴ সাও⁶ ক⁴ নঙ⁵ যাঙ² য⁴ য¹",
+      "ipa": "[luk˥˦ʔ] [saːu˧˥] [k˥˦ʔ] [nvŋ˧˩] [jaŋ˥˦] [jj˥˦ʔ] [jav˧˧]",
+      "morphemes": [
+        "luk4",
+        "saau6",
+        "k4",
+        "nvng5",
+        "yang2",
+        "yj4",
+        "yav1"
+      ],
+      "glosses": [
+        "child",
+        "female",
+        "CLF",
+        "one",
+        "have",
+        "PRT",
+        "big"
+      ],
+      "translation": "That daughter grew up.",
+      "translation_assamese": "অসমীয়া অৰ্থ: That daughter grew up.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "tso5 vm1 pii1 yav1 kan2 thvng6 kaa1 sip1 pii2",
+      "lik_tai": "ၸူႉ ဢမ် ပ ယ ၵၼ်ႇ ထင်ႊ ၵႃ ꩢိပ် ပႇ",
+      "assamese_script": "চো⁵ অম¹ প¹ য¹ কান² থঙ⁶ কা¹ সিপ্‌¹ প²",
+      "ipa": "[tɕo˧˩] [vm˧˧] [pii˧˧] [jav˧˧] [kan˥˦] [tʰvŋ˧˥] [kaː˧˧] [sip˧˧] [pii˥˦]",
+      "morphemes": [
+        "tso5",
+        "vm1",
+        "pii1",
+        "yav1",
+        "kan2",
+        "thvng6",
+        "kaa1",
+        "sip1",
+        "pii2"
+      ],
+      "glosses": [
+        "time",
+        "NEG",
+        "not yet",
+        "big",
+        "RECIP",
+        "reach",
+        "GO",
+        "10",
+        "year"
+      ],
+      "translation": "When she was not yet fully grown, but had reached the age of ten, her mother died.",
+      "translation_assamese": "অসমীয়া অৰ্থ: When she was not yet fully grown, but had reached the age of ten, her mother died.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "mj5 mvn2",
+      "lik_tai": "မႉ မၼ်ႇ",
+      "assamese_script": "ম⁵ মন²",
+      "ipa": "[mj˧˩] [mvn˥˦]",
+      "morphemes": [
+        "mj5",
+        "mvn2"
+      ],
+      "glosses": [
+        "mother",
+        "3Sg"
+      ],
+      "translation": "Her mother ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Her mother ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "aa1 mvn2",
+      "lik_tai": "ဢႃ မၼ်ႇ",
+      "assamese_script": "আ¹ মন²",
+      "ipa": "[aː˧˧] [mvn˥˦]",
+      "morphemes": [
+        "aa1",
+        "mvn2"
+      ],
+      "glosses": [
+        "age",
+        "3Sg"
+      ],
+      "translation": "Her age ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Her age ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "mj5 mvn2 taai2 yau4 kaa1 yj4",
+      "lik_tai": "မႉ မၼ်ႇ တႃႆႇ ယဝ်း ၵႃ ယး",
+      "assamese_script": "ম⁵ মন² তাই² যাও⁴ কা¹ য⁴",
+      "ipa": "[mj˧˩] [mvn˥˦] [taːi˥˦] [jau˥˦ʔ] [kaː˧˧] [jj˥˦ʔ]",
+      "morphemes": [
+        "mj5",
+        "mvn2",
+        "taai2",
+        "yau4",
+        "kaa1",
+        "yj4"
+      ],
+      "glosses": [
+        "mother",
+        "3Sg",
+        "die",
+        "FINISHED",
+        "GO",
+        "PRT"
+      ],
+      "translation": "Her mother died.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Her mother died.",
+      "audio_file": null,
+      "notes": "The last two words were realised as [kj4]"
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "nj4 pii5 naung4 mvn2 khau6 waa5 yaa4",
+      "lik_tai": "ၼး ပႉ ၼဝ်င်း မၼ်ႇ ၶဝ်ႊ ဝႃႉ ယႃး",
+      "assamese_script": "ন⁴ প⁵ নাওঙ⁴ মন² খাও⁶ ৱা⁵ যা⁴",
+      "ipa": "[nj˥˦ʔ] [pii˧˩] [nauŋ˥˦ʔ] [mvn˥˦] [kʰau˧˥] [waː˧˩] [jaː˥˦ʔ]",
+      "morphemes": [
+        "nj4",
+        "pii5",
+        "naung4",
+        "mvn2",
+        "khau6",
+        "waa5",
+        "yaa4"
+      ],
+      "glosses": [
+        "DEF",
+        "elder",
+        "younger",
+        "3Sg",
+        "3Pl",
+        "say",
+        "PRT"
+      ],
+      "translation": "Then his relatives said to (the husband),",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then his relatives said to (the husband),",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "au2 ka3 nvng1 k4 nvng5 me2 nvng1 k4 nvng5",
+      "lik_tai": "ဢဝ်ႇ ၵႃႈ ၼင် ၵး ၼင်ႉ ေမႇ ၼင် ၵး ၼင်ႉ",
+      "assamese_script": "ঔ² কা³ নঙ¹ ক⁴ নঙ⁵ মে² নঙ¹ ক⁴ নঙ⁵",
+      "ipa": "[au˥˦] [ka˨˩̰] [nvŋ˧˧] [k˥˦ʔ] [nvŋ˧˩] [me˥˦] [nvŋ˧˧] [k˥˦ʔ] [nvŋ˧˩]",
+      "morphemes": [
+        "au2",
+        "ka3",
+        "nvng1",
+        "k4",
+        "nvng5",
+        "me2",
+        "nvng1",
+        "k4",
+        "nvng5"
+      ],
+      "glosses": [
+        "take",
+        "GO.IMP",
+        "again",
+        "CLF",
+        "one",
+        "wife",
+        "again",
+        "CLF",
+        "one"
+      ],
+      "translation": "Take another one, take another wife!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Take another one, take another wife!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "me2",
+      "lik_tai": "ေမႇ",
+      "assamese_script": "মে²",
+      "ipa": "[me˥˦]",
+      "morphemes": [
+        "me2"
+      ],
+      "glosses": [
+        "wife"
+      ],
+      "translation": "A wife ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: A wife ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "me2 nvng1 k4 nvng5 ma1 yang6 yj4",
+      "lik_tai": "ေမႇ ၼင် ၵး ၼင်ႉ မႃ ယင်ႊ ယး",
+      "assamese_script": "মে² নঙ¹ ক⁴ নঙ⁵ মা¹ যাঙ⁶ য⁴",
+      "ipa": "[me˥˦] [nvŋ˧˧] [k˥˦ʔ] [nvŋ˧˩] [ma˧˧] [jaŋ˧˥] [jj˥˦ʔ]",
+      "morphemes": [
+        "me2",
+        "nvng1",
+        "k4",
+        "nvng5",
+        "ma1",
+        "yang6",
+        "yj4"
+      ],
+      "glosses": [
+        "wife",
+        "again",
+        "CLF",
+        "one",
+        "NEG",
+        "have.NEG",
+        "PRT"
+      ],
+      "translation": "If you don't have another wife who will look after your daughter?",
+      "translation_assamese": "অসমীয়া অৰ্থ: If you don't have another wife who will look after your daughter?",
+      "audio_file": null,
+      "notes": "* This is spoken very quickly, but would normally have the negative tone."
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "phav6 ta1 nuu2 hzn2 mav2 phav6 ta1 tang3 khau3 hav3",
+      "lik_tai": "ၽႊ တႃ ၼႇ ႁၼ်ႇ မႇ ၽႊ တႃ တင်ႈ ၶဝ်ႈ ႁႈ",
+      "assamese_script": "ফ⁶ তা¹ ন² হন² ম² ফ⁶ তা¹ তাঙ³ খাও³ হ³",
+      "ipa": "[pʰav˧˥] [ta˧˧] [nuu˥˦] [hzn˥˦] [mav˥˦] [pʰav˧˥] [ta˧˧] [taŋ˨˩̰] [kʰau˨˩̰] [hav˨˩̰]",
+      "morphemes": [
+        "phav6",
+        "ta1",
+        "nuu2",
+        "hzn2",
+        "mav2",
+        "phav6",
+        "ta1",
+        "tang3",
+        "khau3",
+        "hav3"
+      ],
+      "glosses": [
+        "who",
+        "will",
+        "look",
+        "house",
+        "2Sg",
+        "who",
+        "WILL",
+        "cook",
+        "rice",
+        "GIVE"
+      ],
+      "translation": "Who will look after your house, who will cook for you?\", they asked.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Who will look after your house, who will cook for you?\", they asked.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "tsav5 kz4 tsav5 uu1 n6",
+      "lik_tai": "ၸႉ ၵး ၸႉ ဢ ၼႊ",
+      "assamese_script": "চ⁵ ক⁴ চ⁵ অ¹ ন⁶",
+      "ipa": "[tɕav˧˩] [kz˥˦ʔ] [tɕav˧˩] [uu˧˧] [n˧˥]",
+      "morphemes": [
+        "tsav5",
+        "kz4",
+        "tsav5",
+        "uu1",
+        "n6"
+      ],
+      "glosses": [
+        "be",
+        "LINK",
+        "be",
+        "STAY",
+        "QN"
+      ],
+      "translation": "Isn't it?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Isn't it?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "kaa1 khaa6 yj4 p5 maai3 phav6 ta1 hav3",
+      "lik_tai": "ၵႃ ၶႃႊ ယး ပႉ မႃႆႈ ၽႊ တႃ ႁႈ",
+      "assamese_script": "কা¹ খা⁶ য⁴ প⁵ মাই³ ফ⁶ তা¹ হ³",
+      "ipa": "[kaː˧˧] [kʰaː˧˥] [jj˥˦ʔ] [p˧˩] [maːi˨˩̰] [pʰav˧˥] [ta˧˧] [hav˨˩̰]",
+      "morphemes": [
+        "kaa1",
+        "khaa6",
+        "yj4",
+        "p5",
+        "maai3",
+        "phav6",
+        "ta1",
+        "hav3"
+      ],
+      "glosses": [
+        "go",
+        "search",
+        "PRT",
+        "man",
+        "widow",
+        "who",
+        "will",
+        "GIVE"
+      ],
+      "translation": "Searching for (a wife), they asked \"Who will offer one to this widower\"?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Searching for (a wife), they asked \"Who will offer one to this widower\"?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "pa1 phav6 ta1 nai3",
+      "lik_tai": "ပႃ ၽႊ တႃ ၼႆႈ",
+      "assamese_script": "পা¹ ফ⁶ তা¹ নাই³",
+      "ipa": "[pa˧˧] [pʰav˧˥] [ta˧˧] [nai˨˩̰]",
+      "morphemes": [
+        "pa1",
+        "phav6",
+        "ta1",
+        "nai3"
+      ],
+      "glosses": [
+        "girl",
+        "who",
+        "WILL",
+        "get"
+      ],
+      "translation": "What girl will (we) get\"?",
+      "translation_assamese": "অসমীয়া অৰ্থ: What girl will (we) get\"?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "phav6 ta1 hav3 n6 pa1",
+      "lik_tai": "ၽႊ တႃ ႁႈ ၼႊ ပႃ",
+      "assamese_script": "ফ⁶ তা¹ হ³ ন⁶ পা¹",
+      "ipa": "[pʰav˧˥] [ta˧˧] [hav˨˩̰] [n˧˥] [pa˧˧]",
+      "morphemes": [
+        "phav6",
+        "ta1",
+        "hav3",
+        "n6",
+        "pa1"
+      ],
+      "glosses": [
+        "who",
+        "WILL",
+        "give",
+        "QN",
+        "daughter"
+      ],
+      "translation": "Who will give their daughter?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Who will give their daughter?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "nj4 khaa6 yj4 nj4 kaa1 mj5 maai3 k4 nvng5",
+      "lik_tai": "ၼး ၶႃႊ ယး ၼး ၵႃ မႉ မႃႆႈ ၵး ၼင်ႉ",
+      "assamese_script": "ন⁴ খা⁶ য⁴ ন⁴ কা¹ ম⁵ মাই³ ক⁴ নঙ⁵",
+      "ipa": "[nj˥˦ʔ] [kʰaː˧˥] [jj˥˦ʔ] [nj˥˦ʔ] [kaː˧˧] [mj˧˩] [maːi˨˩̰] [k˥˦ʔ] [nvŋ˧˩]",
+      "morphemes": [
+        "nj4",
+        "khaa6",
+        "yj4",
+        "nj4",
+        "kaa1",
+        "mj5",
+        "maai3",
+        "k4",
+        "nvng5"
+      ],
+      "glosses": [
+        "DEF",
+        "search",
+        "PRT",
+        "DEF",
+        "go",
+        "mother",
+        "widow",
+        "CLF",
+        "one"
+      ],
+      "translation": "They searched for a widow.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They searched for a widow.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "mj5 maai3 nj4 k4 luk4 mvn2 luk4 saau6 mvn2",
+      "lik_tai": "မႉ မႃႆႈ ၼး ၵး လုၵ်း မၼ်ႇ လုၵ်း ꩢႃဝ်ႊ မၼ်ႇ",
+      "assamese_script": "ম⁵ মাই³ ন⁴ ক⁴ লুক্‌⁴ মন² লুক্‌⁴ সাও⁶ মন²",
+      "ipa": "[mj˧˩] [maːi˨˩̰] [nj˥˦ʔ] [k˥˦ʔ] [luk˥˦ʔ] [mvn˥˦] [luk˥˦ʔ] [saːu˧˥] [mvn˥˦]",
+      "morphemes": [
+        "mj5",
+        "maai3",
+        "nj4",
+        "k4",
+        "luk4",
+        "mvn2",
+        "luk4",
+        "saau6",
+        "mvn2"
+      ],
+      "glosses": [
+        "mother",
+        "widow",
+        "DEF",
+        "LINK",
+        "child",
+        "3Sg",
+        "child",
+        "female",
+        "3Sg"
+      ],
+      "translation": "That widow also had a daughter.",
+      "translation_assamese": "অসমীয়া অৰ্থ: That widow also had a daughter.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "nan4 k4 khvng5 aa1 mvn2 khvng5",
+      "lik_tai": "ၼၼ်း ၵး ၶင်ႉ ဢႃ မၼ်ႇ ၶင်ႉ",
+      "assamese_script": "নান⁴ ক⁴ খঙ⁵ আ¹ মন² খঙ⁵",
+      "ipa": "[nan˥˦ʔ] [k˥˦ʔ] [kʰvŋ˧˩] [aː˧˧] [mvn˥˦] [kʰvŋ˧˩]",
+      "morphemes": [
+        "nan4",
+        "k4",
+        "khvng5",
+        "aa1",
+        "mvn2",
+        "khvng5"
+      ],
+      "glosses": [
+        "that",
+        "LINK",
+        "approximately",
+        "age",
+        "3Sg",
+        "approximately"
+      ],
+      "translation": "Her age was about 10.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Her age was about 10.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "khau6 k4 tuu1 kvn2 tvng1 saung6 k4",
+      "lik_tai": "ၶဝ်ႊ ၵး တ ၵၼ်ႇ တင် ꩢဝ်င်ႊ ၵး",
+      "assamese_script": "খাও⁶ ক⁴ ত¹ কন² তঙ¹ সাওঙ⁶ ক⁴",
+      "ipa": "[kʰau˧˥] [k˥˦ʔ] [tuu˧˧] [kvn˥˦] [tvŋ˧˧] [sauŋ˧˥] [k˥˦ʔ]",
+      "morphemes": [
+        "khau6",
+        "k4",
+        "tuu1",
+        "kvn2",
+        "tvng1",
+        "saung6",
+        "k4"
+      ],
+      "glosses": [
+        "3Pl",
+        "LINK",
+        "same",
+        "RECIP",
+        "both",
+        "two",
+        "CLF"
+      ],
+      "translation": "The two (daughters) were both of them the same age.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The two (daughters) were both of them the same age.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "luk4 me2 p me2 paan2 n2 mvn2 k4 sip1 pii2",
+      "lik_tai": "လုၵ်း ေမႇ ပ ေမႇ ပႃၼ်ႇ ၼႇ မၼ်ႇ ၵး ꩢိပ် ပႇ",
+      "assamese_script": "লুক্‌⁴ মে² প¹ মে² পান² ন² মন² ক⁴ সিপ্‌¹ প²",
+      "ipa": "[luk˥˦ʔ] [me˥˦] [p˧˧] [me˥˦] [paːn˥˦] [n˥˦] [mvn˥˦] [k˥˦ʔ] [sip˧˧] [pii˥˦]",
+      "morphemes": [
+        "luk4",
+        "me2",
+        "p",
+        "me2",
+        "paan2",
+        "n2",
+        "mvn2",
+        "k4",
+        "sip1",
+        "pii2"
+      ],
+      "glosses": [
+        "child",
+        "wife",
+        "wife",
+        "time",
+        "lead",
+        "3Sg",
+        "LINK",
+        "ten",
+        "year"
+      ],
+      "translation": "The child of his previous wife was also ten.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The child of his previous wife was also ten.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "luk4 me2 mav2 mvn2 nj4 k4 sip1 pii2",
+      "lik_tai": "လုၵ်း ေမႇ မႇ မၼ်ႇ ၼး ၵး ꩢိပ် ပႇ",
+      "assamese_script": "লুক্‌⁴ মে² ম² মন² ন⁴ ক⁴ সিপ্‌¹ প²",
+      "ipa": "[luk˥˦ʔ] [me˥˦] [mav˥˦] [mvn˥˦] [nj˥˦ʔ] [k˥˦ʔ] [sip˧˧] [pii˥˦]",
+      "morphemes": [
+        "luk4",
+        "me2",
+        "mav2",
+        "mvn2",
+        "nj4",
+        "k4",
+        "sip1",
+        "pii2"
+      ],
+      "glosses": [
+        "child",
+        "wife",
+        "new",
+        "3Sg",
+        "DEF",
+        "LINK",
+        "ten",
+        "year"
+      ],
+      "translation": "The child of his new wife was also ten.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The child of his new wife was also ten.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "uu1 nj4 hav3 het1 a1 se6 kin2 n",
+      "lik_tai": "ဢ ၼး ႁႈ ေႁတ် ဢႃ ေꩢႊ ၵိၼ်ႇ ၼ",
+      "assamese_script": "অ¹ ন⁴ হ³ হেত্‌¹ অ¹ সে⁶ কিন² ন¹",
+      "ipa": "[uu˧˧] [nj˥˦ʔ] [hav˨˩̰] [het˧˧] [a˧˧] [se˧˥] [kin˥˦] [n˧˧]",
+      "morphemes": [
+        "uu1",
+        "nj4",
+        "hav3",
+        "het1",
+        "a1",
+        "se6",
+        "kin2",
+        "n"
+      ],
+      "glosses": [
+        "live",
+        "DEF",
+        "GIVE",
+        "do",
+        "work",
+        "PRT",
+        "eat",
+        ".."
+      ],
+      "translation": "They worked in order to eat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They worked in order to eat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "pho6 mvn2 taai2 kvn2 kaa1",
+      "lik_tai": "ၽူႊ မၼ်ႇ တႃႆႇ ၵၼ်ႇ ၵႃ",
+      "assamese_script": "ফো⁶ মন² তাই² কন² কা¹",
+      "ipa": "[pʰo˧˥] [mvn˥˦] [taːi˥˦] [kvn˥˦] [kaː˧˧]",
+      "morphemes": [
+        "pho6",
+        "mvn2",
+        "taai2",
+        "kvn2",
+        "kaa1"
+      ],
+      "glosses": [
+        "husband",
+        "3Sg",
+        "die",
+        "RECIP",
+        "GO"
+      ],
+      "translation": "Then her husband also died.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then her husband also died.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "pho6 mvn2 taai2 kaa1 yj4 ta1 het1 sang6 haa1",
+      "lik_tai": "ၽူႊ မၼ်ႇ တႃႆႇ ၵႃ ယး တႃ ေႁတ် ꩢင်ႊ ႁႃ",
+      "assamese_script": "ফো⁶ মন² তাই² কা¹ য⁴ তা¹ হেত্‌¹ সাঙ⁶ হা¹",
+      "ipa": "[pʰo˧˥] [mvn˥˦] [taːi˥˦] [kaː˧˧] [jj˥˦ʔ] [ta˧˧] [het˧˧] [saŋ˧˥] [haː˧˧]",
+      "morphemes": [
+        "pho6",
+        "mvn2",
+        "taai2",
+        "kaa1",
+        "yj4",
+        "ta1",
+        "het1",
+        "sang6",
+        "haa1"
+      ],
+      "glosses": [
+        "husband",
+        "3Sg",
+        "die",
+        "GO",
+        "PRT",
+        "will",
+        "do",
+        "what",
+        "now"
+      ],
+      "translation": "With her husband dead, she thought \"What will we do now?",
+      "translation_assamese": "অসমীয়া অৰ্থ: With her husband dead, she thought \"What will we do now?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "mj5 mvn2 kz4 t2 huk1 se6 khaai6",
+      "lik_tai": "မႉ မၼ်ႇ ၵး တႇ ႁုၵ် ေꩢႊ ၶႃႆႊ",
+      "assamese_script": "ম⁵ মন² ক⁴ ত² হুক্‌¹ সে⁶ খাই⁶",
+      "ipa": "[mj˧˩] [mvn˥˦] [kz˥˦ʔ] [t˥˦] [huk˧˧] [se˧˥] [kʰaːi˧˥]",
+      "morphemes": [
+        "mj5",
+        "mvn2",
+        "kz4",
+        "t2",
+        "huk1",
+        "se6",
+        "khaai6"
+      ],
+      "glosses": [
+        "wife",
+        "3Sg",
+        "LINK",
+        "weave",
+        "weave",
+        "PRT",
+        "sell"
+      ],
+      "translation": "His wife also wove cloth and sold it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: His wife also wove cloth and sold it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "haa1 nj4 kaa1 au2 maa2 kaa1 kuu3 maa2",
+      "lik_tai": "ႁႃ ၼး ၵႃ ဢဝ်ႇ မႃႇ ၵႃ ၵႈ မႃႇ",
+      "assamese_script": "হা¹ ন⁴ কা¹ ঔ² মা² কা¹ ক³ মা²",
+      "ipa": "[haː˧˧] [nj˥˦ʔ] [kaː˧˧] [au˥˦] [maː˥˦] [kaː˧˧] [kuu˨˩̰] [maː˥˦]",
+      "morphemes": [
+        "haa1",
+        "nj4",
+        "kaa1",
+        "au2",
+        "maa2",
+        "kaa1",
+        "kuu3",
+        "maa2"
+      ],
+      "glosses": [
+        "time",
+        "DEF",
+        "go",
+        "take",
+        "COME",
+        "go",
+        "borrow",
+        "come"
+      ],
+      "translation": "Then she went to borrow the yarn from another person.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then she went to borrow the yarn from another person.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "maa2 t2 huk1 khaai6 nvng1 kaa1 yj4",
+      "lik_tai": "မႃႇ တႇ ႁုၵ် ၶႃႆႊ ၼင် ၵႃ ယး",
+      "assamese_script": "মা² ত² হুক্‌¹ খাই⁶ নঙ¹ কা¹ য⁴",
+      "ipa": "[maː˥˦] [t˥˦] [huk˧˧] [kʰaːi˧˥] [nvŋ˧˧] [kaː˧˧] [jj˥˦ʔ]",
+      "morphemes": [
+        "maa2",
+        "t2",
+        "huk1",
+        "khaai6",
+        "nvng1",
+        "kaa1",
+        "yj4"
+      ],
+      "glosses": [
+        "come",
+        "weave",
+        "weave",
+        "sell",
+        "how",
+        "GO",
+        "PRT"
+      ],
+      "translation": "(She thought) \"How will I go about selling when the yarn is woven\"?",
+      "translation_assamese": "অসমীয়া অৰ্থ: (She thought) \"How will I go about selling when the yarn is woven\"?",
+      "audio_file": null,
+      "notes": "When translating this story, Aithown Che stated that the particle se6 should be added after tq2 huk1."
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "khaai6 yau4 kaa1 sv4 mai6 maa2",
+      "lik_tai": "ၶႃႆႊ ယဝ်း ၵႃ ꩢး မႆႊ မႃႇ",
+      "assamese_script": "খাই⁶ যাও⁴ কা¹ স⁴ মাই⁶ মা²",
+      "ipa": "[kʰaːi˧˥] [jau˥˦ʔ] [kaː˧˧] [sv˥˦ʔ] [mai˧˥] [maː˥˦]",
+      "morphemes": [
+        "khaai6",
+        "yau4",
+        "kaa1",
+        "sv4",
+        "mai6",
+        "maa2"
+      ],
+      "glosses": [
+        "sell",
+        "FINISHED",
+        "go",
+        "buy",
+        "yarn",
+        "COME"
+      ],
+      "translation": "When (the clothes) are sold, I will go to buy yarn\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: When (the clothes) are sold, I will go to buy yarn\".",
+      "audio_file": null,
+      "notes": "When translating this story, Aithown Che stated that the particle se6 should be added after yau4."
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "luk4 kaat1 ta1 kaa1 sv4 mai6 maa2",
+      "lik_tai": "လုၵ်း ၵႃတ် တႃ ၵႃ ꩢး မႆႊ မႃႇ",
+      "assamese_script": "লুক্‌⁴ কাত্‌¹ তা¹ কা¹ স⁴ মাই⁶ মা²",
+      "ipa": "[luk˥˦ʔ] [kaːt˧˧] [ta˧˧] [kaː˧˧] [sv˥˦ʔ] [mai˧˥] [maː˥˦]",
+      "morphemes": [
+        "luk4",
+        "kaat1",
+        "ta1",
+        "kaa1",
+        "sv4",
+        "mai6",
+        "maa2"
+      ],
+      "glosses": [
+        "from",
+        "market",
+        "WILL",
+        "go",
+        "buy",
+        "yarn",
+        "COME"
+      ],
+      "translation": "From the market I will come and buy yarn\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: From the market I will come and buy yarn\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "au2 mai6 nan4 maa2 pan1 lt1",
+      "lik_tai": "ဢဝ်ႇ မႆႊ ၼၼ်း မႃႇ ပၼ် လတ်",
+      "assamese_script": "ঔ² মাই⁶ নান⁴ মা² পান¹ লত্‌¹",
+      "ipa": "[au˥˦] [mai˧˥] [nan˥˦ʔ] [maː˥˦] [pan˧˧] [lt˧˧]",
+      "morphemes": [
+        "au2",
+        "mai6",
+        "nan4",
+        "maa2",
+        "pan1",
+        "lt1"
+      ],
+      "glosses": [
+        "take",
+        "yarn",
+        "that",
+        "come",
+        "spin",
+        "reel"
+      ],
+      "translation": "Taking that yarn, she spun it into a reel.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Taking that yarn, she spun it into a reel.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "pan1 lt1 yau4 khaai6",
+      "lik_tai": "ပၼ် လတ် ယဝ်း ၶႃႆႊ",
+      "assamese_script": "পান¹ লত্‌¹ যাও⁴ খাই⁶",
+      "ipa": "[pan˧˧] [lt˧˧] [jau˥˦ʔ] [kʰaːi˧˥]",
+      "morphemes": [
+        "pan1",
+        "lt1",
+        "yau4",
+        "khaai6"
+      ],
+      "glosses": [
+        "spin",
+        "reel",
+        "FINISHED",
+        "sell"
+      ],
+      "translation": "And when she had spun it, she sold it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: And when she had spun it, she sold it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "nj4 hang2 luk4 mvn2 yj4 ma1 hav3",
+      "lik_tai": "ၼး ႁင်ႇ လုၵ်း မၼ်ႇ ယး မႃ ႁႈ",
+      "assamese_script": "ন⁴ হাঙ² লুক্‌⁴ মন² য⁴ মা¹ হ³",
+      "ipa": "[nj˥˦ʔ] [haŋ˥˦] [luk˥˦ʔ] [mvn˥˦] [jj˥˦ʔ] [ma˧˧] [hav˨˩̰]",
+      "morphemes": [
+        "nj4",
+        "hang2",
+        "luk4",
+        "mvn2",
+        "yj4",
+        "ma1",
+        "hav3"
+      ],
+      "glosses": [
+        "DEF",
+        "to",
+        "child",
+        "3Sg",
+        "PRT",
+        "NEG",
+        "GIVE"
+      ],
+      "translation": "She didn't make her own daughter (work).",
+      "translation_assamese": "অসমীয়া অৰ্থ: She didn't make her own daughter (work).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "hang2 luk4 mvn2 pa1 yj4 ma1 hav3 het1",
+      "lik_tai": "ႁင်ႇ လုၵ်း မၼ်ႇ ပႃ ယး မႃ ႁႈ ေႁတ်",
+      "assamese_script": "হাঙ² লুক্‌⁴ মন² পা¹ য⁴ মা¹ হ³ হেত্‌¹",
+      "ipa": "[haŋ˥˦] [luk˥˦ʔ] [mvn˥˦] [pa˧˧] [jj˥˦ʔ] [ma˧˧] [hav˨˩̰] [het˧˧]",
+      "morphemes": [
+        "hang2",
+        "luk4",
+        "mvn2",
+        "pa1",
+        "yj4",
+        "ma1",
+        "hav3",
+        "het1"
+      ],
+      "glosses": [
+        "to",
+        "child",
+        "3Sg",
+        "self",
+        "PRT",
+        "NEG",
+        "GIVE",
+        "do"
+      ],
+      "translation": "She didn't give any work to her own daughter.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She didn't give any work to her own daughter.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "a1 ka1 k4 ma1 hav3 het1",
+      "lik_tai": "ဢႃ ၵႃ ၵး မႃ ႁႈ ေႁတ်",
+      "assamese_script": "অ¹ কা¹ ক⁴ মা¹ হ³ হেত্‌¹",
+      "ipa": "[a˧˧] [ka˧˧] [k˥˦ʔ] [ma˧˧] [hav˨˩̰] [het˧˧]",
+      "morphemes": [
+        "a1",
+        "ka1",
+        "k4",
+        "ma1",
+        "hav3",
+        "het1"
+      ],
+      "glosses": [
+        "work",
+        "what",
+        "LINK",
+        "NEG",
+        "GIVE",
+        "do"
+      ],
+      "translation": "She didn't give her any work to do.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She didn't give her any work to do.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "hang2 luk4 me2 long6 yj4 me2 paan2 n2 nj4",
+      "lik_tai": "ႁင်ႇ လုၵ်း ေမႇ လူင်ႊ ယး ေမႇ ပႃၼ်ႇ ၼႇ ၼး",
+      "assamese_script": "হাঙ² লুক্‌⁴ মে² লোঙ⁶ য⁴ মে² পান² ন² ন⁴",
+      "ipa": "[haŋ˥˦] [luk˥˦ʔ] [me˥˦] [loŋ˧˥] [jj˥˦ʔ] [me˥˦] [paːn˥˦] [n˥˦] [nj˥˦ʔ]",
+      "morphemes": [
+        "hang2",
+        "luk4",
+        "me2",
+        "long6",
+        "yj4",
+        "me2",
+        "paan2",
+        "n2",
+        "nj4"
+      ],
+      "glosses": [
+        "to",
+        "child",
+        "wife",
+        "big",
+        "PRT",
+        "wife",
+        "time",
+        "before",
+        "DEF"
+      ],
+      "translation": "She got the daughter of the major wife, of the previous wife, to do the spinning.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She got the daughter of the major wife, of the previous wife, to do the spinning.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "hav3 tang3 khau3 het1 tuk4 het1 yaak4",
+      "lik_tai": "ႁႈ တင်ႈ ၶဝ်ႈ ေႁတ် တုၵ်း ေႁတ် ယႃၵ်း",
+      "assamese_script": "হ³ তাঙ³ খাও³ হেত্‌¹ তুক্‌⁴ হেত্‌¹ যাক্‌⁴",
+      "ipa": "[hav˨˩̰] [taŋ˨˩̰] [kʰau˨˩̰] [het˧˧] [tuk˥˦ʔ] [het˧˧] [jaːk˥˦ʔ]",
+      "morphemes": [
+        "hav3",
+        "tang3",
+        "khau3",
+        "het1",
+        "tuk4",
+        "het1",
+        "yaak4"
+      ],
+      "glosses": [
+        "GIVE",
+        "cook",
+        "rice",
+        "do",
+        "torture",
+        "do",
+        "difficult"
+      ],
+      "translation": "She was made to cook the food, and it was a hard task.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She was made to cook the food, and it was a hard task.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "svng6 tang3 khau3 phai2 mai3 yj4 tuk4",
+      "lik_tai": "ꩢင်ႊ တင်ႈ ၶဝ်ႈ ၽႆႇ မႆႈ ယး တုၵ်း",
+      "assamese_script": "সঙ⁶ তাঙ³ খাও³ ফাই² মাই³ য⁴ তুক্‌⁴",
+      "ipa": "[svŋ˧˥] [taŋ˨˩̰] [kʰau˨˩̰] [pʰai˥˦] [mai˨˩̰] [jj˥˦ʔ] [tuk˥˦ʔ]",
+      "morphemes": [
+        "svng6",
+        "tang3",
+        "khau3",
+        "phai2",
+        "mai3",
+        "yj4",
+        "tuk4"
+      ],
+      "glosses": [
+        "if",
+        "cook",
+        "rice",
+        "fire",
+        "burn",
+        "PRT",
+        "beat"
+      ],
+      "translation": "If she burned the rice she was beaten.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If she burned the rice she was beaten.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_042",
+      "text_roman": "nj4 tang3 khau3 yau4 k4 kaang2 kham5 kz4",
+      "lik_tai": "ၼး တင်ႈ ၶဝ်ႈ ယဝ်း ၵး ၵႃင်ႇ ၶမ်ႉ ၵး",
+      "assamese_script": "ন⁴ তাঙ³ খাও³ যাও⁴ ক⁴ কাঙ² খাম⁵ ক⁴",
+      "ipa": "[nj˥˦ʔ] [taŋ˨˩̰] [kʰau˨˩̰] [jau˥˦ʔ] [k˥˦ʔ] [kaːŋ˥˦] [kʰam˧˩] [kz˥˦ʔ]",
+      "morphemes": [
+        "nj4",
+        "tang3",
+        "khau3",
+        "yau4",
+        "k4",
+        "kaang2",
+        "kham5",
+        "kz4"
+      ],
+      "glosses": [
+        "DEF",
+        "cook",
+        "rice",
+        "FINISHED",
+        "LINK",
+        "middle",
+        "evening",
+        "LINK"
+      ],
+      "translation": "When she finished cooking in the evening she was made to spin yarn.",
+      "translation_assamese": "অসমীয়া অৰ্থ: When she finished cooking in the evening she was made to spin yarn.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_043",
+      "text_roman": "sang6 mvn2 ma1 pan1 lt1 yj4 luk4 long6",
+      "lik_tai": "ꩢင်ႊ မၼ်ႇ မႃ ပၼ် လတ် ယး လုၵ်း လူင်ႊ",
+      "assamese_script": "সাঙ⁶ মন² মা¹ পান¹ লত্‌¹ য⁴ লুক্‌⁴ লোঙ⁶",
+      "ipa": "[saŋ˧˥] [mvn˥˦] [ma˧˧] [pan˧˧] [lt˧˧] [jj˥˦ʔ] [luk˥˦ʔ] [loŋ˧˥]",
+      "morphemes": [
+        "sang6",
+        "mvn2",
+        "ma1",
+        "pan1",
+        "lt1",
+        "yj4",
+        "luk4",
+        "long6"
+      ],
+      "glosses": [
+        "if",
+        "3Sg",
+        "NEG",
+        "spin",
+        "reel",
+        "PRT",
+        "child",
+        "being"
+      ],
+      "translation": "He does not wish to go.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He does not wish to go.",
+      "audio_file": null,
+      "notes": "* This word was not spoken on the tape, but Aithown Che stated that it should have been present."
+    },
+    {
+      "id": "unit_044",
+      "text_roman": "mav2 ma1 pan1 lt1 hau2 ta1 au2 sang6 ta1 kin6",
+      "lik_tai": "မႇ မႃ ပၼ် လတ် ႁဝ်ႇ တႃ ဢဝ်ႇ ꩢင်ႊ တႃ ၵိၼ်ႊ",
+      "assamese_script": "ম² মা¹ পান¹ লত্‌¹ হাও² তা¹ ঔ² সাঙ⁶ তা¹ কিন⁶",
+      "ipa": "[mav˥˦] [ma˧˧] [pan˧˧] [lt˧˧] [hau˥˦] [ta˧˧] [au˥˦] [saŋ˧˥] [ta˧˧] [kin˧˥]",
+      "morphemes": [
+        "mav2",
+        "ma1",
+        "pan1",
+        "lt1",
+        "hau2",
+        "ta1",
+        "au2",
+        "sang6",
+        "ta1",
+        "kin6"
+      ],
+      "glosses": [
+        "2Sg",
+        "NEG",
+        "spin",
+        "reel",
+        "1Pl",
+        "WILL",
+        "take",
+        "what",
+        "will",
+        "eat.QN"
+      ],
+      "translation": "(The mother said) \"If you do not spin, what will we eat\"?",
+      "translation_assamese": "অসমীয়া অৰ্থ: (The mother said) \"If you do not spin, what will we eat\"?",
+      "audio_file": null,
+      "notes": "Aithown Che stated that the particle yj4 should follow pan1 lqt1."
+    },
+    {
+      "id": "unit_045",
+      "text_roman": "ma1 kau2 au2 sang6 ta1 t2",
+      "lik_tai": "မႃ ၵဝ်ႇ ဢဝ်ႇ ꩢင်ႊ တႃ တႇ",
+      "assamese_script": "মা¹ কাও² ঔ² সাঙ⁶ তা¹ ত²",
+      "ipa": "[ma˧˧] [kau˥˦] [au˥˦] [saŋ˧˥] [ta˧˧] [t˥˦]",
+      "morphemes": [
+        "ma1",
+        "kau2",
+        "au2",
+        "sang6",
+        "ta1",
+        "t2"
+      ],
+      "glosses": [
+        "tomorrow",
+        "1Sg",
+        "take",
+        "what",
+        "WILL",
+        "weave"
+      ],
+      "translation": "(The stepmother said) \"With what will I weave tomorrow\"?",
+      "translation_assamese": "অসমীয়া অৰ্থ: (The stepmother said) \"With what will I weave tomorrow\"?",
+      "audio_file": null,
+      "notes": ""
+    }
+  ],
+  "full_translation": "Once upon a time a man had a wife. She was a weaver. When the cloth was woven, both husband and wife went out to sell it. When the cloth was woven, it was sold. Then she had a daughter. That daughter grew up. When she was not yet fully grown, but had reached the age of ten, her mother died. Her mother ... Her age ... Her mother died. Then his relatives said to (the husband), Take another one, take another wife! A wife ... If you don't have another wife who will look after your daughter? Who will look after your house, who will cook for you?\", they asked. Isn't it? Searching for (a wife), they asked \"Who will offer one to this widower\"? What girl will (we) get\"? Who will give their daughter? They searched for a widow. That widow also had a daughter. Her age was about 10. The two (daughters) were both of them the same age. The child of his previous wife was also ten. The child of his new wife was also ten. They worked in order to eat. Then her husband also died. With her husband dead, she thought \"What will we do now? His wife also wove cloth and sold it. Then she went to borrow the yarn from another person. (She thought) \"How will I go about selling when the yarn is woven\"? When (the clothes) are sold, I will go to buy yarn\". From the market I will come and buy yarn\". Taking that yarn, she spun it into a reel. And when she had spun it, she sold it. She didn't make her own daughter (work). She didn't give any work to her own daughter. She didn't give her any work to do. She got the daughter of the major wife, of the previous wife, to do the spinning. She was made to cook the food, and it was a hard task. If she burned the rice she was beaten. When she finished cooking in the evening she was made to spin yarn. He does not wish to go. (The mother said) \"If you do not spin, what will we eat\"? (The stepmother said) \"With what will I weave tomorrow\"?",
+  "book_id": "book_stepmother",
+  "title": "The Stepmother and the Clever Children",
+  "title_tai": "Pung1 Me5 Phau4 Kap4 Luk4 On1",
+  "title_as": ""
+}

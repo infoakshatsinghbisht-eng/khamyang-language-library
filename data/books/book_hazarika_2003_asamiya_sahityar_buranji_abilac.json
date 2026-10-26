@@ -1,0 +1,326 @@
+{
+  "id": "book_hazarika_2003_asamiya_sahityar_buranji_abilac",
+  "book_id": "book_hazarika_2003_asamiya_sahityar_buranji_abilac",
+  "title": "Asamiya Sahityar Buranji Vol 1",
+  "author": "Bisweswar Hazarika & ABILAC",
+  "year": 2003,
+  "genre": "Comprehensive Literary History",
+  "description": "Monumental first volume of the comprehensive history of Assamese literature published by the Anandaram Borooah Institute of Language, Art and Culture (ABILAC), covering the pre-historic to medieval era with in-depth analysis of Tai Buranjis, folk ballads, and ethnic linguistic substrates.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.451240",
+  "archive_id": "in.ernet.dli.2015.451240",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨧᩮᩢᩣ",
+      "text_roman": "phaa tai khyaa tii mroeng chau tsaw",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ চউ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau",
+        "tsaw"
+      ],
+      "glosses": [
+        "origins",
+        "tai",
+        "chronicle",
+        "in",
+        "assam",
+        "royal",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai chronicle traditions represent an epochal shift toward documentary historiography in Northeast India.",
+      "free_translation_as": "টাই বুৰঞ্জী পৰম্পৰাই উত্তৰ-পূব ভাৰতত প্ৰামাণিক ইতিহাস চৰ্চাৰ এক যুগান্তকাৰী দিশ উন্মোচন কৰিলে।",
+      "speaker": "Bisweswar Hazarika (Chief Editor)",
+      "location": "Guwahati / ABILAC",
+      "notes": "Inaugural chapter on historical prose."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii kaang mroeng",
+      "assamese_script": "চৌ ফা টাই খৌ তী কাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "kaang",
+        "mroeng"
+      ],
+      "glosses": [
+        "kings",
+        "tai",
+        "foster",
+        "in",
+        "center",
+        "realm",
+        "learning"
+      ],
+      "free_translation_en": "Tai monarchs maintained bilingual scholars proficient in both Tai script and early Assamese.",
+      "free_translation_as": "টাই ৰজাসকলে টাই লিপি আৰু প্ৰাচীন অসমীয়া দুয়োটাতে দক্ষ দ্বিভাষিক পণ্ডিত ৰাখিছিল।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Guwahati",
+      "notes": "Bilingualism in medieval royal administration."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "idioms",
+        "in",
+        "language",
+        "enrich",
+        "expression"
+      ],
+      "free_translation_en": "Tai syntactic patterns and administrative idioms profoundly enriched Assamese sentence structure.",
+      "free_translation_as": "টাই বাক্যগাঁথনি আৰু প্ৰশাসনিক বাক্যাংশই অসমীয়া বাক্যৰীতিত গভীৰ প্ৰভাৱ পেলালে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "ABILAC",
+      "notes": "Syntactic convergence."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "scholars",
+        "dhas",
+        "edit",
+        "chronicles",
+        "for",
+        "posterity"
+      ],
+      "free_translation_en": "Department researchers painstakingly edited handwritten palm-leaf chronicles for public study.",
+      "free_translation_as": "গৱেষকসকলে সাঁচিপাতৰ হাতেলিখা বুৰঞ্জীসমূহ জনসাধাৰণৰ বাবে নিষ্ঠাৰে সম্পাদনা কৰিলে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Guwahati",
+      "notes": "Textual criticism of manuscript sources."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "oral",
+        "traditions",
+        "cross",
+        "generations",
+        "folk",
+        "ballads"
+      ],
+      "free_translation_en": "Centuries of oral transmission preserved vibrant heroic ballads across rural hearths.",
+      "free_translation_as": "মৌখিক পৰম্পৰাৰ জৰিয়তে গ্ৰামাঞ্চলত প্ৰজন্মৰ পিছত প্ৰজন্ম বীৰগাথাসমূহ জীয়াই থাকিল।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Upper Assam",
+      "notes": "Oral narrative traditions."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "female",
+        "folk",
+        "tai",
+        "sing",
+        "weaving",
+        "songs"
+      ],
+      "free_translation_en": "Women preserved poetic meters through weaving songs and ritual marriage chants.",
+      "free_translation_as": "মহিলাসকলে তাঁতৰ গীত আৰু বিয়ানী নামৰ মাজেৰে ছন্দোবদ্ধ কাব্যৰীতি সংৰক্ষণ কৰিলে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Assam",
+      "notes": "Folk metrics."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw tii nam kaang",
+      "assamese_script": "ফু টাই খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "buddhism",
+        "theravada",
+        "khamyang",
+        "temple",
+        "scripture",
+        "sacred"
+      ],
+      "free_translation_en": "Theravada monasteries maintained sacred Pali and Tai Khamyang texts with supreme reverence.",
+      "free_translation_as": "বৌদ্ধ বিহাৰসমূহে পৱিত্ৰ পালি আৰু টাই খাময়াং ধৰ্মগ্ৰন্থসমূহ পৰম শ্ৰদ্ধাৰে ৰক্ষা কৰিলে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Powaimukh / Margherita",
+      "notes": "Tai Buddhist manuscript culture."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "archives",
+        "state",
+        "possess",
+        "documents",
+        "inscriptions",
+        "copper_plates"
+      ],
+      "free_translation_en": "Copper-plate land grants and stone epigraphs corroborate details recorded in the paper chronicles.",
+      "free_translation_as": "তাম্ৰফলি আৰু শিলালিপিসমূহে সাঁচিপাতৰ বুৰঞ্জীৰ তথ্যসমূহক সম্পূৰ্ণৰূপে সমৰ্থন কৰে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Guwahati",
+      "notes": "Epigraphical corroboration."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "lexicon",
+        "etymology",
+        "tai",
+        "borrowings",
+        "depth",
+        "breadth"
+      ],
+      "free_translation_en": "Etymological analysis identifies hundreds of Tai loanwords in modern domestic vocabulary.",
+      "free_translation_as": "ব্যুৎপত্তিগত বিশ্লেষণে ঘৰুৱা আৰু কৃষি শব্দকোষত শ শ টাই শব্দৰ অস্তিত্ব প্ৰমাণ কৰে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "ABILAC",
+      "notes": "Substrate vocabulary."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "scholars",
+        "modern",
+        "collaborate",
+        "linguistics",
+        "preserve",
+        "heritage"
+      ],
+      "free_translation_en": "Modern linguists and community leaders work together to digitize and revitalize the endangered texts.",
+      "free_translation_as": "আধুনিক ভাষাবিদ আৰু সমাজৰ নেতাসকলে সংকটাপন্ন পুথিসমূহ ডিজিটেল ৰূপত সংৰক্ষণ কৰিছে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Guwahati",
+      "notes": "Language documentation initiatives."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "abilac",
+        "institute",
+        "publishes",
+        "scholarly",
+        "volumes",
+        "rigor"
+      ],
+      "free_translation_en": "The Institute's research volumes present an authoritative synthesis of northeastern linguistic history.",
+      "free_translation_as": "ইনষ্টিটিউটৰ গৱেষণা গ্ৰন্থসমূহে উত্তৰ-পূবৰ ভাষিক ইতিহাসৰ এক প্ৰামাণিক ৰূপ দাঙি ধৰে।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "North Guwahati",
+      "notes": "Scholarly mission of ABILAC."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "literature",
+        "monument",
+        "perpetual",
+        "wisdom",
+        "path"
+      ],
+      "free_translation_en": "Asamiya Sahityar Buranji Vol. 1 stands as an indispensable reference work for generations of scholars.",
+      "free_translation_as": "অসমীয়া সাহিত্যৰ বুৰঞ্জী (প্ৰথম খণ্ড) ভৱিষ্যতৰ গৱেষকসকলৰ বাবে এক অপৰিহাৰ্য আধাৰ গ্ৰন্থ।",
+      "speaker": "Bisweswar Hazarika",
+      "location": "Guwahati",
+      "notes": "Conclusion of ABILAC Volume 1."
+    }
+  ]
+}

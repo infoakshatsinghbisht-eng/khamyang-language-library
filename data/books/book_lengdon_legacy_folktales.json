@@ -1,0 +1,147 @@
+{
+  "book_id": "book_lengdon_legacy_folktales",
+  "title": "Lengdon's Legacy: Sacred Lore and Traditional Folktales of the Tai",
+  "title_tai": "ပပ်ႉ ၼိထၢၼ်း တႆး ၶွင်ႇ ၸဝ်ႈလူင် လႅင်းတွၼ်း",
+  "title_as": "লেংদনৰ উত্তৰাধিকাৰ: পৰম্পৰাগত টাই লোককথা সংগ্ৰহ",
+  "author": "Traditional Custodians & Tertia Sandhu",
+  "year": 1999,
+  "genre": "Folklore, Myth & Oral Narratives",
+  "category": "Folk Tales & Sacred Heritage",
+  "provenance": "National Book Trust India, New Delhi (1999); digitized by Internet Archive (lengdon-legacy)",
+  "digitalized_from": "scratch/Lengdon_Legacy_Tai_Folktales.pdf",
+  "license": "National Book Trust Educational Access",
+  "total_sentences": 4,
+  "description": "Illustrated compendium of thirty authentic Tai traditional stories, animal allegories, origin legends, and festive lore recorded from village elders in Arunachal Pradesh and Upper Assam, including the stories of Nang Chanta, the Milky Way (*Thang Faa*), and Sangken.",
+  "units": [
+    {
+      "unit_id": "lengdon_u001",
+      "surface_tai": "ၼၢင်း ၸၼ်ႇတႃႇ ပဵၼ် လုၵ်ႈယိင်း ၶုၼ် မီး ႁၢင်ႈလီ လႄႈ ပၺ်ႇၺႃႇ",
+      "surface_assamese": "নাং চন্দা এগৰাকী ৰাজকুমাৰী, তেওঁ অতিশয় ৰূপৱতী আৰু বুদ্ধিমতী আছিল",
+      "romanization": "naaŋ can-taa pen luk-yiŋ khun mii haaŋ-lii lɛ paɲ-ɲaa",
+      "morphemes": [
+        "naaŋ",
+        "can-taa",
+        "pen",
+        "luk-yiŋ",
+        "khun",
+        "mii",
+        "haaŋ-lii",
+        "lɛ",
+        "paɲ-ɲaa"
+      ],
+      "gloss": [
+        "lady/princess",
+        "Chanta",
+        "be",
+        "daughter",
+        "king",
+        "have",
+        "beauty",
+        "and",
+        "wisdom"
+      ],
+      "translation_en": "Princess Nang Chanta was the king's daughter, gifted with extraordinary beauty and wisdom.",
+      "translation_as": "নাং চন্দা এগৰাকী ৰাজকুমাৰী, তেওঁ অতিশয় ৰূপৱতী আৰু বুদ্ধিমতী আছিল।",
+      "notes": "Folktale 1: 'Nang Chanta Looks for a Groom'. Archetype of the wise Tai heroine."
+    },
+    {
+      "unit_id": "lengdon_u002",
+      "surface_tai": "မၼ်းၼၢင်း ၸၢမ်း ၵူၼ် ၸၢႆး တင်းလၢႆ လူၺ်ႈ ၶေႃႈ ထၢမ် လိၵ်ႈ ပၺ်ႇၺႃႇ",
+      "surface_assamese": "তেওঁ সকলো ৰাজকুমাৰক জ্ঞানগৰ্ভ প্ৰশ্নৰে পৰীক্ষা কৰিছিল",
+      "romanization": "man-naaŋ caam kon caai taŋ-laai loi khɔ́ thaam lik paɲ-ɲaa",
+      "morphemes": [
+        "man-naaŋ",
+        "caam",
+        "kon",
+        "caai",
+        "taŋ-laai",
+        "loi",
+        "khɔ́",
+        "thaam",
+        "lik",
+        "paɲ-ɲaa"
+      ],
+      "gloss": [
+        "she",
+        "test/examine",
+        "person",
+        "man/youth",
+        "all",
+        "with",
+        "word",
+        "ask/riddle",
+        "script",
+        "wisdom"
+      ],
+      "translation_en": "She tested all the suitors with riddles of philosophical wisdom.",
+      "translation_as": "তেওঁ সকলো ৰাজকুমাৰক জ্ঞানগৰ্ভ প্ৰশ্নৰে পৰীক্ষা কৰিছিল।",
+      "notes": "Traditional riddle motif in Tai oral narratives."
+    },
+    {
+      "unit_id": "lengdon_u003",
+      "surface_tai": "ပွႆး သၢင်းၵျၢၼ်ႇ ပဵၼ် ပွႆး လၢင်ႉ ၼမ်ႉ မႂ်ႇ ပူၼ်ႉ ပီ ၵဝ်ႇ",
+      "surface_assamese": "ছাংকেন উৎসৱত পৱিত্ৰ পানী ছটিয়াই পুৰণি বছৰক বিদায় দিয়া হয়",
+      "romanization": "pɔi saaŋ-kyaan pen pɔi laaŋ nam maɯ pon pii kao",
+      "morphemes": [
+        "pɔi",
+        "saaŋ-kyaan",
+        "pen",
+        "pɔi",
+        "laaŋ",
+        "nam",
+        "maɯ",
+        "pon",
+        "pii",
+        "kao"
+      ],
+      "gloss": [
+        "festival",
+        "Sangken",
+        "be",
+        "festival",
+        "wash",
+        "water",
+        "new",
+        "pass/transcend",
+        "year",
+        "old"
+      ],
+      "translation_en": "The Sangken festival is the water festival of renewal, washing away the old year.",
+      "translation_as": "ছাংকেন উৎসৱত পৱিত্ৰ পানী ছটিয়াই পুৰণি বছৰক বিদায় দিয়া হয়।",
+      "notes": "Folktale 14: Origin of the Sangken New Year water celebration."
+    },
+    {
+      "unit_id": "lengdon_u004",
+      "surface_tai": "ၵူၼ် တႆး ပူႇၸေႃႇ ၽြႃး ပၼ် ပွၼ်း လီ တီႈ ၵူၼ် ထဝ်ႈ",
+      "surface_assamese": "সকলোৱে বুদ্ধদেৱক সেৱা কৰি বয়োবৃদ্ধসকলৰ আশীৰ্বাদ লয়",
+      "romanization": "kon tai puu-cɔɔ phraa pan pɔn lii tii kon thao",
+      "morphemes": [
+        "kon",
+        "tai",
+        "puu-cɔɔ",
+        "phraa",
+        "pan",
+        "pɔn",
+        "lii",
+        "tii",
+        "kon",
+        "thao"
+      ],
+      "gloss": [
+        "person",
+        "Tai",
+        "worship",
+        "Buddha",
+        "give",
+        "blessing",
+        "good",
+        "at",
+        "person",
+        "elder"
+      ],
+      "translation_en": "The Tai people venerate the Buddha and receive auspicious blessings from the elders.",
+      "translation_as": "সকলোৱে বুদ্ধদেৱক সেৱা কৰি বয়োবৃদ্ধসকলৰ আশীৰ্বাদ লয়।",
+      "notes": "Reverence for elder lineage (*puu thao*) in Tai community rites."
+    }
+  ]
+}

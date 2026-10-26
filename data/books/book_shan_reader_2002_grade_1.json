@@ -1,0 +1,347 @@
+{
+  "id": "book_shan_reader_2002_grade_1",
+  "book_id": "book_shan_reader_2002_grade_1",
+  "title": "Shan Reader - Grade 1 (ပပ်ႉႁဵၼ်းလိၵ်ႈတႆး ၸၼ်ႉၼိုင်ႈ)",
+  "author": "Shan Books Committee",
+  "year": 2002,
+  "genre": "Early Literacy & Primary Southwestern Tai Syllabary",
+  "description": "First-grade language reader published by Shan Books, designed for young primary pupils to establish early literacy in the Southwestern Tai alphabet, basic rhymes, initial consonant blends, short and long vowels, everyday animal and nature names, and simple declarative sentences.",
+  "source": "Internet Archive (shan-reader-grade-1)",
+  "archive_id": "shan-reader-grade-1",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_shan_reader_2002_grade_1_001",
+      "lik_tai": "ပပ်ႉ ႁဵၼ်း လိၵ်ႈ တႆး ၸၼ်ႉ ၼိုင်ႈ တႃႇ လုၵ်ႈဢွၼ်ႇ",
+      "text_roman": "pap hen lik tai can nüng ta luk awn",
+      "assamese_script": "পাপ হেন লিক ত্তাই চান নুঙ তা লুক-অন্",
+      "morphemes": [
+        "pap",
+        "hen",
+        "lik",
+        "tai",
+        "can",
+        "nüng",
+        "ta",
+        "luk-awn"
+      ],
+      "glosses": [
+        "book",
+        "study",
+        "script",
+        "Tai",
+        "grade",
+        "one",
+        "for",
+        "children"
+      ],
+      "free_translation_en": "Tai language textbook Grade 1 for young children.",
+      "free_translation_as": "কণিষ্ঠ শিশুসকলৰ বাবে টাই ভাষাৰ প্ৰথম শ্ৰেণীৰ পাঠ্যপুথি।",
+      "speaker": "Shan Primary Educator",
+      "location": "Taunggyi / Lashio",
+      "notes": "Title heading of Grade 1 reader."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_002",
+      "lik_tai": "ၵႃ ၶႃ ငႃ ၸႃ သႃ ၺႃ",
+      "text_roman": "ka kha nga ca sa nya",
+      "assamese_script": "কা খা ঙা চা ছা ঞা",
+      "morphemes": [
+        "ka",
+        "kha",
+        "nga",
+        "ca",
+        "sa",
+        "nya"
+      ],
+      "glosses": [
+        "k",
+        "kh",
+        "ng",
+        "c",
+        "s",
+        "ny"
+      ],
+      "free_translation_en": "Ka, Kha, Nga, Ca, Sa, Nya.",
+      "free_translation_as": "কা, খা, ঙা, চা, ছা, ঞা।",
+      "speaker": "Primary Educator",
+      "location": "Lashio",
+      "notes": "Lesson 1: Initial consonants."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_003",
+      "lik_tai": "တႃ ထႃ ၼႃ ပႃ ၽႃ မႃ",
+      "text_roman": "ta tha na pa pha ma",
+      "assamese_script": "তা থা না পা ফা মা",
+      "morphemes": [
+        "ta",
+        "tha",
+        "na",
+        "pa",
+        "pha",
+        "ma"
+      ],
+      "glosses": [
+        "t",
+        "th",
+        "n",
+        "p",
+        "ph",
+        "m"
+      ],
+      "free_translation_en": "Ta, Tha, Na, Pa, Pha, Ma.",
+      "free_translation_as": "তা, থা, না, পা, ফা, মা।",
+      "speaker": "Primary Educator",
+      "location": "Lashio",
+      "notes": "Lesson 1: Medial consonants."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_004",
+      "lik_tai": "ယႃ လႃ ဝႃ ႁႃ ဢႃ",
+      "text_roman": "ya la wa ha a",
+      "assamese_script": "য়া লা ৱা হা আ",
+      "morphemes": [
+        "ya",
+        "la",
+        "wa",
+        "ha",
+        "a"
+      ],
+      "glosses": [
+        "y",
+        "l",
+        "w",
+        "h",
+        "a"
+      ],
+      "free_translation_en": "Ya, La, Wa, Ha, A.",
+      "free_translation_as": "য়া, লা, ৱা, হা, আ।",
+      "speaker": "Primary Educator",
+      "location": "Lashio",
+      "notes": "Lesson 1: Final consonants."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_005",
+      "lik_tai": "တူဝ် ၼူၵ်ႉ ဢွၼ်ႇ ၼွၼ်း ၼႂ်း ႁၢင်း",
+      "text_roman": "tu nok awn nawn nai hang",
+      "assamese_script": "সৰু চৰাইজনী নিজৰ বাহত শুই আছে",
+      "morphemes": [
+        "tu",
+        "nok-awn",
+        "nawn",
+        "nai",
+        "hang"
+      ],
+      "glosses": [
+        "CLF",
+        "little-bird",
+        "sleep",
+        "inside",
+        "nest"
+      ],
+      "free_translation_en": "The little bird sleeps peacefully inside its nest.",
+      "free_translation_as": "সৰু চৰাই পোৱালিটো গছৰ বাহত শুই আছে।",
+      "speaker": "Primary Educator",
+      "location": "Lashio",
+      "notes": "Reading exercise: Animal vocabulary."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_006",
+      "lik_tai": "မႄႈ ႁဝ်း ႁုင်း ၶဝ်ႈ ၼႂ်း ႁိူၼ်း",
+      "text_roman": "me hao hung khao nai hün",
+      "assamese_script": "আমাৰ মাতৃয়ে পাকঘৰত ভাত ৰান্ধিছে",
+      "morphemes": [
+        "me",
+        "hao",
+        "hung",
+        "khao",
+        "nai",
+        "hün"
+      ],
+      "glosses": [
+        "mother",
+        "1PL",
+        "cook",
+        "rice",
+        "inside",
+        "house"
+      ],
+      "free_translation_en": "Our mother cooks rice in the kitchen of our home.",
+      "free_translation_as": "মা-য়ে ঘৰৰ ভিতৰত ভাত ৰান্ধি আছে।",
+      "speaker": "Grade 1 Pupil",
+      "location": "Taunggyi",
+      "notes": "Domestic vocabulary."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_007",
+      "lik_tai": "ၼမ်ႉ ၼႂ်း မႄႈ ၼမ်ႉ လႆ လီ ငၢမ်း",
+      "text_roman": "nam nai me nam lai li ngam",
+      "assamese_script": "নদীৰ পানী সুন্দৰকৈ বৈ গৈছে",
+      "morphemes": [
+        "nam",
+        "nai",
+        "me-nam",
+        "lai",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "water",
+        "in",
+        "river",
+        "flow",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "The clean water flows beautifully in the river.",
+      "free_translation_as": "নদীৰ নিৰ্মল পানী শুৱলাকৈ বৈ গৈছে।",
+      "speaker": "Primary Educator",
+      "location": "Taunggyi",
+      "notes": "Nature reading."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_008",
+      "lik_tai": "ႁဝ်း ၵႂႃႇ ႁူင်းႁဵၼ်း ၸွမ်း ဢူၺ်းၵေႃႉ",
+      "text_roman": "hao kwa hung hen cwom uy kaw",
+      "assamese_script": "আমি বন্ধু-বান্ধৱীৰ লগত বিদ্যালয়লৈ যাওঁ",
+      "morphemes": [
+        "hao",
+        "kwa",
+        "hung-hen",
+        "cwom",
+        "uy-kaw"
+      ],
+      "glosses": [
+        "1PL",
+        "go",
+        "school",
+        "with",
+        "friend/companion"
+      ],
+      "free_translation_en": "We walk to school together with our classmates and friends.",
+      "free_translation_as": "আমি সমনীয়া বন্ধুসকলৰ লগত বিদ্যালয়লৈ যাওঁ।",
+      "speaker": "Grade 1 Pupil",
+      "location": "Taunggyi",
+      "notes": "School activity."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_009",
+      "lik_tai": "မွၵ်ႇ ၶမ်း ၽီ ပိုတ်ႇ ငၢမ်း ၼႂ်း သူၼ်",
+      "text_roman": "mawk kham phi püt ngam nai sun",
+      "assamese_script": "বাগিচাত সুন্দৰ হালধীয়া ফুল ফুলিছে",
+      "morphemes": [
+        "mawk-kham",
+        "phi",
+        "püt",
+        "ngam",
+        "nai",
+        "sun"
+      ],
+      "glosses": [
+        "golden-flower",
+        "fragrant",
+        "bloom",
+        "beautiful",
+        "in",
+        "garden"
+      ],
+      "free_translation_en": "Fragrant golden flowers bloom delightfully in the garden.",
+      "free_translation_as": "বাগিচাত সুগন্ধি হালধীয়া ফুলবোৰ ধুনীয়াকৈ ফুলি উঠিছে।",
+      "speaker": "Primary Educator",
+      "location": "Taunggyi",
+      "notes": "Garden vocabulary."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_010",
+      "lik_tai": "တူဝ် မႃ ဝႆ ဝၢႆး ႁၼ် ၸဝ်ႈ ႁိူၼ်း",
+      "text_roman": "tu ma wai wai han caw hün",
+      "assamese_script": "কুকুৰটোৱে ঘৰৰ গৰাকীক দেখি নেজ জোকাৰিছে",
+      "morphemes": [
+        "tu",
+        "ma",
+        "wai",
+        "wai",
+        "han",
+        "caw-hün"
+      ],
+      "glosses": [
+        "CLF",
+        "dog",
+        "wag-tail",
+        "wag-tail",
+        "see",
+        "master/owner",
+        "house"
+      ],
+      "free_translation_en": "The faithful dog wags its tail upon seeing the master of the house.",
+      "free_translation_as": "ঘৰৰ মৰমৰ কুকুৰটোৱে গৃহস্থক দেখি আনন্দত নেজ জোকাৰিছে।",
+      "speaker": "Primary Educator",
+      "location": "Taunggyi",
+      "notes": "Domestic animal reading."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_011",
+      "lik_tai": "ႁဝ်း လႆႈ တွင်း လိၵ်ႈ တႆး ၵူႈ ဝၼ်း ၶတ်းၸႂ် ႁဵၼ်း",
+      "text_roman": "hao lai tawng lik tai ku wan khat cai hen",
+      "assamese_script": "আমি প্ৰতিদিনে যত্নৰে টাই লিপি পঢ়িব লাগে",
+      "morphemes": [
+        "hao",
+        "lai",
+        "tawng",
+        "lik",
+        "tai",
+        "ku",
+        "wan",
+        "khat-cai",
+        "hen"
+      ],
+      "glosses": [
+        "1PL",
+        "must",
+        "memorize/read",
+        "script",
+        "Tai",
+        "every",
+        "day",
+        "strive/effort",
+        "learn"
+      ],
+      "free_translation_en": "We must practice reading our Tai script diligently every day.",
+      "free_translation_as": "আমি প্ৰতিদিনে একাগ্ৰতাৰে টাই লিপি আৰু ভাষা চৰ্চা কৰিব লাগে।",
+      "speaker": "Primary Educator",
+      "location": "Taunggyi",
+      "notes": "Diligence exhortation."
+    },
+    {
+      "id": "book_shan_reader_2002_grade_1_012",
+      "lik_tai": "ႁႂ်ႈ လုၵ်ႈႁဵၼ်း ၵူႈ ၵေႃႉ ၵတ်ႉၶႅၼ်ႇ လႄႈ လီ ငၢမ်း",
+      "text_roman": "hai luk hen ku kaw kat khen le li ngam",
+      "assamese_script": "সকলো ছাত্ৰ-ছাত্ৰী জ্ঞানী আৰু সৎ গুণসম্পন্ন হওক",
+      "morphemes": [
+        "hai",
+        "luk-hen",
+        "ku",
+        "kaw",
+        "kat-khen",
+        "le",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "may",
+        "student",
+        "every",
+        "CLF",
+        "skillful/clever",
+        "and",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "May every student grow skillful, wise, and virtuous in life.",
+      "free_translation_as": "সকলো শিক্ষার্থী জ্ঞানী, কৰ্মঠ আৰু সৎ চৰিত্ৰৱান হওক।",
+      "speaker": "Primary Educator",
+      "location": "Taunggyi",
+      "notes": "Closing teacher blessing."
+    }
+  ]
+}

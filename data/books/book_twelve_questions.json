@@ -1,0 +1,1623 @@
+{
+  "id": "book_twelve_questions",
+  "title_khamyang": "Lik4 Thaa3 Kham1 Thaam1 Sip4 Song1 Kho3",
+  "title_english": "The Book of the Twelve Philosophical Questions",
+  "genre": "buddhist_philosophy",
+  "informant": "Sa Cham Phukan",
+  "village": "Aiton Village, Assam",
+  "audio_ref": "2-1-1-3.mp3",
+  "description": "Profound philosophical dialogue presenting twelve doctrinal and worldly riddles resolved through Buddhist ethical insight.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 60,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "pa1 sip1 sng1 tsng2 nai3",
+      "lik_tai": "ပႃ ꩢိပ် ꩢင် ၸင်ႇ ၼႆႈ",
+      "assamese_script": "পা¹ সিপ্‌¹ সঙ¹ চঙ² নাই³",
+      "ipa": "[pa˧˧] [sip˧˧] [sŋ˧˧] [tɕŋ˥˦] [nai˨˩̰]",
+      "morphemes": [
+        "pa1",
+        "sip1",
+        "sng1",
+        "tsng2",
+        "nai3"
+      ],
+      "glosses": [
+        "question",
+        "ten",
+        "two",
+        "CLF",
+        "this"
+      ],
+      "translation": "I mean ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: I mean ...",
+      "audio_file": null,
+      "notes": "The very beginning of the first syllable was omitted on the taped version."
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "khun1 mɯng2 baa1",
+      "lik_tai": "ၶုၼ် မိုင်ႇ ဢ",
+      "assamese_script": "খুন¹ মুঙ² অ¹",
+      "ipa": "[kʰun˧˧] [mɯŋ˥˦] [baa˧˧]",
+      "morphemes": [
+        "khun1",
+        "mɯng2",
+        "baa1"
+      ],
+      "glosses": [
+        "king",
+        "country",
+        "Varanasi"
+      ],
+      "translation": "The King of the country of Varanasi...",
+      "translation_assamese": "অসমীয়া অৰ্থ: The King of the country of Varanasi...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "naang2 dj1 pa1 dj1",
+      "lik_tai": "ၼႃင်ႇ ဢ ပႃ ဢ",
+      "assamese_script": "নাঙ² অ¹ পা¹ অ¹",
+      "ipa": "[naːŋ˥˦] [dj˧˧] [pa˧˧] [dj˧˧]",
+      "morphemes": [
+        "naang2",
+        "dj1",
+        "pa1",
+        "dj1"
+      ],
+      "glosses": [
+        "lady",
+        "queen",
+        "Patuma",
+        "queen"
+      ],
+      "translation": "The queen was Patuma.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The queen was Patuma.",
+      "audio_file": null,
+      "notes": "* Pali word for lotus, paduma 'the lotus Nelumbium speciosum'. There seems to be a regular process in Tai of adding a final -N in Pali loan words, possibly conditioned by the following syllable which has a nasal initial."
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "phii1 tsik1 tsng3 nai3 maa2 nj1 maa2 tak3 wai3",
+      "lik_tai": "ၽ ၸိၵ် ၸင်ႈ ၼႆႈ မႃႇ ၼ မႃႇ တၵ်ႈ ဝႆႈ",
+      "assamese_script": "ফ¹ চিক্‌¹ চঙ³ নাই³ মা² ন¹ মা² তাক্‌³ ৱাই³",
+      "ipa": "[pʰii˧˧] [tɕik˧˧] [tɕŋ˨˩̰] [nai˨˩̰] [maː˥˦] [nj˧˧] [maː˥˦] [tak˨˩̰] [wai˨˩̰]",
+      "morphemes": [
+        "phii1",
+        "tsik1",
+        "tsng3",
+        "nai3",
+        "maa2",
+        "nj1",
+        "maa2",
+        "tak3",
+        "wai3"
+      ],
+      "glosses": [
+        "goddess",
+        "highest part",
+        "palace",
+        "this",
+        "come",
+        "inform",
+        "come",
+        "ask",
+        "KEEP"
+      ],
+      "translation": "The goddess from the highest peak of the palace came to ask the twelve questions.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The goddess from the highest peak of the palace came to ask the twelve questions.",
+      "audio_file": null,
+      "notes": "This refers to a dream of Queen Patuma Devi."
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "paa1 sip1 tsng3 kai3",
+      "lik_tai": "ပႃ ꩢိပ် ၸင်ႈ ၵႆႈ",
+      "assamese_script": "পা¹ সিপ্‌¹ চঙ³ কাই³",
+      "ipa": "[paː˧˧] [sip˧˧] [tɕŋ˨˩̰] [kai˨˩̰]",
+      "morphemes": [
+        "paa1",
+        "sip1",
+        "tsng3",
+        "kai3"
+      ],
+      "glosses": [
+        "question",
+        "twelve",
+        "CLF",
+        "quickly"
+      ],
+      "translation": "The twelve questions, as soon as possible.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The twelve questions, as soon as possible.",
+      "audio_file": null,
+      "notes": "* given by Nabin as 'as soon as possible'"
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "naang2 dj1 j1 tɯn1 maa2",
+      "lik_tai": "ၼႃင်ႇ ဢ ဢ တိုၼ် မႃႇ",
+      "assamese_script": "নাঙ² অ¹ অ¹ তুন¹ মা²",
+      "ipa": "[naːŋ˥˦] [dj˧˧] [j˧˧] [tɯn˧˧] [maː˥˦]",
+      "morphemes": [
+        "naang2",
+        "dj1",
+        "j1",
+        "tɯn1",
+        "maa2"
+      ],
+      "glosses": [
+        "lady",
+        "Devi",
+        "EXCL",
+        "wake",
+        "COME"
+      ],
+      "translation": "Queen Devi woke up.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Queen Devi woke up.",
+      "audio_file": null,
+      "notes": "*When translating this, Nabin Shyam wrote nai3 'this'"
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "baa3 maa2 tng2 khaɯ3 dai3",
+      "lik_tai": "ဢႈ မႃႇ တင်ႇ ၶႈ ဢႈ",
+      "assamese_script": "অ³ মা² তঙ² খ³ অ³",
+      "ipa": "[baa˨˩̰] [maː˥˦] [tŋ˥˦] [kʰaɯ˨˩̰] [dai˨˩̰]",
+      "morphemes": [
+        "baa3",
+        "maa2",
+        "tng2",
+        "khaɯ3",
+        "dai3"
+      ],
+      "glosses": [
+        "crazy",
+        "come",
+        "know",
+        "want",
+        "listen"
+      ],
+      "translation": "She was crazy and wanted to know (the answer to the questions).",
+      "translation_assamese": "অসমীয়া অৰ্থ: She was crazy and wanted to know (the answer to the questions).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "aa1 man2 aa1 kun2 wun1 man2 kau3 mun1 yang2",
+      "lik_tai": "ဢႃ မၼ်ႇ ဢႃ ၵုၼ်ႇ ဝုၼ် မၼ်ႇ ၵဝ်ႈ မုၼ် ယင်ႇ",
+      "assamese_script": "আ¹ মান² আ¹ কুন² ৱুন¹ মান² কাও³ মুন¹ যাঙ²",
+      "ipa": "[aː˧˧] [man˥˦] [aː˧˧] [kun˥˦] [wun˧˧] [man˥˦] [kau˨˩̰] [mun˧˧] [jaŋ˥˦]",
+      "morphemes": [
+        "aa1",
+        "man2",
+        "aa1",
+        "kun2",
+        "wun1",
+        "man2",
+        "kau3",
+        "mun1",
+        "yang2"
+      ],
+      "glosses": [
+        "minister",
+        "3Sg",
+        "HESIT",
+        "man",
+        "soldier",
+        "3Sg",
+        "9",
+        "10000",
+        "be"
+      ],
+      "translation": "(The King) had ministers and 90,000 soldiers.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (The King) had ministers and 90,000 soldiers.",
+      "audio_file": null,
+      "notes": "* pronounced as [mzn]"
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "hng3 hang2 khau1 tang1 kau3 mun1 nai3",
+      "lik_tai": "ႁင်ႈ ႁင်ႇ ၶဝ် တင် ၵဝ်ႈ မုၼ် ၼႆႈ",
+      "assamese_script": "হঙ³ হাঙ² খাও¹ তাঙ¹ কাও³ মুন¹ নাই³",
+      "ipa": "[hŋ˨˩̰] [haŋ˥˦] [kʰau˧˧] [taŋ˧˧] [kau˨˩̰] [mun˧˧] [nai˨˩̰]",
+      "morphemes": [
+        "hng3",
+        "hang2",
+        "khau1",
+        "tang1",
+        "kau3",
+        "mun1",
+        "nai3"
+      ],
+      "glosses": [
+        "call",
+        "to",
+        "3Pl",
+        "all",
+        "9",
+        "10000",
+        "this"
+      ],
+      "translation": "(She) called to the ninety thousand (soldiers)",
+      "translation_assamese": "অসমীয়া অৰ্থ: (She) called to the ninety thousand (soldiers)",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "suu1 wan2 m1 hang2 kau2 ta1 dai3 kj3 paa1",
+      "lik_tai": "ꩢ ဝၼ်ႇ မ ႁင်ႇ ၵဝ်ႇ တႃ ဢႈ ၵႈ ပႃ",
+      "assamese_script": "স¹ ৱান² ম¹ হাঙ² কাও² তা¹ অ³ ক³ পা¹",
+      "ipa": "[suu˧˧] [wan˥˦] [m˧˧] [haŋ˥˦] [kau˥˦] [ta˧˧] [dai˨˩̰] [kj˨˩̰] [paː˧˧]",
+      "morphemes": [
+        "suu1",
+        "wan2",
+        "m1",
+        "hang2",
+        "kau2",
+        "ta1",
+        "dai3",
+        "kj3",
+        "paa1"
+      ],
+      "glosses": [
+        "2Pl",
+        "today",
+        "",
+        "to",
+        "1Sg",
+        "will",
+        "get",
+        "answer",
+        "question"
+      ],
+      "translation": "Today you must find the answer to these twelve questions.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Today you must find the answer to these twelve questions.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "p2 ma1 kj3 nai3 dai3 daap1 tsau3 saa1",
+      "lik_tai": "ပႇ မႃ ၵႈ ၼႆႈ ဢႈ ဢပ် ၸဝ်ႈ ꩢႃ",
+      "assamese_script": "প² মা¹ ক³ নাই³ অ³ অপ্‌¹ চাও³ সা¹",
+      "ipa": "[p˥˦] [ma˧˧] [kj˨˩̰] [nai˨˩̰] [dai˨˩̰] [daap˧˧] [tɕau˨˩̰] [saː˧˧]",
+      "morphemes": [
+        "p2",
+        "ma1",
+        "kj3",
+        "nai3",
+        "dai3",
+        "daap1",
+        "tsau3",
+        "saa1"
+      ],
+      "glosses": [
+        "if",
+        "NEG",
+        "answer",
+        "this",
+        "get",
+        "sword",
+        "RESP",
+        "PRT"
+      ],
+      "translation": "Queen Devi asked all the soldiers ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Queen Devi asked all the soldiers ...",
+      "audio_file": null,
+      "notes": "When translating this, Nabin read it as suu1 dai3 daap1 cau3 saa1 and explained this as follows:"
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "pung2 taai2",
+      "lik_tai": "ပုင်ႇ တႃႆႇ",
+      "assamese_script": "পুঙ² তাই²",
+      "ipa": "[puŋ˥˦] [taːi˥˦]",
+      "morphemes": [
+        "pung2",
+        "taai2"
+      ],
+      "glosses": [
+        "order",
+        "die"
+      ],
+      "translation": "You will be ordered to die.",
+      "translation_assamese": "অসমীয়া অৰ্থ: You will be ordered to die.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "aa1 sip1 kau3 mun1 nai3 aa3 paak1 saa1",
+      "lik_tai": "ဢႃ ꩢိပ် ၵဝ်ႈ မုၼ် ၼႆႈ ဢႃႈ ပႃၵ် ꩢႃ",
+      "assamese_script": "আ¹ সিপ্‌¹ কাও³ মুন¹ নাই³ আ³ পাক্‌¹ সা¹",
+      "ipa": "[aː˧˧] [sip˧˧] [kau˨˩̰] [mun˧˧] [nai˨˩̰] [aː˨˩̰] [paːk˧˧] [saː˧˧]",
+      "morphemes": [
+        "aa1",
+        "sip1",
+        "kau3",
+        "mun1",
+        "nai3",
+        "aa3",
+        "paak1",
+        "saa1"
+      ],
+      "glosses": [
+        "minister",
+        "ten",
+        "nine",
+        "10000",
+        "this",
+        "open",
+        "mouth",
+        "PRT"
+      ],
+      "translation": "The 90000 ministers were surprised.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The 90000 ministers were surprised.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "phaɯ1 k3 ma1 t ɯng1 tng2",
+      "lik_tai": "ၽ ၵႈ မႃ တ ဢိုင် တင်ႇ",
+      "assamese_script": "ফ¹ ক³ মা¹ ত¹ উঙ¹ তঙ²",
+      "ipa": "[pʰaɯ˧˧] [k˨˩̰] [ma˧˧] [t˧˧] [ɯŋ˧˧] [tŋ˥˦]",
+      "morphemes": [
+        "phaɯ1",
+        "k3",
+        "ma1",
+        "t",
+        "ɯng1",
+        "tng2"
+      ],
+      "glosses": [
+        "who",
+        "LINK",
+        "NEG",
+        "kn..",
+        "NEG",
+        "know"
+      ],
+      "translation": "Nobody could understand.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Nobody could understand.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "lai3 tsau3 khun1 nj3",
+      "lik_tai": "လႆႈ ၸဝ်ႈ ၶုၼ် ၼႈ",
+      "assamese_script": "লাই³ চাও³ খুন¹ ন³",
+      "ipa": "[lai˨˩̰] [tɕau˨˩̰] [kʰun˧˧] [nj˨˩̰]",
+      "morphemes": [
+        "lai3",
+        "tsau3",
+        "khun1",
+        "nj3"
+      ],
+      "glosses": [
+        "therefore",
+        "king",
+        "king",
+        "DEF"
+      ],
+      "translation": "The king felt pity for the 90000 ministers (and soldiers).",
+      "translation_assamese": "অসমীয়া অৰ্থ: The king felt pity for the 90000 ministers (and soldiers).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "naang2 ɯi1 khau1 nai3 haɯ3 khaa1 au2 saam1 pii2",
+      "lik_tai": "ၼႃင်ႇ ဢိုႆ ၶဝ် ၼႆႈ ႁႈ ၶႃ ဢဝ်ႇ ꩢႃမ် ပႇ",
+      "assamese_script": "নাঙ² অুই¹ খাও¹ নাই³ হ³ খা¹ ঔ² সাম¹ প²",
+      "ipa": "[naːŋ˥˦] [ɯi˧˧] [kʰau˧˧] [nai˨˩̰] [haɯ˨˩̰] [kʰaː˧˧] [au˥˦] [saːm˧˧] [pii˥˦]",
+      "morphemes": [
+        "naang2",
+        "ɯi1",
+        "khau1",
+        "nai3",
+        "haɯ3",
+        "khaa1",
+        "au2",
+        "saam1",
+        "pii2"
+      ],
+      "glosses": [
+        "lady",
+        "EXCL",
+        "3Pl",
+        "this",
+        "GIVE",
+        "search",
+        "take",
+        "three",
+        "years"
+      ],
+      "translation": "The King said to Nang Devi",
+      "translation_assamese": "অসমীয়া অৰ্থ: The King said to Nang Devi",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "saam1 pii2 haɯ3 khau1 au2",
+      "lik_tai": "ꩢႃမ် ပႇ ႁႈ ၶဝ် ဢဝ်ႇ",
+      "assamese_script": "সাম¹ প² হ³ খাও¹ ঔ²",
+      "ipa": "[saːm˧˧] [pii˥˦] [haɯ˨˩̰] [kʰau˧˧] [au˥˦]",
+      "morphemes": [
+        "saam1",
+        "pii2",
+        "haɯ3",
+        "khau1",
+        "au2"
+      ],
+      "glosses": [
+        "three",
+        "year",
+        "GIVE",
+        "3Pl",
+        "take"
+      ],
+      "translation": "Let them have three years.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Let them have three years.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "naang2 dj1 nai3 waa2",
+      "lik_tai": "ၼႃင်ႇ ဢ ၼႆႈ ဝႃႇ",
+      "assamese_script": "নাঙ² অ¹ নাই³ ৱা²",
+      "ipa": "[naːŋ˥˦] [dj˧˧] [nai˨˩̰] [waː˥˦]",
+      "morphemes": [
+        "naang2",
+        "dj1",
+        "nai3",
+        "waa2"
+      ],
+      "glosses": [
+        "lady",
+        "Devi",
+        "this",
+        "(say)"
+      ],
+      "translation": "Nang Devi said:",
+      "translation_assamese": "অসমীয়া অৰ্থ: Nang Devi said:",
+      "audio_file": null,
+      "notes": "Nabin Shyam stated that the word waa2 'say' should have been present at the end of the line."
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "kau2 ɯm1 pj3 haɯ3 saam1 pii2",
+      "lik_tai": "ၵဝ်ႇ ဢိုမ် ပႈ ႁႈ ꩢႃမ် ပႇ",
+      "assamese_script": "কাও² উম¹ প³ হ³ সাম¹ প²",
+      "ipa": "[kau˥˦] [ɯm˧˧] [pj˨˩̰] [haɯ˨˩̰] [saːm˧˧] [pii˥˦]",
+      "morphemes": [
+        "kau2",
+        "ɯm1",
+        "pj3",
+        "haɯ3",
+        "saam1",
+        "pii2"
+      ],
+      "glosses": [
+        "1Sg",
+        "NEG",
+        "can",
+        "give",
+        "three",
+        "years"
+      ],
+      "translation": "I cannot give them three years.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I cannot give them three years.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "kau2 ta1 taai2 yau3 kau2 p2 ma1 dai3",
+      "lik_tai": "ၵဝ်ႇ တႃ တႃႆႇ ယဝ်ႈ ၵဝ်ႇ ပႇ မႃ ဢႈ",
+      "assamese_script": "কাও² তা¹ তাই² যাও³ কাও² প² মা¹ অ³",
+      "ipa": "[kau˥˦] [ta˧˧] [taːi˥˦] [jau˨˩̰] [kau˥˦] [p˥˦] [ma˧˧] [dai˨˩̰]",
+      "morphemes": [
+        "kau2",
+        "ta1",
+        "taai2",
+        "yau3",
+        "kau2",
+        "p2",
+        "ma1",
+        "dai3"
+      ],
+      "glosses": [
+        "I",
+        "will",
+        "die",
+        "FINISHED",
+        "I",
+        "if",
+        "NEG",
+        "hear"
+      ],
+      "translation": "(By then) I will have died if I do not get to hear the answer.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (By then) I will have died if I do not get to hear the answer.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "kau2 p2 ma1 dai3 nai3 kau2 ta1 taai2",
+      "lik_tai": "ၵဝ်ႇ ပႇ မႃ ဢႈ ၼႆႈ ၵဝ်ႇ တႃ တႃႆႇ",
+      "assamese_script": "কাও² প² মা¹ অ³ নাই³ কাও² তা¹ তাই²",
+      "ipa": "[kau˥˦] [p˥˦] [ma˧˧] [dai˨˩̰] [nai˨˩̰] [kau˥˦] [ta˧˧] [taːi˥˦]",
+      "morphemes": [
+        "kau2",
+        "p2",
+        "ma1",
+        "dai3",
+        "nai3",
+        "kau2",
+        "ta1",
+        "taai2"
+      ],
+      "glosses": [
+        "1Sg",
+        "if",
+        "NEG",
+        "hear",
+        "this",
+        "1Sg",
+        "will",
+        "die"
+      ],
+      "translation": "I will die if I do not get to hear the answer",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will die if I do not get to hear the answer",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "lai3 tsau3 khun1 nai3 khɯn2",
+      "lik_tai": "လႆႈ ၸဝ်ႈ ၶုၼ် ၼႆႈ ၶိုၼ်ႇ",
+      "assamese_script": "লাই³ চাও³ খুন¹ নাই³ খুন²",
+      "ipa": "[lai˨˩̰] [tɕau˨˩̰] [kʰun˧˧] [nai˨˩̰] [kʰɯn˥˦]",
+      "morphemes": [
+        "lai3",
+        "tsau3",
+        "khun1",
+        "nai3",
+        "khɯn2"
+      ],
+      "glosses": [
+        "therefore",
+        "king",
+        "king",
+        "this",
+        "again"
+      ],
+      "translation": "Therefore, the king again asked her:",
+      "translation_assamese": "অসমীয়া অৰ্থ: Therefore, the king again asked her:",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "ɯ2 saam1 dɯn2",
+      "lik_tai": "ဢိုႇ ꩢႃမ် ဢၼ်ႇ",
+      "assamese_script": "উ² সাম¹ অন²",
+      "ipa": "[ɯ˥˦] [saːm˧˧] [dɯn˥˦]",
+      "morphemes": [
+        "ɯ2",
+        "saam1",
+        "dɯn2"
+      ],
+      "glosses": [
+        "EXCL",
+        "3",
+        "month"
+      ],
+      "translation": "(Can you give them) three months?",
+      "translation_assamese": "অসমীয়া অৰ্থ: (Can you give them) three months?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "saam1 dɯn2 k3 kau2 ta1 taai2",
+      "lik_tai": "ꩢႃမ် ဢၼ်ႇ ၵႈ ၵဝ်ႇ တႃ တႃႆႇ",
+      "assamese_script": "সাম¹ অন² ক³ কাও² তা¹ তাই²",
+      "ipa": "[saːm˧˧] [dɯn˥˦] [k˨˩̰] [kau˥˦] [ta˧˧] [taːi˥˦]",
+      "morphemes": [
+        "saam1",
+        "dɯn2",
+        "k3",
+        "kau2",
+        "ta1",
+        "taai2"
+      ],
+      "glosses": [
+        "three",
+        "month",
+        "LINK",
+        "1Sg",
+        "will",
+        "die"
+      ],
+      "translation": "In three months I will also die, if I don't get to hear (the answer).",
+      "translation_assamese": "অসমীয়া অৰ্থ: In three months I will also die, if I don't get to hear (the answer).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "lai3 kau2 tsj2 m1 kau2 khaɯ3 dai3",
+      "lik_tai": "လႆႈ ၵဝ်ႇ ၸႇ မ ၵဝ်ႇ ၶႈ ဢႈ",
+      "assamese_script": "লাই³ কাও² চ² ম¹ কাও² খ³ অ³",
+      "ipa": "[lai˨˩̰] [kau˥˦] [tɕj˥˦] [m˧˧] [kau˥˦] [kʰaɯ˨˩̰] [dai˨˩̰]",
+      "morphemes": [
+        "lai3",
+        "kau2",
+        "tsj2",
+        "m1",
+        "kau2",
+        "khaɯ3",
+        "dai3"
+      ],
+      "glosses": [
+        "therefore",
+        "1Sg",
+        "now",
+        "just now",
+        "1Sg",
+        "want",
+        "hear"
+      ],
+      "translation": "Therefore I want to hear (the answer) right now!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Therefore I want to hear (the answer) right now!",
+      "audio_file": null,
+      "notes": "* The meaning of this morpheme is unclear. See also \u0013 HYPERLINK  \\l \"No11\" \u0001\u0014example (11)\u0015 above."
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "mɯ2 tsau3 khun1",
+      "lik_tai": "မိုႇ ၸဝ်ႈ ၶုၼ်",
+      "assamese_script": "মু² চাও³ খুন¹",
+      "ipa": "[mɯ˥˦] [tɕau˨˩̰] [kʰun˧˧]",
+      "morphemes": [
+        "mɯ2",
+        "tsau3",
+        "khun1"
+      ],
+      "glosses": [
+        "then",
+        "king",
+        "king"
+      ],
+      "translation": "So the king's face became ugly with sadness, pity.",
+      "translation_assamese": "অসমীয়া অৰ্থ: So the king's face became ugly with sadness, pity.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "naang2 dj1 nai3 kuu2 taai2",
+      "lik_tai": "ၼႃင်ႇ ဢ ၼႆႈ ၵႇ တႃႆႇ",
+      "assamese_script": "নাঙ² অ¹ নাই³ ক² তাই²",
+      "ipa": "[naːŋ˥˦] [dj˧˧] [nai˨˩̰] [kuu˥˦] [taːi˥˦]",
+      "morphemes": [
+        "naang2",
+        "dj1",
+        "nai3",
+        "kuu2",
+        "taai2"
+      ],
+      "glosses": [
+        "lady",
+        "Devi",
+        "this",
+        "fear",
+        "die"
+      ],
+      "translation": " Queen Devi was afraid to die.",
+      "translation_assamese": "অসমীয়া অৰ্থ:  Queen Devi was afraid to die.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "naa3 man2 nai3 yung3 ka1 nai3 lau2",
+      "lik_tai": "ၼႃႈ မၼ်ႇ ၼႆႈ ယုင်ႈ ၵႃ ၼႆႈ လဝ်ႇ",
+      "assamese_script": "না³ মান² নাই³ যুঙ³ কা¹ নাই³ লাও²",
+      "ipa": "[naː˨˩̰] [man˥˦] [nai˨˩̰] [juŋ˨˩̰] [ka˧˧] [nai˨˩̰] [lau˥˦]",
+      "morphemes": [
+        "naa3",
+        "man2",
+        "nai3",
+        "yung3",
+        "ka1",
+        "nai3",
+        "lau2"
+      ],
+      "glosses": [
+        "face",
+        "3Sg",
+        "this",
+        "ugly",
+        "after",
+        "that",
+        "say"
+      ],
+      "translation": "His face was troubled, and after that he said:",
+      "translation_assamese": "অসমীয়া অৰ্থ: His face was troubled, and after that he said:",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "naang2 ɯi2 tsit1 wan2 haɯ3 khaa1 au2",
+      "lik_tai": "ၼႃင်ႇ ဢိုႆႇ ၸိတ် ဝၼ်ႇ ႁႈ ၶႃ ဢဝ်ႇ",
+      "assamese_script": "নাঙ² অুই² চিত্‌¹ ৱান² হ³ খা¹ ঔ²",
+      "ipa": "[naːŋ˥˦] [ɯi˥˦] [tɕit˧˧] [wan˥˦] [haɯ˨˩̰] [kʰaː˧˧] [au˥˦]",
+      "morphemes": [
+        "naang2",
+        "ɯi2",
+        "tsit1",
+        "wan2",
+        "haɯ3",
+        "khaa1",
+        "au2"
+      ],
+      "glosses": [
+        "lady",
+        "EXCL",
+        "seven",
+        "day",
+        "give",
+        "search",
+        "take"
+      ],
+      "translation": "My lady, give (them) seven days to search for (the answer).",
+      "translation_assamese": "অসমীয়া অৰ্থ: My lady, give (them) seven days to search for (the answer).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "tsit1 wan2 nai3 khau1 pa1 dai3",
+      "lik_tai": "ၸိတ် ဝၼ်ႇ ၼႆႈ ၶဝ် ပႃ ဢႈ",
+      "assamese_script": "চিত্‌¹ ৱান² নাই³ খাও¹ পা¹ অ³",
+      "ipa": "[tɕit˧˧] [wan˥˦] [nai˨˩̰] [kʰau˧˧] [pa˧˧] [dai˨˩̰]",
+      "morphemes": [
+        "tsit1",
+        "wan2",
+        "nai3",
+        "khau1",
+        "pa1",
+        "dai3"
+      ],
+      "glosses": [
+        "seven",
+        "day",
+        "this",
+        "3Pl",
+        "NEG",
+        "get"
+      ],
+      "translation": "If they have not got (the answer) in these seven days, let them be killed.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If they have not got (the answer) in these seven days, let them be killed.",
+      "audio_file": null,
+      "notes": "The last three words are unclear on the tape. Nabin Shyam felt that they should be transcribed as given here."
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "ɯ2 haɯ3 lj1 kau2 tsau3 ɯi2",
+      "lik_tai": "ဢိုႇ ႁႈ လ ၵဝ်ႇ ၸဝ်ႈ ဢိုႆႇ",
+      "assamese_script": "উ² হ³ ল¹ কাও² চাও³ অুই²",
+      "ipa": "[ɯ˥˦] [haɯ˨˩̰] [lj˧˧] [kau˥˦] [tɕau˨˩̰] [ɯi˥˦]",
+      "morphemes": [
+        "ɯ2",
+        "haɯ3",
+        "lj1",
+        "kau2",
+        "tsau3",
+        "ɯi2"
+      ],
+      "glosses": [
+        "YES",
+        "GIVE",
+        "PRT",
+        "1Sg",
+        "RESP",
+        "EXCL"
+      ],
+      "translation": "Yes, my lord, I agree (to give them) seven days.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Yes, my lord, I agree (to give them) seven days.",
+      "audio_file": null,
+      "notes": "* Probably an error for cau3 kau2."
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "p2 kaa1",
+      "lik_tai": "ပႇ ၵႃ",
+      "assamese_script": "প² কা¹",
+      "ipa": "[p˥˦] [kaː˧˧]",
+      "morphemes": [
+        "p2",
+        "kaa1"
+      ],
+      "glosses": [
+        "enough",
+        "GO"
+      ],
+      "translation": "It is enough.",
+      "translation_assamese": "অসমীয়া অৰ্থ: It is enough.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "mɯ2 thin1 kaa1",
+      "lik_tai": "မိုႇ ထိၼ် ၵႃ",
+      "assamese_script": "মু² থিন¹ কা¹",
+      "ipa": "[mɯ˥˦] [tʰin˧˧] [kaː˧˧]",
+      "morphemes": [
+        "mɯ2",
+        "thin1",
+        "kaa1"
+      ],
+      "glosses": [
+        "then",
+        "send",
+        "GO"
+      ],
+      "translation": "Then (they) were sent out.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then (they) were sent out.",
+      "audio_file": null,
+      "notes": "Sa Cham speaks very quickly at this point, and some words in (34) could not be made out."
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "tsau3 khun1 lau2 pai2 khaa1 tsau3",
+      "lik_tai": "ၸဝ်ႈ ၶုၼ် လဝ်ႇ ပႆႇ ၶႃ ၸဝ်ႈ",
+      "assamese_script": "চাও³ খুন¹ লাও² পাই² খা¹ চাও³",
+      "ipa": "[tɕau˨˩̰] [kʰun˧˧] [lau˥˦] [pai˥˦] [kʰaː˧˧] [tɕau˨˩̰]",
+      "morphemes": [
+        "tsau3",
+        "khun1",
+        "lau2",
+        "pai2",
+        "khaa1",
+        "tsau3"
+      ],
+      "glosses": [
+        "king",
+        "king",
+        "say",
+        "go",
+        "search",
+        "resp"
+      ],
+      "translation": "The king said: \"Go forth and answer the questions and you shall be saved from death.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The king said: \"Go forth and answer the questions and you shall be saved from death.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "mɯ2 pai2 kuu2 naa2 kuu2 paa3",
+      "lik_tai": "မိုႇ ပႆႇ ၵႇ ၼႃႇ ၵႇ ပႃႈ",
+      "assamese_script": "মু² পাই² ক² না² ক² পা³",
+      "ipa": "[mɯ˥˦] [pai˥˦] [kuu˥˦] [naː˥˦] [kuu˥˦] [paː˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "pai2",
+        "kuu2",
+        "naa2",
+        "kuu2",
+        "paa3"
+      ],
+      "glosses": [
+        "then",
+        "go",
+        "every",
+        "field",
+        "every",
+        "side"
+      ],
+      "translation": "Then they went out in every direction.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then they went out in every direction.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "pai2 pa1 k3 khaa1 ɯng1 dai3",
+      "lik_tai": "ပႆႇ ပႃ ၵႈ ၶႃ ဢိုင် ဢႈ",
+      "assamese_script": "পাই² পা¹ ক³ খা¹ উঙ¹ অ³",
+      "ipa": "[pai˥˦] [pa˧˧] [k˨˩̰] [kʰaː˧˧] [ɯŋ˧˧] [dai˨˩̰]",
+      "morphemes": [
+        "pai2",
+        "pa1",
+        "k3",
+        "khaa1",
+        "ɯng1",
+        "dai3"
+      ],
+      "glosses": [
+        "go",
+        "tomorrow",
+        "LINK",
+        "search",
+        "NEG",
+        "get"
+      ],
+      "translation": "On the next day they did not find (the answers).",
+      "translation_assamese": "অসমীয়া অৰ্থ: On the next day they did not find (the answers).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "mɯng2 nai3 tang1 an2 tst1 kun2 kau3 mun1 nai1",
+      "lik_tai": "မိုင်ႇ ၼႆႈ တင် ဢၼ်ႇ ၸတ် ၵုၼ်ႇ ၵဝ်ႈ မုၼ် ၼႆ",
+      "assamese_script": "মুঙ² নাই³ তাঙ¹ অন² চত্‌¹ কুন² কাও³ মুন¹ নাই¹",
+      "ipa": "[mɯŋ˥˦] [nai˨˩̰] [taŋ˧˧] [an˥˦] [tɕt˧˧] [kun˥˦] [kau˨˩̰] [mun˧˧] [nai˧˧]",
+      "morphemes": [
+        "mɯng2",
+        "nai3",
+        "tang1",
+        "an2",
+        "tst1",
+        "kun2",
+        "kau3",
+        "mun1",
+        "nai1"
+      ],
+      "glosses": [
+        "country",
+        "this",
+        "all",
+        "CLF",
+        "everywhere",
+        "people",
+        "9",
+        "10000",
+        "these"
+      ],
+      "translation": "All over the country, those 90000 searched, and on the 2nd day, they also could not find (the answers)",
+      "translation_assamese": "অসমীয়া অৰ্থ: All over the country, those 90000 searched, and on the 2nd day, they also could not find (the answers)",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "thɯng1 maa2 haa3 wan2",
+      "lik_tai": "ထိုင် မႃႇ ႁႃႈ ဝၼ်ႇ",
+      "assamese_script": "থুঙ¹ মা² হা³ ৱান²",
+      "ipa": "[tʰɯŋ˧˧] [maː˥˦] [haː˨˩̰] [wan˥˦]",
+      "morphemes": [
+        "thɯng1",
+        "maa2",
+        "haa3",
+        "wan2"
+      ],
+      "glosses": [
+        "reach",
+        "COME",
+        "five",
+        "day"
+      ],
+      "translation": "They reached the fifth day.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They reached the fifth day.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "mɯ2 aa1 a1 phraa2 hau2",
+      "lik_tai": "မိုႇ ဢႃ ဢႃ ၽႇ ႁဝ်ႇ",
+      "assamese_script": "মু² আ¹ অ¹ ফ² হাও²",
+      "ipa": "[mɯ˥˦] [aː˧˧] [a˧˧] [pʰraa˥˦] [hau˥˦]",
+      "morphemes": [
+        "mɯ2",
+        "aa1",
+        "a1",
+        "phraa2",
+        "hau2"
+      ],
+      "glosses": [
+        "then",
+        "HESIT",
+        "Bodhisatva",
+        "Buddha",
+        "1Pl"
+      ],
+      "translation": "Then, the Bodhisatva, our Buddha ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then, the Bodhisatva, our Buddha ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "k1 aa1 tsuu2 tsaat3 k1 mɯ2",
+      "lik_tai": "ၵ ဢႃ ၸႇ ၸႃတ်ႈ ၵ မိုႇ",
+      "assamese_script": "ক¹ আ¹ চ² চাত্‌³ ক¹ মু²",
+      "ipa": "[k˧˧] [aː˧˧] [tɕuu˥˦] [tɕaːt˨˩̰] [k˧˧] [mɯ˥˦]",
+      "morphemes": [
+        "k1",
+        "aa1",
+        "tsuu2",
+        "tsaat3",
+        "k1",
+        "mɯ2"
+      ],
+      "glosses": [
+        "Gotama",
+        "HESIT",
+        "at that time",
+        "life",
+        "Gotama",
+        "then"
+      ],
+      "translation": "At that time he had taken birth as Gotama.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time he had taken birth as Gotama.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_042",
+      "text_roman": "tsaat3 paan2 kn1 man2",
+      "lik_tai": "ၸႃတ်ႈ ပႃၼ်ႇ ၵၼ် မၼ်ႇ",
+      "assamese_script": "চাত্‌³ পান² কন¹ মান²",
+      "ipa": "[tɕaːt˨˩̰] [paːn˥˦] [kn˧˧] [man˥˦]",
+      "morphemes": [
+        "tsaat3",
+        "paan2",
+        "kn1",
+        "man2"
+      ],
+      "glosses": [
+        "life",
+        "time",
+        "before",
+        "his"
+      ],
+      "translation": "In his previous life time his name was Canta sila.",
+      "translation_assamese": "অসমীয়া অৰ্থ: In his previous life time his name was Canta sila.",
+      "audio_file": null,
+      "notes": "the Burmese is pronounced as 'Cantathila'."
+    },
+    {
+      "id": "unit_043",
+      "text_roman": "luk3 a1",
+      "lik_tai": "လုၵ်ႈ ဢႃ",
+      "assamese_script": "লুক্‌³ অ¹",
+      "ipa": "[luk˨˩̰] [a˧˧]",
+      "morphemes": [
+        "luk3",
+        "a1"
+      ],
+      "glosses": [
+        "from..",
+        "mmm"
+      ],
+      "translation": "From ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: From ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_044",
+      "text_roman": "p2 man2 nai3 taai2 kaa1",
+      "lik_tai": "ပႇ မၼ်ႇ ၼႆႈ တႃႆႇ ၵႃ",
+      "assamese_script": "প² মান² নাই³ তাই² কা¹",
+      "ipa": "[p˥˦] [man˥˦] [nai˨˩̰] [taːi˥˦] [kaː˧˧]",
+      "morphemes": [
+        "p2",
+        "man2",
+        "nai3",
+        "taai2",
+        "kaa1"
+      ],
+      "glosses": [
+        "father",
+        "his",
+        "this",
+        "die",
+        "GO"
+      ],
+      "translation": "His father was dead.",
+      "translation_assamese": "অসমীয়া অৰ্থ: His father was dead.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_045",
+      "text_roman": "mj2 man2 nai3 yang2",
+      "lik_tai": "မႇ မၼ်ႇ ၼႆႈ ယင်ႇ",
+      "assamese_script": "ম² মান² নাই³ যাঙ²",
+      "ipa": "[mj˥˦] [man˥˦] [nai˨˩̰] [jaŋ˥˦]",
+      "morphemes": [
+        "mj2",
+        "man2",
+        "nai3",
+        "yang2"
+      ],
+      "glosses": [
+        "mother",
+        "his",
+        "this",
+        "have"
+      ],
+      "translation": "His mother was living.",
+      "translation_assamese": "অসমীয়া অৰ্থ: His mother was living.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_046",
+      "text_roman": "mɯ2 man2 bjk1 maa2 phun2 nai3",
+      "lik_tai": "မိုႇ မၼ်ႇ ဢၵ် မႃႇ ၽုၼ်ႇ ၼႆႈ",
+      "assamese_script": "মু² মান² অক্‌¹ মা² ফুন² নাই³",
+      "ipa": "[mɯ˥˦] [man˥˦] [bjk˧˧] [maː˥˦] [pʰun˥˦] [nai˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "man2",
+        "bjk1",
+        "maa2",
+        "phun2",
+        "nai3"
+      ],
+      "glosses": [
+        "then",
+        "3Sg",
+        "carry",
+        "come",
+        "firewood",
+        "this"
+      ],
+      "translation": "At that time he was carrying firewood.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time he was carrying firewood.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_047",
+      "text_roman": "man2 khaai1 phun2 ni3 ling3 mj2 man2",
+      "lik_tai": "မၼ်ႇ ၶႃႆ ၽုၼ်ႇ ၼိႈ လိင်ႈ မႇ မၼ်ႇ",
+      "assamese_script": "মান² খাই¹ ফুন² নি³ লিঙ³ ম² মান²",
+      "ipa": "[man˥˦] [kʰaːi˧˧] [pʰun˥˦] [ni˨˩̰] [liŋ˨˩̰] [mj˥˦] [man˥˦]",
+      "morphemes": [
+        "man2",
+        "khaai1",
+        "phun2",
+        "ni3",
+        "ling3",
+        "mj2",
+        "man2"
+      ],
+      "glosses": [
+        "3Sg",
+        "sell",
+        "firewood",
+        "PRT",
+        "feed",
+        "mother",
+        "his"
+      ],
+      "translation": "He was selling firewood in order to feed his mother.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was selling firewood in order to feed his mother.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_048",
+      "text_roman": "bjk1 maa2 phun2 nai3 maa1",
+      "lik_tai": "ဢၵ် မႃႇ ၽုၼ်ႇ ၼႆႈ မႃ",
+      "assamese_script": "অক্‌¹ মা² ফুন² নাই³ মা¹",
+      "ipa": "[bjk˧˧] [maː˥˦] [pʰun˥˦] [nai˨˩̰] [maː˧˧]",
+      "morphemes": [
+        "bjk1",
+        "maa2",
+        "phun2",
+        "nai3",
+        "maa1"
+      ],
+      "glosses": [
+        "carry",
+        "come",
+        "firewood",
+        "this",
+        "COME"
+      ],
+      "translation": "He was carrying firewood.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was carrying firewood.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_049",
+      "text_roman": "yaam2 maa2 dai3 khau1 kau3 mun1 nai3",
+      "lik_tai": "ယႃမ်ႇ မႃႇ ဢႈ ၶဝ် ၵဝ်ႈ မုၼ် ၼႆႈ",
+      "assamese_script": "যাম² মা² অ³ খাও¹ কাও³ মুন¹ নাই³",
+      "ipa": "[jaːm˥˦] [maː˥˦] [dai˨˩̰] [kʰau˧˧] [kau˨˩̰] [mun˧˧] [nai˨˩̰]",
+      "morphemes": [
+        "yaam2",
+        "maa2",
+        "dai3",
+        "khau1",
+        "kau3",
+        "mun1",
+        "nai3"
+      ],
+      "glosses": [
+        "then",
+        "come",
+        "listen",
+        "3Pl",
+        "9",
+        "ten thousand",
+        "this"
+      ],
+      "translation": "Then he came and listened to the 90,000 soldiers who were muttering in confusion.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then he came and listened to the 90,000 soldiers who were muttering in confusion.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_050",
+      "text_roman": "man2 k3 waa2 an2 nai3 saa1",
+      "lik_tai": "မၼ်ႇ ၵႈ ဝႃႇ ဢၼ်ႇ ၼႆႈ ꩢႃ",
+      "assamese_script": "মান² ক³ ৱা² অন² নাই³ সা¹",
+      "ipa": "[man˥˦] [k˨˩̰] [waː˥˦] [an˥˦] [nai˨˩̰] [saː˧˧]",
+      "morphemes": [
+        "man2",
+        "k3",
+        "waa2",
+        "an2",
+        "nai3",
+        "saa1"
+      ],
+      "glosses": [
+        "3Sg",
+        "LINK",
+        "say",
+        "CLF",
+        "this",
+        "PRT"
+      ],
+      "translation": "Some were saying this, some that, and some were saying the other.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Some were saying this, some that, and some were saying the other.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_051",
+      "text_roman": "phaɯ1 k3 ma1 pj3 tng2",
+      "lik_tai": "ၽ ၵႈ မႃ ပႈ တင်ႇ",
+      "assamese_script": "ফ¹ ক³ মা¹ প³ তঙ²",
+      "ipa": "[pʰaɯ˧˧] [k˨˩̰] [ma˧˧] [pj˨˩̰] [tŋ˥˦]",
+      "morphemes": [
+        "phaɯ1",
+        "k3",
+        "ma1",
+        "pj3",
+        "tng2"
+      ],
+      "glosses": [
+        "who",
+        "LINK",
+        "NEG",
+        "can",
+        "understand"
+      ],
+      "translation": "Nobody could understand them.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Nobody could understand them.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_052",
+      "text_roman": "man2 nai3 thm1 kaa1 khaam2 nai3 kam2 lɯng2 k3 ma1 tsaɯ2",
+      "lik_tai": "မၼ်ႇ ၼႆႈ ထမ် ၵႃ ၶႃမ်ႇ ၼႆႈ ၵမ်ႇ လိုင်ႇ ၵႈ မႃ ၸႇ",
+      "assamese_script": "মান² নাই³ থম¹ কা¹ খাম² নাই³ কাম² লুঙ² ক³ মা¹ চ²",
+      "ipa": "[man˥˦] [nai˨˩̰] [tʰm˧˧] [kaː˧˧] [kʰaːm˥˦] [nai˨˩̰] [kam˥˦] [lɯŋ˥˦] [k˨˩̰] [ma˧˧] [tɕaɯ˥˦]",
+      "morphemes": [
+        "man2",
+        "nai3",
+        "thm1",
+        "kaa1",
+        "khaam2",
+        "nai3",
+        "kam2",
+        "lɯng2",
+        "k3",
+        "ma1",
+        "tsaɯ2"
+      ],
+      "glosses": [
+        "3Sg",
+        "get",
+        "listen",
+        "GO",
+        "word",
+        "this",
+        "word",
+        "one",
+        "LINK",
+        "NEG",
+        "be"
+      ],
+      "translation": "He listened to these words, which were incorrect.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He listened to these words, which were incorrect.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_053",
+      "text_roman": "man2 khuu1 kaa1 kikkikkikkik",
+      "lik_tai": "မၼ်ႇ ၶ ၵႃ ၵၵ်",
+      "assamese_script": "মান² খ¹ কা¹ কক্‌¹",
+      "ipa": "[man˥˦] [kʰuu˧˧] [kaː˧˧] [kikkikkikkik˧˧]",
+      "morphemes": [
+        "man2",
+        "khuu1",
+        "kaa1",
+        "kikkikkikkik"
+      ],
+      "glosses": [
+        "3Sg",
+        "laugh",
+        "GO",
+        "ONOM"
+      ],
+      "translation": "He laughed 'ha ha, ha ha' and then carried his firewood away",
+      "translation_assamese": "অসমীয়া অৰ্থ: He laughed 'ha ha, ha ha' and then carried his firewood away",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_054",
+      "text_roman": "aa1 wun1 paa2 lɯng2 ai3 lau2 ɯi2 lau2",
+      "lik_tai": "ဢႃ ဝုၼ် ပႃႇ လိုင်ႇ ဢႆႈ လဝ်ႇ ဢိုႆႇ လဝ်ႇ",
+      "assamese_script": "আ¹ ৱুন¹ পা² লুঙ² ঐ³ লাও² অুই² লাও²",
+      "ipa": "[aː˧˧] [wun˧˧] [paː˥˦] [lɯŋ˥˦] [ai˨˩̰] [lau˥˦] [ɯi˥˦] [lau˥˦]",
+      "morphemes": [
+        "aa1",
+        "wun1",
+        "paa2",
+        "lɯng2",
+        "ai3",
+        "lau2",
+        "ɯi2",
+        "lau2"
+      ],
+      "glosses": [
+        "minister",
+        "big",
+        "CLF",
+        "one",
+        "PRT",
+        "tell",
+        "EXCL",
+        "tell"
+      ],
+      "translation": "An important minister said.",
+      "translation_assamese": "অসমীয়া অৰ্থ: An important minister said.",
+      "audio_file": null,
+      "notes": "* Shan 'glory'; also used to refer to a Minister or High Official. From Burmese."
+    },
+    {
+      "id": "unit_055",
+      "text_roman": "aa1 khaam2 hau2 ɯm1 tsaɯ2",
+      "lik_tai": "ဢႃ ၶႃမ်ႇ ႁဝ်ႇ ဢိုမ် ၸႇ",
+      "assamese_script": "আ¹ খাম² হাও² উম¹ চ²",
+      "ipa": "[aː˧˧] [kʰaːm˥˦] [hau˥˦] [ɯm˧˧] [tɕaɯ˥˦]",
+      "morphemes": [
+        "aa1",
+        "khaam2",
+        "hau2",
+        "ɯm1",
+        "tsaɯ2"
+      ],
+      "glosses": [
+        "HESIT",
+        "word",
+        "we",
+        "NEG",
+        "be"
+      ],
+      "translation": "Our words answers are not correct'.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Our words answers are not correct'.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_056",
+      "text_roman": "pun3 luk3 nan3 aa1 luk3 kun2 phaan1 nan1",
+      "lik_tai": "ပုၼ်ႈ လုၵ်ႈ ၼၼ်ႈ ဢႃ လုၵ်ႈ ၵုၼ်ႇ ၽႃၼ် ၼၼ်",
+      "assamese_script": "পুন³ লুক্‌³ নান³ আ¹ লুক্‌³ কুন² ফান¹ নান¹",
+      "ipa": "[pun˨˩̰] [luk˨˩̰] [nan˨˩̰] [aː˧˧] [luk˨˩̰] [kun˥˦] [pʰaːn˧˧] [nan˧˧]",
+      "morphemes": [
+        "pun3",
+        "luk3",
+        "nan3",
+        "aa1",
+        "luk3",
+        "kun2",
+        "phaan1",
+        "nan1"
+      ],
+      "glosses": [
+        "yonder",
+        "child",
+        "that",
+        "HESIT",
+        "child",
+        "person",
+        "poor",
+        "that"
+      ],
+      "translation": "Look! That child, that poor boy carrying the firewood laughs because he knows that our words are not true.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Look! That child, that poor boy carrying the firewood laughs because he knows that our words are not true.",
+      "audio_file": null,
+      "notes": "* Almost inaudible. Nabin Shyam transcribed the sentence this way."
+    },
+    {
+      "id": "unit_057",
+      "text_roman": "ɯ2 hang2 hau2 kun2 lung1 kun2 laang1 khjn2 nai3 lɯng2",
+      "lik_tai": "ဢိုႇ ႁင်ႇ ႁဝ်ႇ ၵုၼ်ႇ လုင် ၵုၼ်ႇ လႃင် ၶၼ်ႇ ၼႆႈ လိုင်ႇ",
+      "assamese_script": "উ² হাঙ² হাও² কুন² লুঙ¹ কুন² লাঙ¹ খন² নাই³ লুঙ²",
+      "ipa": "[ɯ˥˦] [haŋ˥˦] [hau˥˦] [kun˥˦] [luŋ˧˧] [kun˥˦] [laːŋ˧˧] [kʰjn˥˦] [nai˨˩̰] [lɯŋ˥˦]",
+      "morphemes": [
+        "ɯ2",
+        "hang2",
+        "hau2",
+        "kun2",
+        "lung1",
+        "kun2",
+        "laang1",
+        "khjn2",
+        "nai3",
+        "lɯng2"
+      ],
+      "glosses": [
+        "EXCL",
+        "to",
+        "1Pl",
+        "man",
+        "big",
+        "man",
+        "EUPH",
+        "COMP",
+        "this",
+        "one"
+      ],
+      "translation": "Oh! He is like a big man in comparison to us.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh! He is like a big man in comparison to us.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_058",
+      "text_roman": "man2 ta1 pj3 maa2 khuu1 naa1 lau2",
+      "lik_tai": "မၼ်ႇ တႃ ပႈ မႃႇ ၶ ၼႃ လဝ်ႇ",
+      "assamese_script": "মান² তা¹ প³ মা² খ¹ না¹ লাও²",
+      "ipa": "[man˥˦] [ta˧˧] [pj˨˩̰] [maː˥˦] [kʰuu˧˧] [naː˧˧] [lau˥˦]",
+      "morphemes": [
+        "man2",
+        "ta1",
+        "pj3",
+        "maa2",
+        "khuu1",
+        "naa1",
+        "lau2"
+      ],
+      "glosses": [
+        "3Sg",
+        "will",
+        "able",
+        "come",
+        "laugh",
+        "PRT",
+        "speak"
+      ],
+      "translation": "He will be able to laugh at us.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He will be able to laugh at us.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_059",
+      "text_roman": "mɯ2 kun2 sau1 la1",
+      "lik_tai": "မိုႇ ၵုၼ်ႇ ꩢဝ် လႃ",
+      "assamese_script": "মু² কুন² সাও¹ লা¹",
+      "ipa": "[mɯ˥˦] [kun˥˦] [sau˧˧] [la˧˧]",
+      "morphemes": [
+        "mɯ2",
+        "kun2",
+        "sau1",
+        "la1"
+      ],
+      "glosses": [
+        "then",
+        "man",
+        "ignorant",
+        "like a mad man"
+      ],
+      "translation": "He laughs like a madman, he does not know anything.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He laughs like a madman, he does not know anything.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_060",
+      "text_roman": "lai3 khau1 k3 ljm2 man2 k3 pa1 dai3",
+      "lik_tai": "လႆႈ ၶဝ် ၵႈ လမ်ႇ မၼ်ႇ ၵႈ ပႃ ဢႈ",
+      "assamese_script": "লাই³ খাও¹ ক³ লম² মান² ক³ পা¹ অ³",
+      "ipa": "[lai˨˩̰] [kʰau˧˧] [k˨˩̰] [ljm˥˦] [man˥˦] [k˨˩̰] [pa˧˧] [dai˨˩̰]",
+      "morphemes": [
+        "lai3",
+        "khau1",
+        "k3",
+        "ljm2",
+        "man2",
+        "k3",
+        "pa1",
+        "dai3"
+      ],
+      "glosses": [
+        "so",
+        "3Pl",
+        "LINK",
+        "see",
+        "3Sg",
+        "CLF",
+        "ONE",
+        "GET"
+      ],
+      "translation": "So they saw him, this one person.",
+      "translation_assamese": "অসমীয়া অৰ্থ: So they saw him, this one person.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_061",
+      "text_roman": "khaa1 khɯn2 thɯng1 maa2 huk1 wan2",
+      "lik_tai": "ၶႃ ၶိုၼ်ႇ ထိုင် မႃႇ ႁုၵ် ဝၼ်ႇ",
+      "assamese_script": "খা¹ খুন² থুঙ¹ মা² হুক্‌¹ ৱান²",
+      "ipa": "[kʰaː˧˧] [kʰɯn˥˦] [tʰɯŋ˧˧] [maː˥˦] [huk˧˧] [wan˥˦]",
+      "morphemes": [
+        "khaa1",
+        "khɯn2",
+        "thɯng1",
+        "maa2",
+        "huk1",
+        "wan2"
+      ],
+      "glosses": [
+        "search",
+        "again",
+        "reach",
+        "COME",
+        "six",
+        "day"
+      ],
+      "translation": "They searched again, and came to the sixth day.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They searched again, and came to the sixth day.",
+      "audio_file": null,
+      "notes": ""
+    }
+  ],
+  "full_translation": "I mean ... The King of the country of Varanasi... The queen was Patuma. The goddess from the highest peak of the palace came to ask the twelve questions. The twelve questions, as soon as possible. Queen Devi woke up. She was crazy and wanted to know (the answer to the questions). (The King) had ministers and 90,000 soldiers. (She) called to the ninety thousand (soldiers) Today you must find the answer to these twelve questions. Queen Devi asked all the soldiers ... You will be ordered to die. The 90000 ministers were surprised. Nobody could understand. The king felt pity for the 90000 ministers (and soldiers). The King said to Nang Devi Let them have three years. Nang Devi said: I cannot give them three years. (By then) I will have died if I do not get to hear the answer. I will die if I do not get to hear the answer Therefore, the king again asked her: (Can you give them) three months? In three months I will also die, if I don't get to hear (the answer). Therefore I want to hear (the answer) right now! So the king's face became ugly with sadness, pity.  Queen Devi was afraid to die. His face was troubled, and after that he said: My lady, give (them) seven days to search for (the answer). If they have not got (the answer) in these seven days, let them be killed. Yes, my lord, I agree (to give them) seven days. It is enough. Then (they) were sent out. The king said: \"Go forth and answer the questions and you shall be saved from death. Then they went out in every direction. On the next day they did not find (the answers). All over the country, those 90000 searched, and on the 2nd day, they also could not find (the answers) They reached the fifth day. Then, the Bodhisatva, our Buddha ... At that time he had taken birth as Gotama. In his previous life time his name was Canta sila. From ... His father was dead. His mother was living. At that time he was carrying firewood. He was selling firewood in order to feed his mother. He was carrying firewood. Then he came and listened to the 90,000 soldiers who were muttering in confusion. Some were saying this, some that, and some were saying the other. Nobody could understand them. He listened to these words, which were incorrect. He laughed 'ha ha, ha ha' and then carried his firewood away An important minister said. Our words answers are not correct'. Look! That child, that poor boy carrying the firewood laughs because he knows that our words are not true. Oh! He is like a big man in comparison to us. He will be able to laugh at us. He laughs like a madman, he does not know anything. So they saw him, this one person. They searched again, and came to the sixth day.",
+  "book_id": "book_twelve_questions",
+  "title": "The Book of the Twelve Philosophical Questions",
+  "title_tai": "Lik4 Thaa3 Kham1 Thaam1 Sip4 Song1 Kho3",
+  "title_as": ""
+}

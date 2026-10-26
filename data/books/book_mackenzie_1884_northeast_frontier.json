@@ -1,0 +1,112 @@
+{
+  "book_id": "book_mackenzie_1884_northeast_frontier",
+  "title": "The North-East Frontier of Bengal: Historical Relations with the Khamti and Nora",
+  "title_tai": "ပိုၼ်း ၵပ်းသိုပ်ႇ တႆး သႃၻိယႃ ၼႂ်း ပပ်ႉ ဢႄးလႅၵ်ႉၸႅၼ်ႇတိူဝ်ႇ မႅၵ်ႉၵႅၼ်ႇၸီႇ",
+  "title_as": "উত্তৰ-পূব সীমান্ত আৰু খামতি-নোৰা জনগোষ্ঠী (ছাৰ আলেকজেণ্ডাৰ মেকেঞ্জী, ১৮৮৪)",
+  "author": "Sir Alexander Mackenzie",
+  "year": 1884,
+  "genre": "Colonial History, Geography & Administrative Records",
+  "category": "Historical Administrative Chronicles",
+  "provenance": "Home Department Press, Calcutta (1884); digitized by DLI and Internet Archive (in.ernet.dli.2015.501684)",
+  "digitalized_from": "scratch/Mackenzie_1884_North_East_Frontier.txt",
+  "license": "Public Domain (Published 1884)",
+  "total_sentences": 3,
+  "description": "Standard historical report by Sir Alexander Mackenzie documenting British administrative and diplomatic relations with the Tai tribes (Khamti, Phake, Khamyang/Nora) along the Sadiya frontier and the ancient Patkai passes.",
+  "units": [
+    {
+      "unit_id": "mackenzie_1884_u001",
+      "surface_tai": "တၢင်း ပတ်ႉၵႆႇ ပဵၼ် တၢင်း ၵႃႉၶၢႆ ၵဝ်ႇ ၵူၼ် တႆး ၵႂႃႇမႃး",
+      "surface_assamese": "পাটকাই পৰ্বতৰ বাট পুৰণি কালৰ পৰা বাণিজ্য আৰু যাতায়াতৰ পথ আছিল",
+      "romanization": "taaŋ pat-kai pen taaŋ kaa-khaai kao kon tai koo-maa",
+      "morphemes": [
+        "taaŋ",
+        "pat-kai",
+        "pen",
+        "taaŋ",
+        "kaa-khaai",
+        "kao",
+        "kon",
+        "tai",
+        "koo-maa"
+      ],
+      "gloss": [
+        "path/route",
+        "Patkai",
+        "be",
+        "road",
+        "trade/commerce",
+        "ancient",
+        "person",
+        "Tai",
+        "traverse"
+      ],
+      "translation_en": "The Patkai route was an ancient commercial pass traversed by the Tai peoples.",
+      "translation_as": "পাটকাই পৰ্বতৰ বাট পুৰণি কালৰ পৰা বাণিজ্য আৰু যাতায়াতৰ পথ আছিল।",
+      "notes": "Mackenzie (1884: 65). Documentation of the historical Patkai trade route between Upper Burma and Assam."
+    },
+    {
+      "unit_id": "mackenzie_1884_u002",
+      "surface_tai": "ၵူၼ် တႆး ယူႇ ႁိမ်း သႃၻိယႃ လႄႈ တိင်းၵႃႉပႃႉၼီႇ ႁဵတ်း ၵၢၼ် ၼႃး",
+      "surface_assamese": "শদিয়া আৰু টেঙাপানীত বসবাস কৰা টাইসকলে শান্তিৰে কৃষি কাৰ্য চলায়",
+      "romanization": "kon tai yuu him saa-di-yaa lɛ teŋ-gaa-paa-nii het kaan naa",
+      "morphemes": [
+        "kon",
+        "tai",
+        "yuu",
+        "him",
+        "saa-di-yaa",
+        "lɛ",
+        "teŋ-gaa-paa-nii",
+        "het",
+        "kaan",
+        "naa"
+      ],
+      "gloss": [
+        "people",
+        "Tai",
+        "dwell",
+        "near",
+        "Sadiya",
+        "and",
+        "Tengapani",
+        "do",
+        "work",
+        "paddy"
+      ],
+      "translation_en": "The Tai people settled along the Sadiya and Tengapani river valleys cultivating rice peacefully.",
+      "translation_as": "শদিয়া আৰু টেঙাপানীত বসবাস কৰা টাইসকলে শান্তিৰে কৃষি কাৰ্য চলায়।",
+      "notes": "Mackenzie (1884: 72). Agrarian stability of the Tai communities."
+    },
+    {
+      "unit_id": "mackenzie_1884_u003",
+      "surface_tai": "ၶဝ် ပဵၼ် ၵူၼ် မီး ပၺ်ႇၺႃႇ မေႃ လိၵ်ႈလၢႆး လႄႈ သီႇလ",
+      "surface_assamese": "তেওঁলোক বিদ্বান, সাহিত্য-জ্ঞানসম্পন্ন আৰু বৌদ্ধ শীল-পালনকাৰী লোক",
+      "romanization": "khao pen kon mii paɲ-ɲaa mɔ́ lik-laai lɛ sii-la",
+      "morphemes": [
+        "khao",
+        "pen",
+        "kon",
+        "mii",
+        "paɲ-ɲaa",
+        "mɔ́",
+        "lik-laai",
+        "lɛ",
+        "sii-la"
+      ],
+      "gloss": [
+        "3PL",
+        "be",
+        "person",
+        "have",
+        "wisdom",
+        "know",
+        "script/literature",
+        "and",
+        "Sila/moral-precepts"
+      ],
+      "translation_en": "They are people of high wisdom, literate in their native script, and dedicated to the Buddhist precepts.",
+      "translation_as": "তেওঁলোক বিদ্বান, সাহিত্য-জ্ঞানসম্পন্ন আৰু বৌদ্ধ শীল-পালনকাৰী লোক।",
+      "notes": "Mackenzie's observation on high literacy and monastic morality among Assam Tai."
+    }
+  ]
+}

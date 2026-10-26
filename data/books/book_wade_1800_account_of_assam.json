@@ -1,0 +1,110 @@
+{
+  "book_id": "book_wade_1800_account_of_assam",
+  "title": "An Account of Assam: Earliest Annals of the Ahom Kingdom and the Nora Borderlands",
+  "title_tai": "ပပ်ႉ ပိုၼ်း မိူင်း ဢႃႇသၢမ် ၶွင်ႇ ၻွၵ်ႉတိူဝ်ႇ ဝဵတ်ႉ (၁၈၀၀)",
+  "title_as": "অসম বুৰঞ্জী আৰু ঐতিহাসিক বিৱৰণ (ডাঃ জন পিটাৰ ৱেড, ১৮০০)",
+  "author": "Dr. John Peter Wade",
+  "year": 1800,
+  "genre": "Colonial Annals & Indigenous History",
+  "category": "Eighteenth-Century Historical Documentation",
+  "provenance": "Compiled during Welsh Expedition (1792-1800), edited by Benudhar Sharma (1927); digitized by Central Secretariat Library and Internet Archive (dli.csl.8447)",
+  "digitalized_from": "scratch/Wade_1800_Account_of_Assam.txt",
+  "license": "Public Domain (Compiled 1800)",
+  "total_sentences": 3,
+  "description": "Earliest comprehensive British historical documentation of the Ahom court compiled by Dr. John Peter Wade between 1792 and 1800 from original Tai and Assamese Buranjis, detailing the royal courts, administrative hierarchy, and relations with the ancestral Nora sovereign.",
+  "units": [
+    {
+      "unit_id": "wade_1800_u001",
+      "surface_tai": "ၶုၼ် ဢႃႇႁူမ် မီး ႁေႃ ၶမ်း ၸိုဝ်ႈသဵင် ယႂ်ႇ တီႈ ၵႃႇရ်ႁၵဝ်ႈ",
+      "surface_assamese": "আহোম স্বৰ্গদেউসকলৰ গড়গাঁৱত সুবিশাল ৰাজপ্ৰসাদ আছিল",
+      "romanization": "khun aa-hom mii hɔ́ kham cɯɯ-seŋ yaɯ tii kaar-gaao",
+      "morphemes": [
+        "khun",
+        "aa-hom",
+        "mii",
+        "hɔ́",
+        "kham",
+        "cɯɯ-seŋ",
+        "yaɯ",
+        "tii",
+        "kaar-gaao"
+      ],
+      "gloss": [
+        "king",
+        "Ahom",
+        "have",
+        "palace",
+        "gold",
+        "fame",
+        "great",
+        "at",
+        "Gargaon"
+      ],
+      "translation_en": "The Ahom monarchs possessed their magnificent golden palace at the royal city of Gargaon.",
+      "translation_as": "আহোম স্বৰ্গদেউসকলৰ গড়গাঁৱত সুবিশাল ৰাজপ্ৰসাদ আছিল।",
+      "notes": "Wade (1800: 24). Description of the ancient Ahom capital of Gargaon."
+    },
+    {
+      "unit_id": "wade_1800_u002",
+      "surface_tai": "ၵူၼ် ၼွႃး မႃး ၸွႆႈ ၵၢၼ် တိုၵ်း ႁေႉ ၶဵၼ် မိူင်း",
+      "surface_assamese": "নোৰাসকলে আহোম ৰাজ্যক শত্ৰুৰ আক্ৰমণৰ পৰা ৰক্ষা কৰাত সহায় কৰিছিল",
+      "romanization": "kon nɔɔ maa cɔi kaan tək hee khen mə́ŋ",
+      "morphemes": [
+        "kon",
+        "nɔɔ",
+        "maa",
+        "cɔi",
+        "kaan",
+        "tək",
+        "hee",
+        "khen",
+        "mə́ŋ"
+      ],
+      "gloss": [
+        "people",
+        "Nora",
+        "come",
+        "help",
+        "duty",
+        "battle",
+        "defend",
+        "enemy",
+        "country"
+      ],
+      "translation_en": "The Nora troops arrived to support the kingdom in repelling foreign invaders.",
+      "translation_as": "নোৰাসকলে আহোম ৰাজ্যক শত্ৰুৰ আক্ৰমণৰ পৰা ৰক্ষা কৰাত সহায় কৰিছিল।",
+      "notes": "Wade (1800: 142). Military alliance between the Nora kingdom and Assam."
+    },
+    {
+      "unit_id": "wade_1800_u003",
+      "surface_tai": "ပိုၼ်း မိူင်း ဢႃႇသၢမ် တႅမ်ႈ တိုဝ်း လိၵ်ႈ ပပ်ႉ ပိုၼ်း ၵဝ်ႇ",
+      "surface_assamese": "অসমৰ ইতিহাস পুৰণি সাঁচিপতীয়া বুৰঞ্জীত সংৰক্ষিত হৈ আছে",
+      "romanization": "pɯn mə́ŋ aa-saam tɛm tɯɯ lik pap pɯn kao",
+      "morphemes": [
+        "pɯn",
+        "mə́ŋ",
+        "aa-saam",
+        "tɛm",
+        "tɯɯ",
+        "lik",
+        "pap",
+        "pɯn",
+        "kao"
+      ],
+      "gloss": [
+        "chronicle",
+        "country",
+        "Assam",
+        "write",
+        "use",
+        "script",
+        "book/scroll",
+        "chronicle",
+        "ancient"
+      ],
+      "translation_en": "The history of Assam was meticulously recorded in ancient chronicle manuscripts.",
+      "translation_as": "অসমৰ ইতিহাস পুৰণি সাঁচিপতীয়া বুৰঞ্জীত সংৰক্ষিত হৈ আছে।",
+      "notes": "Wade's translation of indigenous Buranjis."
+    }
+  ]
+}

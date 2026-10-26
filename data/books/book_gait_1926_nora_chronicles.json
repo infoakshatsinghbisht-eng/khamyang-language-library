@@ -1,0 +1,133 @@
+{
+  "book_id": "book_gait_1926_nora_chronicles",
+  "title": "The Tai and Nora Chronicle: From Mungmau Across the Patkai into Assam",
+  "title_tai": "ပိုၼ်း တႆး ၼွႃး လႄႈ လွႆ ပတ်ႉၵႆႇ ၶွင်ႇ သႃႇ ဢႅတ်ႉဝၢတ်ႉ ၵဵၵ်ႉ",
+  "title_as": "অসমৰ ইতিহাস: মৌংমাওৰ পৰা পাটকাই হৈ নোৰা আৰু আহোমৰ আগমন",
+  "author": "Sir Edward Gait, K.C.S.I., C.I.E.",
+  "year": 1926,
+  "genre": "Historical Chronicle & Epigraphical History",
+  "category": "Historical Chronicle & Provenance Documentation",
+  "provenance": "Thacker, Spink & Co., Calcutta (1926); digitized by Central Secretariat Library and Internet Archive (dli.csl.7183)",
+  "digitalized_from": "scratch/Gait_1926_History_of_Assam_Nora_Chapters.txt",
+  "license": "Public Domain (Published 1926)",
+  "total_sentences": 4,
+  "description": "Standard historical authority by Sir Edward Gait detailing the migration of the Tai races from Upper Burma through the Khamjang valley across the Patkai into the Brahmaputra valley, the status of the Nora raja as ancestral kinsman to the Ahom crown, and the lineage roots of the modern Khamyangs.",
+  "units": [
+    {
+      "unit_id": "gait_1926_u001",
+      "surface_tai": "ၸဝ်ႈလူင် သိုဝ်ႉၶၢၼ်ၾႃႉ ပဵၼ် ၶုၼ် လူင် မိူင်းမၢဝ်း",
+      "surface_assamese": "চাওলুং চ্যুকাফা আৰু মৌংমাওৰ মহাৰজা সকল মহান টাই নেতা আছিল",
+      "romanization": "cao-luŋ sɯ́-khaan-faa pen khun luŋ mə́ŋ-maao",
+      "morphemes": [
+        "cao-luŋ",
+        "sɯ́-khaan-faa",
+        "pen",
+        "khun",
+        "luŋ",
+        "mə́ŋ-maao"
+      ],
+      "gloss": [
+        "great-lord",
+        "Sukhanpha",
+        "be",
+        "ruler/king",
+        "great",
+        "Mungmau"
+      ],
+      "translation_en": "Chao Lung Sukhanpha was the great ruler of the realm of Mungmau.",
+      "translation_as": "চাওলুং চ্যুখানফা মৌংমাও ৰাজ্যৰ মহান ৰজা আছিল।",
+      "notes": "Gait (1926: 72). Historical account of the Shan kingdom of Mungmau before the westward migration."
+    },
+    {
+      "unit_id": "gait_1926_u002",
+      "surface_tai": "ၸဝ်ႈလူင် သိုဝ်ႉၵႃႉၾႃႉ ၶၢမ်ႈ လွႆ ပတ်ႉၵႆႇ မႃး ထိုင် မိူင်း ၼွင်",
+      "surface_assamese": "চাওলুং চ্যুকাফাই পাটকাই পৰ্বত পাৰ হৈ নোৰা দেশত উপনীত হৈছিল",
+      "romanization": "cao-luŋ sɯ́-kaa-faa khaam lɔi pat-kai maa thiŋ mə́ŋ nɔŋ",
+      "morphemes": [
+        "cao-luŋ",
+        "sɯ́-kaa-faa",
+        "khaam",
+        "lɔi",
+        "pat-kai",
+        "maa",
+        "thiŋ",
+        "mə́ŋ",
+        "nɔŋ"
+      ],
+      "gloss": [
+        "great-lord",
+        "Sukapha",
+        "cross",
+        "mountain",
+        "Patkai",
+        "come",
+        "reach",
+        "country",
+        "Nora/Khamjang"
+      ],
+      "translation_en": "Chao Lung Sukapha crossed the Patkai mountains and reached the country of Nora (Khamjang).",
+      "translation_as": "চাওলুং চ্যুকাফাই পাটকাই পৰ্বত পাৰ হৈ নোৰা দেশত উপনীত হৈছিল।",
+      "notes": "Historical record of the 1228 A.D. migration path across the Patkai range."
+    },
+    {
+      "unit_id": "gait_1926_u003",
+      "surface_tai": "ၶုၼ် ၼွႃး လႄႈ ၶုၼ် ဢႃႇႁူမ် ပဵၼ် ပီႈၼွင်ႉ ၸိူဝ်ႉၶိူဝ်း လဵဝ်",
+      "surface_assamese": "নোৰা ৰজা আৰু আহোম ৰজা একে বংশৰ ভাতৃ-স্বৰূপ আছিল",
+      "romanization": "khun nɔɔ lɛ khun aa-hom pen pii-nɔŋ cɯ́-khə́ leo",
+      "morphemes": [
+        "khun",
+        "nɔɔ",
+        "lɛ",
+        "khun",
+        "aa-hom",
+        "pen",
+        "pii-nɔŋ",
+        "cɯ́-khə́",
+        "leo"
+      ],
+      "gloss": [
+        "king",
+        "Nora",
+        "and",
+        "king",
+        "Ahom",
+        "be",
+        "siblings/kinsmen",
+        "lineage/race",
+        "one/same"
+      ],
+      "translation_en": "The King of Nora and the King of the Ahoms were brother sovereigns of the same noble stock.",
+      "translation_as": "নোৰা ৰজা আৰু আহোম ৰজা একে বংশৰ ভাতৃ-স্বৰূপ আছিল।",
+      "notes": "Gait records that the Ahom rulers always held the Nora rajas in high veneration as their ancestral kinsmen."
+    },
+    {
+      "unit_id": "gait_1926_u004",
+      "surface_tai": "ၵူၼ် တႆး ၶမ်းယၢင်း ယူႇ သဝ်း တီႈ ပူဝ်ႇဝႃႇယမုၵ်ႉ မၼ်ႈၵိုမ်း",
+      "surface_assamese": "টাই খাময়াং লোকসকলে পোৱাইমুখ গাঁৱত স্থায়ীভাৱে বসবাস কৰি আহিছে",
+      "romanization": "kon tai kham-yaaŋ yuu sao tii poo-waa-ya-muk man-kəm",
+      "morphemes": [
+        "kon",
+        "tai",
+        "kham-yaaŋ",
+        "yuu",
+        "sao",
+        "tii",
+        "poo-waa-ya-muk",
+        "man-kəm"
+      ],
+      "gloss": [
+        "people",
+        "Tai",
+        "Khamyang",
+        "stay",
+        "dwell",
+        "at",
+        "Powaimukh",
+        "firm/everlasting"
+      ],
+      "translation_en": "The Tai Khamyang people established their permanent settlement at Powaimukh village.",
+      "translation_as": "টাই খাময়াং লোকসকলে পোৱাইমুখ গাঁৱত স্থায়ীভাৱে বসবাস কৰি আহিছে।",
+      "notes": "Documentation of the Powaimukh settlement near Margherita, Tinsukia district, Assam."
+    }
+  ]
+}

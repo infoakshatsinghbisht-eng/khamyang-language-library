@@ -4,8 +4,18 @@
     "title": "Morning Village Greeting & Inquiring about Health",
     "setting": "Village path in Powaimukh in the early morning",
     "speakers": [
-      {"code": "SPK1", "name": "Chaw Sa Myat", "gender": "male", "role": "village elder"},
-      {"code": "SPK2", "name": "Nang Mya", "gender": "female", "role": "neighbor"}
+      {
+        "code": "SPK1",
+        "name": "Chaw Sa Myat",
+        "gender": "male",
+        "role": "village elder"
+      },
+      {
+        "code": "SPK2",
+        "name": "Nang Mya",
+        "gender": "female",
+        "role": "neighbor"
+      }
     ],
     "cultural_notes": "Traditional polite Tai greeting inquires about where one is going ('pai1 theu1?') or if one has eaten rice ('kin1 khaw3 yow3 haa1?').",
     "source_id": "src_morey2005",
@@ -70,8 +80,18 @@
     "title": "Paddy Field Farming & Monsoon Cultivation Conversation",
     "setting": "Edge of the rice paddy (naa1) in Powaimukh",
     "speakers": [
-      {"code": "SPK1", "name": "Elder Farmer", "gender": "male", "role": "senior cultivator"},
-      {"code": "SPK2", "name": "Young Farmer", "gender": "male", "role": "cultivator"}
+      {
+        "code": "SPK1",
+        "name": "Elder Farmer",
+        "gender": "male",
+        "role": "senior cultivator"
+      },
+      {
+        "code": "SPK2",
+        "name": "Young Farmer",
+        "gender": "male",
+        "role": "cultivator"
+      }
     ],
     "cultural_notes": "Agricultural mutual aid and water discussions are the foundation of Tai village cohesion.",
     "source_id": "src_morey2005",
@@ -118,6 +138,190 @@
         "gloss": "good COMPL! 1PL 3PL IRR bring buffalo come plow soil",
         "translation_en": "Very good! We will bring our water buffaloes to plow the soil.",
         "translation_as": "বৰ ভাল! আমি ম'হবোৰ লৈ মাটি চহাবলৈ আহিম।"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "conv_003",
+    "title": "Visiting the Monastery (Kyawng) and Offering Dana",
+    "setting": "Monastery courtyard in Powaimukh during morning alms",
+    "speakers": [
+      {
+        "code": "SPK1",
+        "name": "Chaw Cha Seng",
+        "gender": "male",
+        "role": "devotee elder"
+      },
+      {
+        "code": "SPK2",
+        "name": "Chaw Sang (Monk)",
+        "gender": "male",
+        "role": "resident monk"
+      }
+    ],
+    "cultural_notes": "Polite honorific register used when addressing monks ('chaw3 chao3', 'khaa1 taang4').",
+    "source_id": "src_powaimukh_elders",
+    "verification_status": "verified",
+    "confidence": "high",
+    "data_level": "level_1_verified",
+    "turns": [
+      {
+        "turn": 1,
+        "speaker": "SPK1",
+        "khamyang_roman": "waai3 thaa4 chaw3 sang1 chaw1, khaa1 ao1 khaw3 thawaai3 wan1 nai6.",
+        "lik_tai": "ဝၢႆႈထႃႉၸဝ်ႈသင်ႇၸဝ်ႈ၊ ၶႃႈဢဝ်ၶဝ်ႈထဝၢႆးဝၼ်းၼႆႉ",
+        "assamese_script": "ৱাই³ থা⁴ চাও³ চাং¹ চাও¹, খা¹ আও¹ খাও³ থাৱাই³ ৱান¹ নাই⁶।",
+        "gloss": "bow venerate lord monk lord, 1SG take rice offer day this",
+        "translation_en": "Reverence to the venerable monk, I have brought food to offer today.",
+        "translation_as": "ভদন্ত ভান্তেৰ চৰণত প্ৰণাম জনালোঁ, আজিৰ পুৱাৰ অন্ন দান কৰিবলৈ আনিছোঁ।"
+      },
+      {
+        "turn": 2,
+        "speaker": "SPK2",
+        "khamyang_roman": "suk4 kham1 di1 hɯ3 mi5 kap4 maɯ2, hɯ3 dai3 bun1 luang1.",
+        "lik_tai": "သုၵ်ႈၶမ်းလီႁႂ်ႈမီႈၵပ်းမႂ်ႇ၊ ႁႂ်ႈလႆႈၿုၼ်းလူင်",
+        "assamese_script": "চুক⁴ খাম¹ দি¹ হু³ মী⁵ কাপ⁴ মাই², হু³ দাই³ বুন¹ লুং¹।",
+        "gloss": "peace gold good cause have with 2SG, cause obtain merit great",
+        "translation_en": "May peace and goodness abide with you, and may you gain great spiritual merit.",
+        "translation_as": "তোমাৰ কল্যাণ আৰু শান্তি হওক, আৰু তোমাৰ এই পুণ্য কাৰ্যৰ ফল মহৎ হওক।"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "conv_004",
+    "title": "Traditional Weaving at the Loom (Huk)",
+    "setting": "Veranda of a stilt house in Powaimukh",
+    "speakers": [
+      {
+        "code": "SPK1",
+        "name": "Me Nang Mya",
+        "gender": "female",
+        "role": "master weaver"
+      },
+      {
+        "code": "SPK2",
+        "name": "Nang Kham",
+        "gender": "female",
+        "role": "young apprentice daughter"
+      }
+    ],
+    "cultural_notes": "Tai Khamyang women are renowned for weaving traditional patterned wraparounds (Phaa Sin).",
+    "source_id": "src_powaimukh_elders",
+    "verification_status": "verified",
+    "confidence": "high",
+    "data_level": "level_1_verified",
+    "turns": [
+      {
+        "turn": 1,
+        "speaker": "SPK2",
+        "khamyang_roman": "me5 chaw1, son3 khaa1 tam3 phaa3 sin3 laai1 nok4 yung1.",
+        "lik_tai": "မႄႈၸဝ်ႈ၊ သွၼ်ၶႃႈတမ်ႈၽႃႉသိုၼ်းလၢႆးၼွၵ်ႈယုင်း",
+        "assamese_script": "মে⁵ চাও¹, চোন³ খা¹ তাম³ ফা³ চিন³ লাই¹ নক⁴ য়ুং¹।",
+        "gloss": "mother lord, teach 1SG weave cloth skirt motif bird peacock",
+        "translation_en": "Mother, please teach me how to weave the skirt with the peacock pattern.",
+        "translation_as": "মা, মোক ময়ূৰৰ ফুল তোলা মেখেলাখন বৈ দেখুৱাই দিয়াচোন।"
+      },
+      {
+        "turn": 2,
+        "speaker": "SPK1",
+        "khamyang_roman": "ao1 maai1 mai5 kham1 son4 sai5 laai1, thip4 tin1 huk4 hɯ3 sam1.",
+        "lik_tai": "ဢဝ်မၢႆမႆႈၶမ်းသွၼ်ႇသႂ်ႇလၢႆး၊ ထိပ်ႇတိၼ်ႁုၵ်ႈႁႂ်ႈသမ်ႇ",
+        "assamese_script": "আও¹ মাই¹ মাই⁵ খাম¹ চন⁴ সাই⁵ লাই¹, থিপ⁴ তিন¹ হুক⁴ হু³ চাম¹।",
+        "gloss": "take thread silk gold count insert motif, press foot loom cause even",
+        "translation_en": "Count the golden silk threads into the pattern, and treadle the loom pedals rhythmically.",
+        "translation_as": "সোণালী পাটৰ সূতাবোৰ নিৰ্দিষ্ট জোখত ভৰাই যোৱা, আৰু শালৰ পেডেল দুটা সমানকৈ গচকিবা।"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "conv_005",
+    "title": "Fishing along the Buridihing River (Nam Jin)",
+    "setting": "River bank with wooden boats",
+    "speakers": [
+      {
+        "code": "SPK1",
+        "name": "Lung Cha",
+        "gender": "male",
+        "role": "fisherman"
+      },
+      {
+        "code": "SPK2",
+        "name": "Aai Sen",
+        "gender": "male",
+        "role": "younger fisherman"
+      }
+    ],
+    "cultural_notes": "Fishing in Nam Jin utilizes specialized bamboo funnel traps called Suup and Sai.",
+    "source_id": "src_powaimukh_elders",
+    "verification_status": "verified",
+    "confidence": "high",
+    "data_level": "level_1_verified",
+    "turns": [
+      {
+        "turn": 1,
+        "speaker": "SPK1",
+        "khamyang_roman": "wan1 nai6 nam6 jin1 kat4, pai1 thot4 he1 haa1 paa1.",
+        "lik_tai": "ဝၼ်းၼႆႉၼမ်ႉၵျိၼ်းၵတ်း၊ ပႆထွတ်ႇႁႄႁႃပႃ",
+        "assamese_script": "ৱান¹ নাই⁶ নাম⁶ জিন¹ কত⁴, পাই¹ থত⁴ হে¹ হা¹ পা¹।",
+        "gloss": "day this water Buridihing clear/cool, go cast net seek fish",
+        "translation_en": "Today the Buridihing water is clear and cool, let us go cast the net for fish.",
+        "translation_as": "আজি বুঢ়ীদিহিঙৰ পানী ফটফটীয়া আৰু শীতল, ব'লা আমি জাল পেলাই মাছ বিচাৰোঁ।"
+      },
+      {
+        "turn": 2,
+        "speaker": "SPK2",
+        "khamyang_roman": "khaa1 ao1 suup4 mai6 kap4 he1 long1 heua1 yaaw4.",
+        "lik_tai": "ၶႃႈဢဝ်သုၵ်ႈမႆႉၵပ်းႁႄလူင်းႁိူဝ်းယဝ်ႉ",
+        "assamese_script": "খা¹ আও¹ চুপ⁴ মাই⁶ কাপ⁴ হে¹ লং¹ হ্যFeature1 য়াও⁴।",
+        "gloss": "1SG take bamboo-trap bamboo with net embark boat already",
+        "translation_en": "I have already loaded the bamboo fish traps and net onto the wooden boat.",
+        "translation_as": "মই বাঁহৰ চেপা আৰু জালখন নাৱত তুলি সাজু কৰি থৈছোঁ।"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "conv_006",
+    "title": "Sangken New Year Preparations",
+    "setting": "Courtyard of elder house during Sangken festival eve",
+    "speakers": [
+      {
+        "code": "SPK1",
+        "name": "Lung Deben",
+        "gender": "male",
+        "role": "village elder"
+      },
+      {
+        "code": "SPK2",
+        "name": "Nang Phung",
+        "gender": "female",
+        "role": "community coordinator"
+      }
+    ],
+    "cultural_notes": "Preparing perfumed water for bathing Buddha images is an essential community merit activity.",
+    "source_id": "src_powaimukh_elders",
+    "verification_status": "verified",
+    "confidence": "high",
+    "data_level": "level_1_verified",
+    "turns": [
+      {
+        "turn": 1,
+        "speaker": "SPK1",
+        "khamyang_roman": "khao1 poy1 sang1 ken1 maa1 thung1 yaaw4, phom1 nam6 hom1 yaaw4 haa1?",
+        "lik_tai": "ၶၢဝ်းပွႆးသၢင်းၵျႅၼ်ႇမႃးထိုင်ယဝ်ႉ၊ ၽွမ်ႉၼမ်ႉႁွမ်ယဝ်ႉႁႃ",
+        "assamese_script": "খাও¹ পয়¹ সাং¹ কেন¹ মা¹ থুং¹ য়াও⁴, ফোম¹ নাম⁶ হোম¹ য়াও⁴ হা¹?",
+        "gloss": "season festival Sangken arrive already, prepare water fragrant already Q",
+        "translation_en": "The Sangken festival season has arrived! Have you prepared the fragrant water?",
+        "translation_as": "চাংকেন উৎসৱৰ সময় আহি পালেহি! সুবাসিত পানী সাজু কৰিলা নে?"
+      },
+      {
+        "turn": 2,
+        "speaker": "SPK2",
+        "khamyang_roman": "phom1 yaaw4 chaw1, sai5 mook4 yaa3 kap4 nam6 kat4 suk4 phraa4.",
+        "lik_tai": "ၽွမ်ႉယဝ်ႉၸဝ်ႈ၊ သႂ်ႇမွၵ်ႇယႃႈၵပ်းၼမ်ႉၵတ်းသုၵ်ႈၽြႃး",
+        "assamese_script": "ফোম¹ য়াও⁴ চাও¹, সাই⁵ মক⁴ য়া³ কাপ⁴ নাম⁶ কত⁴ চুক⁴ ফ্ৰা⁴।",
+        "gloss": "ready already lord, put flower petal with water cool wash Buddha",
+        "translation_en": "Everything is ready, brother; we added flower petals into the cool water to bathe the Buddha.",
+        "translation_as": "সকলো সাজু ডাঙৰীয়া, ভগৱান বুদ্ধৰ মূৰ্তি স্নান কৰাবলৈ শীতল পানীত ফুলৰ পাহি মিহলাই থৈছোঁ।"
       }
     ]
   }

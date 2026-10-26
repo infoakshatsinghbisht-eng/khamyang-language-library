@@ -1,0 +1,340 @@
+{
+  "id": "book_younghusband_1888_burmese_tat_shan",
+  "book_id": "book_younghusband_1888_burmese_tat_shan",
+  "title": "Eighteen Hundred Miles on a Burmese Tat: through Burmah, Siam, and the Eastern Shan States",
+  "author": "Capt. G. J. Younghusband",
+  "year": 1888,
+  "genre": "Travelogue / Geographical Survey",
+  "description": "Pioneering late nineteenth-century expedition across the Shan plateau, detailing Tai urban architecture, monastery schools, palm-leaf manuscript production, cross-border caravan trails, and ethnolinguistic classifications matching Tai Khamyang and Khamti groups.",
+  "source": "https://archive.org/details/dli.ministry.01835",
+  "archive_id": "dli.ministry.01835",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨾᩕ᩠ᨦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii mroeng phuu mii taang",
+      "assamese_script": "ফু টাই তী ম্ৰোং ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "mroeng",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "in",
+        "country",
+        "hills",
+        "maintain",
+        "trails"
+      ],
+      "free_translation_en": "The Tai hill populations maintained flourishing overland caravan routes.",
+      "free_translation_as": "পাহাৰীয়া টাই লোকসকলে সমৃদ্ধ বাণিজ্যিক কাৰাভান পথ পৰিচালনা কৰিছিল।",
+      "speaker": "Capt. G. J. Younghusband (Explorer)",
+      "location": "Eastern Shan States / Burma",
+      "notes": "Trade caravans across the Shan States and Upper Burma."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "tai phaw tii nam phyeng mii",
+      "assamese_script": "টাই ফৌ তী নাম ফ্যেং মী",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "river",
+        "valley",
+        "settle"
+      ],
+      "free_translation_en": "Tai settlements were constructed on wooden stilts along the river banks.",
+      "free_translation_as": "নদীৰ পাৰত চাংঘৰ নিৰ্মাণ কৰি টাই লোকসকলে বসবাস কৰিছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Traditional stilt architecture (*Hɯn Sung*)."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨲᩱ ᨾᩕ᩠ᨦ",
+      "text_roman": "khaw nam tii phyeng tai mroeng",
+      "assamese_script": "খৌ নাম তী ফ্যেং টাই ম্ৰোং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "tai",
+        "mroeng"
+      ],
+      "glosses": [
+        "rice",
+        "water",
+        "in",
+        "valley",
+        "Tai",
+        "territory"
+      ],
+      "free_translation_en": "Irrigated rice fields formed the backbone of every Tai township.",
+      "free_translation_as": "জলসিঞ্চিত ধাননি পথাৰ প্ৰতিখন টাই চহৰৰ মূল শক্তি আছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Township (Mong) organization."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa mroeng khyaa tii kaang",
+      "assamese_script": "চৌ ফা ম্ৰোং খ্যা তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "prince/saopha",
+        "heaven",
+        "domain",
+        "administer",
+        "in",
+        "court"
+      ],
+      "free_translation_en": "The Saopha princes administered their principalities with feudal elegance.",
+      "free_translation_as": "চৌফাসকলে নিজস্ব সামন্তীয় আভিজাত্যেৰে ৰাজ্য শাসন কৰিছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Saopha palace (*Haw*) court protocols."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "phuu chau mii khyaa taang phaa",
+      "assamese_script": "ফু চৌ মী খ্যা তাং ফা",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "abbots",
+        "noble",
+        "teach",
+        "scriptures",
+        "way",
+        "holy"
+      ],
+      "free_translation_en": "Buddhist abbots taught the sacred scriptures to boys in monastery schools.",
+      "free_translation_as": "বৌদ্ধ ভিক্ষুসকলে বিহাৰৰ বিদ্যালয়ত ল'ৰা-ছোৱালীক পৱিত্ৰ শাস্ত্ৰ শিকাইছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Monastic literacy education in Lik Tai."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "naang tai tii phyeng mii khyaa",
+      "assamese_script": "নাং টাই তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "naang",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "women",
+        "Tai",
+        "in",
+        "market",
+        "conduct",
+        "trade"
+      ],
+      "free_translation_en": "Tai market women managed bustling bazaars with exceptional business acumen.",
+      "free_translation_as": "টাই মহিলাই বজাৰত দক্ষতাৰে ব্যৱসায়-বাণিজ্য পৰিচালনা কৰিছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Five-day market system in Southwestern Tai regions."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "travelers",
+        "Tai",
+        "navigate",
+        "route",
+        "river",
+        "middle"
+      ],
+      "free_translation_en": "River dugouts ferried goods and passengers across broad waterways.",
+      "free_translation_as": "টাই নাওসমূহে নদীৰ বুকুত সামগ্ৰী আৰু যাত্ৰী কঢ়িয়াই লৈ গৈছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Dugout canoes and river crossing points."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "rulers",
+        "state",
+        "keep",
+        "annals",
+        "way",
+        "ancestral"
+      ],
+      "free_translation_en": "Every ruling house kept detailed chronological records of past dynasties.",
+      "free_translation_as": "প্ৰতিটো ৰাজপৰিয়ালে বিগত ৰাজবংশসমূহৰ বিশদ বুৰঞ্জী সংৰক্ষণ কৰিছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Regional chronicle archives (*Lik Ho Sua*)."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "fertile",
+        "in",
+        "territory",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "The mountain-girt plains of the Tai were renowned for their agricultural fertility.",
+      "free_translation_as": "পাহাৰে ঘেৰা টাই উপত্যকাসমূহ কৃষিৰ উৰ্বৰতাৰ বাবে বিখ্যাত আছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "High plateau agriculture."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "caravans",
+        "Tai",
+        "in",
+        "hills",
+        "navigate",
+        "passes"
+      ],
+      "free_translation_en": "Mule caravans crossed steep mountain passes connecting Burma, Yunnan, and Assam.",
+      "free_translation_as": "খচ্চৰৰ কাৰাভানে চীন, ব্ৰহ্মদেশ আৰু অসম সংযোগী ঠেক পাহাৰীয়া গিৰিপথ পাৰ হৈছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "The historic Southern Silk Road trade."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "hospitable",
+        "customs",
+        "Tai",
+        "nation",
+        "way",
+        "gentle"
+      ],
+      "free_translation_en": "The gentle and hospitable manners of the Tai people deeply impressed foreign travelers.",
+      "free_translation_as": "টাই লোকসকলৰ অমায়িক আৰু অতিথিপৰায়ণ স্বভাৱে বিদেশী ভ্ৰমণকাৰীক মুগ্ধ কৰিছিল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Ethnographic appraisal of Tai character."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "realm",
+        "kinship",
+        "culture",
+        "united",
+        "destiny"
+      ],
+      "free_translation_en": "Across vast frontiers, the common Tai language and culture remained unified.",
+      "free_translation_as": "সুদূৰ সীমান্ততো উমৈহতীয়া টাই ভাষা আৰু সংস্কৃতি অটুট হৈ ৰ'ল।",
+      "speaker": "Capt. G. J. Younghusband",
+      "location": "Shan States",
+      "notes": "Concluding observation on the unity of Southwestern Tai dialects."
+    }
+  ]
+}

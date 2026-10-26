@@ -1,0 +1,1313 @@
+{
+  "id": "book_history_tai_lung",
+  "title_khamyang": "Lik4 Pvn1 Tsaw3 Tai1 Lung1",
+  "title_english": "Chronicle of History from Ancestor Chaw Tai Lung",
+  "genre": "historical_chronicle",
+  "informant": "Dibya Shyam & Village Elders",
+  "village": "Ban Lung, Karbi Anglong",
+  "audio_ref": "2-2-4-3.mp3",
+  "description": "Historical chronicle tracing the royal lineage, ancient migrations across Upper Burma and the Patkai, and settlement of Tai clans.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 50,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "lik3 khɯ2 khun1 tsuu2 puu1 tsau3",
+      "lik_tai": "လိၵ်ႈ ၶိုႇ ၶုၼ် ၸႇ ပ ၸဝ်ႈ",
+      "assamese_script": "লিক্‌³ খু² খুন¹ চ² প¹ চাও³",
+      "ipa": "[lik˨˩̰] [kʰɯ˥˦] [kʰun˧˧] [tɕuu˥˦] [puu˧˧] [tɕau˨˩̰]",
+      "morphemes": [
+        "lik3",
+        "khɯ2",
+        "khun1",
+        "tsuu2",
+        "puu1",
+        "tsau3"
+      ],
+      "glosses": [
+        "book",
+        "lineage",
+        "prince",
+        "time",
+        "grandfather",
+        "Chaw Tai Lung"
+      ],
+      "translation": "Book of history (from) the time of the ancestor Chaw Tai Lung up until Sukapha.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Book of history (from) the time of the ancestor Chaw Tai Lung up until Sukapha.",
+      "audio_file": null,
+      "notes": "* literally: 'RESP-Tai-big'"
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "kham2 tai1",
+      "lik_tai": "ၶမ်ႇ တႆ",
+      "assamese_script": "খাম² তাই¹",
+      "ipa": "[kʰam˥˦] [tai˧˧]",
+      "morphemes": [
+        "kham2",
+        "tai1"
+      ],
+      "glosses": [
+        "word",
+        "Tai"
+      ],
+      "translation": "Homage to the wise, liberated and self-perfected one (the Buddha). May all beings be blest. I pay my respects to the Lord. Okasa. Okasa.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Homage to the wise, liberated and self-perfected one (the Buddha). May all beings be blest. I pay my respects to the Lord. Okasa. Okasa.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "mɯ2 nan3 tsau3",
+      "lik_tai": "မိုႇ ၼၼ်ႈ ၸဝ်ႈ",
+      "assamese_script": "মু² নান³ চাও³",
+      "ipa": "[mɯ˥˦] [nan˨˩̰] [tɕau˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "nan3",
+        "tsau3"
+      ],
+      "glosses": [
+        "when",
+        "that",
+        "Chaw Tai Pum"
+      ],
+      "translation": "At that time, Chaw Tai Pum, from Muang Eu Muang Khon, came to rule in Mau Lung and was made King.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time, Chaw Tai Pum, from Muang Eu Muang Khon, came to rule in Mau Lung and was made King.",
+      "audio_file": null,
+      "notes": "* Nabin stated that the meaning was ' RESP-Tai-many types gathered together'. puM is also spelled pugq."
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "khaang2 sng1 tsi3 saai1 mau1 phaak3",
+      "lik_tai": "ၶႃင်ႇ ꩢင် ၸိႈ ꩢႃႆ မဝ် ၽႃၵ်ႈ",
+      "assamese_script": "খাঙ² সঙ¹ চি³ সাই¹ মাও¹ ফাক্‌³",
+      "ipa": "[kʰaːŋ˥˦] [sŋ˧˧] [tɕi˨˩̰] [saːi˧˧] [mau˧˧] [pʰaːk˨˩̰]",
+      "morphemes": [
+        "khaang2",
+        "sng1",
+        "tsi3",
+        "saai1",
+        "mau1",
+        "phaak3"
+      ],
+      "glosses": [
+        "near",
+        "bright",
+        "Queen",
+        "glorious",
+        "NEG",
+        "separated"
+      ],
+      "translation": "He sat close together with his queen, (they were) never separated.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He sat close together with his queen, (they were) never separated.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "tsang1 yang2 luk3 laai1 tsaai2",
+      "lik_tai": "ၸင် ယင်ႇ လုၵ်ႈ လႃႆ ၸႃႆႇ",
+      "assamese_script": "চাঙ¹ যাঙ² লুক্‌³ লাই¹ চাই²",
+      "ipa": "[tɕaŋ˧˧] [jaŋ˥˦] [luk˨˩̰] [laːi˧˧] [tɕaːi˥˦]",
+      "morphemes": [
+        "tsang1",
+        "yang2",
+        "luk3",
+        "laai1",
+        "tsaai2"
+      ],
+      "glosses": [
+        "will",
+        "have",
+        "child",
+        "many",
+        "male"
+      ],
+      "translation": "He would have many sons",
+      "translation_assamese": "অসমীয়া অৰ্থ: He would have many sons",
+      "audio_file": null,
+      "notes": "Nabin always translated cgqtI (perhaps caN1 tii2) as 'will'."
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "luk3 aai3 man2 tsau3 k3 lɯng2 tsau3",
+      "lik_tai": "လုၵ်ႈ ဢႃႆႈ မၼ်ႇ ၸဝ်ႈ ၵႈ လိုင်ႇ ၸဝ်ႈ",
+      "assamese_script": "লুক্‌³ অাই³ মান² চাও³ ক³ লুঙ² চাও³",
+      "ipa": "[luk˨˩̰] [aːi˨˩̰] [man˥˦] [tɕau˨˩̰] [k˨˩̰] [lɯŋ˥˦] [tɕau˨˩̰]",
+      "morphemes": [
+        "luk3",
+        "aai3",
+        "man2",
+        "tsau3",
+        "k3",
+        "lɯng2",
+        "tsau3"
+      ],
+      "glosses": [
+        "son",
+        "1st",
+        "3Sg",
+        "RESP",
+        "CLF",
+        "one",
+        "Chaw Tai Lung"
+      ],
+      "translation": "His first son was Chaw Tai Lung.",
+      "translation_assamese": "অসমীয়া অৰ্থ: His first son was Chaw Tai Lung.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "tsau3 tsam3 haɯ3 kin2 mɯng2 ki3",
+      "lik_tai": "ၸဝ်ႈ ၸမ်ႈ ႁႈ ၵိၼ်ႇ မိုင်ႇ ၵိႈ",
+      "assamese_script": "চাও³ চাম³ হ³ কিন² মুঙ² কি³",
+      "ipa": "[tɕau˨˩̰] [tɕam˨˩̰] [haɯ˨˩̰] [kin˥˦] [mɯŋ˥˦] [ki˨˩̰]",
+      "morphemes": [
+        "tsau3",
+        "tsam3",
+        "haɯ3",
+        "kin2",
+        "mɯng2",
+        "ki3"
+      ],
+      "glosses": [
+        "Chaw Tai Lung",
+        "PRT",
+        "give",
+        "eat",
+        "Muang Yun",
+        "PRT"
+      ],
+      "translation": "He caused Chaw Tai Lung to rule in Muang Yun.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He caused Chaw Tai Lung to rule in Muang Yun.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "ngii2 tsam3 pamiupum haɯ3 kin2 maau2 put3 p2",
+      "lik_tai": "ငႇ ၸမ်ႈ ပမ် ႁႈ ၵိၼ်ႇ မႃဝ်ႇ ပုတ်ႈ ပႇ",
+      "assamese_script": "ঙ² চাম³ পম¹ হ³ কিন² মাও² পুত্‌³ প²",
+      "ipa": "[ŋii˥˦] [tɕam˨˩̰] [pamiupum˧˧] [haɯ˨˩̰] [kin˥˦] [maːu˥˦] [put˨˩̰] [p˥˦]",
+      "morphemes": [
+        "ngii2",
+        "tsam3",
+        "pamiupum",
+        "haɯ3",
+        "kin2",
+        "maau2",
+        "put3",
+        "p2"
+      ],
+      "glosses": [
+        "2nd",
+        "PRT",
+        "Pa Miu Pum",
+        "give",
+        "eat",
+        "Mau Lung",
+        "inherit",
+        "father"
+      ],
+      "translation": "The second son, Pa Miu Pum was given Mau Lung to rule in place of his father.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The second son, Pa Miu Pum was given Mau Lung to rule in place of his father.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "saam1 tsam3 kham3",
+      "lik_tai": "ꩢႃမ် ၸမ်ႈ ၶမ်ႈ",
+      "assamese_script": "সাম¹ চাম³ খাম³",
+      "ipa": "[saːm˧˧] [tɕam˨˩̰] [kʰam˨˩̰]",
+      "morphemes": [
+        "saam1",
+        "tsam3",
+        "kham3"
+      ],
+      "glosses": [
+        "3rd son",
+        "PRT",
+        "Kham King Pha"
+      ],
+      "translation": "Narrative passage 9.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Narrative passage 9.",
+      "audio_file": null,
+      "notes": "* literally 'gold-branch-sky'"
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "haɯ3 nang2 a1 mɯng2 maan2 yau3",
+      "lik_tai": "ႁႈ ၼင်ႇ ဢႃ မိုင်ႇ မႃၼ်ႇ ယဝ်ႈ",
+      "assamese_script": "হ³ নাঙ² অ¹ মুঙ² মান² যাও³",
+      "ipa": "[haɯ˨˩̰] [naŋ˥˦] [a˧˧] [mɯŋ˥˦] [maːn˥˦] [jau˨˩̰]",
+      "morphemes": [
+        "haɯ3",
+        "nang2",
+        "a1",
+        "mɯng2",
+        "maan2",
+        "yau3"
+      ],
+      "glosses": [
+        "give",
+        "sit",
+        "Ava",
+        "country",
+        "Burma",
+        "FINISHED"
+      ],
+      "translation": "The 3rd son, Kham King Pha, was given the Ava country, in Burma.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The 3rd son, Kham King Pha, was given the Ava country, in Burma.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "sai1 tsam3 tsɯ2 kit1",
+      "lik_tai": "ꩢႆ ၸမ်ႈ ၸိုႇ ၵိတ်",
+      "assamese_script": "সাই¹ চাম³ চু² কিত্‌¹",
+      "ipa": "[sai˧˧] [tɕam˨˩̰] [tɕɯ˥˦] [kit˧˧]",
+      "morphemes": [
+        "sai1",
+        "tsam3",
+        "tsɯ2",
+        "kit1"
+      ],
+      "glosses": [
+        "4th son",
+        "PRT",
+        "name",
+        "Kit Pha"
+      ],
+      "translation": "The 4th son, called Ket Pha, was given Nuk Cok Nong Mon to rule.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The 4th son, called Ket Pha, was given Nuk Cok Nong Mon to rule.",
+      "audio_file": null,
+      "notes": "* literally 'fish scale-sky'"
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "tsit1 tsam3 phɯ3",
+      "lik_tai": "ၸိတ် ၸမ်ႈ ၽိုႈ",
+      "assamese_script": "চিত্‌¹ চাম³ ফু³",
+      "ipa": "[tɕit˧˧] [tɕam˨˩̰] [pʰɯ˨˩̰]",
+      "morphemes": [
+        "tsit1",
+        "tsam3",
+        "phɯ3"
+      ],
+      "glosses": [
+        "seven",
+        "PRT",
+        "Pheu Cang Khang"
+      ],
+      "translation": "The 7th son, Pheu Cang Khang, was given Meng Mit Kup King Nau.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The 7th son, Pheu Cang Khang, was given Meng Mit Kup King Nau.",
+      "audio_file": null,
+      "notes": "* literally 'wizard-elephant-??' Nabin stated that xgq may be 'not straight'."
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "tsau3 k3 tsang1 waa2 luk3",
+      "lik_tai": "ၸဝ်ႈ ၵႈ ၸင် ဝႃႇ လုၵ်ႈ",
+      "assamese_script": "চাও³ ক³ চাঙ¹ ৱা² লুক্‌³",
+      "ipa": "[tɕau˨˩̰] [k˨˩̰] [tɕaŋ˧˧] [waː˥˦] [luk˨˩̰]",
+      "morphemes": [
+        "tsau3",
+        "k3",
+        "tsang1",
+        "waa2",
+        "luk3"
+      ],
+      "glosses": [
+        "Chaw Tai Pum",
+        "LINK",
+        "will",
+        "say",
+        "son"
+      ],
+      "translation": "Chaw Tai Pum said to all his sons, 'Whichever of you love me, I will go to die there.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Chaw Tai Pum said to all his sons, 'Whichever of you love me, I will go to die there.",
+      "audio_file": null,
+      "notes": "Nabin added that he went to Muang Mit, ruled by Pheu Cang Khang, to die there."
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "mɯ2 nan3 tsau3 k3 sau2 hɯng1",
+      "lik_tai": "မိုႇ ၼၼ်ႈ ၸဝ်ႈ ၵႈ ꩢဝ်ႇ ႁိုင်",
+      "assamese_script": "মু² নান³ চাও³ ক³ সাও² হুঙ¹",
+      "ipa": "[mɯ˥˦] [nan˨˩̰] [tɕau˨˩̰] [k˨˩̰] [sau˥˦] [hɯŋ˧˧]",
+      "morphemes": [
+        "mɯ2",
+        "nan3",
+        "tsau3",
+        "k3",
+        "sau2",
+        "hɯng1"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "RESP",
+        "link",
+        "stay",
+        "long timelong living"
+      ],
+      "translation": "At that time he was also long lived and had completed so many years (of life).",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time he was also long lived and had completed so many years (of life).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "tau2 nuu2 luk3 khai1 tam1 mɯng2",
+      "lik_tai": "တဝ်ႇ ၼႇ လုၵ်ႈ ၶႆ တမ် မိုင်ႇ",
+      "assamese_script": "তাও² ন² লুক্‌³ খাই¹ তাম¹ মুঙ²",
+      "ipa": "[tau˥˦] [nuu˥˦] [luk˨˩̰] [kʰai˧˧] [tam˧˧] [mɯŋ˥˦]",
+      "morphemes": [
+        "tau2",
+        "nuu2",
+        "luk3",
+        "khai1",
+        "tam1",
+        "mɯng2"
+      ],
+      "glosses": [
+        "search#",
+        "look",
+        "son",
+        "King",
+        "at",
+        "Muang Mit Keng Nau"
+      ],
+      "translation": "He looked for his royal son, at Muang Mit Keng Nau, and finished his span of life there, (in the place of his forefathers)",
+      "translation_assamese": "অসমীয়া অৰ্থ: He looked for his royal son, at Muang Mit Keng Nau, and finished his span of life there, (in the place of his forefathers)",
+      "audio_file": null,
+      "notes": "# Bidya said it was tau1 'PRT', but Shan twq 'seek, search'"
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "mɯ2 pii2 lak1 kap1 taai2 yau3",
+      "lik_tai": "မိုႇ ပႇ လၵ် ၵပ် တႃႆႇ ယဝ်ႈ",
+      "assamese_script": "মু² প² লাক্‌¹ কাপ্‌¹ তাই² যাও³",
+      "ipa": "[mɯ˥˦] [pii˥˦] [lak˧˧] [kap˧˧] [taːi˥˦] [jau˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "pii2",
+        "lak1",
+        "kap1",
+        "taai2",
+        "yau3"
+      ],
+      "glosses": [
+        "time",
+        "year",
+        "era",
+        "Kap Sang",
+        "die",
+        "FINISHED"
+      ],
+      "translation": "It was in the Lakni Kap Sang that he died.",
+      "translation_assamese": "অসমীয়া অৰ্থ: It was in the Lakni Kap Sang that he died.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "mɯ2 sii1 nan3 tsau3 miupum",
+      "lik_tai": "မိုႇ ꩢ ၼၼ်ႈ ၸဝ်ႈ မမ်",
+      "assamese_script": "মু² স¹ নান³ চাও³ মম¹",
+      "ipa": "[mɯ˥˦] [sii˧˧] [nan˨˩̰] [tɕau˨˩̰] [miupum˧˧]",
+      "morphemes": [
+        "mɯ2",
+        "sii1",
+        "nan3",
+        "tsau3",
+        "miupum"
+      ],
+      "glosses": [
+        "time",
+        "PRT",
+        "that",
+        "RESP",
+        "Miu Pum"
+      ],
+      "translation": "After that, Chaw Miu Pum ruled in Meng Mau for one year.",
+      "translation_assamese": "অসমীয়া অৰ্থ: After that, Chaw Miu Pum ruled in Meng Mau for one year.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "lɯt3 maa2 sii1 lj3 mit3 tjng2 kh2 taai2 sii1 yau3",
+      "lik_tai": "လိုတ်ႈ မႃႇ ꩢ လႈ မိတ်ႈ တင်ႇ ၶႇ တႃႆႇ ꩢ ယဝ်ႈ",
+      "assamese_script": "লুত্‌³ মা² স¹ ল³ মিত্‌³ তঙ² খ² তাই² স¹ যাও³",
+      "ipa": "[lɯt˨˩̰] [maː˥˦] [sii˧˧] [lj˨˩̰] [mit˨˩̰] [tjŋ˥˦] [kʰ˥˦] [taːi˥˦] [sii˧˧] [jau˨˩̰]",
+      "morphemes": [
+        "lɯt3",
+        "maa2",
+        "sii1",
+        "lj3",
+        "mit3",
+        "tjng2",
+        "kh2",
+        "taai2",
+        "sii1",
+        "yau3"
+      ],
+      "glosses": [
+        "blood",
+        "come",
+        "PRT",
+        "PRT",
+        "knife",
+        "stab",
+        "neck",
+        "die",
+        "PRT",
+        "FINISHED"
+      ],
+      "translation": "He suffered from high blood pressure and stabbed himself to death.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He suffered from high blood pressure and stabbed himself to death.",
+      "audio_file": null,
+      "notes": "Nabin explained this as: 'When high pressure is come - he become mad, so he stab himself, he died own self.'"
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "nk3 sii1 nan3 maau2 mau1 yang2 tsau3",
+      "lik_tai": "ၼၵ်ႈ ꩢ ၼၼ်ႈ မႃဝ်ႇ မဝ် ယင်ႇ ၸဝ်ႈ",
+      "assamese_script": "নক্‌³ স¹ নান³ মাও² মাও¹ যাঙ² চাও³",
+      "ipa": "[nk˨˩̰] [sii˧˧] [nan˨˩̰] [maːu˥˦] [mau˧˧] [jaŋ˥˦] [tɕau˨˩̰]",
+      "morphemes": [
+        "nk3",
+        "sii1",
+        "nan3",
+        "maau2",
+        "mau1",
+        "yang2",
+        "tsau3"
+      ],
+      "glosses": [
+        "outside",
+        "PRT",
+        "that",
+        "Mau Lung",
+        "NEG",
+        "have",
+        "king"
+      ],
+      "translation": "After that, Mau Long did not have a king.",
+      "translation_assamese": "অসমীয়া অৰ্থ: After that, Mau Long did not have a king.",
+      "audio_file": null,
+      "notes": "* nqk3 sii1 nan3 can be translated as 'after that'"
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "yt3 luk3 tam3",
+      "lik_tai": "ယတ်ႈ လုၵ်ႈ တမ်ႈ",
+      "assamese_script": "যত্‌³ লুক্‌³ তাম³",
+      "ipa": "[jt˨˩̰] [luk˨˩̰] [tam˨˩̰]",
+      "morphemes": [
+        "yt3",
+        "luk3",
+        "tam3"
+      ],
+      "glosses": [
+        "Yot Pha Mok Kham Naeng",
+        "from",
+        "there"
+      ],
+      "translation": "After that, the God Yot Pha Mok Kham Naeng came down from the heavens and took Chaw Pa Miu Pum's wife to be his own.",
+      "translation_assamese": "অসমীয়া অৰ্থ: After that, the God Yot Pha Mok Kham Naeng came down from the heavens and took Chaw Pa Miu Pum's wife to be his own.",
+      "audio_file": null,
+      "notes": "* This is the name of a God, literally 'top-heaven-flower-golden-red'"
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "luk3 man2 tsang2 yang2 wai3 luk3 k3 lɯng2",
+      "lik_tai": "လုၵ်ႈ မၼ်ႇ ၸင်ႇ ယင်ႇ ဝႆႈ လုၵ်ႈ ၵႈ လိုင်ႇ",
+      "assamese_script": "লুক্‌³ মান² চাঙ² যাঙ² ৱাই³ লুক্‌³ ক³ লুঙ²",
+      "ipa": "[luk˨˩̰] [man˥˦] [tɕaŋ˥˦] [jaŋ˥˦] [wai˨˩̰] [luk˨˩̰] [k˨˩̰] [lɯŋ˥˦]",
+      "morphemes": [
+        "luk3",
+        "man2",
+        "tsang2",
+        "yang2",
+        "wai3",
+        "luk3",
+        "k3",
+        "lɯng2"
+      ],
+      "glosses": [
+        "child",
+        "3Sg",
+        "will be",
+        "have",
+        "keep",
+        "child",
+        "CLF",
+        "one"
+      ],
+      "translation": "They had a child whose name was Chaw Su Khan.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They had a child whose name was Chaw Su Khan.",
+      "audio_file": null,
+      "notes": "Nabin explained this as follows: 'His father is dead, Lengdon has come to married his mother.'"
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "yang2 tsau3 wai3 naɯ2 tuu2 naang2 mɯng2 ki3",
+      "lik_tai": "ယင်ႇ ၸဝ်ႈ ဝႆႈ ၼႇ တႇ ၼႃင်ႇ မိုင်ႇ ၵိႈ",
+      "assamese_script": "যাঙ² চাও³ ৱাই³ ন² ত² নাঙ² মুঙ² কি³",
+      "ipa": "[jaŋ˥˦] [tɕau˨˩̰] [wai˨˩̰] [naɯ˥˦] [tuu˥˦] [naːŋ˥˦] [mɯŋ˥˦] [ki˨˩̰]",
+      "morphemes": [
+        "yang2",
+        "tsau3",
+        "wai3",
+        "naɯ2",
+        "tuu2",
+        "naang2",
+        "mɯng2",
+        "ki3"
+      ],
+      "glosses": [
+        "is",
+        "Chaw Su Khan",
+        "keep",
+        "in",
+        "body",
+        "lady",
+        "country",
+        "PRT"
+      ],
+      "translation": "At the time when Chaw Su Khan was still in the Queen's womb, the God Yot Pha Mok Kham Naeng returned to heaven.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At the time when Chaw Su Khan was still in the Queen's womb, the God Yot Pha Mok Kham Naeng returned to heaven.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "tsau3 tai2 tsang1 uu1 mɯng2",
+      "lik_tai": "ၸဝ်ႈ တႆႇ ၸင် ဢ မိုင်ႇ",
+      "assamese_script": "চাও³ তাই² চাঙ¹ অ¹ মুঙ²",
+      "ipa": "[tɕau˨˩̰] [tai˥˦] [tɕaŋ˧˧] [uu˧˧] [mɯŋ˥˦]",
+      "morphemes": [
+        "tsau3",
+        "tai2",
+        "tsang1",
+        "uu1",
+        "mɯng2"
+      ],
+      "glosses": [
+        "respected",
+        "Tai Lung",
+        "is",
+        "live at",
+        "Muang Yun"
+      ],
+      "translation": "Chaw Tai Lung lived at Muang Yon",
+      "translation_assamese": "অসমীয়া অৰ্থ: Chaw Tai Lung lived at Muang Yon",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "maa2 au2 mj2 tsau3 k1",
+      "lik_tai": "မႃႇ ဢဝ်ႇ မႇ ၸဝ်ႈ ၵ",
+      "assamese_script": "মা² ঔ² ম² চাও³ ক¹",
+      "ipa": "[maː˥˦] [au˥˦] [mj˥˦] [tɕau˨˩̰] [k˧˧]",
+      "morphemes": [
+        "maa2",
+        "au2",
+        "mj2",
+        "tsau3",
+        "k1"
+      ],
+      "glosses": [
+        "come",
+        "take",
+        "mother",
+        "Cau Su Khan",
+        "PRT"
+      ],
+      "translation": "He came and took the mother of Chaw Su Khan,",
+      "translation_assamese": "অসমীয়া অৰ্থ: He came and took the mother of Chaw Su Khan,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "tsang1 yang2 tsau3 ki3",
+      "lik_tai": "ၸင် ယင်ႇ ၸဝ်ႈ ၵိႈ",
+      "assamese_script": "চাঙ¹ যাঙ² চাও³ কি³",
+      "ipa": "[tɕaŋ˧˧] [jaŋ˥˦] [tɕau˨˩̰] [ki˨˩̰]",
+      "morphemes": [
+        "tsang1",
+        "yang2",
+        "tsau3",
+        "ki3"
+      ],
+      "glosses": [
+        "will",
+        "have",
+        "Chaw Sam Lung Kam Ko",
+        "PRT"
+      ],
+      "translation": "They bore (a son) Chaw Sam Lung Kam Ko.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They bore (a son) Chaw Sam Lung Kam Ko.",
+      "audio_file": null,
+      "notes": "* literally 'RESP-3rd-big-grab-heap'"
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "paan2 waa2 nui3 khɯ2 tsau3",
+      "lik_tai": "ပႃၼ်ႇ ဝႃႇ ၼုႆႈ ၶိုႇ ၸဝ်ႈ",
+      "assamese_script": "পান² ৱা² নুই³ খু² চাও³",
+      "ipa": "[paːn˥˦] [waː˥˦] [nui˨˩̰] [kʰɯ˥˦] [tɕau˨˩̰]",
+      "morphemes": [
+        "paan2",
+        "waa2",
+        "nui3",
+        "khɯ2",
+        "tsau3"
+      ],
+      "glosses": [
+        "after this",
+        "say",
+        "with",
+        "lineage",
+        "Cau Pha Lung"
+      ],
+      "translation": "From this part, (we will tell) the history of Chaw Pha Long, of Meng Kong Country. Listen all!",
+      "translation_assamese": "অসমীয়া অৰ্থ: From this part, (we will tell) the history of Chaw Pha Long, of Meng Kong Country. Listen all!",
+      "audio_file": null,
+      "notes": "This is a promise not kept. Nabin does not know who Chaw Pha Long is, although perhaps it is another name of Phreu Cang Khang. See 27 below."
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "haa1 nai3 ta1 maa2 laat3 nui3",
+      "lik_tai": "ႁႃ ၼႆႈ တႃ မႃႇ လႃတ်ႈ ၼုႆႈ",
+      "assamese_script": "হা¹ নাই³ তা¹ মা² লাত্‌³ নুই³",
+      "ipa": "[haː˧˧] [nai˨˩̰] [ta˧˧] [maː˥˦] [laːt˨˩̰] [nui˨˩̰]",
+      "morphemes": [
+        "haa1",
+        "nai3",
+        "ta1",
+        "maa2",
+        "laat3",
+        "nui3"
+      ],
+      "glosses": [
+        "time",
+        "this",
+        "will",
+        "come",
+        "speak",
+        "with"
+      ],
+      "translation": "Now we will speak of Phreu Cang Khang of the royal caste",
+      "translation_assamese": "অসমীয়া অৰ্থ: Now we will speak of Phreu Cang Khang of the royal caste",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "sau2 phring1 ho1 mau1 pi1 khun1 khɯ3",
+      "lik_tai": "ꩢဝ်ႇ ၽင် ႁူ မဝ် ပိ ၶုၼ် ၶိုႈ",
+      "assamese_script": "সাও² ফঙ¹ হো¹ মাও¹ পি¹ খুন¹ খু³",
+      "ipa": "[sau˥˦] [pʰriŋ˧˧] [ho˧˧] [mau˧˧] [pi˧˧] [kʰun˧˧] [kʰɯ˨˩̰]",
+      "morphemes": [
+        "sau2",
+        "phring1",
+        "ho1",
+        "mau1",
+        "pi1",
+        "khun1",
+        "khɯ3"
+      ],
+      "glosses": [
+        "stay",
+        "quiet",
+        "palace",
+        "NEG",
+        "don't",
+        "king",
+        "large"
+      ],
+      "translation": "He was staying quietly in the palace, he was not such an important king",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was staying quietly in the palace, he was not such an important king",
+      "audio_file": null,
+      "notes": "* This word occurs frequently in likqhogqxonq. Perhaps Shan fVgqG 'be even, as much as; be without inequalities' [phjN]"
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "man2 tsau3 pin2 tsau3 tam1 mɯng2",
+      "lik_tai": "မၼ်ႇ ၸဝ်ႈ ပိၼ်ႇ ၸဝ်ႈ တမ် မိုင်ႇ",
+      "assamese_script": "মান² চাও³ পিন² চাও³ তাম¹ মুঙ²",
+      "ipa": "[man˥˦] [tɕau˨˩̰] [pin˥˦] [tɕau˨˩̰] [tam˧˧] [mɯŋ˥˦]",
+      "morphemes": [
+        "man2",
+        "tsau3",
+        "pin2",
+        "tsau3",
+        "tam1",
+        "mɯng2"
+      ],
+      "glosses": [
+        "3Sg",
+        "RESP",
+        "become",
+        "king",
+        "at",
+        "Meng Mit Kup King Nau"
+      ],
+      "translation": "He was the King in Meng Mit Kup King Nau country",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was the King in Meng Mit Kup King Nau country",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "aa1 man2 tsau3 nai3 tsit1 pii2 taai2 yau3",
+      "lik_tai": "ဢႃ မၼ်ႇ ၸဝ်ႈ ၼႆႈ ၸိတ် ပႇ တႃႆႇ ယဝ်ႈ",
+      "assamese_script": "আ¹ মান² চাও³ নাই³ চিত্‌¹ প² তাই² যাও³",
+      "ipa": "[aː˧˧] [man˥˦] [tɕau˨˩̰] [nai˨˩̰] [tɕit˧˧] [pii˥˦] [taːi˥˦] [jau˨˩̰]",
+      "morphemes": [
+        "aa1",
+        "man2",
+        "tsau3",
+        "nai3",
+        "tsit1",
+        "pii2",
+        "taai2",
+        "yau3"
+      ],
+      "glosses": [
+        "age",
+        "3Sg",
+        "RESP",
+        "this",
+        "seventy",
+        "year",
+        "die",
+        "FINISHED"
+      ],
+      "translation": "At the age of seventy he died.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At the age of seventy he died.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "luk3 man2 tsau3",
+      "lik_tai": "လုၵ်ႈ မၼ်ႇ ၸဝ်ႈ",
+      "assamese_script": "লুক্‌³ মান² চাও³",
+      "ipa": "[luk˨˩̰] [man˥˦] [tɕau˨˩̰]",
+      "morphemes": [
+        "luk3",
+        "man2",
+        "tsau3"
+      ],
+      "glosses": [
+        "child",
+        "he",
+        "Chaw Su Yot Pha"
+      ],
+      "translation": "His son was Chaw Su Yot Pha",
+      "translation_assamese": "অসমীয়া অৰ্থ: His son was Chaw Su Yot Pha",
+      "audio_file": null,
+      "notes": "* literally: 'tiger-top-heaven'"
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "man2 tsau3 haɯ3 pai2 kin2 tai2 ki3",
+      "lik_tai": "မၼ်ႇ ၸဝ်ႈ ႁႈ ပႆႇ ၵိၼ်ႇ တႆႇ ၵိႈ",
+      "assamese_script": "মান² চাও³ হ³ পাই² কিন² তাই² কি³",
+      "ipa": "[man˥˦] [tɕau˨˩̰] [haɯ˨˩̰] [pai˥˦] [kin˥˦] [tai˥˦] [ki˨˩̰]",
+      "morphemes": [
+        "man2",
+        "tsau3",
+        "haɯ3",
+        "pai2",
+        "kin2",
+        "tai2",
+        "ki3"
+      ],
+      "glosses": [
+        "3Sg",
+        "RESP",
+        "get",
+        "go",
+        "eat",
+        "Tai Em",
+        "PRT"
+      ],
+      "translation": "He got to rule in Tai Em.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He got to rule in Tai Em.",
+      "audio_file": null,
+      "notes": "Nabin stated that this is possibly the same place as Muang Eu - see above number 3."
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "luk3 tsaai2 khɯng2 tsam3 sɯ1",
+      "lik_tai": "လုၵ်ႈ ၸႃႆႇ ၶိုင်ႇ ၸမ်ႈ ꩢို",
+      "assamese_script": "লুক্‌³ চাই² খুঙ² চাম³ সু¹",
+      "ipa": "[luk˨˩̰] [tɕaːi˥˦] [kʰɯŋ˥˦] [tɕam˨˩̰] [sɯ˧˧]",
+      "morphemes": [
+        "luk3",
+        "tsaai2",
+        "khɯng2",
+        "tsam3",
+        "sɯ1"
+      ],
+      "glosses": [
+        "child",
+        "son",
+        "middle",
+        "PRT",
+        "Su Kham Pha"
+      ],
+      "translation": "His middle son's name was Su Kham Pha.",
+      "translation_assamese": "অসমীয়া অৰ্থ: His middle son's name was Su Kham Pha.",
+      "audio_file": null,
+      "notes": "* literally: 'tiger-gold-sky'"
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "haɯ3 kaa1 kin2 tai2 ki3",
+      "lik_tai": "ႁႈ ၵႃ ၵိၼ်ႇ တႆႇ ၵိႈ",
+      "assamese_script": "হ³ কা¹ কিন² তাই² কি³",
+      "ipa": "[haɯ˨˩̰] [kaː˧˧] [kin˥˦] [tai˥˦] [ki˨˩̰]",
+      "morphemes": [
+        "haɯ3",
+        "kaa1",
+        "kin2",
+        "tai2",
+        "ki3"
+      ],
+      "glosses": [
+        "give",
+        "GO",
+        "eat",
+        "Tai Pong",
+        "PRT"
+      ],
+      "translation": "He was given Tai Pong (country) to rule.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was given Tai Pong (country) to rule.",
+      "audio_file": null,
+      "notes": "* literally: 'Tai-join,cooperate'."
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "luk3 tsaa2 ki3 sɯ1",
+      "lik_tai": "လုၵ်ႈ ၸႃႇ ၵိႈ ꩢို",
+      "assamese_script": "লুক্‌³ চা² কি³ সু¹",
+      "ipa": "[luk˨˩̰] [tɕaː˥˦] [ki˨˩̰] [sɯ˧˧]",
+      "morphemes": [
+        "luk3",
+        "tsaa2",
+        "ki3",
+        "sɯ1"
+      ],
+      "glosses": [
+        "child",
+        "male",
+        "youngest",
+        "Sukapha"
+      ],
+      "translation": "The youngest child was called Sukapha",
+      "translation_assamese": "অসমীয়া অৰ্থ: The youngest child was called Sukapha",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "haɯ3 kin2 mɯng2 kau1 yau3",
+      "lik_tai": "ႁႈ ၵိၼ်ႇ မိုင်ႇ ၵဝ် ယဝ်ႈ",
+      "assamese_script": "হ³ কিন² মুঙ² কাও¹ যাও³",
+      "ipa": "[haɯ˨˩̰] [kin˥˦] [mɯŋ˥˦] [kau˧˧] [jau˨˩̰]",
+      "morphemes": [
+        "haɯ3",
+        "kin2",
+        "mɯng2",
+        "kau1",
+        "yau3"
+      ],
+      "glosses": [
+        "give",
+        "eat",
+        "country",
+        "old",
+        "FINISHED"
+      ],
+      "translation": "He was given the old country to rule.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was given the old country to rule.",
+      "audio_file": null,
+      "notes": "This refers to Muang Mit, now in Shan State."
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "mɯ2 nan3 khuu2 tsau3 sɯ1",
+      "lik_tai": "မိုႇ ၼၼ်ႈ ၶႇ ၸဝ်ႈ ꩢို",
+      "assamese_script": "মু² নান³ খ² চাও³ সু¹",
+      "ipa": "[mɯ˥˦] [nan˨˩̰] [kʰuu˥˦] [tɕau˨˩̰] [sɯ˧˧]",
+      "morphemes": [
+        "mɯ2",
+        "nan3",
+        "khuu2",
+        "tsau3",
+        "sɯ1"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "group",
+        "RESP",
+        "Sukhanphaa"
+      ],
+      "translation": "Then the soldiers of Chaw Su Khan Pha, who were coming to kill Cau Tai Lung, came to Su Ka Pha.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the soldiers of Chaw Su Khan Pha, who were coming to kill Cau Tai Lung, came to Su Ka Pha.",
+      "audio_file": null,
+      "notes": "Nabin explained that this meant that Su Khan Pha planned to call Su Ka Pha to come to kill Chaw Tai Lung.'"
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "tsau3 sɯ1 sup1 lui2 tsaɯ2 maa3",
+      "lik_tai": "ၸဝ်ႈ ꩢို ꩢုပ် လုႆႇ ၸႇ မႃႈ",
+      "assamese_script": "চাও³ সু¹ সুপ্‌¹ লুই² চ² মা³",
+      "ipa": "[tɕau˨˩̰] [sɯ˧˧] [sup˧˧] [lui˥˦] [tɕaɯ˥˦] [maː˨˩̰]",
+      "morphemes": [
+        "tsau3",
+        "sɯ1",
+        "sup1",
+        "lui2",
+        "tsaɯ2",
+        "maa3"
+      ],
+      "glosses": [
+        "RESP",
+        "Su Ka Pha",
+        "mouth",
+        "come down",
+        "mind",
+        "mad"
+      ],
+      "translation": "Therefore Sukapha was deeply disturbed and afraid.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Therefore Sukapha was deeply disturbed and afraid.",
+      "audio_file": null,
+      "notes": "Nabin explained that the reason for Sukapha's distress was that he did not want to kill Chaw Tai Long."
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "tsang1 pai2 mɯng2 paa3 taɯ3 nai3 h1",
+      "lik_tai": "ၸင် ပႆႇ မိုင်ႇ ပႃႈ တႈ ၼႆႈ ႁ",
+      "assamese_script": "চাঙ¹ পাই² মুঙ² পা³ ত³ নাই³ হ¹",
+      "ipa": "[tɕaŋ˧˧] [pai˥˦] [mɯŋ˥˦] [paː˨˩̰] [taɯ˨˩̰] [nai˨˩̰] [h˧˧]",
+      "morphemes": [
+        "tsang1",
+        "pai2",
+        "mɯng2",
+        "paa3",
+        "taɯ3",
+        "nai3",
+        "h1"
+      ],
+      "glosses": [
+        "will",
+        "go",
+        "Muang Nun",
+        "side",
+        "down",
+        "this",
+        "PRT"
+      ],
+      "translation": "He (decided) that he would go down to Assam.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He (decided) that he would go down to Assam.",
+      "audio_file": null,
+      "notes": "m*N2 nun2 'cotton country' is the Tai name for Assam."
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "waai2 tsau3 pai2 maa2 yau3 tsam3",
+      "lik_tai": "ဝႃႆႇ ၸဝ်ႈ ပႆႇ မႃႇ ယဝ်ႈ ၸမ်ႈ",
+      "assamese_script": "ৱাই² চাও³ পাই² মা² যাও³ চাম³",
+      "ipa": "[waːi˥˦] [tɕau˨˩̰] [pai˥˦] [maː˥˦] [jau˨˩̰] [tɕam˨˩̰]",
+      "morphemes": [
+        "waai2",
+        "tsau3",
+        "pai2",
+        "maa2",
+        "yau3",
+        "tsam3"
+      ],
+      "glosses": [
+        "afterwards",
+        "Cau Su Ka Pha",
+        "go",
+        "COME",
+        "FINISHED",
+        "PRT"
+      ],
+      "translation": "Narrative passage 40.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Narrative passage 40.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "tsau3 sɯ1 tsang1 maa2",
+      "lik_tai": "ၸဝ်ႈ ꩢို ၸင် မႃႇ",
+      "assamese_script": "চাও³ সু¹ চাঙ¹ মা²",
+      "ipa": "[tɕau˨˩̰] [sɯ˧˧] [tɕaŋ˧˧] [maː˥˦]",
+      "morphemes": [
+        "tsau3",
+        "sɯ1",
+        "tsang1",
+        "maa2"
+      ],
+      "glosses": [
+        "RESP",
+        "Su Khan Pha",
+        "will",
+        "come"
+      ],
+      "translation": "When Sukapha had gone (to Assam), Chaw Su Khan Pha came and took the son of Chaw Su Yot Pha.",
+      "translation_assamese": "অসমীয়া অৰ্থ: When Sukapha had gone (to Assam), Chaw Su Khan Pha came and took the son of Chaw Su Yot Pha.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_042",
+      "text_roman": "luk3 tsaai3 sɯ1 tsam3 tsau3 nam1",
+      "lik_tai": "လုၵ်ႈ ၸႃႆႈ ꩢို ၸမ်ႈ ၸဝ်ႈ ၼမ်",
+      "assamese_script": "লুক্‌³ চাই³ সু¹ চাম³ চাও³ নাম¹",
+      "ipa": "[luk˨˩̰] [tɕaːi˨˩̰] [sɯ˧˧] [tɕam˨˩̰] [tɕau˨˩̰] [nam˧˧]",
+      "morphemes": [
+        "luk3",
+        "tsaai3",
+        "sɯ1",
+        "tsam3",
+        "tsau3",
+        "nam1"
+      ],
+      "glosses": [
+        "son",
+        "male",
+        "Su Yot Pha",
+        "PRT",
+        "Chaw Tai Ciu",
+        "PRT"
+      ],
+      "translation": "The son of Su Yot Pha was Chaw Tai Ciu.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The son of Su Yot Pha was Chaw Tai Ciu.",
+      "audio_file": null,
+      "notes": "Nabin stated that the meaning of ciwq ciu is not known, probably the name of a place."
+    },
+    {
+      "id": "unit_043",
+      "text_roman": "tang1 k3 luk3",
+      "lik_tai": "တင် ၵႈ လုၵ်ႈ",
+      "assamese_script": "তাঙ¹ ক³ লুক্‌³",
+      "ipa": "[taŋ˧˧] [k˨˩̰] [luk˨˩̰]",
+      "morphemes": [
+        "tang1",
+        "k3",
+        "luk3"
+      ],
+      "glosses": [
+        "everybody",
+        "PRT",
+        "from"
+      ],
+      "translation": "So everybody was descended from Pheu Cang Khang",
+      "translation_assamese": "অসমীয়া অৰ্থ: So everybody was descended from Pheu Cang Khang",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_044",
+      "text_roman": "hang2 tsau3 tsam3 haɯ3 pai2 kin2 m3 ki3",
+      "lik_tai": "ႁင်ႇ ၸဝ်ႈ ၸမ်ႈ ႁႈ ပႆႇ ၵိၼ်ႇ မႈ ၵိႈ",
+      "assamese_script": "হাঙ² চাও³ চাম³ হ³ পাই² কিন² ম³ কি³",
+      "ipa": "[haŋ˥˦] [tɕau˨˩̰] [tɕam˨˩̰] [haɯ˨˩̰] [pai˥˦] [kin˥˦] [m˨˩̰] [ki˨˩̰]",
+      "morphemes": [
+        "hang2",
+        "tsau3",
+        "tsam3",
+        "haɯ3",
+        "pai2",
+        "kin2",
+        "m3",
+        "ki3"
+      ],
+      "glosses": [
+        "to",
+        "Cau Tai Ciu",
+        "PRT",
+        "let",
+        "go",
+        "eat",
+        "Mo Wu",
+        "PRT"
+      ],
+      "translation": "He (Su Khan Pha) let Chaw Tai Ciu go to rule in Mau Wu.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He (Su Khan Pha) let Chaw Tai Ciu go to rule in Mau Wu.",
+      "audio_file": null,
+      "notes": "* literally 'pot-cattle'."
+    },
+    {
+      "id": "unit_045",
+      "text_roman": "uu1 m3 nai3",
+      "lik_tai": "ဢ မႈ ၼႆႈ",
+      "assamese_script": "অ¹ ম³ নাই³",
+      "ipa": "[uu˧˧] [m˨˩̰] [nai˨˩̰]",
+      "morphemes": [
+        "uu1",
+        "m3",
+        "nai3"
+      ],
+      "glosses": [
+        "from",
+        "Mo Wu",
+        "this"
+      ],
+      "translation": "From  Mo Wu he came to rule to Kang Taeu Phake country.",
+      "translation_assamese": "অসমীয়া অৰ্থ: From  Mo Wu he came to rule to Kang Taeu Phake country.",
+      "audio_file": null,
+      "notes": "Nabin stated that the Phakes came from this place, Kang Taue Phake. The original home of the Aitons was also called Aiton. At that time there were three countries Muang Aiton, Muang Phake and Muang Khamyang."
+    },
+    {
+      "id": "unit_046",
+      "text_roman": "tsau3 tsang1 waa2",
+      "lik_tai": "ၸဝ်ႈ ၸင် ဝႃႇ",
+      "assamese_script": "চাও³ চাঙ¹ ৱা²",
+      "ipa": "[tɕau˨˩̰] [tɕaŋ˧˧] [waː˥˦]",
+      "morphemes": [
+        "tsau3",
+        "tsang1",
+        "waa2"
+      ],
+      "glosses": [
+        "Cau Tai Ciu",
+        "will",
+        "say"
+      ],
+      "translation": "Cau Tai Ciu had said, my country (has become) old, so I will come and stay here. This is what he said.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Cau Tai Ciu had said, my country (has become) old, so I will come and stay here. This is what he said.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_047",
+      "text_roman": "waai2 nan3 sau2 hɯng1 thun3 laai1 pii2 thaap3",
+      "lik_tai": "ဝႃႆႇ ၼၼ်ႈ ꩢဝ်ႇ ႁိုင် ထုၼ်ႈ လႃႆ ပႇ ထႃပ်ႈ",
+      "assamese_script": "ৱাই² নান³ সাও² হুঙ¹ থুন³ লাই¹ প² থাপ্‌³",
+      "ipa": "[waːi˥˦] [nan˨˩̰] [sau˥˦] [hɯŋ˧˧] [tʰun˨˩̰] [laːi˧˧] [pii˥˦] [tʰaːp˨˩̰]",
+      "morphemes": [
+        "waai2",
+        "nan3",
+        "sau2",
+        "hɯng1",
+        "thun3",
+        "laai1",
+        "pii2",
+        "thaap3"
+      ],
+      "glosses": [
+        "finish",
+        "that",
+        "stay",
+        "long time",
+        "complete",
+        "many",
+        "year",
+        "finished"
+      ],
+      "translation": "After that he stayed many years.",
+      "translation_assamese": "অসমীয়া অৰ্থ: After that he stayed many years.",
+      "audio_file": null,
+      "notes": "Nabin stated that thap tang means 'finished already, closed., last year have not seen, another year come'  possibly Shan vBpqH 'place one on another'."
+    },
+    {
+      "id": "unit_048",
+      "text_roman": "thɯng1 maa2 laak3",
+      "lik_tai": "ထိုင် မႃႇ လႃၵ်ႈ",
+      "assamese_script": "থুঙ¹ মা² লাক্‌³",
+      "ipa": "[tʰɯŋ˧˧] [maː˥˦] [laːk˨˩̰]",
+      "morphemes": [
+        "thɯng1",
+        "maa2",
+        "laak3"
+      ],
+      "glosses": [
+        "reach",
+        "come",
+        "era"
+      ],
+      "translation": "There came a time, in that ancient period, when Chaw Khai Pha Tai Khang (became king).",
+      "translation_assamese": "অসমীয়া অৰ্থ: There came a time, in that ancient period, when Chaw Khai Pha Tai Khang (became king).",
+      "audio_file": null,
+      "notes": "* literally 'top-RESP-egg-sky-Tai' Nabin stated that khang means the tribal people that are living in the hills."
+    },
+    {
+      "id": "unit_049",
+      "text_roman": "mɯ2 nan3 tsau3 tsang1 waa2",
+      "lik_tai": "မိုႇ ၼၼ်ႈ ၸဝ်ႈ ၸင် ဝႃႇ",
+      "assamese_script": "মু² নান³ চাও³ চাঙ¹ ৱা²",
+      "ipa": "[mɯ˥˦] [nan˨˩̰] [tɕau˨˩̰] [tɕaŋ˧˧] [waː˥˦]",
+      "morphemes": [
+        "mɯ2",
+        "nan3",
+        "tsau3",
+        "tsang1",
+        "waa2"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "Cau Tai Khang",
+        "will",
+        "say"
+      ],
+      "translation": "At that time Chaw Tai Khang said, 'My brothers and sisters, Su Ka Pha has gone this way''.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time Chaw Tai Khang said, 'My brothers and sisters, Su Ka Pha has gone this way''.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_050",
+      "text_roman": "kau2 ti1 tsm2 nng3 kaa1 nuu2 kn1",
+      "lik_tai": "ၵဝ်ႇ တိ ၸမ်ႇ ၼင်ႈ ၵႃ ၼႇ ၵၼ်",
+      "assamese_script": "কাও² তি¹ চম² নঙ³ কা¹ ন² কন¹",
+      "ipa": "[kau˥˦] [ti˧˧] [tɕm˥˦] [nŋ˨˩̰] [kaː˧˧] [nuu˥˦] [kn˧˧]",
+      "morphemes": [
+        "kau2",
+        "ti1",
+        "tsm2",
+        "nng3",
+        "kaa1",
+        "nuu2",
+        "kn1"
+      ],
+      "glosses": [
+        "1Sg",
+        "will",
+        "follow",
+        "younger (brother)",
+        "GO",
+        "look",
+        "PRT"
+      ],
+      "translation": "I'm going to follow my younger brother and look for him.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I'm going to follow my younger brother and look for him.",
+      "audio_file": null,
+      "notes": "* Nabin stated that 'kqn1  is used for thinking in the mind - not clear whether he will be there or not.'"
+    }
+  ],
+  "full_translation": "Book of history (from) the time of the ancestor Chaw Tai Lung up until Sukapha. Homage to the wise, liberated and self-perfected one (the Buddha). May all beings be blest. I pay my respects to the Lord. Okasa. Okasa. At that time, Chaw Tai Pum, from Muang Eu Muang Khon, came to rule in Mau Lung and was made King. He sat close together with his queen, (they were) never separated. He would have many sons His first son was Chaw Tai Lung. He caused Chaw Tai Lung to rule in Muang Yun. The second son, Pa Miu Pum was given Mau Lung to rule in place of his father. Narrative passage 9. The 3rd son, Kham King Pha, was given the Ava country, in Burma. The 4th son, called Ket Pha, was given Nuk Cok Nong Mon to rule. The 7th son, Pheu Cang Khang, was given Meng Mit Kup King Nau. Chaw Tai Pum said to all his sons, 'Whichever of you love me, I will go to die there. At that time he was also long lived and had completed so many years (of life). He looked for his royal son, at Muang Mit Keng Nau, and finished his span of life there, (in the place of his forefathers) It was in the Lakni Kap Sang that he died. After that, Chaw Miu Pum ruled in Meng Mau for one year. He suffered from high blood pressure and stabbed himself to death. After that, Mau Long did not have a king. After that, the God Yot Pha Mok Kham Naeng came down from the heavens and took Chaw Pa Miu Pum's wife to be his own. They had a child whose name was Chaw Su Khan. At the time when Chaw Su Khan was still in the Queen's womb, the God Yot Pha Mok Kham Naeng returned to heaven. Chaw Tai Lung lived at Muang Yon He came and took the mother of Chaw Su Khan, They bore (a son) Chaw Sam Lung Kam Ko. From this part, (we will tell) the history of Chaw Pha Long, of Meng Kong Country. Listen all! Now we will speak of Phreu Cang Khang of the royal caste He was staying quietly in the palace, he was not such an important king He was the King in Meng Mit Kup King Nau country At the age of seventy he died. His son was Chaw Su Yot Pha He got to rule in Tai Em. His middle son's name was Su Kham Pha. He was given Tai Pong (country) to rule. The youngest child was called Sukapha He was given the old country to rule. Then the soldiers of Chaw Su Khan Pha, who were coming to kill Cau Tai Lung, came to Su Ka Pha. Therefore Sukapha was deeply disturbed and afraid. He (decided) that he would go down to Assam. Narrative passage 40. When Sukapha had gone (to Assam), Chaw Su Khan Pha came and took the son of Chaw Su Yot Pha. The son of Su Yot Pha was Chaw Tai Ciu. So everybody was descended from Pheu Cang Khang He (Su Khan Pha) let Chaw Tai Ciu go to rule in Mau Wu. From  Mo Wu he came to rule to Kang Taeu Phake country. Cau Tai Ciu had said, my country (has become) old, so I will come and stay here. This is what he said. After that he stayed many years. There came a time, in that ancient period, when Chaw Khai Pha Tai Khang (became king). At that time Chaw Tai Khang said, 'My brothers and sisters, Su Ka Pha has gone this way''. I'm going to follow my younger brother and look for him.",
+  "book_id": "book_history_tai_lung",
+  "title": "Chronicle of History from Ancestor Chaw Tai Lung",
+  "title_tai": "Lik4 Pvn1 Tsaw3 Tai1 Lung1",
+  "title_as": ""
+}

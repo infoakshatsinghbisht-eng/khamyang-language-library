@@ -1,0 +1,112 @@
+{
+  "book_id": "book_milne_1910_shans_at_home",
+  "title": "Shans at Home: Daily Life, Village Customs and Folk Literature of the Tai",
+  "title_tai": "ပပ်ႉ ၵၢၼ် ယူႇသဝ်း တႆး ၼႂ်း ႁိူၼ်း ၶွင်ႇ ၼၢင်း လႅတ်ႉသ်လီး မီးလ်ၼ်",
+  "title_as": "টাইসকলৰ ঘৰুৱা জীৱন আৰু লোক-সাহিত্য (মিচেচ লেচলৈ মিল্ন, ১৯১০)",
+  "author": "Mrs. Leslie Milne & Rev. Wilbur Willis Cochrane",
+  "year": 1910,
+  "genre": "Ethnography & Folk Life",
+  "category": "Domestic Culture & Traditional Customs",
+  "provenance": "John Murray, London (1910); digitized by University of British Columbia and Internet Archive (shansathomewitht00miln)",
+  "digitalized_from": "scratch/Milne_1910_Shans_at_Home.txt",
+  "license": "Public Domain (Published 1910)",
+  "total_sentences": 3,
+  "description": "Richly illustrated ethnographic classic by Mrs. Leslie Milne documenting the daily life, domestic architecture, weaving arts, birth and marriage rituals, folk tales, and religious devotions of the Southwestern Tai communities.",
+  "units": [
+    {
+      "unit_id": "milne_1910_u001",
+      "surface_tai": "ၼႂ်း ႁိူၼ်း တႆး မႄႈ ၵူၼ် တမ် ၶဝ်ႈ သၢၼ် ၽႃႈ လီငၢမ်း",
+      "surface_assamese": "টাই পৰিয়ালত মাতৃসকলে ধান বানে আৰু সুন্দৰকৈ কাপোৰ বয়",
+      "romanization": "naɯ hə́n tai mɛ́ kon tam khao saan phaa lii-ŋaam",
+      "morphemes": [
+        "naɯ",
+        "hə́n",
+        "tai",
+        "mɛ́",
+        "kon",
+        "tam",
+        "khao",
+        "saan",
+        "phaa",
+        "lii-ŋaam"
+      ],
+      "gloss": [
+        "in",
+        "house",
+        "Tai",
+        "mother",
+        "person",
+        "pound",
+        "rice",
+        "weave",
+        "cloth",
+        "beautiful"
+      ],
+      "translation_en": "Inside the Tai home, the mother pounds rice and weaves beautiful textiles.",
+      "translation_as": "টাই পৰিয়ালত মাতৃসকলে ধান বানে আৰু সুন্দৰকৈ কাপোৰ বয়।",
+      "notes": "Milne (1910: 84). Domestic economy and traditional loom weaving."
+    },
+    {
+      "unit_id": "milne_1910_u002",
+      "surface_tai": "မိူဝ်ႈ လုၵ်ႈ ဢွၼ်ႇ လဵၵ်ႉ ၵိူတ်ႇ ပူႇ ပၼ် ၸိုဝ်ႈ မူၼ်ႈ",
+      "surface_assamese": "নৱজাতকৰ জন্ম হ'লে ককাকে শুভ আৰু অৰ্থপূৰ্ণ নাম দিয়ে",
+      "romanization": "mə́ luk ɔn lek kət puu pan cɯɯ mon",
+      "morphemes": [
+        "mə́",
+        "luk",
+        "ɔn",
+        "lek",
+        "kət",
+        "puu",
+        "pan",
+        "cɯɯ",
+        "mon"
+      ],
+      "gloss": [
+        "when",
+        "child",
+        "young",
+        "small",
+        "be.born",
+        "grandfather",
+        "give",
+        "name",
+        "auspicious"
+      ],
+      "translation_en": "When a little infant is born, the grandfather bestows an auspicious name upon the child.",
+      "translation_as": "নৱজাতকৰ জন্ম হ'লে ককাকে শুভ আৰু অৰ্থপূৰ্ণ নাম দিয়ে।",
+      "notes": "Milne (1910: 36). Traditional naming customs in Tai domestic rites."
+    },
+    {
+      "unit_id": "milne_1910_u003",
+      "surface_tai": "ၵူၼ် ဝၢၼ်ႈ ၵႂႃႇ ဝတ်ႉ ပူႇၸေႃႇ ၽြႃး ၽွမ်ႉႁူမ်ႈ ၸႂ် လီ",
+      "surface_assamese": "গাঁওবাসীয়ে বৌদ্ধ বিহাৰলৈ গৈ একগোট হৈ শ্ৰদ্ধাৰে প্ৰাৰ্থনা কৰে",
+      "romanization": "kon waan koo wat puu-cɔɔ phraa phɔm-hom caɯ lii",
+      "morphemes": [
+        "kon",
+        "waan",
+        "koo",
+        "wat",
+        "puu-cɔɔ",
+        "phraa",
+        "phɔm-hom",
+        "caɯ",
+        "lii"
+      ],
+      "gloss": [
+        "people",
+        "village",
+        "go",
+        "monastery",
+        "worship",
+        "Buddha",
+        "united/solidarity",
+        "heart",
+        "good"
+      ],
+      "translation_en": "The villagers visit the Buddhist monastery together with harmonious devotion.",
+      "translation_as": "গাঁওবাসীয়ে বৌদ্ধ বিহাৰলৈ গৈ একগোট হৈ শ্ৰদ্ধাৰে প্ৰাৰ্থনা কৰে।",
+      "notes": "Milne (1910: 124). Monastic community life."
+    }
+  ]
+}

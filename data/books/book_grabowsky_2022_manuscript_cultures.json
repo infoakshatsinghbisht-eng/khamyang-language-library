@@ -1,0 +1,122 @@
+{
+  "book_id": "book_grabowsky_2022_manuscript_cultures",
+  "title": "Manuscript Cultures and Epigraphy in the Tai World: Lik Pap Traditions and Sacred Literacy",
+  "title_tai": "ပပ်ႉ ဝေႃးႁႃႇရ လိၵ်ႈ ပပ်ႉ တႆး ၶွင်ႇ ၻွၵ်ႉတိူဝ်ႇ ဝူဝ်းလ်ၵိူဝ်ႇ ၵရႃႇၿွၵ်ႉသ်ၵီႇ (၂၀၂၂)",
+  "title_as": "টাই বিশ্বৰ পাণ্ডুলিপি আৰু লিপি সংস্কৃতি (অধ্যাপক ভ'লকাৰ গ্ৰাব'ভস্কি, ২০২২)",
+  "author": "Professor Volker Grabowsky",
+  "year": 2022,
+  "genre": "Epigraphy, Codicology & Manuscript Studies",
+  "category": "Contemporary Palaeography & Manuscript Conservation",
+  "provenance": "Silkworm Books, Chiang Mai (2022), supported by Hamburger Wissenschaftliche Stiftung; digitized by Internet Archive (ldfm_manuscript-cultures-and-epigraphy-in-the-tai-world-ed-by-volker-grabowsky-2022-m)",
+  "digitalized_from": "scratch/Grabowsky_2022_Tai_Manuscript_Cultures.txt",
+  "license": "Academic Open Educational Access (Silkworm Books / Hamburg)",
+  "total_sentences": 3,
+  "description": "Authoritative contemporary codicological study by Professor Volker Grabowsky examining sacred literacy, paratexts, folded paper manuscripts (*lik pap*), palm-leaf preservation, and monastic manuscript puthibharal collections across the Tai cultural world, including Assam Tai.",
+  "units": [
+    {
+      "unit_id": "grabowsky_2022_u001",
+      "surface_tai": "လိၵ်ႈ ပပ်ႉ တႆး ပဵၼ် ၶူဝ်း မၢႆ ပိုၼ်း လႄႈ ထမ်း တြႃး ၵိူဝ်းလီ",
+      "surface_assamese": "সাঁচিপতীয়া আৰু তুলাপাতৰ পুথি টাই ইতিহাস আৰু পৱিত্ৰ ধৰ্মৰ অমূল্য সম্পদ",
+      "romanization": "lik pap tai pen khoo maai pɯn lɛ tham traa kə́-lii",
+      "morphemes": [
+        "lik",
+        "pap",
+        "tai",
+        "pen",
+        "khoo",
+        "maai",
+        "pɯn",
+        "lɛ",
+        "tham",
+        "traa",
+        "kə́-lii"
+      ],
+      "gloss": [
+        "script",
+        "accordion.book",
+        "Tai",
+        "be",
+        "article",
+        "record",
+        "chronicle",
+        "and",
+        "Dharma",
+        "truth",
+        "sacred/revered"
+      ],
+      "translation_en": "Tai accordion paper manuscripts (lik pap) are sacred treasures preserving chronicles and the holy Dharma.",
+      "translation_as": "সাঁচিপতীয়া আৰু তুলাপাতৰ পুথি টাই ইতিহাস আৰু পৱিত্ৰ ধৰ্মৰ অমূল্য সম্পদ।",
+      "notes": "Grabowsky (2022: 18). Codicology of folded accordion manuscripts (*lik pap*) across the Tai world."
+    },
+    {
+      "unit_id": "grabowsky_2022_u002",
+      "surface_tai": "မႄႈ လိၵ်ႈ တႆး မီး ပၢင်ႈ လၢၵ်ႇလၢႆ ၸွမ်း ဝၢၼ်ႈ မိူင်း ၵူႈ ၸုမ်း",
+      "surface_assamese": "বিভিন্ন টাই অঞ্চল আৰু জনগোষ্ঠীৰ মাজত লিপিৰ নিজস্ব ঐতিহ্যমণ্ডিত ৰূপ আছে",
+      "romanization": "mɛ́ lik tai mii paaŋ laak-laai cɔm waan mə́ŋ ku cum",
+      "morphemes": [
+        "mɛ́",
+        "lik",
+        "tai",
+        "mii",
+        "paaŋ",
+        "laak-laai",
+        "cɔm",
+        "waan",
+        "mə́ŋ",
+        "ku",
+        "cum"
+      ],
+      "gloss": [
+        "mother/base",
+        "script",
+        "Tai",
+        "have",
+        "style/form",
+        "distinct",
+        "along",
+        "village",
+        "country",
+        "every",
+        "group"
+      ],
+      "translation_en": "The Tai scripts exhibit regional calligraphic variations across different settlements and groups.",
+      "translation_as": "বিভিন্ন টাই অঞ্চল আৰু জনগোষ্ঠীৰ মাজত লিপিৰ নিজস্ব ঐতিহ্যমণ্ডিত ৰূপ আছে।",
+      "notes": "Grabowsky (2022: 45). Epigraphical and palaeographical branches (Lik Tai, Lik Tohing, Lik Tua Tham)."
+    },
+    {
+      "unit_id": "grabowsky_2022_u003",
+      "surface_tai": "ၵူၼ် သိုပ်ႇ လိၵ်ႈ သိမ်း ပပ်ႉ ၵဝ်ႇ ဝႆႉ တီႈ ဝတ်ႉ ႁႂ်ႈ မၼ်ႈၵိုမ်း",
+      "surface_assamese": "পাণ্ডুলিপি সংৰক্ষকসকলে পুৰণি পুথিসমূহ বৌদ্ধ বিহাৰত চিৰদিনৰ বাবে সংৰক্ষণ কৰে",
+      "romanization": "kon sɯp lik sim pap kao waɯ tii wat haɯ man-kəm",
+      "morphemes": [
+        "kon",
+        "sɯp",
+        "lik",
+        "sim",
+        "pap",
+        "kao",
+        "waɯ",
+        "tii",
+        "wat",
+        "haɯ",
+        "man-kəm"
+      ],
+      "gloss": [
+        "person",
+        "inherit/preserve",
+        "manuscript",
+        "keep",
+        "book",
+        "ancient",
+        "place",
+        "at",
+        "monastery",
+        "CAUSE",
+        "enduring"
+      ],
+      "translation_en": "Manuscript custodians safeguard the ancient books in monasteries to preserve them for eternity.",
+      "translation_as": "পাণ্ডুলিপি সংৰক্ষকসকলে পুৰণি পুথিসমূহ বৌদ্ধ বিহাৰত চিৰদিনৰ বাবে সংৰক্ষণ কৰে।",
+      "notes": "The sacred role of the monastery library (*puthibharal*) in preserving endangered literature."
+    }
+  ]
+}

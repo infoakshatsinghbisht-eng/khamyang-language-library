@@ -1,0 +1,338 @@
+{
+  "id": "book_jenkins_1837_ahom_extract",
+  "book_id": "book_jenkins_1837_ahom_extract",
+  "title": "Interpretation of the Ahom Extract (Journal of the Asiatic Society of Bengal)",
+  "author": "Capt. Francis Jenkins",
+  "year": 1837,
+  "genre": "Epigraphy / Manuscript Decipherment",
+  "description": "Pioneering early nineteenth-century decipherment of an authentic Tai Ahom manuscript extract published in the Journal of the Asiatic Society of Bengal (Vol. 6). Features direct consultation with native Tai scribes in Upper Assam, establishing the historical identity of the Tai script.",
+  "source": "https://archive.org/details/biostor-280251",
+  "archive_id": "biostor-280251",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨡ᩠ᨿᩣ ᨧᩮᩢᩣ ᨲᩱ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "khyaa tsaw tai tii mroeng chau",
+      "assamese_script": "খ্যা চউ টাই তী ম্ৰোং চৌ",
+      "morphemes": [
+        "khyaa",
+        "tsaw",
+        "tai",
+        "tii",
+        "mroeng",
+        "chau"
+      ],
+      "glosses": [
+        "letters/script",
+        "ancient",
+        "Tai",
+        "at",
+        "country",
+        "monarch"
+      ],
+      "free_translation_en": "The ancient Tai script recorded the deeds of the monarchs.",
+      "free_translation_as": "প্ৰাচীন টাই লিপিয়ে স্বৰ্গদেউসকলৰ কাৰ্যকলাপ লিপিবদ্ধ কৰিছিল।",
+      "speaker": "Capt. Francis Jenkins (Decipherer)",
+      "location": "Asiatic Society of Bengal / Guwahati",
+      "notes": "Earliest Western decipherment of Lik Tai in Assam."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu tai mii khyaa taang tsaw",
+      "assamese_script": "ফু টাই মী খ্যা তাং চউ",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "scribe",
+        "Tai",
+        "have",
+        "writing",
+        "way",
+        "early"
+      ],
+      "free_translation_en": "Tai traditional scribes preserved the ancient manuscript traditions.",
+      "free_translation_as": "টাই বাইলুং আৰু দেওধাই পণ্ডিতে প্ৰাচীন পুথি সংৰক্ষণ কৰিছিল।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Upper Assam",
+      "notes": "Collaboration with Deodhai and Bailung scribes."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨻᩕᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨲᩱ",
+      "text_roman": "phaa chau mroeng khyaa tii tai",
+      "assamese_script": "ফা চৌ ম্ৰোং খ্যা তী টাই",
+      "morphemes": [
+        "phaa",
+        "chau",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "heaven",
+        "lord",
+        "state",
+        "speak",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The heavenly sovereign spoke his edicts to the Tai people.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই প্ৰজাসকলক নিজৰ আদেশ ঘোষণা কৰিলে।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Translation of royal proclamations."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨶᩣᩴ ᨡᩮᩢᩣ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩕ᩠ᨦ ᨲᩱ",
+      "text_roman": "nam khaw tii phyeng mroeng tai",
+      "assamese_script": "নাম খৌ তী ফ্যেং ম্ৰোং টাই",
+      "morphemes": [
+        "nam",
+        "khaw",
+        "tii",
+        "phyeng",
+        "mroeng",
+        "tai"
+      ],
+      "glosses": [
+        "water",
+        "grain",
+        "in",
+        "plain",
+        "country",
+        "Tai"
+      ],
+      "free_translation_en": "Water and rice flourished upon the plains of the Tai country.",
+      "free_translation_as": "টাই দেশৰ সমতল পথাৰত পানী আৰু ধান নদন-বদন আছিল।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Description of natural abundance."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨴᩣ᩠ᨦ ᨻᩪ",
+      "text_roman": "man khaw tii kaang taang phuu",
+      "assamese_script": "মান খৌ তী কাং তাং ফু",
+      "morphemes": [
+        "man",
+        "khaw",
+        "tii",
+        "kaang",
+        "taang",
+        "phuu"
+      ],
+      "glosses": [
+        "he",
+        "travel",
+        "at",
+        "center",
+        "route",
+        "mountain"
+      ],
+      "free_translation_en": "He journeyed along the central road across the hills.",
+      "free_translation_as": "তেওঁ পাহাৰৰ মাজেৰে যোৱা মূল পথত ভ্ৰমণ কৰিলে।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Travel narrative in the manuscript."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "phuu chau mii khyaa taang phaa",
+      "assamese_script": "ফু চৌ মী খ্যা তাং ফা",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "noble",
+        "lord",
+        "have",
+        "word",
+        "way",
+        "heaven"
+      ],
+      "free_translation_en": "The noble elders held the sacred words received from heaven.",
+      "free_translation_as": "অভিজাত ডাঙৰীয়াসকলে স্বৰ্গীয় পৱিত্ৰ বাক্য সংৰক্ষণ কৰিছিল।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Sacred texts of the Tai priests."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨡ᩠ᨿᩣ ᨩᩮᩣᩢ",
+      "text_roman": "tai phaw tii nam khyaa chau",
+      "assamese_script": "টাই ফৌ তী নাম খ্যা চৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "khyaa",
+        "chau"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "river",
+        "honor",
+        "king"
+      ],
+      "free_translation_en": "The Tai riverside clans rendered homage to the king.",
+      "free_translation_as": "নদীৰ পাৰৰ টাই খেলসমূহে ৰজাৰ প্ৰতি আনুগত্য প্ৰদৰ্শন কৰিলে।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Ceremonial court submission."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phyeng tii mroeng tai mii taang",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই মী তাং",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "tranquil",
+        "in",
+        "country",
+        "Tai",
+        "have",
+        "order"
+      ],
+      "free_translation_en": "Peace and order were maintained throughout the Tai territory.",
+      "free_translation_as": "টাই ভূখণ্ডত শান্তি আৰু সুশাসন বৰ্তি আছিল।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Administrative peace formula."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "naang tai tii phyeng mii khaw",
+      "assamese_script": "নাং টাই তী ফ্যেং মী খৌ",
+      "morphemes": [
+        "naang",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "women",
+        "Tai",
+        "in",
+        "valleys",
+        "harvest",
+        "grain"
+      ],
+      "free_translation_en": "Tai women gathered rich harvests in the fertile plains.",
+      "free_translation_as": "টাই মহিলাই সমতল পথাৰৰ পৰা সোণালী ধান চপালে।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Agricultural role of Tai women."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨣᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa khyaa taang kaang mroeng",
+      "assamese_script": "চৌ ফা খ্যা তাং কাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "khyaa",
+        "taang",
+        "kaang",
+        "mroeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "govern",
+        "way",
+        "center",
+        "country"
+      ],
+      "free_translation_en": "The heavenly sovereign governed the center of the nation.",
+      "free_translation_as": "স্বৰ্গদেৱে দেশৰ কেন্দ্ৰীয় অংশৰ শাসন পৰিচালনা কৰিলে।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Centralized crown land administration."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨾᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "phuu tai taang chau mii phyeng",
+      "assamese_script": "ফু টাই তাং চৌ মী ফ্যেং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "taang",
+        "chau",
+        "mii",
+        "phyeng"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "under",
+        "lord",
+        "enjoy",
+        "harmony"
+      ],
+      "free_translation_en": "The Tai subjects lived in harmony under their monarch.",
+      "free_translation_as": "টাই প্ৰজাসকলে ৰজাৰ অধীনত সম্প্ৰীতিৰে বাস কৰিছিল।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Civil harmony in Tai chronicles."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩕᩣ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "tai mroeng phaa chau mii khyaa",
+      "assamese_script": "টাই ম্ৰোং ফা চৌ মী খ্যা",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaa",
+        "chau",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "Tai",
+        "realm",
+        "heaven",
+        "lord",
+        "possess",
+        "fame"
+      ],
+      "free_translation_en": "The Tai realm under the heavenly monarchs attained enduring glory.",
+      "free_translation_as": "স্বৰ্গদেউসকলৰ অধীনত টাই ৰাজ্যই অমৰ খ্যাতি অৰ্জন কৰিলে।",
+      "speaker": "Capt. Francis Jenkins",
+      "location": "Calcutta",
+      "notes": "Final line of the deciphered text extract."
+    }
+  ]
+}

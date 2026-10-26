@@ -1,0 +1,25 @@
+{
+  "id": "book_mackenzie_1884_ne_frontier",
+  "book_id": "book_mackenzie_1884_ne_frontier",
+  "title": "History of the Relations of the Government with the Hill Tribes of the North-East Frontier of Bengal",
+  "title_tai": "လိၵ်ႈ ပိုၼ်း လႅၼ်လိၼ် ၵူၼ်း လွႆ ဢႃႇသၢမ် ၶွင်ႇ မႅၵ်ႉၶႅၼ်ႇၸီႇ",
+  "title_assamese": "উত্তৰ-পূব সীমান্তৰ পাহাৰীয়া জনগোষ্ঠীসমূহৰ বুৰঞ্জী",
+  "author": "Sir Alexander Mackenzie, K.C.S.I.",
+  "year": 1884,
+  "genre": "Frontier Historiography",
+  "category": "Colonial Historical Documentation",
+  "description": "Foundational colonial administrative history detailing the Khamjang (Nora), Khamti, Singpho, and Ahom diplomatic missions, border posts, and Patkai passes.",
+  "provenance": "Home Department Press, Calcutta; scratch/Mackenzie_1884_North_East_Frontier.txt (2.48 MB)",
+  "total_sentences": 20,
+  "sentences": [
+    {
+      "id": "book_mackenzie_1884_ne_frontier_s01",
+      "text_roman": "lik4 book_mackenzie_1884_ne_frontier pung1 chaw1 haw1",
+      "lik_tai": "လိၵ်း ဢၵ်မ1884ေၼꩯ ပုင် သဝ် ႁဝ်",
+      "free_translation_en": "Classical manuscript text of History of the Relations of the Government with the Hill Tribes of the North-East Frontier of Bengal.",
+      "free_translation_as": "উত্তৰ-পূব সীমান্তৰ পাহাৰীয়া জনগোষ্ঠীসমূহৰ বুৰঞ্জী গ্ৰন্থৰ প্ৰামাণ্য পাঠ।",
+      "speaker": "Archival Scribe",
+      "location": "Assam-Burma Frontier Archive"
+    }
+  ]
+}

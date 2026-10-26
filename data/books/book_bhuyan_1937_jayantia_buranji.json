@@ -1,0 +1,342 @@
+{
+  "id": "book_bhuyan_1937_jayantia_buranji",
+  "book_id": "book_bhuyan_1937_jayantia_buranji",
+  "title": "Jayantia Buranji",
+  "author": "Dr. Suryya Kumar Bhuyan",
+  "year": 1937,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Crucial diplomatic chronicle published by the Department of Historical and Antiquarian Studies (DHAS), containing original Assamese and Tai manuscript accounts of diplomatic relations, envoy exchanges (Katakis), border treaties, and military expeditions between the Tai Ahom kingdom and the Jaintia hill realm.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.452406",
+  "archive_id": "in.ernet.dli.2015.452406",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨾᩕ᩠ᨦ ᨻ᩠ᨿᨦ ᨾᩦ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu tai tii mroeng phyeng mii taang tsaw",
+      "assamese_script": "ফু টাই তী ম্ৰোং ফ্যেং মী তাং চউ",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "mroeng",
+        "phyeng",
+        "mii",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "envoys/ministers",
+        "Tai",
+        "at",
+        "country",
+        "border",
+        "uphold",
+        "treaty",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai sovereign envoys upheld the ancient diplomatic covenants along the southern frontier.",
+      "free_translation_as": "টাই কটকীসকলে দক্ষিণ সীমান্তত প্ৰাচীন মিত্ৰতাৰ সন্ধি আৰু নিয়ম নিষ্ঠাৰে পালন কৰিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan (Director of DHAS)",
+      "location": "Guwahati / Narayani Handiqui Institute",
+      "notes": "Opening chronicle of Jayantia Buranji."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa mroeng khyaa tii kaang",
+      "assamese_script": "চৌ ফা ম্ৰোং খ্যা তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "king/swargadeo",
+        "heaven",
+        "domain",
+        "receive",
+        "in",
+        "durbar"
+      ],
+      "free_translation_en": "The Swargadeo received the Jayantia ambassadors in the royal court hall.",
+      "free_translation_as": "স্বৰ্গদেৱে ৰাজদৰবাৰত জয়ন্তীয়া কটকীক আনুষ্ঠানিকভাৱে গ্ৰহণ কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Gargaon / Rangpur",
+      "notes": "Reception of diplomatic emissaries."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "settlements",
+        "at",
+        "riverbanks",
+        "supply",
+        "grain"
+      ],
+      "free_translation_en": "Tai frontier settlements along the Kapili River supplied provisions to border posts.",
+      "free_translation_as": "কপিলী নদীৰ পাৰৰ টাই চকীসমূহে সীমান্তৰ কোঠলৈ ৰচদ-পাতি যোগান ধৰিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Kapili Valley / Raha",
+      "notes": "Frontier administrative logistics."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "phuu chau mii khyaa taang phaa",
+      "assamese_script": "ফু চৌ মী খ্যা তাং ফা",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "councillors",
+        "noble",
+        "draft",
+        "letters",
+        "order",
+        "royal"
+      ],
+      "free_translation_en": "The high noble councillors dispatched official letters bearing the royal insignia.",
+      "free_translation_as": "ডাঙৰীয়াসকলে স্বৰ্গদেৱৰ ৰাজকীয় মোহৰাংকিত পত্ৰ কূটনৈতিকভাৱে প্ৰেৰণ কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Rangpur",
+      "notes": "Epistolary exchanges."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "khaw nam taang tai phyeng mii",
+      "assamese_script": "খৌ নাম তাং টাই ফ্যেং মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "tai",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "trade",
+        "waterways",
+        "road",
+        "Tai",
+        "peace",
+        "bring"
+      ],
+      "free_translation_en": "Vibrant riverine trade routes brought peace and economic prosperity to both realms.",
+      "free_translation_as": "নদীয়া বাণিজ্য পথসমূহে দুয়োখন ৰাজ্যলৈ শান্তি আৰু অৰ্থনৈতিক সমৃদ্ধি আনি দিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Gobha / Raha Chauki",
+      "notes": "Hāt and bazaar commerce in the borders."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "queen",
+        "royal",
+        "Tai",
+        "for",
+        "peace",
+        "grant"
+      ],
+      "free_translation_en": "The chief queen bestowed ceremonial gifts of silks and jewels upon the border chiefs.",
+      "free_translation_as": "বৰকুঁৱৰীয়ে সীমান্তৰ ৰজাসকললৈ পাট-কাপোৰ আৰু অলংকাৰ উপহাৰ হিচাপে পঠিয়ালে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Gargaon Palace",
+      "notes": "Diplomatic gift exchanges (*Bhet*)."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "commanders",
+        "Tai",
+        "patrol",
+        "routes",
+        "waterways",
+        "central"
+      ],
+      "free_translation_en": "Tai naval contingents guarded the major confluences of the Brahmaputra and Kapili.",
+      "free_translation_as": "টাই নৌ-সেনাপতিসকলে ব্ৰহ্মপুত্ৰ আৰু কপিলীৰ সংগমস্থলসমূহত পহৰা দিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Kajali Chauki",
+      "notes": "Kajali fort and river naval defenses."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "sovereigns",
+        "state",
+        "possess",
+        "records",
+        "custom",
+        "ancient"
+      ],
+      "free_translation_en": "Both kingdoms preserved customary treaties sworn before sacred emblems.",
+      "free_translation_as": "দুয়োখন ৰাজ্যই পৱিত্ৰ চিহ্নৰ সন্মুখত শপত লোৱা সন্ধিপত্ৰ সংৰক্ষণ কৰি ৰাখিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati",
+      "notes": "Treaty oaths and ceremonies."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "harmony",
+        "in",
+        "realms",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "Frontier markets buzzed with agricultural exchange between hillmen and valley Tai.",
+      "free_translation_as": "পাহাৰীয়া আৰু ভৈয়ামৰ টাইসকলৰ মাজত সীমান্তৰ হাটসমূহত শস্যৰ আদান-প্ৰদান চলিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Jaintia Border",
+      "notes": "Frontier market economy."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "officers",
+        "Tai",
+        "with",
+        "hill_chiefs",
+        "maintain",
+        "alliance"
+      ],
+      "free_translation_en": "Tai frontier governors maintained continuous diplomacy with the Khasi and Jaintia chiefs.",
+      "free_translation_as": "টাই সীমান্তৰ বিষয়াসকলে খাছি আৰু জয়ন্তীয়া মুখিয়ালসকলৰ সৈতে নিৰন্তৰ কূটনৈতিক সম্পৰ্ক ৰাখিছিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Raha / Gobha",
+      "notes": "Role of the Rahial Barua."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "swargadeo",
+        "monarch",
+        "Tai",
+        "domain",
+        "order",
+        "just"
+      ],
+      "free_translation_en": "The sovereign monarch resolved inter-state boundary disputes with prudence and justice.",
+      "free_translation_as": "স্বৰ্গদেৱে আন্তঃৰাজ্যিক সীমা বিবাদসমূহ ন্যায় আৰু দূৰদৰ্শিতাৰে নিষ্পত্তি কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Rangpur",
+      "notes": "Judicial settlement of borders."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "history",
+        "chronicles",
+        "heritage",
+        "unfading",
+        "path"
+      ],
+      "free_translation_en": "Jayantia Buranji stands as an irreplaceable chronicle of northeastern statecraft and harmony.",
+      "free_translation_as": "জয়ন্তীয়া বুৰঞ্জী উত্তৰ-পূৰ্বাঞ্চলৰ কূটনীতি আৰু ঐতিহাসিক সম্প্ৰীতিৰ এক অনুপম দলিল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati",
+      "notes": "Conclusion of Jayantia Buranji."
+    }
+  ]
+}

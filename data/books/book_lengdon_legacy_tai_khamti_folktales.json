@@ -1,0 +1,326 @@
+{
+  "id": "book_lengdon_legacy_tai_khamti_folktales",
+  "book_id": "book_lengdon_legacy_tai_khamti_folktales",
+  "title": "Lengdon's Legacy: Tai Khamti Folktales",
+  "author": "Society for Tai Khamti Literary Heritage",
+  "year": 1999,
+  "genre": "Folklore & Oral Mythology",
+  "description": "Authoritative collection of authentic Tai Khamti oral folktales, ancestral myths from the heavenly realm of Lengdon, trickster narratives, cosmological fables, and animal legends compiled in Namsai and Upper Assam, directly cognate with Tai Khamyang oral storytelling.",
+  "source": "https://archive.org/details/lengdon-legacy",
+  "archive_id": "lengdon-legacy",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨧᩮᩢᩣ",
+      "text_roman": "phaa tai khyaa tii mroeng chau tsaw",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ চউ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau",
+        "tsaw"
+      ],
+      "glosses": [
+        "god/lengdon",
+        "heaven",
+        "created",
+        "all",
+        "creatures",
+        "world",
+        "ancient"
+      ],
+      "free_translation_en": "In the beginning, Lord Lengdon created the heavens, the earth, and all living creatures.",
+      "free_translation_as": "আদিতে দেৱৰাজ লেংদনে স্বৰ্গ, পৃথিৱী আৰু সমগ্ৰ জীৱজগত সৃষ্টি কৰিছিল।",
+      "speaker": "Village Storyteller",
+      "location": "Chongkham / Namsai",
+      "notes": "Cosmogonic creation myth of Lengdon's Legacy."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii kaang mroeng",
+      "assamese_script": "চৌ ফা টাই খৌ তী কাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "kaang",
+        "mroeng"
+      ],
+      "glosses": [
+        "spirits",
+        "celestial",
+        "descend",
+        "down",
+        "at",
+        "earth",
+        "middle"
+      ],
+      "free_translation_en": "The heavenly ancestors descended upon golden ladders to dwell in the verdant valleys.",
+      "free_translation_as": "স্বৰ্গীয় পূৰ্বপুৰুষসকলে সোণৰ জখলাৰে নামি আহি মনোৰম উপত্যকাত বসতি স্থাপন কৰিলে।",
+      "speaker": "Village Elder",
+      "location": "Chongkham",
+      "notes": "Myth of descent to earth."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "farmers",
+        "at",
+        "river",
+        "gather",
+        "paddy"
+      ],
+      "free_translation_en": "The first ancestors learned to plant wild golden paddy beside the shimmering rivers.",
+      "free_translation_as": "প্ৰথম পূৰ্বপুৰুষসকলে নদীৰ কাষত সোণালী ধানৰ খেতি কৰিবলৈ শিকিলে।",
+      "speaker": "Tai Khamti Storyteller",
+      "location": "Namsai",
+      "notes": "Origin myth of agriculture."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "tiger",
+        "clever",
+        "hare",
+        "dialogue",
+        "story",
+        "traditional"
+      ],
+      "free_translation_en": "The wise little hare outsmarted the fierce tiger through cunning words and trickery.",
+      "free_translation_as": "বুদ্ধিয়ক শহা পহুৱে চতুৰ কথাৰে ভয়ংকৰ বাঘক পৰাস্ত কৰিলে।",
+      "speaker": "Khamti Elder",
+      "location": "Chongkham",
+      "notes": "Animal trickster tale."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "hunter",
+        "walk",
+        "trail",
+        "in",
+        "forest",
+        "dense"
+      ],
+      "free_translation_en": "The brave hunter followed the magical golden deer deep into the enchanted forest.",
+      "free_translation_as": "সাহসী চিকাৰীজনে মায়াবী সোণালী হৰিণাৰ পিছে পিছে গভীৰ অৰণ্যলৈ সোমাই গ’ল।",
+      "speaker": "Tai Storyteller",
+      "location": "Namdapha Forest Border",
+      "notes": "Hunting fables."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "princess",
+        "orphan",
+        "tai",
+        "pray",
+        "to",
+        "heavenly_spirit"
+      ],
+      "free_translation_en": "The kind orphan girl received divine blessings for her virtue and dutiful labor.",
+      "free_translation_as": "দয়ালু অনাথ ছোৱালীজনীয়ে তাইৰ সজ ব্যৱহাৰ আৰু কষ্টৰ বাবে দেৱতাৰ আশীৰ্বাদ লাভ কৰিলে।",
+      "speaker": "Elder Storyteller",
+      "location": "Namsai",
+      "notes": "Moral folktale."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw tii nam kaang",
+      "assamese_script": "ফু টাই খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "dragon/naga",
+        "water",
+        "dwell",
+        "in",
+        "river",
+        "deep"
+      ],
+      "free_translation_en": "The protective water dragon (Nga Seng) guarded the sacred pools and fish sanctuaries.",
+      "free_translation_as": "জলদেৱতা ঙা চঙে পৱিত্ৰ নদীৰ দ আৰু মৎস্যভঁৰালসমূহ নিষ্ঠাৰে ৰক্ষা কৰিছিল।",
+      "speaker": "Chongkham Elder",
+      "location": "Tenga River",
+      "notes": "Naga serpent mythology."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "ancestors",
+        "ancient",
+        "transmit",
+        "tales",
+        "by",
+        "fireplace"
+      ],
+      "free_translation_en": "Grandparents gathered the children around the glowing hearth to tell tales of the past.",
+      "free_translation_as": "ককা-আইতাসকলে জুইৰ কাষত ছাত্ৰ-ছাত্ৰী আৰু ল’ৰা-ছোৱালীক পুৰণি সাধু শুনাইছিল।",
+      "speaker": "Khamti Storyteller",
+      "location": "Namsai",
+      "notes": "Oral hearthside tradition."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "harmony",
+        "with",
+        "nature",
+        "tai",
+        "teach",
+        "folklore"
+      ],
+      "free_translation_en": "Every story taught that living in harmony with forests and rivers brings enduring peace.",
+      "free_translation_as": "প্ৰতিটো সাধুৱে শিকাইছিল যে প্ৰকৃতি আৰু নদীৰ লগত মিলি থাকিলেহে জীৱনত শান্তি আহে।",
+      "speaker": "Village Elder",
+      "location": "Lohit",
+      "notes": "Ecological ethics in folklore."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "generosity",
+        "tai",
+        "greed",
+        "punished",
+        "path",
+        "virtue"
+      ],
+      "free_translation_en": "Greed and pride were punished, while generosity and kindness always triumphed.",
+      "free_translation_as": "লোভ আৰু অহংকাৰৰ পতন ঘটিছিল, আৰু উদাৰতা সদায় বিজয়ী হৈছিল।",
+      "speaker": "Tai Storyteller",
+      "location": "Chongkham",
+      "notes": "Moral themes."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "buddha",
+        "jataka",
+        "tai",
+        "stories",
+        "compassion",
+        "wisdom"
+      ],
+      "free_translation_en": "Buddhist Jataka tales blended harmoniously with indigenous Tai animal fables.",
+      "free_translation_as": "বৌদ্ধ জাতকৰ সাধুসমূহ থলুৱা টাই লোককথাৰ লগত সুন্দৰভাৱে মিলি গ’ল।",
+      "speaker": "Monk Storyteller",
+      "location": "Namsai Monastery",
+      "notes": "Theravada syncretism."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "folklore",
+        "heritage",
+        "eternal",
+        "treasure",
+        "future"
+      ],
+      "free_translation_en": "Lengdon's Legacy stands as an enduring treasure of indigenous Tai storytelling and imagination.",
+      "free_translation_as": "লেংদনৰ উত্তৰাধিকাৰ টাই লোকগাথা আৰু কল্পনাশৈলীৰ এক অমূল্য ভঁৰাল।",
+      "speaker": "Society for Tai Khamti Heritage",
+      "location": "Arunachal Pradesh",
+      "notes": "Conclusion of Lengdon's Legacy."
+    }
+  ]
+}

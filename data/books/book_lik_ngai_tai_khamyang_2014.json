@@ -1,0 +1,376 @@
+{
+  "id": "book_lik_ngai_tai_khamyang_2014",
+  "book_id": "book_lik_ngai_tai_khamyang_2014",
+  "title": "Lik Ngai Tai Khamyang: Elementary Primer and Grammar of the Tai Khamyang Language",
+  "author": "Chao Aong Ching Shyam & Phung Lai Khamyang",
+  "year": 2014,
+  "genre": "Indigenous Primer, Grammar & Lexicon",
+  "description": "Foundational pedagogical grammar, syllabary, and lexicon compiled specifically for the revitalization of Tai Khamyang by community elders and native scholars at Sapekhar and Pawaimukh, published by Phung Lai Khamyang on Poy Mau Tai 2109.",
+  "source": "Internet Archive (lik-ngai-tai-khamyang)",
+  "archive_id": "lik-ngai-tai-khamyang",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_001",
+      "lik_tai": "လိၵ်ႈငါႆႈတဲးၶမ်းယၢင်",
+      "text_roman": "lik ngai tai kham yang",
+      "assamese_script": "লিক ঙাই ত্তাই খাময়াং",
+      "morphemes": [
+        "lik",
+        "ngai",
+        "tai",
+        "kham",
+        "yang"
+      ],
+      "glosses": [
+        "book",
+        "easy/elementary",
+        "Tai",
+        "gold",
+        "Khamyang"
+      ],
+      "free_translation_en": "Elementary reader and textbook of the Tai Khamyang language.",
+      "free_translation_as": "সহজ তাই খাময়াং পুথি আৰু ভাষাৰ ব্যাকৰণ।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon / Sivasagar, Assam",
+      "notes": "Title heading of the primer published by Phung Lai Khamyang."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_002",
+      "lik_tai": "ၵႃ ၶႃ ငႃ ၸႃ သႃ ၺႃ တႃ ထႃ ၼႃ ပႃ ၽႃ မႃ",
+      "text_roman": "ka kha nga ca sa nya ta tha na pa pha ma",
+      "assamese_script": "কা খা ঙা চা ছা ঞা তা থা না পা ফা মা",
+      "morphemes": [
+        "ka",
+        "kha",
+        "nga",
+        "ca",
+        "sa",
+        "nya",
+        "ta",
+        "tha",
+        "na",
+        "pa",
+        "pha",
+        "ma"
+      ],
+      "glosses": [
+        "k",
+        "kh",
+        "ng",
+        "c",
+        "s",
+        "ny",
+        "t",
+        "th",
+        "n",
+        "p",
+        "ph",
+        "m"
+      ],
+      "free_translation_en": "Consonants of the Tai Khamyang script pronounced with the inherent 'a' vowel.",
+      "free_translation_as": "ত্তাই বৰ্ণমালাৰ ব্যঞ্জন বৰ্ণবোৰ ‘আ’ কাৰ সংযোগ কৰি উচ্চাৰণ কৰা হয়।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Lesson 1: Tai Alphabet (প্ৰথম পাঠ: ত্তাই বৰ্ণমালা)."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_003",
+      "lik_tai": "ၵီ ၶီ ငီ ၸီ သီ တီ ထီ ၼီ ပီ ၽီ မီ",
+      "text_roman": "ki khi ngi ci si ti thi ni pi phi mi",
+      "assamese_script": "কি খি ঙি চি ছি তি থি নি পি ফি মি",
+      "morphemes": [
+        "ki",
+        "khi",
+        "ngi",
+        "ci",
+        "si",
+        "ti",
+        "thi",
+        "ni",
+        "pi",
+        "phi",
+        "mi"
+      ],
+      "glosses": [
+        "ki",
+        "khi",
+        "ngi",
+        "ci",
+        "si",
+        "ti",
+        "thi",
+        "ni",
+        "pi",
+        "phi",
+        "mi"
+      ],
+      "free_translation_en": "Application of the high front vowel marker 'i' to Tai consonants.",
+      "free_translation_as": "ত্তাই ব্যঞ্জনবৰ্ণত ‘ই’ কাৰ স্বৰচিহ্নৰ প্ৰয়োগ।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Vowel diacritics table (স্বৰ চিহ্নৰ ব্যৱহাৰ)."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_004",
+      "lik_tai": "ၵူ ၶူ ငူ ၸူ တူ ထူ ၼူ ပူ ၽူ မူ",
+      "text_roman": "ku khu ngu cu tu thu nu pu phu mu",
+      "assamese_script": "কু খু ঙু চু তু থু নু পু ফু মু",
+      "morphemes": [
+        "ku",
+        "khu",
+        "ngu",
+        "cu",
+        "tu",
+        "thu",
+        "nu",
+        "pu",
+        "phu",
+        "mu"
+      ],
+      "glosses": [
+        "ku",
+        "khu",
+        "ngu",
+        "cu",
+        "tu",
+        "thu",
+        "nu",
+        "pu",
+        "phu",
+        "mu"
+      ],
+      "free_translation_en": "Application of the back rounded vowel marker 'u' to Tai consonants.",
+      "free_translation_as": "ত্তাই ব্যঞ্জনবৰ্ণত ‘উ’ কাৰ স্বৰচিহ্নৰ প্ৰয়োগ।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Vowel diacritics table (উ কাৰ স্বৰচিহ্ন)."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_005",
+      "lik_tai": "ၵေ ၶေ ငေ ၸေ တေ ထေ ၼေ ပေ ၽေ မေ",
+      "text_roman": "ke khe nge ce te the ne pe phe me",
+      "assamese_script": "কে খে ঙে চে তে থে নে পে ফে মে",
+      "morphemes": [
+        "ke",
+        "khe",
+        "nge",
+        "ce",
+        "te",
+        "the",
+        "ne",
+        "pe",
+        "phe",
+        "me"
+      ],
+      "glosses": [
+        "ke",
+        "khe",
+        "nge",
+        "ce",
+        "te",
+        "the",
+        "ne",
+        "pe",
+        "phe",
+        "me"
+      ],
+      "free_translation_en": "Application of the mid front vowel marker 'e' to consonants.",
+      "free_translation_as": "ত্তাই ব্যঞ্জনবৰ্ণত ‘এ’ কাৰ স্বৰচিহ্নৰ সংযোজন।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Lesson 1: Front vowel e-series."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_006",
+      "lik_tai": "တဲး ၶမ်းယၢင် မီး သဵင် ႁူၵ်း သဵင်",
+      "text_roman": "tai kham yang mi syeŋ huk syeŋ",
+      "assamese_script": "ত্তাই খাময়াং মী ছেং হুক ছেং",
+      "morphemes": [
+        "tai",
+        "kham",
+        "yang",
+        "mi",
+        "syeŋ",
+        "huk",
+        "syeŋ"
+      ],
+      "glosses": [
+        "Tai",
+        "gold",
+        "Khamyang",
+        "have",
+        "tone/sound",
+        "six",
+        "tone/sound"
+      ],
+      "free_translation_en": "The Tai Khamyang language possesses six distinctive lexical tones.",
+      "free_translation_as": "ত্তাই ভাষা একক্ষৰী শব্দৰ ভাষা আৰু ইয়াত ৬ (ছয়) টা সুৰ আছে।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Lesson 3: Tonal System of Tai Khamyang (তৃতীয় পাঠ: ত্তাই ভাষাৰ সুৰ)."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_007",
+      "lik_tai": "ပီႈၸၢႆး ပီႈသၢဝ် ၼွင်ႉၸၢႆး ၼွင်ႉသၢဝ်",
+      "text_roman": "pi cai pi sao nawng cai nawng sao",
+      "assamese_script": "পীচাই পীছাও নঙচাই নঙছাও",
+      "morphemes": [
+        "pi",
+        "cai",
+        "pi",
+        "sao",
+        "nawng",
+        "cai",
+        "nawng",
+        "sao"
+      ],
+      "glosses": [
+        "elder-sibling",
+        "male",
+        "elder-sibling",
+        "female",
+        "younger-sibling",
+        "male",
+        "younger-sibling",
+        "female"
+      ],
+      "free_translation_en": "Elder brother, elder sister, younger brother, younger sister.",
+      "free_translation_as": "ককাইদেউ, বাইদেউ, ভাই, ভনী।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Lesson 5: Kinship Terms (পঞ্চম পাঠ: সম্বন্ধবাচক বিশেষ্য)."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_008",
+      "lik_tai": "လုၵ်ႈၸၢႆး လုၵ်ႈသၢဝ် ပူဝ် မေး",
+      "text_roman": "luk cai luk sao po me",
+      "assamese_script": "লুকচাই লুকছাও পো মে",
+      "morphemes": [
+        "luk",
+        "cai",
+        "luk",
+        "sao",
+        "po",
+        "me"
+      ],
+      "glosses": [
+        "offspring",
+        "male",
+        "offspring",
+        "female",
+        "father/husband",
+        "mother/wife"
+      ],
+      "free_translation_en": "Son, daughter, father/husband, mother/wife.",
+      "free_translation_as": "পুত্ৰ, কন্যা, পিতৃ/স্বামী, মাতৃ/স্ত্ৰী।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Lesson 5: Kinship terms."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_009",
+      "lik_tai": "ၶဝ်ႈ ၼမ်ႉ ၽၵ်း ပႃ ၼိူဝ်ႉ",
+      "text_roman": "khao nam phak pa nua",
+      "assamese_script": "খাও নাম ফাক পা নুৱা",
+      "morphemes": [
+        "khao",
+        "nam",
+        "phak",
+        "pa",
+        "nua"
+      ],
+      "glosses": [
+        "cooked-rice",
+        "water",
+        "vegetables",
+        "fish",
+        "meat"
+      ],
+      "free_translation_en": "Cooked rice, water, vegetable curry, fish, and meat.",
+      "free_translation_as": "ভাত, পানী, শাক-পাচলি, মাছ আৰু মাংস।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Lesson 6: Food and Sustenance Vocabulary."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_010",
+      "lik_tai": "ႁိူၼ်း ဝၢၼ်ႈ မိူင်း တၢင်း ပႆ",
+      "text_roman": "hün wan möng tang pai",
+      "assamese_script": "হুন ৱান ম্যং তাং পাই",
+      "morphemes": [
+        "hün",
+        "wan",
+        "möng",
+        "tang",
+        "pai"
+      ],
+      "glosses": [
+        "house",
+        "village",
+        "country/realm",
+        "path/road",
+        "walk/go"
+      ],
+      "free_translation_en": "House, village, country, path, and walk.",
+      "free_translation_as": "ঘৰ, গাঁও, দেশ, বাট আৰু খোজ কঢ়া।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Lesson 7: Settlement and Movement Terms."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_011",
+      "lik_tai": "ၵဝ် ၵိၼ် ၶဝ်ႈ လီ လီ",
+      "text_roman": "kao kin khao li li",
+      "assamese_script": "কাও কিন খাও লী লী",
+      "morphemes": [
+        "kao",
+        "kin",
+        "khao",
+        "li",
+        "li"
+      ],
+      "glosses": [
+        "1SG",
+        "eat",
+        "rice",
+        "good",
+        "good"
+      ],
+      "free_translation_en": "I eat rice very well.",
+      "free_translation_as": "মই সুন্দৰকৈ ভাত খাওঁ।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Basic sentence construction."
+    },
+    {
+      "id": "book_lik_ngai_tai_khamyang_2014_012",
+      "lik_tai": "သႃႇထု သႃႇထု သႃႇထု ၽြႃး ပုတ်ႉထ လီ ငၢမ်း",
+      "text_roman": "sa thu sa thu sa thu phra put tha li ngam",
+      "assamese_script": "সাধু সাধু সাধু ফ্ৰা বুদ্ধ লী ঙাম",
+      "morphemes": [
+        "sa-thu",
+        "sa-thu",
+        "sa-thu",
+        "phra",
+        "put-tha",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "sadhu",
+        "sadhu",
+        "sadhu",
+        "lord/Buddha",
+        "Buddha",
+        "good",
+        "beautiful/blessed"
+      ],
+      "free_translation_en": "Sadhu, Sadhu, Sadhu! Blessed is the venerable Buddha, good and auspicious.",
+      "free_translation_as": "সাধু, সাধু, সাধু! তথাগত বুদ্ধৰ আশীৰ্বাদ সৰ্ব্বত্ৰ বিৰাজমান হওক।",
+      "speaker": "Chao Aong Ching Shyam",
+      "location": "Sapekhon, Assam",
+      "notes": "Concluding Mangala Benedictory Verse (ভৱতু সৰ্ব্ব মংগলম)."
+    }
+  ]
+}

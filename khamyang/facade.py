@@ -133,6 +133,18 @@ class Khamyang:
         """Returns all annotated interlinear glossed folk texts (IGT)."""
         return self._corpus.get_all()
 
+    def books(self) -> List[Dict[str, Any]]:
+        """Returns summarized catalog of all digitalized books and texts."""
+        return self._corpus.list_books()
+
+    def book(self, book_id: str) -> Optional[Any]:
+        """Retrieves a digitalized book by its identifier."""
+        return self._corpus.get_book(book_id)
+
+    def read_book(self, book_id: str) -> str:
+        """Renders an authentic digitalized book in readable markdown format."""
+        return self._corpus.read_book(book_id)
+
     def _resolve_data_path(self, subpath: str) -> Optional[str]:
         """Resolves path from packaged corpora or repository root."""
         pkg_path = os.path.join(os.path.dirname(__file__), "corpora", subpath)

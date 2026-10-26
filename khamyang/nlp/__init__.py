@@ -67,6 +67,9 @@ class KhamyangLanguageDetector:
         return detect_language(text)
 
 
+from khamyang.nlp.corpus_generator import KhamyangNLPGenerator
+
+
 __all__ = [
     "normalize",
     "normalize_unicode",
@@ -81,6 +84,8 @@ __all__ = [
     "KhamyangPOSTagger",
     "KhamyangLemmatizer",
     "KhamyangLanguageDetector",
+    "KhamyangNLPGenerator",
     "pos_tag",
     "detect_language",
 ]
+

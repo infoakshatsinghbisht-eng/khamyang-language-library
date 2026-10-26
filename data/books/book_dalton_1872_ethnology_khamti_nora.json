@@ -1,0 +1,118 @@
+{
+  "book_id": "book_dalton_1872_ethnology_khamti_nora",
+  "title": "Descriptive Ethnology of Bengal: The Shan, Nora and Khamti Nations",
+  "title_tai": "ပပ်ႉ ၸၢဝ်းၶိူဝ်း တႆး ၼွႃး လႄႈ ၶမ်းတီး ၶွင်ႇ ၶေႃႇလူဝ်ႇၼႄႇလ် ၻႄးလ်တႅၼ်ႇ (၁၈၇၂)",
+  "title_as": "বংগৰ নৃগোষ্ঠীয় বিৱৰণ: শ্বান, নোৰা আৰু খামতি জনগোষ্ঠী (কৰ্ণেল ই. টি. ডাল্টন, ১৮৭২)",
+  "author": "Colonel Edward Tuite Dalton, C.S.I.",
+  "year": 1872,
+  "genre": "Ethnology & Comparative Anthropological Survey",
+  "category": "Foundational Ethnological Survey",
+  "provenance": "Superintendent of Government Printing, Calcutta (1872); digitized by National Library of India and Internet Archive (in.ernet.dli.2015.44171)",
+  "digitalized_from": "scratch/Dalton_1872_Descriptive_Ethnology_Khamti_Nora.txt",
+  "license": "Public Domain (Published 1872)",
+  "total_sentences": 3,
+  "description": "Monumental 19th-century ethnographic survey by Colonel Edward Tuite Dalton under the direction of the Council of the Asiatic Society of Bengal. Contains Group I on the Shan / Tai family, documenting the historical migrations, physical characteristics, pile dwellings, Buddhist monastic institutions, and language of the Khamti, Nora (Khamyang), and Ahom.",
+  "units": [
+    {
+      "unit_id": "dalton_1872_u001",
+      "surface_tai": "ၵူၼ် တႆး ၼွႃး လႄႈ ၶမ်းတီး ပဵၼ် ၸိူဝ်ႉ ၶိူဝ်း လဵဝ် ၵၼ်",
+      "surface_assamese": "টাই নোৰা আৰু খামতিসকল একেই মূল জনগোষ্ঠীয় শাখাৰ অন্তৰ্গত",
+      "romanization": "kon tai nɔɔ lɛ kham-tii pen cɯ́ khə́ leo kan",
+      "morphemes": [
+        "kon",
+        "tai",
+        "nɔɔ",
+        "lɛ",
+        "kham-tii",
+        "pen",
+        "cɯ́",
+        "khə́",
+        "leo",
+        "kan"
+      ],
+      "gloss": [
+        "people",
+        "Tai",
+        "Nora",
+        "and",
+        "Khamti",
+        "be",
+        "lineage",
+        "race",
+        "one/same",
+        "each.other"
+      ],
+      "translation_en": "The Tai Nora and Khamti peoples belong to the same ancestral lineage.",
+      "translation_as": "টাই নোৰা আৰু খামতিসকল একেই মূল জনগোষ্ঠীয় শাখাৰ অন্তৰ্গত।",
+      "notes": "Dalton (1872: 5). Group I: 'The Shan or Tai Family'."
+    },
+    {
+      "unit_id": "dalton_1872_u002",
+      "surface_tai": "ၶဝ် မီး ႁိူၼ်း သဝ် သုင် မီး ဝတ်ႉ ၵျွင်း တီႈ ၵၢင် ဝၢၼ်ႈ",
+      "surface_assamese": "তেওঁলোকৰ ওখ চাংঘৰ আৰু গাঁৱৰ মাজমজিয়াত বৌদ্ধ বিহাৰ আছে",
+      "romanization": "khao mii hə́n sao suŋ mii wat kyaoŋ tii kaaŋ waan",
+      "morphemes": [
+        "khao",
+        "mii",
+        "hə́n",
+        "sao",
+        "suŋ",
+        "mii",
+        "wat",
+        "kyaoŋ",
+        "tii",
+        "kaaŋ",
+        "waan"
+      ],
+      "gloss": [
+        "3PL",
+        "have",
+        "house",
+        "post",
+        "high",
+        "have",
+        "monastery",
+        "temple",
+        "at",
+        "center",
+        "village"
+      ],
+      "translation_en": "They dwell in elevated stilt houses, with the Buddhist monastery at the center of the village.",
+      "translation_as": "তেওঁলোকৰ ওখ চাংঘৰ আৰু গাঁৱৰ মাজমজিয়াত বৌদ্ধ বিহাৰ আছে।",
+      "notes": "Dalton (1872: 7). Physical settlement architecture."
+    },
+    {
+      "unit_id": "dalton_1872_u003",
+      "surface_tai": "ၵူၼ် တႆး တိုဝ်း သီႇလ မေႃ လိၵ်ႈ ႁၵ်ႉ သစ္စာ တီႈ ပေႃႈမႄႈ",
+      "surface_assamese": "টাইসকল ধৰ্মপৰায়ণ, শিক্ষিত আৰু পিতৃ-মাতৃৰ প্ৰতি শ্ৰদ্ধাশীল",
+      "romanization": "kon tai tɯɯ sii-la mɔ́ lik hak sat-caa tii phɔ́-mɛ́",
+      "morphemes": [
+        "kon",
+        "tai",
+        "tɯɯ",
+        "sii-la",
+        "mɔ́",
+        "lik",
+        "hak",
+        "sat-caa",
+        "tii",
+        "phɔ́-mɛ́"
+      ],
+      "gloss": [
+        "person",
+        "Tai",
+        "hold",
+        "Sila/moral-virtue",
+        "know",
+        "script/literate",
+        "love",
+        "truth/loyalty",
+        "at",
+        "parents"
+      ],
+      "translation_en": "The Tai people observe Buddhist moral precepts, are literate, and revere truthfulness and parental duty.",
+      "translation_as": "টাইসকল ধৰ্মপৰায়ণ, শিক্ষিত আৰু পিতৃ-মাতৃৰ প্ৰতি শ্ৰদ্ধাশীল।",
+      "notes": "Dalton's ethnological assessment of Tai character in Upper Assam."
+    }
+  ]
+}

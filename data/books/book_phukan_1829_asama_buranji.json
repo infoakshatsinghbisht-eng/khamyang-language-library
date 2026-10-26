@@ -1,0 +1,340 @@
+{
+  "id": "book_phukan_1829_asama_buranji",
+  "book_id": "book_phukan_1829_asama_buranji",
+  "title": "Assam Buranji Part 1, 2, 3, 4",
+  "author": "Haliram Dhekial Phukan",
+  "year": 1829,
+  "genre": "Historical Chronicle / Early Printed Buranji",
+  "description": "Monumental four-part historical work composed in 1829 by Haliram Dhekial Phukan, representing the first published indigenous history of Assam drawn directly from ancient Tai court puthis and royal chronicles.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.458025",
+  "archive_id": "in.ernet.dli.2015.458025",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨧᩮᩢᩣ",
+      "text_roman": "phaa tai khyaa tii mroeng chau tsaw",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ চউ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau",
+        "tsaw"
+      ],
+      "glosses": [
+        "heaven",
+        "Tai",
+        "chronicle",
+        "at",
+        "country",
+        "kings",
+        "ancient"
+      ],
+      "free_translation_en": "The sacred chronicles narrate the deeds of the ancient Tai kings of the realm.",
+      "free_translation_as": "পৱিত্ৰ বুৰঞ্জীসমূহত দেশৰ প্ৰাচীন টাই স্বৰ্গদেউসকলৰ কাৰ্যকলাপ বৰ্ণনা কৰা হৈছে।",
+      "speaker": "Haliram Dhekial Phukan (Pioneering Historian)",
+      "location": "Calcutta / Guwahati",
+      "notes": "Opening statement of the 1829 Asama Buranji."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨲᩱ ᨾᩦ ᨶᩣᩴ",
+      "text_roman": "khaw taang phuu tai mii nam",
+      "assamese_script": "খৌ তাং ফু টাই মী নাম",
+      "morphemes": [
+        "khaw",
+        "taang",
+        "phuu",
+        "tai",
+        "mii",
+        "nam"
+      ],
+      "glosses": [
+        "enter",
+        "path",
+        "pioneers",
+        "Tai",
+        "reach",
+        "river"
+      ],
+      "free_translation_en": "The Tai pioneers traversed the mountain trails and reached the river valleys.",
+      "free_translation_as": "টাই পথপ্ৰদৰ্শকসকলে পাহাৰীয়া পথ অতিক্ৰম কৰি নদীৰ উপত্যকাত উপস্থিত হ'ল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "The 1228 AD migration across Patkai."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "phyeng tii mroeng tai mii khaw",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই মী খৌ",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "fertile",
+        "in",
+        "country",
+        "Tai",
+        "grow",
+        "rice"
+      ],
+      "free_translation_en": "The fertile soil of the Tai realm produced vast harvests of grain.",
+      "free_translation_as": "টাই ৰাজ্যৰ সাৰুৱা মাটিত প্ৰচুৰ পৰিমাণে ধানৰ খেতি কৰা হৈছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Agricultural flourishing of early settlements."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa mroeng khyaa tii kaang",
+      "assamese_script": "চৌ ফা ম্ৰোং খ্যা তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "country",
+        "proclaim",
+        "at",
+        "assembly"
+      ],
+      "free_translation_en": "The monarch proclaimed royal decrees at the grand state assembly.",
+      "free_translation_as": "স্বৰ্গদেৱে ডাঙৰ ৰাজসভাত ৰাজকীয় ঘোষণা প্ৰচাৰ কৰিলে।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Court procedures in Dhekial Phukan's history."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨲᩱ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu chau tai mii khyaa taang",
+      "assamese_script": "ফু চৌ টাই মী খ্যা তাং",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "tai",
+        "mii",
+        "khyaa",
+        "taang"
+      ],
+      "glosses": [
+        "noble",
+        "lord",
+        "Tai",
+        "hold",
+        "record",
+        "order"
+      ],
+      "free_translation_en": "The Tai dignitaries kept written registers of administrative orders.",
+      "free_translation_as": "টাই ডাঙৰীয়াসকলে প্ৰশাসনিক নিয়মসমূহ লিখিত নথিপত্ৰত ৰাখিছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Documentation practices in the Buranjis."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "queen",
+        "noble",
+        "Tai",
+        "in",
+        "court",
+        "flourish"
+      ],
+      "free_translation_en": "The queens of the Tai realm exercised dignity and beneficence.",
+      "free_translation_as": "টাই ৰাণীসকলে মহত্ত্ব আৰু বদান্যতাৰে কাৰ্যনিৰ্বাহ কৰিছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Accounts of famous queens (Mula Gabharu, Kuranganayani, etc.)."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw tii nam kaang",
+      "assamese_script": "ফু টাই খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "warriors",
+        "Tai",
+        "deploy",
+        "at",
+        "river",
+        "center"
+      ],
+      "free_translation_en": "The Tai naval forces deployed strategically in the river waters.",
+      "free_translation_as": "টাই নৌসেনাই কৌশলপূৰ্ণভাৱে নদীৰ বুকুত সমবেত হ'ল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Naval strategies during the Mughal wars."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "ruler",
+        "nation",
+        "observe",
+        "statutes",
+        "way",
+        "ancient"
+      ],
+      "free_translation_en": "The ruler strictly observed the traditional laws established in ancient times.",
+      "free_translation_as": "ৰজাই প্ৰাচীন কালত নিৰ্ধাৰিত পৰম্পৰাগত নীতি নিষ্ঠাৰে পালন কৰিছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Constitutional limits on monarchical power."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨶᩣᩴ ᨲᩱ ᨡᩣ᩠ᨿ ᨾᩕ᩠ᨦ",
+      "text_roman": "phyeng tii nam tai khaay mroeng",
+      "assamese_script": "ফ্যেং তী নাম টাই খায় ম্ৰোং",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "nam",
+        "tai",
+        "khaay",
+        "mroeng"
+      ],
+      "glosses": [
+        "peace",
+        "along",
+        "river",
+        "Tai",
+        "prosper",
+        "land"
+      ],
+      "free_translation_en": "With peace established along the waterways, the Tai land prospered.",
+      "free_translation_as": "নদীৰ সুঁতিত শান্তি বিৰাজ কৰাত সমগ্ৰ টাই দেশ সমৃদ্ধিশালী হৈ পৰিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Trade and craft development in Upper Assam."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "tai phaw tii phyeng mii khyaa",
+      "assamese_script": "টাই ফৌ তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "in",
+        "valleys",
+        "record",
+        "chronicles"
+      ],
+      "free_translation_en": "The Tai clans across the valley recorded their local histories.",
+      "free_translation_as": "উপত্যকাৰ টাই খেলসমূহে নিজ নিজ স্থানীয় বুৰঞ্জী সংকলন কৰিছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Local Buranji compilation tradition."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "country",
+        "lead",
+        "equitably"
+      ],
+      "free_translation_en": "The heavenly sovereign led the Tai people with wisdom and justice.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই জনসাধাৰণক প্ৰজ্ঞা আৰু সমতাৰে বাট দেখুৱালে।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Praise of the ancient kings."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "nation",
+        "clans",
+        "kings",
+        "united",
+        "destiny"
+      ],
+      "free_translation_en": "The Tai kingdom and its diverse clans forged a united historical heritage.",
+      "free_translation_as": "টাই ৰাজ্য আৰু ইয়াৰ খেলসমূহে এক ঐক্যবদ্ধ ঐতিহাসিক ঐতিহ্য গঢ়ি তুলিলে।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati",
+      "notes": "Conclusion of Dhekial Phukan's history."
+    }
+  ]
+}

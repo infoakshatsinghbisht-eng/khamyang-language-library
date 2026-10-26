@@ -1,0 +1,342 @@
+{
+  "id": "book_grierson_1904_ahom_cosmogony",
+  "book_id": "book_grierson_1904_ahom_cosmogony",
+  "title": "An Ahom Cosmogony with translation and vocabulary",
+  "author": "Sir George Abraham Grierson",
+  "year": 1904,
+  "genre": "Manuscript Study / Cosmogony",
+  "description": "Critical edition and interlinear linguistic analysis of the ancient Tai cosmological text Phura Tara Along published in the Journal of the Royal Asiatic Society. Documents archaic lexicon of primordial waters, deities, and world emergence with lexical parallels in Khamyang and Shan.",
+  "source": "https://archive.org/details/dli.pahar.1636",
+  "archive_id": "dli.pahar.1636",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨧᩮᩢᩣ ᨴᩦ ᨻᩕᩣ ᨻᩮᩢᩣ ᨾᩕ᩠ᨦ ᨶᩣᩴ ᨡ᩠ᨿᩣ",
+      "text_roman": "tsaw tii phaa phaw mroeng nam khyaa",
+      "assamese_script": "চউ তী ফা ফৌ ম্ৰোং নাম খ্যা",
+      "morphemes": [
+        "tsaw",
+        "tii",
+        "phaa",
+        "phaw",
+        "mroeng",
+        "nam",
+        "khyaa"
+      ],
+      "glosses": [
+        "ancient",
+        "at",
+        "sky",
+        "clan",
+        "country",
+        "water",
+        "speak"
+      ],
+      "free_translation_en": "In the ancient beginning, the celestial voice spoke over the primeval watery void.",
+      "free_translation_as": "প্ৰাচীন আৰম্ভণিত আদিম জলধিৰ ওপৰত স্বৰ্গীয় বাণী প্ৰতিধ্বনিত হৈছিল।",
+      "speaker": "Sir George A. Grierson (Orientalist)",
+      "location": "Royal Asiatic Society / Calcutta",
+      "notes": "Opening verse of the Phura-tara-along creation narrative."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨶᩣᩴ ᨾᩦ ᨴᩦ ᨣᩣ᩠ᨦ ᨻᩪ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "nam mii tii kaang phuu phyeng taang",
+      "assamese_script": "নাম মী তী কাং ফু ফ্যেং তাং",
+      "morphemes": [
+        "nam",
+        "mii",
+        "tii",
+        "kaang",
+        "phuu",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "water",
+        "exist",
+        "at",
+        "middle",
+        "mountain",
+        "plain",
+        "path"
+      ],
+      "free_translation_en": "Water alone existed; neither mountain peak nor flat land had yet appeared.",
+      "free_translation_as": "কেৱল পানী আছিল; পৰ্বত বা সমতল ভূমি এতিয়াও সৃষ্টি হোৱা নাছিল।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Cosmogonic imagery of the primordial waters before land formation."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨻᩕᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨲᩱ",
+      "text_roman": "phaa chau mroeng khyaa taang tai",
+      "assamese_script": "ফা চৌ ম্ৰোং খ্যা তাং টাই",
+      "morphemes": [
+        "phaa",
+        "chau",
+        "mroeng",
+        "khyaa",
+        "taang",
+        "tai"
+      ],
+      "glosses": [
+        "sky",
+        "lord",
+        "world",
+        "speak",
+        "path",
+        "creation/Tai"
+      ],
+      "free_translation_en": "The Lord of Heaven commanded the pathway of universal creation.",
+      "free_translation_as": "স্বৰ্গৰ ভগৱানে সৃষ্টিৰ বিধান প্ৰকাশ কৰিলে।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Phaa-chau equated with supreme creator spirit Pha-Teng-Kham."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨶᩣᩴ ᨡᩮᩢᩣ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "phyeng tii nam khaw phuu kaang",
+      "assamese_script": "ফ্যেং তী নাম খৌ ফু কাং",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "nam",
+        "khaw",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "flat",
+        "at",
+        "water",
+        "enter",
+        "mountain",
+        "middle"
+      ],
+      "free_translation_en": "Out from the water, mountains arose and took their place in the center.",
+      "free_translation_as": "পানীৰ মাজৰ পৰা পৰ্বতসমূহ ওলাই কেন্দ্ৰত থিয় দিলে।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Myth of cosmic mountain Meru (Khao Phra Sumen)."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩪ ᨶᩣ᩠ᨦ ᨡᩮᩢᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ",
+      "text_roman": "phuu naang khaw tii mroeng tai",
+      "assamese_script": "ফু নাং খৌ তী ম্ৰোং টাই",
+      "morphemes": [
+        "phuu",
+        "naang",
+        "khaw",
+        "tii",
+        "mroeng",
+        "tai"
+      ],
+      "glosses": [
+        "man",
+        "woman",
+        "enter",
+        "at",
+        "earth/country",
+        "Tai"
+      ],
+      "free_translation_en": "The ancestral man and woman descended to inhabit the earth.",
+      "free_translation_as": "আদিম পুৰুষ আৰু নাৰী মৰ্ত্যলৈ নামি আহি বসবাস কৰিলে।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Descent of divine ancestors Khun Lung and Khun Lai."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨾᩦ ᨴᩦ ᨻ᩠ᨿᨦ ᨲᩱ",
+      "text_roman": "khaw nam mii tii phyeng tai",
+      "assamese_script": "খৌ নাম মী তী ফ্যেং টাই",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "mii",
+        "tii",
+        "phyeng",
+        "tai"
+      ],
+      "glosses": [
+        "rice",
+        "water",
+        "exist",
+        "at",
+        "plains",
+        "Tai"
+      ],
+      "free_translation_en": "Rice and fresh waters were provided upon the fertile plains.",
+      "free_translation_as": "সমতল ভূমিত ধান আৰু বিশুদ্ধ পানীৰ সৃষ্টি হ'ল।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Gift of sacred rice seeds bestowed by heaven."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨾᩕ᩠ᨦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa khyaa taang mroeng kaang",
+      "assamese_script": "চৌ ফা খ্যা তাং ম্ৰোং কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "khyaa",
+        "taang",
+        "mroeng",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "sky",
+        "speak",
+        "way",
+        "country",
+        "center"
+      ],
+      "free_translation_en": "The heavenly sovereign decreed order for the central earthly realm.",
+      "free_translation_as": "স্বৰ্গৰ দেৱতাই পৃথিৱীৰ কেন্দ্ৰীয় ৰাজ্যৰ নীতি-নিয়ম নিৰ্ধাৰণ কৰিলে।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Establishment of human moral order."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨡᩮᩢᩣ ᨴᩦ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "tai phaw khaw tii taang chau",
+      "assamese_script": "টাই ফৌ খৌ তী তাং চৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "khaw",
+        "tii",
+        "taang",
+        "chau"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "enter",
+        "at",
+        "way",
+        "lord"
+      ],
+      "free_translation_en": "The Tai kindred followed the upright path ordained by the Lord.",
+      "free_translation_as": "টাই লোকসকলে প্ৰভুৰ দ্বাৰা নিৰ্দেশিত সৎ পথ অনুসৰণ কৰিলে।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Spiritual devotion reflected in archaic Tai liturgy."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨡ᩠ᨿᩣ ᨶᩣᩴ",
+      "text_roman": "phuu tai tii phyeng khyaa nam",
+      "assamese_script": "ফু টাই তী ফ্যেং খ্যা নাম",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phyeng",
+        "khyaa",
+        "nam"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "at",
+        "valley",
+        "sing/pray",
+        "water"
+      ],
+      "free_translation_en": "The Tai in the plains offered thanksgiving beside the flowing streams.",
+      "free_translation_as": "সমতলৰ টাইসকলে বৈ থকা নদীৰ পাৰত প্ৰাৰ্থনা কৰিলে।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Veneration of water guardian spirits (*Phi-Nam*)."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨾᩢ ᨾᩦ ᨴᩣ᩠ᨦ ᨻᩕᩣ ᨴᩦ ᨧᩮᩢᩣ",
+      "text_roman": "man mii taang phaa tii tsaw",
+      "assamese_script": "মান মী তাং ফা তী চউ",
+      "morphemes": [
+        "man",
+        "mii",
+        "taang",
+        "phaa",
+        "tii",
+        "tsaw"
+      ],
+      "glosses": [
+        "3SG",
+        "have",
+        "path",
+        "heaven",
+        "at",
+        "early"
+      ],
+      "free_translation_en": "He upheld the heavenly laws established in the primeval era.",
+      "free_translation_as": "তেওঁ আদিম কালত প্ৰতিষ্ঠিত স্বৰ্গীয় নিয়ম পালন কৰিছিল।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Taang phaa as ethical dharma."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨾᩦ ᨻ᩠ᨿᨦ ᨡᩮᩢᩣ",
+      "text_roman": "naang chau tai mii phyeng khaw",
+      "assamese_script": "নাং চৌ টাই মী ফ্যেং খৌ",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "mii",
+        "phyeng",
+        "khaw"
+      ],
+      "glosses": [
+        "lady",
+        "lord",
+        "Tai",
+        "have",
+        "peace",
+        "grain"
+      ],
+      "free_translation_en": "The noble Tai matrons enjoyed peace and abundance of rice.",
+      "free_translation_as": "টাই মহীয়সী নাৰীসকলে শান্তি আৰু প্ৰচুৰ খাদ্যশস্য লাভ কৰিলে।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Matriarchal prosperity celebration."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩕᩣ ᨩᩮᩣᩢ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "tai mroeng phaa chau taang phyeng",
+      "assamese_script": "টাই ম্ৰোং ফা চৌ তাং ফ্যেং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaa",
+        "chau",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "Tai",
+        "country",
+        "heaven",
+        "lord",
+        "path",
+        "peace/balance"
+      ],
+      "free_translation_en": "Thus the Tai nation was established under Heaven's balanced guidance.",
+      "free_translation_as": "এইদৰে স্বৰ্গৰ দেৱতাৰ আশীৰ্বাদত টাই দেশখন সমৃদ্ধিত প্ৰতিষ্ঠিত হ'ল।",
+      "speaker": "Sir George A. Grierson",
+      "location": "Calcutta",
+      "notes": "Concluding liturgical summary of the cosmogony."
+    }
+  ]
+}

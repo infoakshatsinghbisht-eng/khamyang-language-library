@@ -1,0 +1,342 @@
+{
+  "id": "book_cushing_1886_shan_mission",
+  "book_id": "book_cushing_1886_shan_mission",
+  "title": "The Shan Mission",
+  "author": "Rev. Josiah Nelson Cushing",
+  "year": 1886,
+  "genre": "Historical Missionary Report / Linguistics",
+  "description": "Historical field account by Rev. J. N. Cushing documenting the creation of the first movable metal fonts for Lik Tai script, lexicographical fieldwork in the Shan States, and linguistic connections with Tai communities across Upper Burma and Assam.",
+  "source": "https://archive.org/details/shanmission00cush",
+  "archive_id": "shanmission00cush",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨲᩱ ᨴᩦ ᨾᩕ᩠ᨦ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phaa khyaa tai tii mroeng mii taang",
+      "assamese_script": "ফা খ্যা টাই তী ম্ৰোং মী তাং",
+      "morphemes": [
+        "phaa",
+        "khyaa",
+        "tai",
+        "tii",
+        "mroeng",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "sacred",
+        "script",
+        "Tai",
+        "in",
+        "country",
+        "spread",
+        "way"
+      ],
+      "free_translation_en": "The printed Tai script spread widely across the towns of the region.",
+      "free_translation_as": "ছপা কৰা টাই লিপিয়ে সমগ্ৰ অঞ্চলটোৰ চহৰসমূহত দ্ৰুত প্ৰসাৰ লাভ কৰিলে।",
+      "speaker": "Rev. J. N. Cushing (Lexicographer & Translator)",
+      "location": "Rangoon / Toungoo",
+      "notes": "Introduction of movable metal type for Lik Tai."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ ᨴᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "phuu tai khyaa taang tsaw tii phyeng",
+      "assamese_script": "ফু টাই খ্যা তাং চউ তী ফ্যেং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "taang",
+        "tsaw",
+        "tii",
+        "phyeng"
+      ],
+      "glosses": [
+        "scholars",
+        "Tai",
+        "inscribe",
+        "tradition",
+        "ancient",
+        "on",
+        "palm_leaf"
+      ],
+      "free_translation_en": "Tai traditional scribes had preserved their literature on palm-leaf manuscripts.",
+      "free_translation_as": "টাই পৰম্পৰাগত পণ্ডিতে সাঁচিপাতত নিজৰ সাহিত্য সংৰক্ষণ কৰি ৰাখিছিল।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Toungoo",
+      "notes": "Palm-leaf manuscript (*Lik Bai Lan*) scribing traditions."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "tai phaw tii nam mii khyaa",
+      "assamese_script": "টাই ফৌ তী নাম মী খ্যা",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "Tai",
+        "clans",
+        "at",
+        "river",
+        "possess",
+        "ballads"
+      ],
+      "free_translation_en": "The Tai riverside communities possessed rich collections of metrical songs.",
+      "free_translation_as": "নৈপৰীয়া টাই সমাজসমূহত ছন্দোবদ্ধ গীতৰ চহকী ভঁৰাল আছিল।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Shan Plateau",
+      "notes": "Collection of traditional poetry."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa mroeng khyaa tii kaang",
+      "assamese_script": "চৌ ফা ম্ৰোং খ্যা তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "prince/saopha",
+        "heaven",
+        "domain",
+        "welcome",
+        "in",
+        "residence"
+      ],
+      "free_translation_en": "The Saopha princes welcomed scholars into their palace residences.",
+      "free_translation_as": "চৌফা ৰাজকুমাৰসকলে পণ্ডিতসকলক ৰাজপ্ৰাসাদলৈ সাদৰে নিমন্ত্ৰণ জনাইছিল।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Hsipaw",
+      "notes": "Hospitality in the Shan courts."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "khaw nam taang tai phyeng mii",
+      "assamese_script": "খৌ নাম তাং টাই ফ্যেং মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "tai",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "grain",
+        "water",
+        "way",
+        "Tai",
+        "peace",
+        "bring"
+      ],
+      "free_translation_en": "Agricultural prosperity sustained vibrant cultural and literary activities.",
+      "free_translation_as": "কৃষিৰ সমৃদ্ধিয়ে এক সমৃদ্ধ সাংস্কৃতিক আৰু সাহিত্যিক জীৱনক সহায় কৰিলে।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Toungoo",
+      "notes": "Economic foundation of scribal culture."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨡ᩠ᨿᩣ",
+      "text_roman": "naang chau tai tii phyeng khyaa",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং খ্যা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "khyaa"
+      ],
+      "glosses": [
+        "princess",
+        "noble",
+        "Tai",
+        "in",
+        "court",
+        "patronize"
+      ],
+      "free_translation_en": "Noble Tai princesses actively patronized the copyists of scriptures.",
+      "free_translation_as": "টাই ৰাজকুমাৰীসকলে শাস্ত্ৰ নকলকাৰী পণ্ডিতসকলক পৃষ্ঠপোষকতা আগবঢ়াইছিল।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Mone",
+      "notes": "Female patronage of manuscript production."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang phuu kaang",
+      "assamese_script": "ফু টাই খৌ তাং ফু কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "travelers",
+        "Tai",
+        "cross",
+        "trails",
+        "mountain",
+        "passes"
+      ],
+      "free_translation_en": "Expeditions crossed the high mountain trails to document remote dialects.",
+      "free_translation_as": "দুৰ্গম উপভাষাসমূহ নথিভুক্ত কৰিবলৈ পণ্ডিতসকলে পাহাৰীয়া গিৰিপথ অতিক্ৰম কৰিছিল।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Shan Hills",
+      "notes": "Linguistic surveys across mountain borders."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "rulers",
+        "state",
+        "possess",
+        "chronicles",
+        "way",
+        "ancient"
+      ],
+      "free_translation_en": "The rulers preserved venerable genealogical records of their families.",
+      "free_translation_as": "ৰজাসকলে তেওঁলোকৰ পৰিয়ালৰ প্ৰাচীন বংশাৱলী সংৰক্ষণ কৰি ৰাখিছিল।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Kengtung",
+      "notes": "Dynastic archives."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "fertile",
+        "in",
+        "valleys",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "Peaceful valleys rewarded the people with abundant crops.",
+      "free_translation_as": "শান্তিপূৰ্ণ উপত্যকাই লোকসকলক প্ৰচুৰ শস্যেৰে পুৰস্কৃত কৰিলে।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Toungoo",
+      "notes": "Agrarian descriptions."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "with",
+        "villagers",
+        "maintain",
+        "friendship"
+      ],
+      "free_translation_en": "The Tai people maintained lifelong friendship with visiting linguists.",
+      "free_translation_as": "টাই লোকসকলে ভ্ৰমণকাৰী ভাষাবিদসকলৰ সৈতে আজীৱন বন্ধুত্ব ৰক্ষা কৰিছিল।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Toungoo",
+      "notes": "Native informants and collaborators."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "sacred",
+        "teaching",
+        "Tai",
+        "country",
+        "path",
+        "harmony"
+      ],
+      "free_translation_en": "The sacred moral teachings fostered peace and goodwill throughout the state.",
+      "free_translation_as": "পৱিত্ৰ নৈতিক শিক্ষাই সমগ্ৰ ৰাজ্যত শান্তি আৰু সদ্ভাৱ বৃদ্ধি কৰিলে।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Toungoo",
+      "notes": "Moral influence of literature."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "alphabet",
+        "literature",
+        "heritage",
+        "flourish",
+        "future"
+      ],
+      "free_translation_en": "The printed Tai alphabet assured that their literature would endure for future generations.",
+      "free_translation_as": "মুদ্ৰিত টাই লিপিয়ে নিশ্চিত কৰিলে যে এই সাহিত্য ভৱিষ্যত প্ৰজন্মৰ বাবে জীয়াই থাকিব।",
+      "speaker": "Rev. J. N. Cushing",
+      "location": "Toungoo",
+      "notes": "Conclusion of The Shan Mission."
+    }
+  ]
+}

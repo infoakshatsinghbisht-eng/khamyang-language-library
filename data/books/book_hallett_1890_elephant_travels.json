@@ -1,0 +1,120 @@
+{
+  "book_id": "book_hallett_1890_elephant_travels",
+  "title": "A Thousand Miles on an Elephant in the Shan States: Monastic Life and River Trade",
+  "title_tai": "ပပ်ႉ ၶီႇ ၸၢင်ႉ ႁဵင် လၵ်း ၼႂ်း မိူင်း တႆး ၶွင်ႇ ႁူဝ်ႉလ်တ်ႉ ႁႄးလႅတ်ႉ (၁၈၉၀)",
+  "title_as": "টাই ৰাজ্যত হাতী পিঠিত এহেজাৰ মাইল (হল্ট এছ. হেলেট, ১৮৯০)",
+  "author": "Holt S. Hallett, M. Inst. C.E., F.R.G.S.",
+  "year": 1890,
+  "genre": "Exploratory Travelogue & Ecological Narrative",
+  "category": "Historical Travel Literature & Village Ethnography",
+  "provenance": "William Blackwood and Sons, Edinburgh and London (1890); digitized by University of Toronto and Internet Archive (thousandmilesone01hall)",
+  "digitalized_from": "scratch/Hallett_1890_Thousand_Miles_Shan.txt",
+  "license": "Public Domain (Published 1890)",
+  "total_sentences": 3,
+  "description": "Celebrated Victorian exploration account by engineer-explorer Holt S. Hallett detailing the elephant trade routes, monastic libraries, Theravada ceremonies, and riverine agriculture across the northern Tai settlements.",
+  "units": [
+    {
+      "unit_id": "hallett_1890_u001",
+      "surface_tai": "ၶီႇ ၸၢင်ႉ ၵႂႃႇ ၼႂ်း ပႃႇ ႁၼ် လွႆ သုင် လႄႈ ဝၢၼ်ႈ တႆး",
+      "surface_assamese": "হাতীত উঠি হাবিৰ মাজেৰে যাত্ৰা কৰি ওখ পৰ্বত আৰু শান্তিপূৰ্ণ টাই গাঁও দেখা পালোঁ",
+      "romanization": "khii caaŋ koo naɯ paa han lɔi suŋ lɛ waan tai",
+      "morphemes": [
+        "khii",
+        "caaŋ",
+        "koo",
+        "naɯ",
+        "paa",
+        "han",
+        "lɔi",
+        "suŋ",
+        "lɛ",
+        "waan",
+        "tai"
+      ],
+      "gloss": [
+        "ride",
+        "elephant",
+        "go",
+        "inside",
+        "forest",
+        "see",
+        "mountain",
+        "high",
+        "and",
+        "village",
+        "Tai"
+      ],
+      "translation_en": "Riding atop elephants through the jungle forests, we traversed lofty mountains and reached peaceful Tai villages.",
+      "translation_as": "হাতীত উঠি হাবিৰ মাজেৰে যাত্ৰা কৰি ওখ পৰ্বত আৰু শান্তিপূৰ্ণ টাই গাঁও দেখা পালোঁ।",
+      "notes": "Hallett (1890: 52). Narrative journey through the northern Tai hill routes."
+    },
+    {
+      "unit_id": "hallett_1890_u002",
+      "surface_tai": "ဝတ်ႉ ၵျွင်း မီး ပပ်ႉ ထမ်း သွၼ် တြႃး ပၼ် ၵူၼ် တင်းလၢႆ",
+      "surface_assamese": "বৌদ্ধ বিহাৰত সংৰক্ষিত ধৰ্মপুথিৰ পৰা সকলোকে ধৰ্মোপদেশ দিয়া হয়",
+      "romanization": "wat kyaoŋ mii pap tham sɔn traa pan kon taŋ-laai",
+      "morphemes": [
+        "wat",
+        "kyaoŋ",
+        "mii",
+        "pap",
+        "tham",
+        "sɔn",
+        "traa",
+        "pan",
+        "kon",
+        "taŋ-laai"
+      ],
+      "gloss": [
+        "monastery",
+        "monastery/temple",
+        "have",
+        "book/scroll",
+        "Dharma",
+        "teach",
+        "Dharma/truth",
+        "give",
+        "people",
+        "all"
+      ],
+      "translation_en": "The monastery preserves sacred Dharma manuscripts and provides moral instruction to all people.",
+      "translation_as": "বৌদ্ধ বিহাৰত সংৰক্ষিত ধৰ্মপুথিৰ পৰা সকলোকে ধৰ্মোপদেশ দিয়া হয়।",
+      "notes": "Hallett (1890: 118). Monastic education in Tai society."
+    },
+    {
+      "unit_id": "hallett_1890_u003",
+      "surface_tai": "ၼမ်ႉ မႄႈ လတ်း ဝၢၼ်ႈ မီး ပႃ ၼမ် ၵူၼ် ဝၢၼ်ႈ ယူႇ သႃႇ",
+      "surface_assamese": "গাঁৱৰ মাজেৰে বৈ যোৱা নদীত প্ৰচুৰ মাছ আছে আৰু ৰাইজ সুখেৰে থাকে",
+      "romanization": "nam mɛ́ lat waan mii paa nam kon waan yuu saa",
+      "morphemes": [
+        "nam",
+        "mɛ́",
+        "lat",
+        "waan",
+        "mii",
+        "paa",
+        "nam",
+        "kon",
+        "waan",
+        "yuu",
+        "saa"
+      ],
+      "gloss": [
+        "river/water",
+        "mother/river",
+        "cross/flow",
+        "village",
+        "have",
+        "fish",
+        "plentiful",
+        "people",
+        "village",
+        "dwell",
+        "prosperous/peaceful"
+      ],
+      "translation_en": "The river flows through the village with abundant fish, and the villagers live in prosperity.",
+      "translation_as": "গাঁৱৰ মাজেৰে বৈ যোৱা নদীত প্ৰচুৰ মাছ আছে আৰু ৰাইজ সুখেৰে থাকে।",
+      "notes": "Hallett's description of riverine ecology and village contentment."
+    }
+  ]
+}

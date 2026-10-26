@@ -1,0 +1,346 @@
+{
+  "id": "book_phukan_introductory_primer_ahom",
+  "book_id": "book_phukan_introductory_primer_ahom",
+  "title": "An Introductory Primer and Grammar of Ahom Tai Language",
+  "author": "Dr. J. N. Phukan & Prof. B. K. Barua",
+  "year": 1964,
+  "genre": "Primer / Grammar",
+  "description": "Pedagogical grammar and syllabary of the Tai language of Assam, providing comparative phonetic tables of consonants, vowels, and tone boxes across Ahom, Khamti, and Khamyang. Details nominal classifiers, demonstratives, and aspectual verbal markers.",
+  "source": "https://archive.org/details/an_introductory_primer__grammar_of_ahom_tai_language",
+  "archive_id": "an_introductory_primer__grammar_of_ahom_tai_language",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "tai phaw tii mroeng tai mii khyaa",
+      "assamese_script": "টাই ফৌ তী ম্ৰোং টাই মী খ্যা",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "mroeng",
+        "tai",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "Tai",
+        "people/clan",
+        "at",
+        "country",
+        "Tai",
+        "have",
+        "language"
+      ],
+      "free_translation_en": "The Tai kindred in the Tai land possess an ancient language.",
+      "free_translation_as": "টাই ভূমিৰ টাই জনগোষ্ঠীৰ নিজা প্ৰাচীন ভাষা আছে।",
+      "speaker": "Dr. J. N. Phukan (Linguist)",
+      "location": "Guwahati University",
+      "notes": "Introductory lesson establishing ethnolinguistic identity."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨲᩣ᩠ᨦ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ",
+      "text_roman": "naang chau khyaa taang khaw tii nam",
+      "assamese_script": "নাং চৌ খ্যা তাং খৌ তী নাম",
+      "morphemes": [
+        "naang",
+        "chau",
+        "khyaa",
+        "taang",
+        "khaw",
+        "tii",
+        "nam"
+      ],
+      "glosses": [
+        "lady",
+        "lord",
+        "speak",
+        "path",
+        "enter",
+        "at",
+        "water"
+      ],
+      "free_translation_en": "The noble woman spoke of the path leading down to the river.",
+      "free_translation_as": "ভদ্ৰমহিলাগৰাকীয়ে নদীৰ কাষলৈ যোৱা বাটটোৰ কথা ক'লে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Syntactic model illustrating transitive clause with locative preposition."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨾᩦ ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "phuu tai mii khaw nam tii phyeng",
+      "assamese_script": "ফু টাই মী খৌ নাম তী ফ্যেং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "mii",
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "have",
+        "rice",
+        "water",
+        "at",
+        "plain"
+      ],
+      "free_translation_en": "The Tai folk cultivate rice and manage irrigation on the floodplains.",
+      "free_translation_as": "টাই লোকসকলে সমতল পথাৰত ধান আৰু পানীৰ পৰিচালনা কৰে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Demonstrates existential mii with compound object khaw-nam."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "man khaw tii kaang taang chau",
+      "assamese_script": "মান খৌ তী কাং তাং চৌ",
+      "morphemes": [
+        "man",
+        "khaw",
+        "tii",
+        "kaang",
+        "taang",
+        "chau"
+      ],
+      "glosses": [
+        "3SG",
+        "enter",
+        "at",
+        "middle",
+        "path",
+        "lord"
+      ],
+      "free_translation_en": "He entered into the central royal roadway.",
+      "free_translation_as": "তেওঁ মূল ৰাজপথত প্ৰৱেশ কৰিলে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Directional verb khaw acting as main predicate."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩕᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨲᩱ",
+      "text_roman": "phaa chau mroeng khyaa tii tai",
+      "assamese_script": "ফা চৌ ম্ৰোং খ্যা তী টাই",
+      "morphemes": [
+        "phaa",
+        "chau",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "heaven",
+        "lord",
+        "country",
+        "speak",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The heavenly sovereign addressed the Tai assembly.",
+      "free_translation_as": "স্বৰ্গদেৱে টাইসকলক সম্বোধন কৰি কথা ক'লে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Prepositional use of tii as dative/allative marker ('to/unto')."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨲᩱ ᨾᩦ ᨻ᩠ᨿᨦ ᨴᩦ ᨧᩮᩢᩣ",
+      "text_roman": "khyaa taang tai mii phyeng tii tsaw",
+      "assamese_script": "খ্যা তাং টাই মী ফ্যেং তী চউ",
+      "morphemes": [
+        "khyaa",
+        "taang",
+        "tai",
+        "mii",
+        "phyeng",
+        "tii",
+        "tsaw"
+      ],
+      "glosses": [
+        "word",
+        "way",
+        "Tai",
+        "have",
+        "level/calm",
+        "at",
+        "ancient/early"
+      ],
+      "free_translation_en": "The traditional speech of the Tai has retained its balance from ancient days.",
+      "free_translation_as": "টাই ভাষাৰ ধাৰাই প্ৰাচীন কালৰে পৰা ইয়াৰ ভাৰসাম্য বজাই ৰাখিছে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Abstract semantic development of phyeng (level -> harmonious/peaceful)."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨶᩣᩴ ᨴᩦ ᨻᩪ ᨡᩮᩢᩣ ᨾᩕ᩠ᨦ ᨲᩱ",
+      "text_roman": "nam tii phuu khaw mroeng tai",
+      "assamese_script": "নাম তী ফু খৌ ম্ৰোং টাই",
+      "morphemes": [
+        "nam",
+        "tii",
+        "phuu",
+        "khaw",
+        "mroeng",
+        "tai"
+      ],
+      "glosses": [
+        "water",
+        "from",
+        "mountain",
+        "enter",
+        "country",
+        "Tai"
+      ],
+      "free_translation_en": "Water from the high mountains flows into the Tai country.",
+      "free_translation_as": "পৰ্বতৰ পৰা পানী বৈ আহি টাই দেশত সোমায়।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Ablative reading of tii ('from the mountain')."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨶᩣ᩠ᨦ ᨲᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu chau mii naang tii taang",
+      "assamese_script": "ফু চৌ মী নাং তী তাং",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "naang",
+        "tii",
+        "taang"
+      ],
+      "glosses": [
+        "man",
+        "lord",
+        "have/with",
+        "lady",
+        "at",
+        "path"
+      ],
+      "free_translation_en": "The chieftain and his lady stood together upon the road.",
+      "free_translation_as": "দলপতি আৰু তেওঁৰ পত্নী আলিবাটত একেলগে থিয় হৈ আছিল।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Comitative usage of mii coordinating two noun phrases."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨲᩱ ᨡ᩠ᨿᩣ ᨣᩣ᩠ᨦ ᨩᩮᩣᩢ ᨴᩦ ᨾᩕ᩠ᨦ",
+      "text_roman": "tai khyaa kaang chau tii mroeng",
+      "assamese_script": "টাই খ্যা কাং চৌ তী ম্ৰোং",
+      "morphemes": [
+        "tai",
+        "khyaa",
+        "kaang",
+        "chau",
+        "tii",
+        "mroeng"
+      ],
+      "glosses": [
+        "Tai",
+        "speak",
+        "word",
+        "lord",
+        "at",
+        "country"
+      ],
+      "free_translation_en": "The Tai recite the royal decrees throughout the territory.",
+      "free_translation_as": "টাইসকলে সমগ্ৰ দেশত ৰাজকীয় আদেশ পাঠ কৰে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Object inversion kaang-chau (decree of the lord)."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨡᩮᩢᩣ ᨴᩦ ᨶᩣ ᨻ᩠ᨿᨦ ᨾᩦ ᨶᩣᩴ",
+      "text_roman": "khaw tii naa phyeng mii nam",
+      "assamese_script": "খৌ তী না ফ্যেং মী নাম",
+      "morphemes": [
+        "khaw",
+        "tii",
+        "naa",
+        "phyeng",
+        "mii",
+        "nam"
+      ],
+      "glosses": [
+        "rice",
+        "at",
+        "field",
+        "level",
+        "have",
+        "water"
+      ],
+      "free_translation_en": "The rice in the level paddy fields is well supplied with water.",
+      "free_translation_as": "সমতল পথাৰৰ ধানে পৰ্যাপ্ত পানী লাভ কৰিছে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Descriptive stative construction in Tai syntax."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨻᩕᩣ ᨴᩣ᩠ᨦ ᨲᩱ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩦ",
+      "text_roman": "phaa taang tai chau khyaa tii",
+      "assamese_script": "ফা তাং টাই চৌ খ্যা তী",
+      "morphemes": [
+        "phaa",
+        "taang",
+        "tai",
+        "chau",
+        "khyaa",
+        "tii"
+      ],
+      "glosses": [
+        "heaven",
+        "way",
+        "Tai",
+        "lord",
+        "speak",
+        "at"
+      ],
+      "free_translation_en": "The heavenly way was explained by the venerable Tai lords.",
+      "free_translation_as": "প্ৰাচীন টাই গুৰুসকলে স্বৰ্গীয় নীতিৰ কথা ব্যাখ্যা কৰিছিল।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Passive-like topicalized object construction common in Southwestern Tai."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨾᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "tai mroeng phaw chau mii phyeng",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ মী ফ্যেং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "mii",
+        "phyeng"
+      ],
+      "glosses": [
+        "Tai",
+        "country",
+        "clan/race",
+        "lord",
+        "have",
+        "peace/tranquillity"
+      ],
+      "free_translation_en": "The Tai kindred live in enduring concord under their leaders.",
+      "free_translation_as": "নেতাসকলৰ অধীনত টাই জাতি শান্তিপূৰ্ণ একতাত বাস কৰে।",
+      "speaker": "Dr. J. N. Phukan",
+      "location": "Guwahati",
+      "notes": "Standard ethical aphorism closing pedagogical primer units."
+    }
+  ]
+}

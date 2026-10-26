@@ -1,0 +1,149 @@
+{
+  "book_id": "book_grierson_1904_khamti_specimen",
+  "title": "Linguistic Survey of India: The Khamti and Comparative Tai Texts",
+  "title_tai": "လိၵ်ႈ သုၼ်ႇႁႃ ၽႃႇသႃႇ ဢိၼ်းတီးယႃး - တႆး ၶမ်းတီး ၶွင်ႇ သႃႇ ၵျွတ်ႉၸ် ၵရီႇယႃႇသႅၼ်ႇ",
+  "title_as": "ভাৰতীয় ভাষাতাত্ত্বিক জৰীপ: খামতি আৰু তুলনামূলক টাই সাহিত্য (ছাৰ জৰ্জ গ্ৰিয়াৰ্চন, ১৯০৪)",
+  "author": "Sir George Abraham Grierson, K.C.I.E.",
+  "year": 1904,
+  "genre": "Comparative Grammar & Standard Specimen Narrative",
+  "category": "Foundational Survey & Standard Linguistic Specimen",
+  "provenance": "Government of India Printing Office, Calcutta (1904), Vol. II; digitized by DLI and Internet Archive (in.ernet.dli.2015.12903)",
+  "digitalized_from": "scratch/Grierson_LSI_Vol_2_True.txt",
+  "license": "Public Domain (Published 1904)",
+  "total_sentences": 4,
+  "description": "Foundational comparative linguistic survey by Sir George Grierson recording the standard specimen text of the Khamti and Assam Tai dialects with interlinear grammatical analysis, demonstrating common roots with Nora and Ahom.",
+  "units": [
+    {
+      "unit_id": "grierson_khamti_u001",
+      "surface_tai": "ၵူၼ် ၵေႃႉ ၼိုင်ႈ မီး လုၵ်ႈ ၸၢႆး သွင် ၵေႃႉ",
+      "surface_assamese": "এজন মানুহৰ দুজন পুতেক আছিল",
+      "romanization": "kon kɔ́ nɯŋ mii luk caai sɔ́ŋ kɔ́",
+      "morphemes": [
+        "kon",
+        "kɔ́",
+        "nɯŋ",
+        "mii",
+        "luk",
+        "caai",
+        "sɔ́ŋ",
+        "kɔ́"
+      ],
+      "gloss": [
+        "person",
+        "CLF",
+        "one",
+        "have",
+        "child",
+        "male",
+        "two",
+        "CLF"
+      ],
+      "translation_en": "A certain man had two sons.",
+      "translation_as": "এজন মানুহৰ দুজন পুতেক আছিল।",
+      "notes": "Grierson (1904: 146). The opening sentence of the universal LSI comparative text."
+    },
+    {
+      "unit_id": "grierson_khamti_u002",
+      "surface_tai": "လုၵ်ႈ ဢွၼ်ႇ ၸၢႆး ဢွၼ်ႇ လၢတ်ႈ တီႈ ပေႃႈ ပၼ် ပုၼ်ႈ ၶူဝ်း ၶွင်",
+      "surface_assamese": "সৰু পুতেকে পিতৃক সম্পত্তিৰ ভাগ দিবলৈ অনুৰোধ কৰিলে",
+      "romanization": "luk ɔn caai ɔn laat tii phɔ́ pan pun khoo khɔŋ",
+      "morphemes": [
+        "luk",
+        "ɔn",
+        "caai",
+        "ɔn",
+        "laat",
+        "tii",
+        "phɔ́",
+        "pan",
+        "pun",
+        "khoo",
+        "khɔŋ"
+      ],
+      "gloss": [
+        "child",
+        "young",
+        "male",
+        "young",
+        "speak",
+        "to",
+        "father",
+        "give",
+        "share/portion",
+        "wealth",
+        "property"
+      ],
+      "translation_en": "The younger son spoke to his father to divide and give him his portion of property.",
+      "translation_as": "সৰু পুতেকে পিতৃক সম্পত্তিৰ ভাগ দিবলৈ অনুৰোধ কৰিলে।",
+      "notes": "Grierson (1904: 147). Morphemic syntax of Tai inheritance formulas."
+    },
+    {
+      "unit_id": "grierson_khamti_u003",
+      "surface_tai": "မၼ်း ဢဝ် ၶူဝ်း တင်းလၢႆ ၵႂႃႇ မိူင်း ၵႆ သဵင်ႈ ၶူဝ်း ၵိၼ် မူၼ်ႈ",
+      "surface_assamese": "তেওঁ সকলো সম্পত্তি লৈ দূৰ দেশলৈ গৈ অপব্যয় কৰিলে",
+      "romanization": "man ao khoo taŋ-laai koo mə́ŋ kai seŋ khoo kin mon",
+      "morphemes": [
+        "man",
+        "ao",
+        "khoo",
+        "taŋ-laai",
+        "koo",
+        "mə́ŋ",
+        "kai",
+        "seŋ",
+        "khoo",
+        "kin",
+        "mon"
+      ],
+      "gloss": [
+        "he",
+        "take",
+        "property",
+        "all",
+        "go",
+        "country",
+        "far",
+        "exhaust/waste",
+        "wealth",
+        "eat",
+        "pleasure"
+      ],
+      "translation_en": "He gathered all his belongings, journeyed into a far country, and squandered his substance in riotous living.",
+      "translation_as": "তেওঁ সকলো সম্পত্তি লৈ দূৰ দেশলৈ গৈ অপব্যয় কৰিলে।",
+      "notes": "Grierson (1904: 148). Classic narrative sentence in LSI Tai corpus."
+    },
+    {
+      "unit_id": "grierson_khamti_u004",
+      "surface_tai": "ပေႃႈ ႁၼ် မၼ်း ၶဝ်ႈ မႃး မီး ၸႂ် မဵတ်ႉတႃႇ ၵွတ်ႇ လုၵ်ႈ",
+      "surface_assamese": "পিতৃয়ে তেওঁক ঘূৰি অহা দেখি কৰুণাৰে আঁকোৱালি ল'লে",
+      "romanization": "phɔ́ han man khao maa mii caɯ met-taa kɔt luk",
+      "morphemes": [
+        "phɔ́",
+        "han",
+        "man",
+        "khao",
+        "maa",
+        "mii",
+        "caɯ",
+        "met-taa",
+        "kɔt",
+        "luk"
+      ],
+      "gloss": [
+        "father",
+        "see",
+        "he",
+        "enter",
+        "come",
+        "have",
+        "heart",
+        "compassion/metta",
+        "embrace",
+        "child"
+      ],
+      "translation_en": "When the father saw him returning, his heart was filled with compassion, and he embraced his child.",
+      "translation_as": "পিতৃয়ে তেওঁক ঘূৰি অহা দেখি কৰুণাৰে আঁকোৱালি ল'লে।",
+      "notes": "Grierson (1904: 149). Lexical borrowing of Pali 'metta' into everyday Tai narrative."
+    }
+  ]
+}

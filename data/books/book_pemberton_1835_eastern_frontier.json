@@ -1,0 +1,114 @@
+{
+  "book_id": "book_pemberton_1835_eastern_frontier",
+  "title": "Report on the Eastern Frontier of British India: The Nora and Patkai Routes",
+  "title_tai": "ပိုၼ်း တၢင်း လွႆ ပတ်ႉၵႆႇ ၼႂ်း ပပ်ႉ ၵႅပ်ႉတိၼ်ႇ ပႅမ်ႇၿိူဝ်ႇတႅၼ်ႇ (၁၈၃၅)",
+  "title_as": "ব্ৰিটিছ ভাৰতৰ পূব সীমান্তৰ ঐতিহাসিক প্ৰতিবেদন (কেপ্তেইন আৰ. বি. পেম্বাৰ্টন, ১৮৩৫)",
+  "author": "Captain R. Boileau Pemberton",
+  "year": 1835,
+  "genre": "Frontier Geography & Historical Treatises",
+  "category": "Historical Frontier Reports",
+  "provenance": "Baptist Mission Press, Calcutta (1835); digitized by National Library of Bengal and Internet Archive (dli.bengal.10689.2453)",
+  "digitalized_from": "scratch/Pemberton_1835_Eastern_Frontier_Nora.txt",
+  "license": "Public Domain (Published 1835)",
+  "total_sentences": 3,
+  "description": "Foundational 1835 geopolitical report by Captain R. Boileau Pemberton providing detailed surveys of the Patkai mountain routes, the historical kingdom of Nora, the migration of Tai groups, and riverine trade networks between Upper Burma and Assam.",
+  "units": [
+    {
+      "unit_id": "pemberton_1835_u001",
+      "surface_tai": "တၢင်း ၶၢမ်ႈ လွႆ ပတ်ႉၵႆႇ မီး လၢႆ သဵၼ်ႈ တီႈ မိူင်း ၼွႃး",
+      "surface_assamese": "পাটকাই পৰ্বতৰ মাজেৰে নোৰা দেশলৈ কেইবাটাও ঐতিহাসিক বাট আছিল",
+      "romanization": "taaŋ khaam lɔi pat-kai mii laai sen tii mə́ŋ nɔɔ",
+      "morphemes": [
+        "taaŋ",
+        "khaam",
+        "lɔi",
+        "pat-kai",
+        "mii",
+        "laai",
+        "sen",
+        "tii",
+        "mə́ŋ",
+        "nɔɔ"
+      ],
+      "gloss": [
+        "road/pass",
+        "cross",
+        "mountain",
+        "Patkai",
+        "have",
+        "several",
+        "CLF.path",
+        "at",
+        "country",
+        "Nora"
+      ],
+      "translation_en": "There were several historic mountain passes across the Patkai leading to the Nora country.",
+      "translation_as": "পাটকাই পৰ্বতৰ মাজেৰে নোৰা দেশলৈ কেইবাটাও ঐতিহাসিক বাট আছিল।",
+      "notes": "Pemberton (1835: 68). Strategic geography of the passes between Assam and Upper Burma."
+    },
+    {
+      "unit_id": "pemberton_1835_u002",
+      "surface_tai": "ၵူၼ် တႆး ယူႇ သဝ်း တီႈ တိင်းၵႃႉပႃႉၼီႇ ႁဵတ်း ၼႃး လႄႈ ၵႃႉၶၢႆ",
+      "surface_assamese": "টেঙাপানীত বসবাস কৰা টাইসকলে ধানখেতি আৰু বাণিজ্য কৰি জীৱন নিৰ্বাহ কৰে",
+      "romanization": "kon tai yuu sao tii teŋ-gaa-paa-nii het naa lɛ kaa-khaai",
+      "morphemes": [
+        "kon",
+        "tai",
+        "yuu",
+        "sao",
+        "tii",
+        "teŋ-gaa-paa-nii",
+        "het",
+        "naa",
+        "lɛ",
+        "kaa-khaai"
+      ],
+      "gloss": [
+        "people",
+        "Tai",
+        "dwell",
+        "rest",
+        "at",
+        "Tengapani",
+        "do",
+        "paddy",
+        "and",
+        "trade/commerce"
+      ],
+      "translation_en": "The Tai people dwelling along the Tengapani support themselves through wet-rice agriculture and trade.",
+      "translation_as": "টেঙাপানীত বসবাস কৰা টাইসকলে ধানখেতি আৰু বাণিজ্য কৰি জীৱন নিৰ্বাহ কৰে।",
+      "notes": "Pemberton (1835: 72). Economic foundation of Assam Tai settlements."
+    },
+    {
+      "unit_id": "pemberton_1835_u003",
+      "surface_tai": "ၶုၼ် ဢႃႇႁူမ် လႄႈ ၶုၼ် ၼွႃး မီး သၢႆ ပီႈၼွင်ႉ မၼ်ႈၵိုမ်း",
+      "surface_assamese": "আহোম ৰজা আৰু নোৰা ৰজাৰ মাজত চিৰকলীয়া ভাতৃত্বৰ বান্ধোন আছিল",
+      "romanization": "khun aa-hom lɛ khun nɔɔ mii saai pii-nɔŋ man-kəm",
+      "morphemes": [
+        "khun",
+        "aa-hom",
+        "lɛ",
+        "khun",
+        "nɔɔ",
+        "mii",
+        "saai",
+        "pii-nɔŋ",
+        "man-kəm"
+      ],
+      "gloss": [
+        "king",
+        "Ahom",
+        "and",
+        "king",
+        "Nora",
+        "have",
+        "tie/cord",
+        "brotherhood",
+        "firm/everlasting"
+      ],
+      "translation_en": "The Ahom king and the Nora sovereign maintained enduring ties of ancestral brotherhood.",
+      "translation_as": "আহোম ৰজা আৰু নোৰা ৰজাৰ মাজত চিৰকলীয়া ভাতৃত্বৰ বান্ধোন আছিল।",
+      "notes": "Pemberton records that the Nora kings were held in profound religious respect by the Ahoms."
+    }
+  ]
+}

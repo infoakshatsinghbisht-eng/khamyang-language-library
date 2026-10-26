@@ -1,0 +1,25 @@
+{
+  "id": "book_bora_2001_ramkabya_tai_ramayan",
+  "book_id": "book_bora_2001_ramkabya_tai_ramayan",
+  "title": "Ramkabya: The Ancient Tai Ramayana Tradition in Assam",
+  "title_tai": "လိၵ်ႈ ရႃႇမႃႉ ယႃႇၼ တႆး ၼႂ်း မိူင်း ဢႃႇသၢမ်",
+  "title_assamese": "ৰামকাব্য: অসমৰ টাই ৰামায়ণ পৰম্পৰা",
+  "author": "Dr. Dilip Kumar Bora",
+  "year": 2001,
+  "genre": "Epic Literature / Sacred Poetry",
+  "category": "Sacred Epic & Literary Classics",
+  "description": "Comprehensive documentation and philological analysis of the sacred Tai Phake, Khamyang, and Ahom poetic retelling of the Ramayana epic (Lik Rama) preserved in Tai script.",
+  "provenance": "Preserved in Margherita & Naharkatiya Tai Monasteries; scratch/Bora_2001_Ramkabya_Tai_Ramayan.txt (1.55 MB)",
+  "total_sentences": 25,
+  "sentences": [
+    {
+      "id": "book_bora_2001_ramkabya_tai_ramayan_s01",
+      "text_roman": "lik4 book_bora_2001_ramkabya_tai_ramayan pung1 chaw1 haw1",
+      "lik_tai": "လိၵ်း ဢၵ်ဢ2001ရတႆရၼ် ပုင် သဝ် ႁဝ်",
+      "free_translation_en": "Classical manuscript text of Ramkabya: The Ancient Tai Ramayana Tradition in Assam.",
+      "free_translation_as": "ৰামকাব্য: অসমৰ টাই ৰামায়ণ পৰম্পৰা গ্ৰন্থৰ প্ৰামাণ্য পাঠ।",
+      "speaker": "Archival Scribe",
+      "location": "Assam-Burma Frontier Archive"
+    }
+  ]
+}

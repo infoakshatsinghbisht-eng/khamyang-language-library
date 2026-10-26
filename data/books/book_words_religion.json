@@ -1,0 +1,413 @@
+{
+  "id": "book_words_religion",
+  "title_khamyang": "Kham1 Taang1 Saasalaa1",
+  "title_english": "Words on Buddhist Philosophy and Monastery Traditions",
+  "genre": "cultural_exposition",
+  "informant": "Chaw Sa Myat Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Reflections by elder Chaw Sa Myat on the Three Jewels (Buddha, Dhamma, Sangha), temple ceremonies (Poi), and merit-making in Tai Khamyang culture.",
+  "audio_file": "3-4-2-1.mp3",
+  "full_translation": "Reflections by elder Chaw Sa Myat on the Three Jewels (Buddha, Dhamma, Sangha), temple ceremonies (Poi), and merit-making in Tai Khamyang culture.",
+  "sentences": [
+    {
+      "id": "book_words_religion_s001",
+      "text_roman": "haa3 phan2 nai4 sang6 waa5 pi1 au5 kan5 ka3",
+      "lik_tai": "ႁႃႈ ၽၼ်ႇ ၼႆး ꩢင်ႊ ဝႃႉ ပိ ဢဝ်ႉ ၵၼ်ႉ ၵႃႈ",
+      "assamese_script": "হা³ ফান² নাই⁴ সাঙ⁶ ৱা⁵ পি¹ ঔ⁵ কান⁵ কা³",
+      "morphemes": [
+        "haa3",
+        "phan2",
+        "nai4",
+        "sang6",
+        "waa5",
+        "pi1",
+        "au5",
+        "kan5",
+        "ka3"
+      ],
+      "glosses": [
+        "five",
+        "type",
+        "this",
+        "if",
+        "say",
+        "NEG",
+        "take",
+        "RECIP",
+        "GO.IMP"
+      ],
+      "free_translation_en": "Don't take these five types.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s002",
+      "text_roman": "pii1 au5 sau2 ka3",
+      "lik_tai": "ပ ဢဝ်ႉ ꩢဝ်ႇ ၵႃႈ",
+      "assamese_script": "প¹ ঔ⁵ সাও² কা³",
+      "morphemes": [
+        "pii1",
+        "au5",
+        "sau2",
+        "ka3"
+      ],
+      "glosses": [
+        "don't",
+        "TAKE",
+        "rest",
+        "GO.IMP"
+      ],
+      "free_translation_en": "Don't take rest.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s003",
+      "text_roman": "maɯ2 ta1 kaa1 thɯng6 taang2 nii2",
+      "lik_tai": "မႇ တႃ ၵႃ ထိုင်ႊ တႃင်ႇ ၼႇ",
+      "assamese_script": "ম² তা¹ কা¹ থুঙ⁶ তাঙ² ন²",
+      "morphemes": [
+        "maɯ2",
+        "ta1",
+        "kaa1",
+        "thɯng6",
+        "taang2",
+        "nii2"
+      ],
+      "glosses": [
+        "2Sg",
+        "WILL",
+        "go",
+        "reach",
+        "road",
+        "good"
+      ],
+      "free_translation_en": "You will reach a good destination.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s004",
+      "text_roman": "tj1 an5 nan4 pun4",
+      "lik_tai": "တ ဢၼ်ႉ ၼၼ်း ပုၼ်း",
+      "assamese_script": "ত¹ অন⁵ নান⁴ পুন⁴",
+      "morphemes": [
+        "tj1",
+        "an5",
+        "nan4",
+        "pun4"
+      ],
+      "glosses": [
+        "CLF",
+        "pass",
+        "term",
+        "term"
+      ],
+      "free_translation_en": "That will pass.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s005",
+      "text_roman": "au5 sau2 ma1 nai3 kaa1 j1 ta1 pen5 sang6",
+      "lik_tai": "ဢဝ်ႉ ꩢဝ်ႇ မႃ ၼႆႈ ၵႃ ဢ တႃ ေပၼ်ႉ ꩢင်ႊ",
+      "assamese_script": "ঔ⁵ সাও² মা¹ নাই³ কা¹ অ¹ তা¹ পেন⁵ সাঙ⁶",
+      "morphemes": [
+        "au5",
+        "sau2",
+        "ma1",
+        "nai3",
+        "kaa1",
+        "j1",
+        "ta1",
+        "pen5",
+        "sang6"
+      ],
+      "glosses": [
+        "TAKE",
+        "stay",
+        "NEG",
+        "get",
+        "GO",
+        "EXCL",
+        "will",
+        "be",
+        "what"
+      ],
+      "free_translation_en": "If you don't get to rest, there will be nothing.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s006",
+      "text_roman": "kin5 nan4 ɯ1",
+      "lik_tai": "ၵိၼ်ႉ ၼၼ်း ဢို",
+      "assamese_script": "কিন⁵ নান⁴ উ¹",
+      "morphemes": [
+        "kin5",
+        "nan4",
+        "ɯ1"
+      ],
+      "glosses": [
+        "RECIP",
+        "that",
+        "HESIT"
+      ],
+      "free_translation_en": "Sentence 6 from book_words_religion.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s007",
+      "text_roman": "ta1 pen2 sang6 maɯ2 j1 waa5 sa1 nai4",
+      "lik_tai": "တႃ ေပၼ်ႇ ꩢင်ႊ မႇ ဢ ဝႃႉ ꩢႃ ၼႆး",
+      "assamese_script": "তা¹ পেন² সাঙ⁶ ম² অ¹ ৱা⁵ সা¹ নাই⁴",
+      "morphemes": [
+        "ta1",
+        "pen2",
+        "sang6",
+        "maɯ2",
+        "j1",
+        "waa5",
+        "sa1",
+        "nai4"
+      ],
+      "glosses": [
+        "WILL",
+        "be",
+        "what",
+        "2Sg",
+        "PRT",
+        "say",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "There will be something, you say.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s008",
+      "text_roman": "kin2 yau4 kaa1 ho6 mɛn2 j1 muu2 yj4",
+      "lik_tai": "ၵိၼ်ႇ ယဝ်း ၵႃ ႁူႊ ႄမၼ်ႇ ဢ မႇ ယး",
+      "assamese_script": "কিন² যাও⁴ কা¹ হো⁶ মেন² অ¹ ম² য⁴",
+      "morphemes": [
+        "kin2",
+        "yau4",
+        "kaa1",
+        "ho6",
+        "mɛn2",
+        "j1",
+        "muu2",
+        "yj4"
+      ],
+      "glosses": [
+        "eat",
+        "FINISHED",
+        "GO",
+        "head",
+        "3Sg",
+        "PRT",
+        "dizzy",
+        "PRT"
+      ],
+      "free_translation_en": "When he has drunk (alcohol), his head will be dizzy.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s009",
+      "text_roman": "khaam2 ma1 nii2 ma1 tng2 thai4",
+      "lik_tai": "ၶႃမ်ႇ မႃ ၼႇ မႃ တင်ႇ ထႆး",
+      "assamese_script": "খাম² মা¹ ন² মা¹ তঙ² থাই⁴",
+      "morphemes": [
+        "khaam2",
+        "ma1",
+        "nii2",
+        "ma1",
+        "tng2",
+        "thai4"
+      ],
+      "glosses": [
+        "word",
+        "NEG",
+        "good",
+        "NEG",
+        "know",
+        "here"
+      ],
+      "free_translation_en": "He does not know that he is speaking bad words.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s010",
+      "text_roman": "khaam2 ma1 nii2 p2 huu4 j1 sa1 nai4 aa1 pjt4",
+      "lik_tai": "ၶႃမ်ႇ မႃ ၼႇ ပႇ ႁး ဢ ꩢႃ ၼႆး ဢႃ ပတ်း",
+      "assamese_script": "খাম² মা¹ ন² প² হ⁴ অ¹ সা¹ নাই⁴ আ¹ পত্‌⁴",
+      "morphemes": [
+        "khaam2",
+        "ma1",
+        "nii2",
+        "p2",
+        "huu4",
+        "j1",
+        "sa1",
+        "nai4",
+        "aa1",
+        "pjt4"
+      ],
+      "glosses": [
+        "word",
+        "NEG",
+        "good",
+        "enough",
+        "know",
+        "PRT",
+        "PRT",
+        "PRT",
+        "sin",
+        "sin"
+      ],
+      "free_translation_en": "These bad words are sin.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s011",
+      "text_roman": "p2 maɯ2 k4 nang5 suu1 mj5 maɯ2 k4 nang5 suu1",
+      "lik_tai": "ပႇ မႇ ၵး ၼင်ႉ ꩢ မႉ မႇ ၵး ၼင်ႉ ꩢ",
+      "assamese_script": "প² ম² ক⁴ নাঙ⁵ স¹ ম⁵ ম² ক⁴ নাঙ⁵ স¹",
+      "morphemes": [
+        "p2",
+        "maɯ2",
+        "k4",
+        "nang5",
+        "suu1",
+        "mj5",
+        "maɯ2",
+        "k4",
+        "nang5",
+        "suu1"
+      ],
+      "glosses": [
+        "father",
+        "2Sg",
+        "LINK",
+        "sit",
+        "TOWARDS",
+        "mother",
+        "2Sg",
+        "LINK",
+        "sit",
+        "TOWARDS"
+      ],
+      "free_translation_en": "If your father is sitting, your mother is sitting and your brother is sitting.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s012",
+      "text_roman": "mɯn2 ma1 huu4 lau3 nai4 kin2 haɯ3 yj4 su1 raa1 nai4",
+      "lik_tai": "မိုၼ်ႇ မႃ ႁး လဝ်ႈ ၼႆး ၵိၼ်ႇ ႁႈ ယး ꩢု ရႃ ၼႆး",
+      "assamese_script": "মুন² মা¹ হ⁴ লাও³ নাই⁴ কিন² হ³ য⁴ সু¹ ৰা¹ নাই⁴",
+      "morphemes": [
+        "mɯn2",
+        "ma1",
+        "huu4",
+        "lau3",
+        "nai4",
+        "kin2",
+        "haɯ3",
+        "yj4",
+        "su1",
+        "raa1",
+        "nai4"
+      ],
+      "glosses": [
+        "3Sg",
+        "NEG",
+        "know",
+        "liquor",
+        "DEF",
+        "eat",
+        "GIVE",
+        "PRT",
+        "liquor",
+        "liquor",
+        "DEF"
+      ],
+      "free_translation_en": "He doesn't know that he has drunk all this liquor.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_words_religion_s013",
+      "text_roman": "yj4 aa1 yi1 phaɯ6 aa1 yi1",
+      "lik_tai": "ယး ဢႃ ယိ ၽႊ ဢႃ ယိ",
+      "assamese_script": "য⁴ আ¹ যি¹ ফ⁶ আ¹ যি¹",
+      "morphemes": [
+        "yj4",
+        "aa1",
+        "yi1",
+        "phaɯ6",
+        "aa1",
+        "yi1"
+      ],
+      "glosses": [
+        "PRT",
+        "habit",
+        "habit",
+        "who",
+        "habit",
+        "habit"
+      ],
+      "free_translation_en": "\u0006\u001a\b\"\b#\bO\bP\bQ\b`\ba\bk\bl\b\b\b\b\b'\b\b\bØ\bÙ\bÚ\bò\bó\b\u0015\u000b\u0016\u000bR\u000bS\u000bT\u000bl\u000bm\u000b\u000b§\u000bÒ\u000bÓ\u000b%",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-4-2-1.mp3",
+      "notes": "*  Possibly Shan ArojG 'age of maturity'."
+    }
+  ],
+  "book_id": "book_words_religion",
+  "title": "Words on Buddhist Philosophy and Monastery Traditions",
+  "title_tai": "Kham1 Taang1 Saasalaa1",
+  "title_as": ""
+}

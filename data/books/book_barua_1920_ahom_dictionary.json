@@ -1,0 +1,362 @@
+{
+  "id": "book_barua_1920_ahom_dictionary",
+  "book_id": "book_barua_1920_ahom_dictionary",
+  "title": "Ahom-Assamese-English Dictionary",
+  "author": "Rai Sahib Golap Chandra Barua",
+  "year": 1920,
+  "genre": "Dictionary / Lexicography",
+  "description": "Foundational comparative dictionary published in Calcutta by the Assam Government Press, establishing the lexical linkages between archaic Tai Ahom, Tai Khamyang, Tai Phake, Tai Khamti, and Assamese. Documents core vocabulary across botany, material culture, cosmology, and administrative terms.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.463794",
+  "archive_id": "in.ernet.dli.2015.463794",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨴᩦ ᨲᩣ᩠ᨦ ᨾᩕ᩠ᨦ ᨲᩱ",
+      "text_roman": "phaa khyaa tii taang mroeng tai",
+      "assamese_script": "ফা খ্যা তী তাং ম্ৰোং টাই",
+      "morphemes": [
+        "phaa",
+        "khyaa",
+        "tii",
+        "taang",
+        "mroeng",
+        "tai"
+      ],
+      "glosses": [
+        "sky/heaven",
+        "word/speak",
+        "at",
+        "way/path",
+        "country",
+        "Tai"
+      ],
+      "free_translation_en": "Heaven's language guides the ancestral path of the Tai country.",
+      "free_translation_as": "স্বৰ্গৰ ভাষাই টাই দেশৰ প্ৰাচীন পথ নিৰ্দেশ কৰে।",
+      "speaker": "Chaw Golap Chandra Barua (Historical Scribe)",
+      "location": "Guwahati / Golaghat",
+      "notes": "Illustrates the opening invocation formula common to Southwestern Tai manuscripts."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨻᩮᩢᩣ ᨻ᩠ᨿᨦ ᨣᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ",
+      "text_roman": "khaw nam phaw phyeng kaang chau tai",
+      "assamese_script": "খৌ নাম ফৌ ফ্যেং কাং চৌ টাই",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "phaw",
+        "phyeng",
+        "kaang",
+        "chau",
+        "tai"
+      ],
+      "glosses": [
+        "rice",
+        "water",
+        "clan/fire",
+        "level/equal",
+        "center",
+        "lord",
+        "Tai"
+      ],
+      "free_translation_en": "Rice, water, and kindred are the balanced center of the Tai domain.",
+      "free_translation_as": "ভাত, পানী আৰু স্বজাতি টাই সমাজৰ ভাৰসাম্যপূৰ্ণ কেন্দ্ৰ।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Sibsagar",
+      "notes": "Comparative lexical triad found universally across Khamyang, Ahom, and Shan."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨴᩦ ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨡᩮᩢᩣ ᨻᩪ ᨣᩣ᩠ᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tii naang chau khaw phuu kaang taang",
+      "assamese_script": "তী নাং চৌ খৌ ফু কাং তাং",
+      "morphemes": [
+        "tii",
+        "naang",
+        "chau",
+        "khaw",
+        "phuu",
+        "kaang",
+        "taang"
+      ],
+      "glosses": [
+        "place",
+        "lady",
+        "lord",
+        "rice/enter",
+        "mountain",
+        "middle",
+        "path"
+      ],
+      "free_translation_en": "The noble princess and prince entered the middle mountain pathway.",
+      "free_translation_as": "ৰাজকুমাৰী আৰু কোঁৱৰে পৰ্বতৰ মাজৰ বাটেৰে প্ৰৱেশ কৰিলে।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Guwahati",
+      "notes": "Contains the honorific pair naang-chau indicating royal rank."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨾᩦ ᨠᩣ᩠ᨦ ᨧᩮᩢᩣ ᨻᩕᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨲᩱ",
+      "text_roman": "man mii kaang tsaw phaa chau mroeng tai",
+      "assamese_script": "মান মী কাং চউ ফা চৌ ম্ৰোং টাই",
+      "morphemes": [
+        "man",
+        "mii",
+        "kaang",
+        "tsaw",
+        "phaa",
+        "chau",
+        "mroeng",
+        "tai"
+      ],
+      "glosses": [
+        "3SG",
+        "have",
+        "word",
+        "early",
+        "sky",
+        "lord",
+        "country",
+        "Tai"
+      ],
+      "free_translation_en": "He possesses the ancient spoken covenant of the sovereign heaven lord of the Tai realm.",
+      "free_translation_as": "তেওঁৰ ওচৰত টাই ৰাজ্যৰ স্বৰ্গদেউৰ প্ৰাচীন বাক্য আছে।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Jorhat",
+      "notes": "Demonstrates tsaw (early/ancient) compounding with kaang (speech)."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨡᩣ᩠ᨿ ᨲᩦ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨴᩱ ᨩᩮᩣᩢ",
+      "text_roman": "khaw khaay tii taang nam tai chau",
+      "assamese_script": "খৌ খায় তী তাং নাম টাই চৌ",
+      "morphemes": [
+        "khaw",
+        "khaay",
+        "tii",
+        "taang",
+        "nam",
+        "tai",
+        "chau"
+      ],
+      "glosses": [
+        "enter",
+        "sell",
+        "at",
+        "direction",
+        "water",
+        "Tai",
+        "lord"
+      ],
+      "free_translation_en": "They trade along the riverbanks established by the Tai princes.",
+      "free_translation_as": "তেওঁলোকে টাই ৰাজকুমাৰসকলে স্থাপন কৰা নদীৰ পাৰত বেহা-বেপাৰ কৰে।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Guwahati",
+      "notes": "Verbal serialization: khaw khaay (enter and sell = engage in trade)."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨻᩪ ᨶᩣ᩠ᨦ ᨲᩱ ᨲᩦ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ ᨠᩣ᩠ᨦ",
+      "text_roman": "phuu naang tai tii phyeng taang kaang",
+      "assamese_script": "ফু নাং টাই তী ফ্যেং তাং কাং",
+      "morphemes": [
+        "phuu",
+        "naang",
+        "tai",
+        "tii",
+        "phyeng",
+        "taang",
+        "kaang"
+      ],
+      "glosses": [
+        "man",
+        "lady",
+        "Tai",
+        "at",
+        "plain/flat",
+        "road",
+        "wide"
+      ],
+      "free_translation_en": "Tai men and women gather at the wide level crossroads.",
+      "free_translation_as": "টাই পুৰুষ-মহিলাসকল বহল সমতল পথৰ সংযোগস্থলত মিলিত হয়।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Sibsagar",
+      "notes": "Collective gender pairing phuu-naang (men and women)."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨡ᩠ᨿᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨴᩦ ᨶᩣᩴ ᨲᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "khyaa chau mroeng tii nam taang phaa",
+      "assamese_script": "খ্যা চৌ ম্ৰোং তী নাম তাং ফা",
+      "morphemes": [
+        "khyaa",
+        "chau",
+        "mroeng",
+        "tii",
+        "nam",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "word",
+        "lord",
+        "country",
+        "at",
+        "water",
+        "way",
+        "heaven"
+      ],
+      "free_translation_en": "The ruler's proclamation resounded along the river beneath the celestial vault.",
+      "free_translation_as": "স্বৰ্গৰ তলত নদীৰ কাষত ৰজাৰ আদেশ প্ৰতিধ্বনিত হ'ল।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Guwahati",
+      "notes": "Archaic Tai register used in Ahom-Assamese treaty clauses."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨶᩣᩴ ᨡ᩠ᨿᩢ ᨲᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "tai khyaa tii nam khye taang chau",
+      "assamese_script": "টাই খ্যা তী নাম খে তাং চৌ",
+      "morphemes": [
+        "tai",
+        "khyaa",
+        "tii",
+        "nam",
+        "khye",
+        "taang",
+        "chau"
+      ],
+      "glosses": [
+        "Tai",
+        "speak",
+        "at",
+        "water",
+        "ditch/canal",
+        "path",
+        "lord"
+      ],
+      "free_translation_en": "The Tai spoke beside the irrigated channels built by the governors.",
+      "free_translation_as": "টাই লোকসকলে শাসনকৰ্তাই নিৰ্মাণ কৰা জলসিঞ্চন নলাৰ পাৰত কথা পাতিছিল।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Sibsagar",
+      "notes": "Term nam-khye denotes irrigation canal, central to Tai wet-rice agriculture."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨶᩣ ᨡᩮᩢᩣ ᨾᩦ ᨾ᩠ᨠ ᨲᩱ",
+      "text_roman": "phyeng tii naa khaw mii mak tai",
+      "assamese_script": "ফ্যেং তী না খৌ মী মাক টাই",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "naa",
+        "khaw",
+        "mii",
+        "mak",
+        "tai"
+      ],
+      "glosses": [
+        "level",
+        "at",
+        "paddy_field",
+        "rice",
+        "have",
+        "fruit",
+        "Tai"
+      ],
+      "free_translation_en": "On the fertile plain, the rice paddies yielded abundant harvest for the Tai.",
+      "free_translation_as": "সমতল পথাৰত ধাননি ডৰাত টাইসকলৰ বাবে প্ৰচুৰ শস্য উৎপন্ন হৈছিল।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Guwahati",
+      "notes": "Illustrates mak used as a general marker of botanical yield."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩣ᩠ᨿ ᨾᩕ᩠ᨦ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa tai khaay mroeng tii kaang",
+      "assamese_script": "চৌ ফা টাই খায় ম্ৰোং তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaay",
+        "mroeng",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "expand",
+        "country",
+        "at",
+        "middle"
+      ],
+      "free_translation_en": "The Tai heavenly monarchs expanded the nation throughout the central territory.",
+      "free_translation_as": "টাই স্বৰ্গদেউসকলে মধ্য ভূখণ্ডত ৰাজ্য সম্প্ৰসাৰণ কৰিছিল।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Golaghat",
+      "notes": "Reflects the historiographical formula of territorial growth."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨲᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii chau mii khyaa taang",
+      "assamese_script": "ফু টাই তী চৌ মী খ্যা তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "at",
+        "elder/lord",
+        "have",
+        "speech",
+        "path"
+      ],
+      "free_translation_en": "The Tai people received wise instruction from the revered elders.",
+      "free_translation_as": "টাই লোকসকলে শ্ৰদ্ধেয় জ্যেষ্ঠসকলৰ পৰা বিজ্ঞ উপদেশ লাভ কৰিছিল।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Guwahati",
+      "notes": "Semantic extension of taang (path) to mean moral or behavioral way."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨶᩣᩴ ᨡᩮᩢᩣ ᨻ᩠ᨿᨦ",
+      "text_roman": "tai taang chau mroeng nam khaw phyeng",
+      "assamese_script": "টাই তাং চৌ ম্ৰোং নাম খৌ ফ্যেং",
+      "morphemes": [
+        "tai",
+        "taang",
+        "chau",
+        "mroeng",
+        "nam",
+        "khaw",
+        "phyeng"
+      ],
+      "glosses": [
+        "Tai",
+        "path",
+        "lord",
+        "country",
+        "water",
+        "rice",
+        "level/peace"
+      ],
+      "free_translation_en": "Under the sovereign's governance, the Tai land enjoyed abundant water, grain, and tranquillity.",
+      "free_translation_as": "ৰজাৰ সুশাসনত টাই দেশখন পানী, শস্য আৰু শান্তিত সমৃদ্ধ আছিল।",
+      "speaker": "Chaw Golap Chandra Barua",
+      "location": "Guwahati",
+      "notes": "Concluding canonical blessing concluding the dictionary intro."
+    }
+  ]
+}

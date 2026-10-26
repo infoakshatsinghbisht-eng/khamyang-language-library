@@ -1,0 +1,4627 @@
+{
+  "id": "book_calling_khon",
+  "title_khamyang": "Lik4 Hok4 Khon1 Khun1",
+  "title_english": "The Sacred Book of Calling Back the Khon (Life-Spirit Ritual)",
+  "genre": "sacred_ritual_liturgy",
+  "informant": "Chaw Sa Myat Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Comprehensive liturgy of the ancient Tai ritual of calling back the thirty-two Khon (vital soul spirits) to restore health, strength, and harmony to an individual.",
+  "audio_file": "3-5-1-1.mp3",
+  "full_translation": "Now is the time to search for the customs of our ancestors from former times, from long, long ago. They established this process, and we have continued it in their way. Long ago grandfather Singpha, together with sweet-hearted grandmother Hola, began this custom. We have heard about this for many, many years. Up to this time we have not failed to follow our grandparents, even unto the generations of the children and grandchildren.\r\tThe time has come to mix these sweet sounds and tell them. The troubled khon of our beloved grandchild is lost, and we do not know where it is. He is feverish, very cold and disturbed in his heart. \r\tNow your grandchild has every requisite, banana, sugarcane and all the sweet foods. The grandfather will come to beg the troubled khon of our beloved grandchild to take this fine pink satin shirt. \r\tOh, sweet-hearted grandfather at the fireplace, perform this ceremony, Oh listen! With a rice tripod, pots, saucepan and water dipper, oh listen! Now your grandchild has both fish and rice, together with fragrant water from the water jar and banana, sugar cane and other sweet things, as well as all the scented foods collected by our grandparents over a long perio",
+  "sentences": [
+    {
+      "id": "book_calling_khon_s001",
+      "text_roman": "nai4 le2 tsvng2 nai3 tak1 maa2 seng6 khaa6",
+      "lik_tai": "ၼႆး ေလႇ ၸင်ႇ ၼႆႈ တၵ် မႃႇ ေꩢင်ႊ ၶႃႊ",
+      "assamese_script": "নাই⁴ লে² চঙ² নাই³ তাক্‌¹ মা² সেঙ⁶ খা⁶",
+      "morphemes": [
+        "nai4",
+        "le2",
+        "tsvng2",
+        "nai3",
+        "tak1",
+        "maa2",
+        "seng6",
+        "khaa6"
+      ],
+      "glosses": [
+        "this is",
+        "this is",
+        "now",
+        "now",
+        "will",
+        "come",
+        "sound",
+        "search"
+      ],
+      "free_translation_en": "Sentence 1 from book_calling_khon.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s002",
+      "text_roman": "paan2 sən2 tsuu2 yzn2 hvng6 naan2 puu1 yaa5",
+      "lik_tai": "ပႃၼ်ႇ ꩢိုဝ်ၼ်ႇ ၸႇ ယၼ်ႇ ႁင်ႊ ၼႃၼ်ႇ ပ ယႃႉ",
+      "assamese_script": "পান² সোন² চ² যন² হঙ⁶ নান² প¹ যা⁵",
+      "morphemes": [
+        "paan2",
+        "sən2",
+        "tsuu2",
+        "yzn2",
+        "hvng6",
+        "naan2",
+        "puu1",
+        "yaa5"
+      ],
+      "glosses": [
+        "old time / past",
+        "old time / past",
+        "time",
+        "long time",
+        "longtime",
+        "longtime",
+        "ancestors",
+        "ancestors"
+      ],
+      "free_translation_en": "long long ago.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s003",
+      "text_roman": "pzn5 hek4 wai4 pa1 maa1 mii2 nai4",
+      "lik_tai": "ပၼ်ႉ ေႁၵ်း ဝႆး ပႃ မႃ မႇ ၼႆး",
+      "assamese_script": "পন⁵ হেক্‌⁴ ৱাই⁴ পা¹ মা¹ ম² নাই⁴",
+      "morphemes": [
+        "pzn5",
+        "hek4",
+        "wai4",
+        "pa1",
+        "maa1",
+        "mii2",
+        "nai4"
+      ],
+      "glosses": [
+        "others",
+        "start",
+        "keep",
+        "like this",
+        "like this",
+        "have",
+        "this"
+      ],
+      "free_translation_en": "They established this process, and in this way we have continued it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* In Shan hYkqH means, 'to begin to work; begin by doing a little, because it is declared to be an auspicious day.'"
+    },
+    {
+      "id": "book_calling_khon_s004",
+      "text_roman": "tsem2 mz5 puu1 sing1 k4 paing4 het1 maa2",
+      "lik_tai": "ေၸမ်ႇ မႉ ပ ꩢိင် ၵး ပႆင်း ေႁတ် မႃႇ",
+      "assamese_script": "চেম² ম⁵ প¹ সিঙ¹ ক⁴ পাইঙ⁴ হেত্‌¹ মা²",
+      "morphemes": [
+        "tsem2",
+        "mz5",
+        "puu1",
+        "sing1",
+        "k4",
+        "paing4",
+        "het1",
+        "maa2"
+      ],
+      "glosses": [
+        "since",
+        "time",
+        "grandfather",
+        "Singpha",
+        "start",
+        "start",
+        "make",
+        "COME"
+      ],
+      "free_translation_en": "From the time that grandfather Singpha began to make (this custom).",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* the Aiton version has figq. ekafigq is given as 'at first starting'. See below (5)"
+    },
+    {
+      "id": "book_calling_khon_s005",
+      "text_roman": "ik1 tvng1 tsav2 waan6 yaa5 h1 laa2 k1 phing6",
+      "lik_tai": "ဢိၵ် တင် ၸႇ ဝႃၼ်ႊ ယႃႉ ႁ လႃႇ ၵ ၽိင်ႊ",
+      "assamese_script": "ইক্‌¹ তঙ¹ চ² ৱান⁶ যা⁵ হ¹ লা² ক¹ ফিঙ⁶",
+      "morphemes": [
+        "ik1",
+        "tvng1",
+        "tsav2",
+        "waan6",
+        "yaa5",
+        "h1",
+        "laa2",
+        "k1",
+        "phing6"
+      ],
+      "glosses": [
+        "with",
+        "with",
+        "heart",
+        "sweet",
+        "grandmother",
+        "Hola",
+        "Hola",
+        "begin",
+        "do, begin"
+      ],
+      "free_translation_en": "Together with sweet hearted grandmother Hola, they began (this custom)",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Nabin stated that Hola was the name of Pu Singpha's wife. The Phakes stated that the correct name is yaehasa (yA5 ho6 sA2)."
+    },
+    {
+      "id": "book_calling_khon_s006",
+      "text_roman": "ngin2 pen2 hvng6 naan2 nai3 laai6 pii2 phju6 kaa1",
+      "lik_tai": "ငိၼ်ႇ ေပၼ်ႇ ႁင်ႊ ၼႃၼ်ႇ ၼႆႈ လႃႆႊ ပႇ ၽႊ ၵႃ",
+      "assamese_script": "ঙিন² পেন² হঙ⁶ নান² নাই³ লাই⁶ প² ফ⁶ কা¹",
+      "morphemes": [
+        "ngin2",
+        "pen2",
+        "hvng6",
+        "naan2",
+        "nai3",
+        "laai6",
+        "pii2",
+        "phju6",
+        "kaa1"
+      ],
+      "glosses": [
+        "heard",
+        "heard",
+        "long time",
+        "long",
+        "get",
+        "many",
+        "year",
+        "exceed",
+        "PAST"
+      ],
+      "free_translation_en": "We have heard of this for many many years.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Nabin stated that this means 'heard'. It is literally 'hear-be', but note Shan  ginqLpYnq 'to feel, to experience, to be affected by'."
+    },
+    {
+      "id": "book_calling_khon_s007",
+      "text_roman": "khan6 ht4 tsuu2 tsvng2 nai4 mau1 yaa1 tsm2 khaa6",
+      "lik_tai": "ၶၼ်ႊ ႁတ်း ၸႇ ၸင်ႇ ၼႆး မဝ် ယႃ ၸမ်ႇ ၶႃႊ",
+      "assamese_script": "খান⁶ হত্‌⁴ চ² চঙ² নাই⁴ মাও¹ যা¹ চম² খা⁶",
+      "morphemes": [
+        "khan6",
+        "ht4",
+        "tsuu2",
+        "tsvng2",
+        "nai4",
+        "mau1",
+        "yaa1",
+        "tsm2",
+        "khaa6"
+      ],
+      "glosses": [
+        "up to this",
+        "arrive",
+        "time",
+        "now",
+        "now",
+        "NEG",
+        "NEG",
+        "follow",
+        "search"
+      ],
+      "free_translation_en": "up to this present time...",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "ya  yA1 is usually a prohibitive particle (as in Standard Thai), which in speech would be expressed with pi pi1. It does appear that this sentence represents a 'double negation' making a positive."
+    },
+    {
+      "id": "book_calling_khon_s008",
+      "text_roman": "tvng1 kaa1 t1 luk4 ik1 t1 laan6",
+      "lik_tai": "တင် ၵႃ တ လုၵ်း ဢိၵ် တ လႃၼ်ႊ",
+      "assamese_script": "তঙ¹ কা¹ ত¹ লুক্‌⁴ ইক্‌¹ ত¹ লান⁶",
+      "morphemes": [
+        "tvng1",
+        "kaa1",
+        "t1",
+        "luk4",
+        "ik1",
+        "t1",
+        "laan6"
+      ],
+      "glosses": [
+        "all",
+        "all",
+        "until",
+        "child",
+        "also",
+        "until",
+        "grandchild"
+      ],
+      "free_translation_en": "Even unto the generations of the children and grandchildren.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "tgqka omitted in the Aiton version."
+    },
+    {
+      "id": "book_calling_khon_s009",
+      "text_roman": "tak1 maa2 ts2 ts2 khon4 seng6 waan6 paak1 lau5",
+      "lik_tai": "တၵ် မႃႇ ၸႇ ၸႇ ၶူၼ်း ေꩢင်ႊ ဝႃၼ်ႊ ပႃၵ် လဝ်ႉ",
+      "assamese_script": "তাক্‌¹ মা² চ² চ² খোন⁴ সেঙ⁶ ৱান⁶ পাক্‌¹ লাও⁵",
+      "morphemes": [
+        "tak1",
+        "maa2",
+        "ts2",
+        "ts2",
+        "khon4",
+        "seng6",
+        "waan6",
+        "paak1",
+        "lau5"
+      ],
+      "glosses": [
+        "will",
+        "come",
+        "ONOM",
+        "ONOM",
+        "mix",
+        "sound",
+        "sweet",
+        "mouth",
+        "to tell"
+      ],
+      "free_translation_en": "The time has come to mix these sweet sounds and tell them.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s010",
+      "text_roman": "t1 nai4 khn6 wang1 laan6 paing2 kaa1 nav6 mau1 tsaing5",
+      "lik_tai": "တ ၼႆး ၶၼ်ႊ ဝင် လႃၼ်ႊ ပႆင်ႇ ၵႃ ၼႊ မဝ် ၸႆင်ႉ",
+      "assamese_script": "ত¹ নাই⁴ খন⁶ ৱাঙ¹ লান⁶ পাইঙ² কা¹ ন⁶ মাও¹ চাইঙ⁵",
+      "morphemes": [
+        "t1",
+        "nai4",
+        "khn6",
+        "wang1",
+        "laan6",
+        "paing2",
+        "kaa1",
+        "nav6",
+        "mau1",
+        "tsaing5"
+      ],
+      "glosses": [
+        "until now",
+        "until now",
+        "soul",
+        "confused",
+        "grandchild",
+        "love",
+        "go",
+        "where",
+        "NEG",
+        "know"
+      ],
+      "free_translation_en": "Now the troubled khon of our beloved grandchild is lost, we do not know where it has gone.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s011",
+      "text_roman": "paa2 haɯ3 khai3 yuu1 tsaa4 naau6 thaing3 tsav2 yum3",
+      "lik_tai": "ပႃႇ ႁႈ ၶႆႈ ယ ၸႃး ၼႃဝ်ႊ ထႆင်ႈ ၸႇ ယုမ်ႈ",
+      "assamese_script": "পা² হ³ খাই³ য¹ চা⁴ নাও⁶ থাইঙ³ চ² যুম³",
+      "morphemes": [
+        "paa2",
+        "haɯ3",
+        "khai3",
+        "yuu1",
+        "tsaa4",
+        "naau6",
+        "thaing3",
+        "tsav2",
+        "yum3"
+      ],
+      "glosses": [
+        "with",
+        "allow",
+        "sick",
+        "stay",
+        "bad",
+        "cold",
+        "more",
+        "heart",
+        "disturbed"
+      ],
+      "free_translation_en": "He is feverish, very cold and disturbed in his heart.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* There was some discussion about this word. Nabin Shyam read it as pa2 'to carry (the fever). Aithown Che Chakap stated that it meant with, which is suggested by Shan pa: 'be with, have with', in itself possibly related to the word for 'carry'. The Phake pandits suggested that it might better be read as epa."
+    },
+    {
+      "id": "book_calling_khon_s012",
+      "text_roman": "tsvng1 nai4 laan6 mav2 mii2 tvng1 khvng5 kuu5 phm4",
+      "lik_tai": "ၸင် ၼႆး လႃၼ်ႊ မႇ မႇ တင် ၶင်ႉ ၵႉ ၽမ်း",
+      "assamese_script": "চঙ¹ নাই⁴ লান⁶ ম² ম² তঙ¹ খঙ⁵ ক⁵ ফম⁴",
+      "morphemes": [
+        "tsvng1",
+        "nai4",
+        "laan6",
+        "mav2",
+        "mii2",
+        "tvng1",
+        "khvng5",
+        "kuu5",
+        "phm4"
+      ],
+      "glosses": [
+        "now",
+        "now",
+        "grandchild",
+        "2Sg",
+        "have",
+        "everything",
+        "thing",
+        "every",
+        "CLF"
+      ],
+      "free_translation_en": "Banana and sugar cane are prepared to give (to the khon).",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Sa Myat explained wnqlkqkojec wAn6 lAk1 kqi2 ce2 and his explanation was translated as  'everything sweet mix up and eat, there is no one type, not only banana, every good taste is different.' The meaning is that the grandfather has arranged these things so that the grandson's missing khon will come to eat these things."
+    },
+    {
+      "id": "book_calling_khon_s013",
+      "text_roman": "tak1 maa2 yn2 au2",
+      "lik_tai": "တၵ် မႃႇ ယၼ်ႇ ဢဝ်ႇ",
+      "assamese_script": "তাক্‌¹ মা² যন² ঔ²",
+      "morphemes": [
+        "tak1",
+        "maa2",
+        "yn2",
+        "au2"
+      ],
+      "glosses": [
+        "will",
+        "come",
+        "beg",
+        "take"
+      ],
+      "free_translation_en": "We come to beg the spirit of the golden khon.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Nabin explained that miN2/3  was another type of spirit (perhaps related to Shan migqH 'fate, destiny') and that this sentence meant that the Ming and the Khon were together"
+    },
+    {
+      "id": "book_calling_khon_s014",
+      "text_roman": "khn6 waang1 laan6 paing2 sz3 haam1 phj2 hav3 nai4",
+      "lik_tai": "ၶၼ်ႊ ဝႃင် လႃၼ်ႊ ပႆင်ႇ ꩢႈ ႁႃမ် ၽႇ ႁႈ ၼႆး",
+      "assamese_script": "খন⁶ ৱাঙ¹ লান⁶ পাইঙ² স³ হাম¹ ফ² হ³ নাই⁴",
+      "morphemes": [
+        "khn6",
+        "waang1",
+        "laan6",
+        "paing2",
+        "sz3",
+        "haam1",
+        "phj2",
+        "hav3",
+        "nai4"
+      ],
+      "glosses": [
+        "soul",
+        "confuse",
+        "grandchild",
+        "love",
+        "shirt",
+        "pink colour",
+        "satin",
+        "give",
+        "PRT"
+      ],
+      "free_translation_en": "take this fine pink satin shirt",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s015",
+      "text_roman": "ming3 kup1 khn6 hav3 nai4",
+      "lik_tai": "မိင်ႈ ၵုပ် ၶၼ်ႊ ႁႈ ၼႆး",
+      "assamese_script": "মিঙ³ কুপ্‌¹ খন⁶ হ³ নাই⁴",
+      "morphemes": [
+        "ming3",
+        "kup1",
+        "khn6",
+        "hav3",
+        "nai4"
+      ],
+      "glosses": [
+        "type of spirit",
+        "and",
+        "soul",
+        "give",
+        "this"
+      ],
+      "free_translation_en": "And the spirit khon.' $L=Phake$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s016",
+      "text_roman": "waa5 tii5 tsav2 waan6 puu1 tii5 phai2 het1",
+      "lik_tai": "ဝႃႉ တႉ ၸႇ ဝႃၼ်ႊ ပ တႉ ၽႆႇ ေႁတ်",
+      "assamese_script": "ৱা⁵ ত⁵ চ² ৱান⁶ প¹ ত⁵ ফাই² হেত্‌¹",
+      "morphemes": [
+        "waa5",
+        "tii5",
+        "tsav2",
+        "waan6",
+        "puu1",
+        "tii5",
+        "phai2",
+        "het1"
+      ],
+      "glosses": [
+        "speak",
+        "to",
+        "heart",
+        "sweet",
+        "grandfather",
+        "to",
+        "fire",
+        "make"
+      ],
+      "free_translation_en": "Oh, sweet hearted grandfather at the fireplace, perform this ceremony, oh listen!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s017",
+      "text_roman": "tsau3 khau6 zi2",
+      "lik_tai": "ၸဝ်ႈ ၶဝ်ႊ ဢႇ",
+      "assamese_script": "চাও³ খাও⁶ অ²",
+      "morphemes": [
+        "tsau3",
+        "khau6",
+        "zi2"
+      ],
+      "glosses": [
+        "RESP",
+        "PLU",
+        "PRT"
+      ],
+      "free_translation_en": "Oh, Listen!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Nabin explained that the place where water is boiled in the kitchen is called tIfj. He paraphrased this section as follows:"
+    },
+    {
+      "id": "book_calling_khon_s018",
+      "text_roman": "ik1 tvng2 kn3 sau3 yaa5 hai6 m3",
+      "lik_tai": "ဢိၵ် တင်ႇ ၵၼ်ႈ ꩢဝ်ႈ ယႃႉ ႁႆႊ မႈ",
+      "assamese_script": "ইক্‌¹ তঙ² কন³ সাও³ যা⁵ হাই⁶ ম³",
+      "morphemes": [
+        "ik1",
+        "tvng2",
+        "kn3",
+        "sau3",
+        "yaa5",
+        "hai6",
+        "m3"
+      ],
+      "glosses": [
+        "together with",
+        "together with",
+        "tripod",
+        "tripod",
+        "grandmother",
+        "pot",
+        "saucepan"
+      ],
+      "free_translation_en": "Sentence 18 from book_calling_khon.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* a very archaic word for keN2 'metal tripod on which a pot of rice is cooked.'"
+    },
+    {
+      "id": "book_calling_khon_s019",
+      "text_roman": "kup1 mui2 khau6 n2",
+      "lik_tai": "ၵုပ် မုႆႇ ၶဝ်ႊ ၼႇ",
+      "assamese_script": "কুপ্‌¹ মুই² খাও⁶ ন²",
+      "morphemes": [
+        "kup1",
+        "mui2",
+        "khau6",
+        "n2"
+      ],
+      "glosses": [
+        "together",
+        "water dipper",
+        "3PL",
+        "PRT"
+      ],
+      "free_translation_en": "In the Aiton version the last two words are xW S",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s020",
+      "text_roman": "tsvng1 nai4 laan6 mav2 mii2 tvng1 paa2 kup1 khau3",
+      "lik_tai": "ၸင် ၼႆး လႃၼ်ႊ မႇ မႇ တင် ပႃႇ ၵုပ် ၶဝ်ႈ",
+      "assamese_script": "চঙ¹ নাই⁴ লান⁶ ম² ম² তঙ¹ পা² কুপ্‌¹ খাও³",
+      "morphemes": [
+        "tsvng1",
+        "nai4",
+        "laan6",
+        "mav2",
+        "mii2",
+        "tvng1",
+        "paa2",
+        "kup1",
+        "khau3"
+      ],
+      "glosses": [
+        "now / then",
+        "now / then",
+        "grandchild",
+        "2Sg",
+        "have",
+        "both",
+        "fish",
+        "and",
+        "rice"
+      ],
+      "free_translation_en": "Now your grandchild has both fish and rice.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Fish and rice are the staples of the Tai diet."
+    },
+    {
+      "id": "book_calling_khon_s021",
+      "text_roman": "ik1 tvng1 nam4 sav1 tau3 kin2 hm6",
+      "lik_tai": "ဢိၵ် တင် ၼမ်း ꩢ တဝ်ႈ ၵိၼ်ႇ ႁမ်ႊ",
+      "assamese_script": "ইক্‌¹ তঙ¹ নাম⁴ স¹ তাও³ কিন² হম⁶",
+      "morphemes": [
+        "ik1",
+        "tvng1",
+        "nam4",
+        "sav1",
+        "tau3",
+        "kin2",
+        "hm6"
+      ],
+      "glosses": [
+        "together with",
+        "together with",
+        "water",
+        "put in",
+        "jar/ bottle",
+        "eat",
+        "sweet smell"
+      ],
+      "free_translation_en": "Together with fragrant water from the water jar.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s022",
+      "text_roman": "ki3 i3 kup1 khaung6 waan6",
+      "lik_tai": "ၵိႈ ဢိႈ ၵုပ် ၶဝ်င်ႊ ဝႃၼ်ႊ",
+      "assamese_script": "কি³ ই³ কুপ্‌¹ খাওঙ⁶ ৱান⁶",
+      "morphemes": [
+        "ki3",
+        "i3",
+        "kup1",
+        "khaung6",
+        "waan6"
+      ],
+      "glosses": [
+        "banana",
+        "sugar",
+        "together",
+        "thing",
+        "sweet"
+      ],
+      "free_translation_en": "Banana, sugar cane and (other) sweet things.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s023",
+      "text_roman": "tvng1 an2 khaung6 hm6 tsuu2 laai6 paan2 puu1 yaa5",
+      "lik_tai": "တင် ဢၼ်ႇ ၶဝ်င်ႊ ႁမ်ႊ ၸႇ လႃႆႊ ပႃၼ်ႇ ပ ယႃႉ",
+      "assamese_script": "তঙ¹ অন² খাওঙ⁶ হম⁶ চ² লাই⁶ পান² প¹ যা⁵",
+      "morphemes": [
+        "tvng1",
+        "an2",
+        "khaung6",
+        "hm6",
+        "tsuu2",
+        "laai6",
+        "paan2",
+        "puu1",
+        "yaa5"
+      ],
+      "glosses": [
+        "and",
+        "and",
+        "thing",
+        "scented",
+        "time",
+        "many",
+        "lifetime",
+        "grandfather",
+        "grandmother"
+      ],
+      "free_translation_en": "khauN6 hqm6'\tCLF\teat\tsweet",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "*Part of the bow ¡ÒÌ ¼Òb ¸¹Ø Note also Shan xaG 'a frame'"
+    },
+    {
+      "id": "book_calling_khon_s024",
+      "text_roman": "tvng1 an2 koi3 i3 kup1 khaung6 tz2",
+      "lik_tai": "တင် ဢၼ်ႇ ၵူႆႈ ဢိႈ ၵုပ် ၶဝ်င်ႊ တႇ",
+      "assamese_script": "তঙ¹ অন² কওই³ ই³ কুপ্‌¹ খাওঙ⁶ ত²",
+      "morphemes": [
+        "tvng1",
+        "an2",
+        "koi3",
+        "i3",
+        "kup1",
+        "khaung6",
+        "tz2"
+      ],
+      "glosses": [
+        "and",
+        "and",
+        "banana",
+        "sugar",
+        "and",
+        "thing",
+        "to use"
+      ],
+      "free_translation_en": "with banana, sugar cane and utensils",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s025",
+      "text_roman": "tvng1 an2 khaa6 khaing6 kaang1",
+      "lik_tai": "တင် ဢၼ်ႇ ၶႃႊ ၶႆင်ႊ ၵႃင်",
+      "assamese_script": "তঙ¹ অন² খা⁶ খাইঙ⁶ কাঙ¹",
+      "morphemes": [
+        "tvng1",
+        "an2",
+        "khaa6",
+        "khaing6",
+        "kaang1"
+      ],
+      "glosses": [
+        "and",
+        "and",
+        "bow",
+        "hard",
+        "crossbow"
+      ],
+      "free_translation_en": "And a strong crossbow to aim and shoot and as well a shovel.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s026",
+      "text_roman": "khaan6 kh6 khau1 kheu2 phaai6 kup1 hauk1",
+      "lik_tai": "ၶႃၼ်ႊ ၶႊ ၶဝ် ၶိုႇ ၽႃႆႊ ၵုပ် ႁဝ်ၵ်",
+      "assamese_script": "খান⁶ খ⁶ খাও¹ খু² ফাই⁶ কুপ্‌¹ হাওক্‌¹",
+      "morphemes": [
+        "khaan6",
+        "kh6",
+        "khau1",
+        "kheu2",
+        "phaai6",
+        "kup1",
+        "hauk1"
+      ],
+      "glosses": [
+        "axe",
+        "hoe",
+        "3Pl",
+        "sickle",
+        "sharp",
+        "and",
+        "lance"
+      ],
+      "free_translation_en": "With an axe, a hoe, a sharp sickle and a lance",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s027",
+      "text_roman": "ik1 tvng1 khvk1 sn3",
+      "lik_tai": "ဢိၵ် တင် ၶၵ် ꩢၼ်ႈ",
+      "assamese_script": "ইক্‌¹ তঙ¹ খক্‌¹ সন³",
+      "morphemes": [
+        "ik1",
+        "tvng1",
+        "khvk1",
+        "sn3"
+      ],
+      "glosses": [
+        "and",
+        "and",
+        "implement for catching fish",
+        "catch fish with a khvk1"
+      ],
+      "free_translation_en": "And a fish trap for catching fish on the edge of the flowing where the white sands are.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Sa Myat defined sAp1 as spq mXnj AnqgokqAnqgJnqen 'SAp1 means turning, twisting'. Note that the Phakes felt it was sap1 'to stab';"
+    },
+    {
+      "id": "book_calling_khon_s028",
+      "text_roman": "tvng1 kaa1 pon4 nai4 hav3 mav2",
+      "lik_tai": "တင် ၵႃ ပူၼ်း ၼႆး ႁႈ မႇ",
+      "assamese_script": "তঙ¹ কা¹ পোন⁴ নাই⁴ হ³ ম²",
+      "morphemes": [
+        "tvng1",
+        "kaa1",
+        "pon4",
+        "nai4",
+        "hav3",
+        "mav2"
+      ],
+      "glosses": [
+        "everything",
+        "everything",
+        "exceed",
+        "this",
+        "give",
+        "2Sg"
+      ],
+      "free_translation_en": "All things we give you, oh respected grandfather, who sits at the bright glare of the fire.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "tgqkapunqnj means 'all of this'"
+    },
+    {
+      "id": "book_calling_khon_s029",
+      "text_roman": "khjn2 t5 pai2 khaa6 khn6 nii2",
+      "lik_tai": "ၶၼ်ႇ တႉ ပႆႇ ၶႃႊ ၶၼ်ႊ ၼႇ",
+      "assamese_script": "খন² ত⁵ পাই² খা⁶ খন⁶ ন²",
+      "morphemes": [
+        "khjn2",
+        "t5",
+        "pai2",
+        "khaa6",
+        "khn6",
+        "nii2"
+      ],
+      "glosses": [
+        "please",
+        "please",
+        "go",
+        "search",
+        "spirit",
+        "good"
+      ],
+      "free_translation_en": "Please go and search out the good khon of our beloved grandson in every country.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s030",
+      "text_roman": "paik4 tii5 kai2 yaan6 tsuu1",
+      "lik_tai": "ပႆၵ်း တႉ ၵႆႇ ယႃၼ်ႊ ၸ",
+      "assamese_script": "পাইক্‌⁴ ত⁵ কাই² যান⁶ চ¹",
+      "morphemes": [
+        "paik4",
+        "tii5",
+        "kai2",
+        "yaan6",
+        "tsuu1"
+      ],
+      "glosses": [
+        "if",
+        "place",
+        "far",
+        "far",
+        "long far place"
+      ],
+      "free_translation_en": "If it is in a very far away place, in any direction,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "There was considerable discussion about the meaning of theu2 leu2, which several informants did not understand. Sa Myat had defined it (translated to me as) 'man cannot go that place, place on earth where ghosts can go but men cannot go there.'"
+    },
+    {
+      "id": "book_calling_khon_s031",
+      "text_roman": "khjn2 t5 puu1 tsau3 lj1 sauk4",
+      "lik_tai": "ၶၼ်ႇ တႉ ပ ၸဝ်ႈ လ ꩢဝ်ၵ်း",
+      "assamese_script": "খন² ত⁵ প¹ চাও³ ল¹ সাওক্‌⁴",
+      "morphemes": [
+        "khjn2",
+        "t5",
+        "puu1",
+        "tsau3",
+        "lj1",
+        "sauk4"
+      ],
+      "glosses": [
+        "please",
+        "please",
+        "grandfather",
+        "RESP",
+        "roam",
+        "search"
+      ],
+      "free_translation_en": "Please grandfather, search for it every channel and stream, and under every flat stone.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* error in MS - written sop."
+    },
+    {
+      "id": "book_calling_khon_s031",
+      "text_roman": "hav2 an2 nai3 tvng1 khn6 mvn2 laan6 n1 ni4",
+      "lik_tai": "ႁႇ ဢၼ်ႇ ၼႆႈ တင် ၶၼ်ႊ မၼ်ႇ လႃၼ်ႊ ၼ ၼိး",
+      "assamese_script": "হ² অন² নাই³ তঙ¹ খন⁶ মন² লান⁶ ন¹ নি⁴",
+      "morphemes": [
+        "hav2",
+        "an2",
+        "nai3",
+        "tvng1",
+        "khn6",
+        "mvn2",
+        "laan6",
+        "n1",
+        "ni4"
+      ],
+      "glosses": [
+        "give",
+        "CLF",
+        "get",
+        "all",
+        "soul",
+        "his",
+        "grandson",
+        "small",
+        "small"
+      ],
+      "free_translation_en": "Get the khon of our small grandchild.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s032",
+      "text_roman": "au2 maa2 sau2 phaing6 sj6 laa2 paa2 mj5 uu1",
+      "lik_tai": "ဢဝ်ႇ မႃႇ ꩢဝ်ႇ ၽႆင်ႊ ꩢႊ လႃႇ ပႃႇ မႉ ဢ",
+      "assamese_script": "ঔ² মা² সাও² ফাইঙ⁶ স⁶ লা² পা² ম⁵ অ¹",
+      "morphemes": [
+        "au2",
+        "maa2",
+        "sau2",
+        "phaing6",
+        "sj6",
+        "laa2",
+        "paa2",
+        "mj5",
+        "uu1"
+      ],
+      "glosses": [
+        "take",
+        "come",
+        "stay",
+        "side of",
+        "PRT",
+        "parents",
+        "parents",
+        "mother",
+        "father"
+      ],
+      "free_translation_en": "Bring it back to side of its loving mother and father",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s033",
+      "text_roman": "sau2 hvng6 thon3 laai6 pii2 yaa1 khai3",
+      "lik_tai": "ꩢဝ်ႇ ႁင်ႊ ထူၼ်ႈ လႃႆႊ ပႇ ယႃ ၶႆႈ",
+      "assamese_script": "সাও² হঙ⁶ থোন³ লাই⁶ প² যা¹ খাই³",
+      "morphemes": [
+        "sau2",
+        "hvng6",
+        "thon3",
+        "laai6",
+        "pii2",
+        "yaa1",
+        "khai3"
+      ],
+      "glosses": [
+        "stay",
+        "long time",
+        "complete",
+        "many",
+        "years",
+        "don't",
+        "illness"
+      ],
+      "free_translation_en": "So that our grandchild may stay for a long time and complete many years without illness.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s034",
+      "text_roman": "hav2 an2 naa3 kii1 yom4 paak1 phi1 kho6 ngaam2",
+      "lik_tai": "ႁႇ ဢၼ်ႇ ၼႃႈ ၵ ယူမ်း ပႃၵ် ၽိ ၶူႊ ငႃမ်ႇ",
+      "assamese_script": "হ² অন² না³ ক¹ যোম⁴ পাক্‌¹ ফি¹ খো⁶ ঙাম²",
+      "morphemes": [
+        "hav2",
+        "an2",
+        "naa3",
+        "kii1",
+        "yom4",
+        "paak1",
+        "phi1",
+        "kho6",
+        "ngaam2"
+      ],
+      "glosses": [
+        "give",
+        "CLF",
+        "face",
+        "smiling",
+        "smiling",
+        "mouth",
+        "ONOM",
+        "laughing",
+        "good"
+      ],
+      "free_translation_en": "So that he may have a smiling, laughing and happy face.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* The MS has gp, but this is altered, following the Aiton version, where the word is gM Naam2 'good'"
+    },
+    {
+      "id": "book_calling_khon_s035",
+      "text_roman": "waa5 tii5 puu1 kn3 sau3 saam6 tseng1 mon2 khing2",
+      "lik_tai": "ဝႃႉ တႉ ပ ၵၼ်ႈ ꩢဝ်ႈ ꩢႃမ်ႊ ေၸင် မူၼ်ႇ ၶိင်ႇ",
+      "assamese_script": "ৱা⁵ ত⁵ প¹ কন³ সাও³ সাম⁶ চেঙ¹ মোন² খিঙ²",
+      "morphemes": [
+        "waa5",
+        "tii5",
+        "puu1",
+        "kn3",
+        "sau3",
+        "saam6",
+        "tseng1",
+        "mon2",
+        "khing2"
+      ],
+      "glosses": [
+        "speak",
+        "to",
+        "grandfather",
+        "tripod",
+        "tripod",
+        "three",
+        "angle",
+        "round",
+        "body"
+      ],
+      "free_translation_en": "Oh grandfather (who sits at) the three pronged cooking stand, with a round rim.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Here cigq refers to the three prongs on the top of the keN2 (tripod)."
+    },
+    {
+      "id": "book_calling_khon_s036",
+      "text_roman": "sau2 phaing6 thaan1 phai2 naing2 het1 tsau3 khau6 zi2",
+      "lik_tai": "ꩢဝ်ႇ ၽႆင်ႊ ထႃၼ် ၽႆႇ ၼႆင်ႇ ေႁတ် ၸဝ်ႈ ၶဝ်ႊ ဢႇ",
+      "assamese_script": "সাও² ফাইঙ⁶ থান¹ ফাই² নাইঙ² হেত্‌¹ চাও³ খাও⁶ অ²",
+      "morphemes": [
+        "sau2",
+        "phaing6",
+        "thaan1",
+        "phai2",
+        "naing2",
+        "het1",
+        "tsau3",
+        "khau6",
+        "zi2"
+      ],
+      "glosses": [
+        "stay",
+        "side",
+        "charcoal",
+        "fire",
+        "red",
+        "do",
+        "RESP",
+        "PLU",
+        "PRT"
+      ],
+      "free_translation_en": "who is by the fire of red charcoals, perform (this ceremony), oh listen!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* This refers to the fact that the grandfather who is to perform this ceremony is sitting beside the fire."
+    },
+    {
+      "id": "book_calling_khon_s037",
+      "text_roman": "lak1 pi2 kaa1 mung5 pun4 mzng2 yav1 khaa6 khn6",
+      "lik_tai": "လၵ် ပိႇ ၵႃ မုင်ႉ ပုၼ်း မင်ႇ ယ ၶႃႊ ၶၼ်ႊ",
+      "assamese_script": "লাক্‌¹ পি² কা¹ মুঙ⁵ পুন⁴ মঙ² য¹ খা⁶ খন⁶",
+      "morphemes": [
+        "lak1",
+        "pi2",
+        "kaa1",
+        "mung5",
+        "pun4",
+        "mzng2",
+        "yav1",
+        "khaa6",
+        "khn6"
+      ],
+      "glosses": [
+        "now",
+        "now",
+        "go",
+        "look forward",
+        "beyond",
+        "country",
+        "big",
+        "search",
+        "soul"
+      ],
+      "free_translation_en": "Now go to look for the khon in other far away countries.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Translated by the pandits as 'now', but cf. Shan lkq:poj:. 'PART. [denoting certainly, truly]"
+    },
+    {
+      "id": "book_calling_khon_s038",
+      "text_roman": "tseu2 pai2 tseu2 maa2 nai3 au2 pan2",
+      "lik_tai": "ၸိုႇ ပႆႇ ၸိုႇ မႃႇ ၼႆႈ ဢဝ်ႇ ပၼ်ႇ",
+      "assamese_script": "চু² পাই² চু² মা² নাই³ ঔ² পান²",
+      "morphemes": [
+        "tseu2",
+        "pai2",
+        "tseu2",
+        "maa2",
+        "nai3",
+        "au2",
+        "pan2"
+      ],
+      "glosses": [
+        "quickly",
+        "go",
+        "quickly",
+        "come",
+        "get",
+        "take",
+        "give"
+      ],
+      "free_translation_en": "We request you to go quickly and bring it back, do not rest anywhere.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s039",
+      "text_roman": "tsvng1 nai4 laan6 mav2 mii2 tvng1 kheu2 kup1 phaa4",
+      "lik_tai": "ၸင် ၼႆး လႃၼ်ႊ မႇ မႇ တင် ၶိုႇ ၵုပ် ၽႃး",
+      "assamese_script": "চঙ¹ নাই⁴ লান⁶ ম² ম² তঙ¹ খু² কুপ্‌¹ ফা⁴",
+      "morphemes": [
+        "tsvng1",
+        "nai4",
+        "laan6",
+        "mav2",
+        "mii2",
+        "tvng1",
+        "kheu2",
+        "kup1",
+        "phaa4"
+      ],
+      "glosses": [
+        "now",
+        "now",
+        "grandson",
+        "you",
+        "have",
+        "all",
+        "sickle",
+        "and",
+        "cleaver"
+      ],
+      "free_translation_en": "Now your grandchild has both a sickle and a cleaver.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s040",
+      "text_roman": "svng6 waa5 khn6 kaa1 khau3 tii5",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ ၶၼ်ႊ ၵႃ ၶဝ်ႈ တႉ",
+      "assamese_script": "সঙ⁶ ৱা⁵ খন⁶ কা¹ খাও³ ত⁵",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "khn6",
+        "kaa1",
+        "khau3",
+        "tii5"
+      ],
+      "glosses": [
+        "if",
+        "say that",
+        "spirit",
+        "go",
+        "enter",
+        "place"
+      ],
+      "free_translation_en": "If the khon goes to a cemetery, search for it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s041",
+      "text_roman": "pzn5 waa5 tsaa1 la4 muu1 khaa2 kheu6",
+      "lik_tai": "ပၼ်ႉ ဝႃႉ ၸႃ လႃး မ ၶႃႇ ၶိုႊ",
+      "assamese_script": "পন⁵ ৱা⁵ চা¹ লা⁴ ম¹ খা² খু⁶",
+      "morphemes": [
+        "pzn5",
+        "waa5",
+        "tsaa1",
+        "la4",
+        "muu1",
+        "khaa2",
+        "kheu6"
+      ],
+      "glosses": [
+        "other",
+        "say",
+        "wild forest",
+        "wild forest",
+        "group",
+        "thatch",
+        "green"
+      ],
+      "free_translation_en": "Some say it is in a wild forest, or a place where there is pile of green thatch.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s042",
+      "text_roman": "puu1 tsau3 au2 tvng1 kheu2 phaai6 tat1",
+      "lik_tai": "ပ ၸဝ်ႈ ဢဝ်ႇ တင် ၶိုႇ ၽႃႆႊ တတ်",
+      "assamese_script": "প¹ চাও³ ঔ² তঙ¹ খু² ফাই⁶ তাত্‌¹",
+      "morphemes": [
+        "puu1",
+        "tsau3",
+        "au2",
+        "tvng1",
+        "kheu2",
+        "phaai6",
+        "tat1"
+      ],
+      "glosses": [
+        "grandfather",
+        "RESP",
+        "take",
+        "all",
+        "sickle",
+        "sharp",
+        "cut"
+      ],
+      "free_translation_en": "Oh grandfather, now take the sharp sickle, and cut and tear it out.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s042",
+      "text_roman": "au2 tang1 khiu2 phai2 tat1",
+      "lik_tai": "ဢဝ်ႇ တင် ၶႇ ၽႆႇ တတ်",
+      "assamese_script": "ঔ² তাঙ¹ খ² ফাই² তাত্‌¹",
+      "morphemes": [
+        "au2",
+        "tang1",
+        "khiu2",
+        "phai2",
+        "tat1"
+      ],
+      "glosses": [
+        "take",
+        "all",
+        "sickle",
+        "sharp",
+        "cut"
+      ],
+      "free_translation_en": "Take the sharp sickle, and cut it now.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s043",
+      "text_roman": "svng6 waa5 khn6 waang1 mz5 sau2",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ ၶၼ်ႊ ဝႃင် မႉ ꩢဝ်ႇ",
+      "assamese_script": "সঙ⁶ ৱা⁵ খন⁶ ৱাঙ¹ ম⁵ সাও²",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "khn6",
+        "waang1",
+        "mz5",
+        "sau2"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "soul",
+        "trouble",
+        "time",
+        "stay"
+      ],
+      "free_translation_en": "If the troubled khon is in the river where clear water flows,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s044",
+      "text_roman": "puu1 tsau3 au2 tvng1 khvk1 sn3",
+      "lik_tai": "ပ ၸဝ်ႈ ဢဝ်ႇ တင် ၶၵ် ꩢၼ်ႈ",
+      "assamese_script": "প¹ চাও³ ঔ² তঙ¹ খক্‌¹ সন³",
+      "morphemes": [
+        "puu1",
+        "tsau3",
+        "au2",
+        "tvng1",
+        "khvk1",
+        "sn3"
+      ],
+      "glosses": [
+        "grandfather",
+        "RESP",
+        "take",
+        "all",
+        "fishing implement",
+        "catch fish"
+      ],
+      "free_translation_en": "Oh grandfather, take the fish trap and search for it at the edge of the river and among the rocks.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s044",
+      "text_roman": "au2 tang1 khɯk1 sn3",
+      "lik_tai": "ဢဝ်ႇ တင် ၶိုၵ် ꩢၼ်ႈ",
+      "assamese_script": "ঔ² তাঙ¹ খুক্‌¹ সন³",
+      "morphemes": [
+        "au2",
+        "tang1",
+        "khɯk1",
+        "sn3"
+      ],
+      "glosses": [
+        "take",
+        "all",
+        "fishing implement",
+        "catch fish"
+      ],
+      "free_translation_en": "Tkae the fishing implement tnear to where the water flows down a rock and the sand is white.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s045",
+      "text_roman": "hav3 an2 nai4 tvng1 khn6 mvn2",
+      "lik_tai": "ႁႈ ဢၼ်ႇ ၼႆး တင် ၶၼ်ႊ မၼ်ႇ",
+      "assamese_script": "হ³ অন² নাই⁴ তঙ¹ খন⁶ মন²",
+      "morphemes": [
+        "hav3",
+        "an2",
+        "nai4",
+        "tvng1",
+        "khn6",
+        "mvn2"
+      ],
+      "glosses": [
+        "let",
+        "CLF",
+        "this",
+        "all",
+        "soul",
+        "3Sg"
+      ],
+      "free_translation_en": "Allow the khon of the little grandchild to come.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s046",
+      "text_roman": "tseuu2 pai2 ljm2 khaa6 nai3 khan6 yaa1 lə3 nai1 wan3",
+      "lik_tai": "ၸႇ ပႆႇ လမ်ႇ ၶႃႊ ၼႆႈ ၶၼ်ႊ ယႃ လိုဝ်ႈ ၼႆ ဝၼ်ႈ",
+      "assamese_script": "চ² পাই² লম² খা⁶ নাই³ খান⁶ যা¹ লো³ নাই¹ ৱান³",
+      "morphemes": [
+        "tseuu2",
+        "pai2",
+        "ljm2",
+        "khaa6",
+        "nai3",
+        "khan6",
+        "yaa1",
+        "lə3",
+        "nai1",
+        "wan3"
+      ],
+      "glosses": [
+        "quickly",
+        "go",
+        "look",
+        "search",
+        "get",
+        "fast",
+        "don't",
+        "rest",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "We request you to go quickly and bring it back, do not rest anywhere.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s047",
+      "text_roman": "nai3 lj3 sə1 nan4 mau1 suu1 nai3 nvng1",
+      "lik_tai": "ၼႆႈ လႈ ꩢိုဝ် ၼၼ်း မဝ် ꩢ ၼႆႈ ၼင်",
+      "assamese_script": "নাই³ ল³ সো¹ নান⁴ মাও¹ স¹ নাই³ নঙ¹",
+      "morphemes": [
+        "nai3",
+        "lj3",
+        "sə1",
+        "nan4",
+        "mau1",
+        "suu1",
+        "nai3",
+        "nvng1"
+      ],
+      "glosses": [
+        "PRT-then",
+        "PRT-then",
+        "place",
+        "this",
+        "NEG",
+        "reach",
+        "get",
+        "then/like"
+      ],
+      "free_translation_en": "Then, if you cannot find it in that place, go and look for it further.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s047",
+      "text_roman": "nai3 lj3 sang1 waa2 sɯ1 nan3 mau1 yang2 nai3 ljm2 khaa1",
+      "lik_tai": "ၼႆႈ လႈ ꩢင် ဝႃႇ ꩢို ၼၼ်ႈ မဝ် ယင်ႇ ၼႆႈ လမ်ႇ ၶႃ",
+      "assamese_script": "নাই³ ল³ সাঙ¹ ৱা² সু¹ নান³ মাও¹ যাঙ² নাই³ লম² খা¹",
+      "morphemes": [
+        "nai3",
+        "lj3",
+        "sang1",
+        "waa2",
+        "sɯ1",
+        "nan3",
+        "mau1",
+        "yang2",
+        "nai3",
+        "ljm2",
+        "khaa1"
+      ],
+      "glosses": [
+        "PRT",
+        "PRT",
+        "if",
+        "say",
+        "place",
+        "that",
+        "NEG",
+        "be",
+        "get",
+        "see",
+        "search"
+      ],
+      "free_translation_en": "If not there, go and search for it (further).",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s048",
+      "text_roman": "lai4 tsvng1 au2 tvng1 kh6 khaan6",
+      "lik_tai": "လႆး ၸင် ဢဝ်ႇ တင် ၶႊ ၶႃၼ်ႊ",
+      "assamese_script": "লাই⁴ চঙ¹ ঔ² তঙ¹ খ⁶ খান⁶",
+      "morphemes": [
+        "lai4",
+        "tsvng1",
+        "au2",
+        "tvng1",
+        "kh6",
+        "khaan6"
+      ],
+      "glosses": [
+        "then",
+        "then",
+        "take",
+        "with",
+        "hoe",
+        "axe"
+      ],
+      "free_translation_en": "Take the hoe and axe (and search) among the thousands of planks and coffins.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s049",
+      "text_roman": "ki2 pen2 khon2 khvng5 khap4",
+      "lik_tai": "ၵိႇ ေပၼ်ႇ ၶူၼ်ႇ ၶင်ႉ ၶပ်း",
+      "assamese_script": "কি² পেন² খোন² খঙ⁵ খাপ্‌⁴",
+      "morphemes": [
+        "ki2",
+        "pen2",
+        "khon2",
+        "khvng5",
+        "khap4"
+      ],
+      "glosses": [
+        "only",
+        "be",
+        "mix",
+        "thing",
+        "arranged in a row"
+      ],
+      "free_translation_en": "It may be mixed up inside these (planks) which are arranged one after the other in a heap.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "It was stated that kojpinq kqi2 pen2 means 'it may be'. It may be related to Shan kojH, 'denoting changes in quality as time passes', as in kojHyUGkojHlI 'the longer it remains the better it gets'"
+    },
+    {
+      "id": "book_calling_khon_s050",
+      "text_roman": "yju2 an2 ming5 tsaa4 nai3 maa2 t1 sau2 sj1",
+      "lik_tai": "ယႇ ဢၼ်ႇ မိင်ႉ ၸႃး ၼႆႈ မႃႇ တ ꩢဝ်ႇ ꩢ",
+      "assamese_script": "য² অন² মিঙ⁵ চা⁴ নাই³ মা² ত¹ সাও² স¹",
+      "morphemes": [
+        "yju2",
+        "an2",
+        "ming5",
+        "tsaa4",
+        "nai3",
+        "maa2",
+        "t1",
+        "sau2",
+        "sj1"
+      ],
+      "glosses": [
+        "if",
+        "if",
+        "spirit",
+        "bad",
+        "get",
+        "come",
+        "PRT",
+        "stay",
+        "PRT"
+      ],
+      "free_translation_en": "(If) The meng catches the khon and gets to a bad place and stays there,' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Sa Myat explained this as:  xonqmnqemygqcI  migqca xjcip."
+    },
+    {
+      "id": "book_calling_khon_s051",
+      "text_roman": "pzn5 waa5 tsaa1 la4 muu1 khaa2 zp1 pjn2 tsung2 long6",
+      "lik_tai": "ပၼ်ႉ ဝႃႉ ၸႃ လႃး မ ၶႃႇ ဢပ် ပၼ်ႇ ၸုင်ႇ လူင်ႊ",
+      "assamese_script": "পন⁵ ৱা⁵ চা¹ লা⁴ ম¹ খা² অপ্‌¹ পন² চুঙ² লোঙ⁶",
+      "morphemes": [
+        "pzn5",
+        "waa5",
+        "tsaa1",
+        "la4",
+        "muu1",
+        "khaa2",
+        "zp1",
+        "pjn2",
+        "tsung2",
+        "long6"
+      ],
+      "glosses": [
+        "other",
+        "say",
+        "wild forest",
+        "wild forest",
+        "group",
+        "thatch",
+        "coffin",
+        "plank",
+        "coffin",
+        "big"
+      ],
+      "free_translation_en": "In that place which others call wild forest, a place where there is pile of thatch, there are big coffins.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "The MS gives caraxamU. xa is not in the Aiton version."
+    },
+    {
+      "id": "book_calling_khon_s052",
+      "text_roman": "svng6 waa5 khn6 waang1 yuu1 nav2 kong2 phaa6 yi4",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ ၶၼ်ႊ ဝႃင် ယ ၼႇ ၵူင်ႇ ၽႃႊ ယိး",
+      "assamese_script": "সঙ⁶ ৱা⁵ খন⁶ ৱাঙ¹ য¹ ন² কোঙ² ফা⁶ যি⁴",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "khn6",
+        "waang1",
+        "yuu1",
+        "nav2",
+        "kong2",
+        "phaa6",
+        "yi4"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "soul",
+        "confused",
+        "stay",
+        "in",
+        "hollow",
+        "stone",
+        "to drop, hang down"
+      ],
+      "free_translation_en": "If the troubled khon has gone to live inside the hollow of a tree, or in an overhanging stone.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* short for koN2 mai4 'a hollow in a tree'."
+    },
+    {
+      "id": "book_calling_khon_s053",
+      "text_roman": "svng6 waa5 khn6 nii2 yuu1 sə1 nan4 tsam4",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ ၶၼ်ႊ ၼႇ ယ ꩢိုဝ် ၼၼ်း ၸမ်း",
+      "assamese_script": "সঙ⁶ ৱা⁵ খন⁶ ন² য¹ সো¹ নান⁴ চাম⁴",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "khn6",
+        "nii2",
+        "yuu1",
+        "sə1",
+        "nan4",
+        "tsam4"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "soul",
+        "good",
+        "stay",
+        "place",
+        "that",
+        "PRT"
+      ],
+      "free_translation_en": "If there is a good khon staying in that place,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s054",
+      "text_roman": "lak1 pi2 sju3 nai3 puk1 h1",
+      "lik_tai": "လၵ် ပိႇ ꩢႈ ၼႆႈ ပုၵ် ႁ",
+      "assamese_script": "লাক্‌¹ পি² স³ নাই³ পুক্‌¹ হ¹",
+      "morphemes": [
+        "lak1",
+        "pi2",
+        "sju3",
+        "nai3",
+        "puk1",
+        "h1"
+      ],
+      "glosses": [
+        "again",
+        "again",
+        "catch",
+        "get",
+        "bind",
+        "package"
+      ],
+      "free_translation_en": "Then catch it and package it into a cloth and bring it, we request.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s055",
+      "text_roman": "waa5 tii5 puu1 kn3 sau3 tii5 yav1 phai2 hvng6 khau6 zi2",
+      "lik_tai": "ဝႃႉ တႉ ပ ၵၼ်ႈ ꩢဝ်ႈ တႉ ယ ၽႆႇ ႁင်ႊ ၶဝ်ႊ ဢႇ",
+      "assamese_script": "ৱা⁵ ত⁵ প¹ কন³ সাও³ ত⁵ য¹ ফাই² হঙ⁶ খাও⁶ অ²",
+      "morphemes": [
+        "waa5",
+        "tii5",
+        "puu1",
+        "kn3",
+        "sau3",
+        "tii5",
+        "yav1",
+        "phai2",
+        "hvng6",
+        "khau6",
+        "zi2"
+      ],
+      "glosses": [
+        "PRT",
+        "PRT",
+        "grandfather",
+        "tripod",
+        "tripod",
+        "at",
+        "big",
+        "fire",
+        "long time",
+        "PLU",
+        "PRT"
+      ],
+      "free_translation_en": "Oh, respected grandfather at the cooking tripod, who has remained by the fire for a long time, oh listen!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Ai Che Let gave the tone of this as wA5 tI1."
+    },
+    {
+      "id": "book_calling_khon_s056",
+      "text_roman": "khjn2 t5 pai2 khaa6 khn6 nii2",
+      "lik_tai": "ၶၼ်ႇ တႉ ပႆႇ ၶႃႊ ၶၼ်ႊ ၼႇ",
+      "assamese_script": "খন² ত⁵ পাই² খা⁶ খন⁶ ন²",
+      "morphemes": [
+        "khjn2",
+        "t5",
+        "pai2",
+        "khaa6",
+        "khn6",
+        "nii2"
+      ],
+      "glosses": [
+        "please",
+        "please",
+        "go",
+        "search",
+        "soul",
+        "good"
+      ],
+      "free_translation_en": "Please go to search for the good khon of our beloved grandson in every country, in every place,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s057",
+      "text_roman": "mzng2 nz6 ik1 mzng2 tav3",
+      "lik_tai": "မင်ႇ ၼႊ ဢိၵ် မင်ႇ တႈ",
+      "assamese_script": "মঙ² ন⁶ ইক্‌¹ মঙ² ত³",
+      "morphemes": [
+        "mzng2",
+        "nz6",
+        "ik1",
+        "mzng2",
+        "tav3"
+      ],
+      "glosses": [
+        "country",
+        "up",
+        "also",
+        "country",
+        "down"
+      ],
+      "free_translation_en": "Up hill and down dale.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s058",
+      "text_roman": "tii5 kav3 kup1 tii2 kai2 tan4",
+      "lik_tai": "တႉ ၵႈ ၵုပ် တႇ ၵႆႇ တၼ်း",
+      "assamese_script": "ত⁵ ক³ কুপ্‌¹ ত² কাই² তান⁴",
+      "morphemes": [
+        "tii5",
+        "kav3",
+        "kup1",
+        "tii2",
+        "kai2",
+        "tan4"
+      ],
+      "glosses": [
+        "place",
+        "close",
+        "with",
+        "place",
+        "far",
+        "that"
+      ],
+      "free_translation_en": "In places far and near,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s059",
+      "text_roman": "paik4 waa5 khp1 phaa4 tii5 kai2 yaau2 k4",
+      "lik_tai": "ပႆၵ်း ဝႃႉ ၶပ် ၽႃး တႉ ၵႆႇ ယႃဝ်ႇ ၵး",
+      "assamese_script": "পাইক্‌⁴ ৱা⁵ খপ্‌¹ ফা⁴ ত⁵ কাই² যাও² ক⁴",
+      "morphemes": [
+        "paik4",
+        "waa5",
+        "khp1",
+        "phaa4",
+        "tii5",
+        "kai2",
+        "yaau2",
+        "k4"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "realm",
+        "sky",
+        "place",
+        "far",
+        "long",
+        "LINK"
+      ],
+      "free_translation_en": "If the khon is in a very distant place where the sky meets the earth.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "*The meaning of xopqfa was given as 'The place where the sky meets the earth.'"
+    },
+    {
+      "id": "book_calling_khon_s060",
+      "text_roman": "puu1 lak1 tam2 tiin2 suu1 haau2",
+      "lik_tai": "ပ လၵ် တမ်ႇ တၼ်ႇ ꩢ ႁႃဝ်ႇ",
+      "assamese_script": "প¹ লাক্‌¹ তাম² তন² স¹ হাও²",
+      "morphemes": [
+        "puu1",
+        "lak1",
+        "tam2",
+        "tiin2",
+        "suu1",
+        "haau2"
+      ],
+      "glosses": [
+        "grandfather",
+        "again",
+        "put down",
+        "leg",
+        "to",
+        "line"
+      ],
+      "free_translation_en": "Grandfather will set down his legs and roam to the bordering countries to search for it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s061",
+      "text_roman": "haau2 yaan6 tsuu1 theu2 leu2 yaa1 waa5",
+      "lik_tai": "ႁႃဝ်ႇ ယႃၼ်ႊ ၸ ထိုႇ လိုႇ ယႃ ဝႃႉ",
+      "assamese_script": "হাও² যান⁶ চ¹ থু² লু² যা¹ ৱা⁵",
+      "morphemes": [
+        "haau2",
+        "yaan6",
+        "tsuu1",
+        "theu2",
+        "leu2",
+        "yaa1",
+        "waa5"
+      ],
+      "glosses": [
+        "line",
+        "far",
+        "far away place",
+        "very far",
+        "very far",
+        "don't",
+        "say"
+      ],
+      "free_translation_en": "It is a far away place.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s062",
+      "text_roman": "puu1 tsau3 nat1 naa3 taing1 pai2 khaa6",
+      "lik_tai": "ပ ၸဝ်ႈ ၼတ် ၼႃႈ တႆင် ပႆႇ ၶႃႊ",
+      "assamese_script": "প¹ চাও³ নাত্‌¹ না³ তাইঙ¹ পাই² খা⁶",
+      "morphemes": [
+        "puu1",
+        "tsau3",
+        "nat1",
+        "naa3",
+        "taing1",
+        "pai2",
+        "khaa6"
+      ],
+      "glosses": [
+        "grandfather",
+        "RESP",
+        "straight road",
+        "face",
+        "begin",
+        "go",
+        "search"
+      ],
+      "free_translation_en": "Grandfather will start searching along that straight road.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s063",
+      "text_roman": "hav3 an2 nai4 tvng1 khn6 mvn2",
+      "lik_tai": "ႁႈ ဢၼ်ႇ ၼႆး တင် ၶၼ်ႊ မၼ်ႇ",
+      "assamese_script": "হ³ অন² নাই⁴ তঙ¹ খন⁶ মন²",
+      "morphemes": [
+        "hav3",
+        "an2",
+        "nai4",
+        "tvng1",
+        "khn6",
+        "mvn2"
+      ],
+      "glosses": [
+        "give",
+        "CLF",
+        "that",
+        "with",
+        "soul",
+        "3Sg"
+      ],
+      "free_translation_en": "Let the khon of the little grandchild come and reach us.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s064",
+      "text_roman": "sau2 nii2 kaang2 hzn2 taan3 seng1",
+      "lik_tai": "ꩢဝ်ႇ ၼႇ ၵႃင်ႇ ႁၼ်ႇ တႃၼ်ႈ ေꩢင်",
+      "assamese_script": "সাও² ন² কাঙ² হন² তান³ সেঙ¹",
+      "morphemes": [
+        "sau2",
+        "nii2",
+        "kaang2",
+        "hzn2",
+        "taan3",
+        "seng1"
+      ],
+      "glosses": [
+        "stay",
+        "good",
+        "middle",
+        "house",
+        "speak",
+        "sound"
+      ],
+      "free_translation_en": "Oh khon, we request you to stay happily inside the house, speak and become well.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s065",
+      "text_roman": "svng6 waa5 khn6 nii6 mz5 sau2",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ ၶၼ်ႊ ၼႊ မႉ ꩢဝ်ႇ",
+      "assamese_script": "সঙ⁶ ৱা⁵ খন⁶ ন⁶ ম⁵ সাও²",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "khn6",
+        "nii6",
+        "mz5",
+        "sau2"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "good khon",
+        "good khon",
+        "time",
+        "stay"
+      ],
+      "free_translation_en": "If the good khon is staying in a large and deep pit",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s066",
+      "text_roman": "puu1 tsau3 au2 tvng1 l4 khut1 suu1 ljm2 khaa6",
+      "lik_tai": "ပ ၸဝ်ႈ ဢဝ်ႇ တင် လး ၶုတ် ꩢ လမ်ႇ ၶႃႊ",
+      "assamese_script": "প¹ চাও³ ঔ² তঙ¹ ল⁴ খুত্‌¹ স¹ লম² খা⁶",
+      "morphemes": [
+        "puu1",
+        "tsau3",
+        "au2",
+        "tvng1",
+        "l4",
+        "khut1",
+        "suu1",
+        "ljm2",
+        "khaa6"
+      ],
+      "glosses": [
+        "grandfather",
+        "RESP",
+        "take",
+        "both",
+        "shovel",
+        "dig",
+        "to",
+        "look",
+        "find"
+      ],
+      "free_translation_en": "Respected grandfather will take a shovel to dig it out and find it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s066",
+      "text_roman": "puu1 tsau3 au2 tang1 kuu2 mɯ2 suu1 ljm2 khaa1",
+      "lik_tai": "ပ ၸဝ်ႈ ဢဝ်ႇ တင် ၵႇ မိုႇ ꩢ လမ်ႇ ၶႃ",
+      "assamese_script": "প¹ চাও³ ঔ² তাঙ¹ ক² মু² স¹ লম² খা¹",
+      "morphemes": [
+        "puu1",
+        "tsau3",
+        "au2",
+        "tang1",
+        "kuu2",
+        "mɯ2",
+        "suu1",
+        "ljm2",
+        "khaa1"
+      ],
+      "glosses": [
+        "grandfather",
+        "RESP",
+        "take",
+        "both",
+        "every",
+        "time",
+        "to",
+        "look",
+        "find"
+      ],
+      "free_translation_en": "Respected grandfather will time to search and find it.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s067",
+      "text_roman": "svng6 lj1 mau1 suu1 nai4 nvng1 waa5 ljm2 khaa6",
+      "lik_tai": "ꩢင်ႊ လ မဝ် ꩢ ၼႆး ၼင် ဝႃႉ လမ်ႇ ၶႃႊ",
+      "assamese_script": "সঙ⁶ ল¹ মাও¹ স¹ নাই⁴ নঙ¹ ৱা⁵ লম² খা⁶",
+      "morphemes": [
+        "svng6",
+        "lj1",
+        "mau1",
+        "suu1",
+        "nai4",
+        "nvng1",
+        "waa5",
+        "ljm2",
+        "khaa6"
+      ],
+      "glosses": [
+        "if",
+        "PRT",
+        "NEG",
+        "to",
+        "then",
+        "thus",
+        "say",
+        "look",
+        "search"
+      ],
+      "free_translation_en": "Like this, if you not not find the it.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s068",
+      "text_roman": "khjn2 t5 pai2 ljm2 taang2 hm2",
+      "lik_tai": "ၶၼ်ႇ တႉ ပႆႇ လမ်ႇ တႃင်ႇ ႁမ်ႇ",
+      "assamese_script": "খন² ত⁵ পাই² লম² তাঙ² হম²",
+      "morphemes": [
+        "khjn2",
+        "t5",
+        "pai2",
+        "ljm2",
+        "taang2",
+        "hm2"
+      ],
+      "glosses": [
+        "please",
+        "please",
+        "go",
+        "look",
+        "junction",
+        "junction"
+      ],
+      "free_translation_en": "Please go to search for it in deep hole and the thick forest.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s069",
+      "text_roman": "svng6 lak1 thup1 han6 yau4 au2 maa2 hav3 nai3",
+      "lik_tai": "ꩢင်ႊ လၵ် ထုပ် ႁၼ်ႊ ယဝ်း ဢဝ်ႇ မႃႇ ႁႈ ၼႆႈ",
+      "assamese_script": "সঙ⁶ লাক্‌¹ থুপ্‌¹ হান⁶ যাও⁴ ঔ² মা² হ³ নাই³",
+      "morphemes": [
+        "svng6",
+        "lak1",
+        "thup1",
+        "han6",
+        "yau4",
+        "au2",
+        "maa2",
+        "hav3",
+        "nai3"
+      ],
+      "glosses": [
+        "if",
+        "if",
+        "meet",
+        "see",
+        "FINISHED",
+        "take",
+        "come",
+        "give",
+        "get"
+      ],
+      "free_translation_en": "If you meet it, bring it back.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Written as vJpq in the MS. It is possible that both thvp1 and thup1 are used for 'meet'"
+    },
+    {
+      "id": "book_calling_khon_s070",
+      "text_roman": "ik1 tvng1 laung5 yuu1 tsaa4",
+      "lik_tai": "ဢိၵ် တင် လဝ်င်ႉ ယ ၸႃး",
+      "assamese_script": "ইক্‌¹ তঙ¹ লাওঙ⁵ য¹ চা⁴",
+      "morphemes": [
+        "ik1",
+        "tvng1",
+        "laung5",
+        "yuu1",
+        "tsaa4"
+      ],
+      "glosses": [
+        "also",
+        "also",
+        "condition",
+        "stay",
+        "bad"
+      ],
+      "free_translation_en": "As it is in a bad way and suffering illness, (come) quickly (so that) it will become better",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "The line appears to be corrupted -"
+    },
+    {
+      "id": "book_calling_khon_s071",
+      "text_roman": "svng6 waa5 ljm2 khaa2 khn6 nii2 thzn1",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ လမ်ႇ ၶႃႇ ၶၼ်ႊ ၼႇ ထၼ်",
+      "assamese_script": "সঙ⁶ ৱা⁵ লম² খা² খন⁶ ন² থন¹",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "ljm2",
+        "khaa2",
+        "khn6",
+        "nii2",
+        "thzn1"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "see",
+        "search",
+        "good khon",
+        "good khon",
+        "forest"
+      ],
+      "free_translation_en": "If after searching for the good khon in that deep forest, you don't get it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s072",
+      "text_roman": "puu1 tsau3 lak1 pi1 kaa1 sauk4",
+      "lik_tai": "ပ ၸဝ်ႈ လၵ် ပိ ၵႃ ꩢဝ်ၵ်း",
+      "assamese_script": "প¹ চাও³ লাক্‌¹ পি¹ কা¹ সাওক্‌⁴",
+      "morphemes": [
+        "puu1",
+        "tsau3",
+        "lak1",
+        "pi1",
+        "kaa1",
+        "sauk4"
+      ],
+      "glosses": [
+        "grandfather",
+        "RESP",
+        "now",
+        "now",
+        "go",
+        "search"
+      ],
+      "free_translation_en": "Oh Grandfather, now go and search on the open ground, on the dry rice fields and the flat wet paddy fields.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s073",
+      "text_roman": "hoi3 haung5 ik1 ung2 naa2",
+      "lik_tai": "ႁူႆႈ ႁဝ်င်ႉ ဢိၵ် ဢုင်ႇ ၼႃႇ",
+      "assamese_script": "হওই³ হাওঙ⁵ ইক্‌¹ উঙ² না²",
+      "morphemes": [
+        "hoi3",
+        "haung5",
+        "ik1",
+        "ung2",
+        "naa2"
+      ],
+      "glosses": [
+        "creek",
+        "drain",
+        "also",
+        "lowland",
+        "field"
+      ],
+      "free_translation_en": "in the creeks and drains and lowland fields",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s074",
+      "text_roman": "yju2 sj1 khn6 waang1 laan6 paing2 kzt1",
+      "lik_tai": "ယႇ ꩢ ၶၼ်ႊ ဝႃင် လႃၼ်ႊ ပႆင်ႇ ၵတ်",
+      "assamese_script": "য² স¹ খন⁶ ৱাঙ¹ লান⁶ পাইঙ² কত্‌¹",
+      "morphemes": [
+        "yju2",
+        "sj1",
+        "khn6",
+        "waang1",
+        "laan6",
+        "paing2",
+        "kzt1"
+      ],
+      "glosses": [
+        "if",
+        "PRT",
+        "soul",
+        "confused",
+        "grandson",
+        "love",
+        "remain"
+      ],
+      "free_translation_en": "If the troubled khon of our beloved grandchild has become separated, and is far away,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Aithown Che explained that this meant that the khon had got separated from the its body, the fUcW."
+    },
+    {
+      "id": "book_calling_khon_s075",
+      "text_roman": "yaam2 mz5 pai2 maa2 mau1 huu4 nai3",
+      "lik_tai": "ယႃမ်ႇ မႉ ပႆႇ မႃႇ မဝ် ႁး ၼႆႈ",
+      "assamese_script": "যাম² ম⁵ পাই² মা² মাও¹ হ⁴ নাই³",
+      "morphemes": [
+        "yaam2",
+        "mz5",
+        "pai2",
+        "maa2",
+        "mau1",
+        "huu4",
+        "nai3"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "go",
+        "come",
+        "NEG",
+        "know",
+        "get"
+      ],
+      "free_translation_en": "When the time will come to bring it back, is not known",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s075",
+      "text_roman": "yaam2 neu2 mz5 pai2 au2 maa2 mau1 huu4 nai3",
+      "lik_tai": "ယႃမ်ႇ ၼိုႇ မႉ ပႆႇ ဢဝ်ႇ မႃႇ မဝ် ႁး ၼႆႈ",
+      "assamese_script": "যাম² নু² ম⁵ পাই² ঔ² মা² মাও¹ হ⁴ নাই³",
+      "morphemes": [
+        "yaam2",
+        "neu2",
+        "mz5",
+        "pai2",
+        "au2",
+        "maa2",
+        "mau1",
+        "huu4",
+        "nai3"
+      ],
+      "glosses": [
+        "time",
+        "one",
+        "time",
+        "go",
+        "take",
+        "come",
+        "NEG",
+        "know",
+        "get"
+      ],
+      "free_translation_en": "When the time will come to bring it back, is not known' $L=Phake$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s076",
+      "text_roman": "tsvng1 pen2 mat1 ming5 khai3",
+      "lik_tai": "ၸင် ေပၼ်ႇ မတ် မိင်ႉ ၶႆႈ",
+      "assamese_script": "চঙ¹ পেন² মাত্‌¹ মিঙ⁵ খাই³",
+      "morphemes": [
+        "tsvng1",
+        "pen2",
+        "mat1",
+        "ming5",
+        "khai3"
+      ],
+      "glosses": [
+        "thus",
+        "be",
+        "body not well",
+        "body not well",
+        "fever"
+      ],
+      "free_translation_en": "The (grandchild) is ill, he is feverish, he is burning with a cold fever.' $L=Phake$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "*"
+    },
+    {
+      "id": "book_calling_khon_s077",
+      "text_roman": "khjn2 hav2 puu1 tsau3 sam4 mung5 tst1 laai6 khaa6",
+      "lik_tai": "ၶၼ်ႇ ႁႇ ပ ၸဝ်ႈ ꩢမ်း မုင်ႉ ၸတ် လႃႆႊ ၶႃႊ",
+      "assamese_script": "খন² হ² প¹ চাও³ সাম⁴ মুঙ⁵ চত্‌¹ লাই⁶ খা⁶",
+      "morphemes": [
+        "khjn2",
+        "hav2",
+        "puu1",
+        "tsau3",
+        "sam4",
+        "mung5",
+        "tst1",
+        "laai6",
+        "khaa6"
+      ],
+      "glosses": [
+        "please",
+        "let",
+        "grandfather",
+        "RESP",
+        "again",
+        "search",
+        "everywhere",
+        "many",
+        "search"
+      ],
+      "free_translation_en": "Please, grandfather, again go to search everywhere.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s078",
+      "text_roman": "svng6 lak1 thup1 han6 khn6 waang1",
+      "lik_tai": "ꩢင်ႊ လၵ် ထုပ် ႁၼ်ႊ ၶၼ်ႊ ဝႃင်",
+      "assamese_script": "সঙ⁶ লাক্‌¹ থুপ্‌¹ হান⁶ খন⁶ ৱাঙ¹",
+      "morphemes": [
+        "svng6",
+        "lak1",
+        "thup1",
+        "han6",
+        "khn6",
+        "waang1"
+      ],
+      "glosses": [
+        "if",
+        "if",
+        "meet",
+        "see",
+        "soul",
+        "confused"
+      ],
+      "free_translation_en": "Sentence 78 from book_calling_khon.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s079",
+      "text_roman": "laan6 paing2 pan2 au2 maa2 hav3 nai3 nai1 waan2",
+      "lik_tai": "လႃၼ်ႊ ပႆင်ႇ ပၼ်ႇ ဢဝ်ႇ မႃႇ ႁႈ ၼႆႈ ၼႆ ဝႃၼ်ႇ",
+      "assamese_script": "লান⁶ পাইঙ² পান² ঔ² মা² হ³ নাই³ নাই¹ ৱান²",
+      "morphemes": [
+        "laan6",
+        "paing2",
+        "pan2",
+        "au2",
+        "maa2",
+        "hav3",
+        "nai3",
+        "nai1",
+        "waan2"
+      ],
+      "glosses": [
+        "grandchild",
+        "love",
+        "give",
+        "take",
+        "come",
+        "give",
+        "get",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "If (he) meets the (the confused soul), he should bring it home.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Sa Myat paraphrased this as:"
+    },
+    {
+      "id": "book_calling_khon_s080",
+      "text_roman": "tan4 nai4 pai2 khaa6 phaai3 njn2 ljm2 tst1",
+      "lik_tai": "တၼ်း ၼႆး ပႆႇ ၶႃႊ ၽႃႆႈ ၼၼ်ႇ လမ်ႇ ၸတ်",
+      "assamese_script": "তান⁴ নাই⁴ পাই² খা⁶ ফাই³ নন² লম² চত্‌¹",
+      "morphemes": [
+        "tan4",
+        "nai4",
+        "pai2",
+        "khaa6",
+        "phaai3",
+        "njn2",
+        "ljm2",
+        "tst1"
+      ],
+      "glosses": [
+        "now",
+        "now",
+        "go",
+        "search",
+        "walk",
+        "border",
+        "see",
+        "everywhere"
+      ],
+      "free_translation_en": "Go and search at the borders and look everywhere.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s081",
+      "text_roman": "tvng1 kaa1 hoi3 haung5 lj1 sauk4 yau4",
+      "lik_tai": "တင် ၵႃ ႁူႆႈ ႁဝ်င်ႉ လ ꩢဝ်ၵ်း ယဝ်း",
+      "assamese_script": "তঙ¹ কা¹ হওই³ হাওঙ⁵ ল¹ সাওক্‌⁴ যাও⁴",
+      "morphemes": [
+        "tvng1",
+        "kaa1",
+        "hoi3",
+        "haung5",
+        "lj1",
+        "sauk4",
+        "yau4"
+      ],
+      "glosses": [
+        "all",
+        "go",
+        "creek",
+        "drain",
+        "roam",
+        "seach",
+        "PAST"
+      ],
+      "free_translation_en": "Look for it thoroughly.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s082",
+      "text_roman": "svng6 lak1 mau1 suu1 nai3 nvng1 waa5 ljm2 han6",
+      "lik_tai": "ꩢင်ႊ လၵ် မဝ် ꩢ ၼႆႈ ၼင် ဝႃႉ လမ်ႇ ႁၼ်ႊ",
+      "assamese_script": "সঙ⁶ লাক্‌¹ মাও¹ স¹ নাই³ নঙ¹ ৱা⁵ লম² হান⁶",
+      "morphemes": [
+        "svng6",
+        "lak1",
+        "mau1",
+        "suu1",
+        "nai3",
+        "nvng1",
+        "waa5",
+        "ljm2",
+        "han6"
+      ],
+      "glosses": [
+        "if",
+        "if",
+        "NEG",
+        "reach",
+        "get",
+        "thus",
+        "that",
+        "look",
+        "see"
+      ],
+      "free_translation_en": "If (you) don't get to see it,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s083",
+      "text_roman": "lai4 tsvng1 pai2 khaa6 phet1",
+      "lik_tai": "လႆး ၸင် ပႆႇ ၶႃႊ ေၽတ်",
+      "assamese_script": "লাই⁴ চঙ¹ পাই² খা⁶ ফেত্‌¹",
+      "morphemes": [
+        "lai4",
+        "tsvng1",
+        "pai2",
+        "khaa6",
+        "phet1"
+      ],
+      "glosses": [
+        "then",
+        "then",
+        "go",
+        "search",
+        "ghost"
+      ],
+      "free_translation_en": "Then go to search for the evil spirits, the stupid and the wicked persons.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Sa Myat listed the bad spirits as follows:  fitqcEtnq  fIyukqfImanI."
+    },
+    {
+      "id": "book_calling_khon_s084",
+      "text_roman": "au2 tvng1 kan2 yaau2",
+      "lik_tai": "ဢဝ်ႇ တင် ၵၼ်ႇ ယႃဝ်ႇ",
+      "assamese_script": "ঔ² তঙ¹ কান² যাও²",
+      "morphemes": [
+        "au2",
+        "tvng1",
+        "kan2",
+        "yaau2"
+      ],
+      "glosses": [
+        "take",
+        "all",
+        "handle",
+        "long"
+      ],
+      "free_translation_en": "Take the long handled lance, with the crossbow.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s085",
+      "text_roman": "puu1 lak1 kaa1 sauk4 phii6 phet1 haai4",
+      "lik_tai": "ပ လၵ် ၵႃ ꩢဝ်ၵ်း ၽႊ ေၽတ် ႁႃႆး",
+      "assamese_script": "প¹ লাক্‌¹ কা¹ সাওক্‌⁴ ফ⁶ ফেত্‌¹ হাই⁴",
+      "morphemes": [
+        "puu1",
+        "lak1",
+        "kaa1",
+        "sauk4",
+        "phii6",
+        "phet1",
+        "haai4"
+      ],
+      "glosses": [
+        "grandfather",
+        "again",
+        "go",
+        "search",
+        "ghost",
+        "bad ghost",
+        "bad"
+      ],
+      "free_translation_en": "Grandfather goes to search.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s086",
+      "text_roman": "svng6 waa5 phii6 phet1 tsaa4 mau1 pi1 phaa3",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ ၽႊ ေၽတ် ၸႃး မဝ် ပိ ၽႃႈ",
+      "assamese_script": "সঙ⁶ ৱা⁵ ফ⁶ ফেত্‌¹ চা⁴ মাও¹ পি¹ ফা³",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "phii6",
+        "phet1",
+        "tsaa4",
+        "mau1",
+        "pi1",
+        "phaa3"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "spirit",
+        "bad",
+        "bad",
+        "NEG",
+        "release",
+        "release"
+      ],
+      "free_translation_en": "If the bad spirits will still not release the khon.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s087",
+      "text_roman": "au2 tvng1 mav2 ljm2 hauk1 paai2 theu6 sep1 khang1",
+      "lik_tai": "ဢဝ်ႇ တင် မႇ လမ်ႇ ႁဝ်ၵ် ပႃႆႇ ထိုႊ ေꩢပ် ၶင်",
+      "assamese_script": "ঔ² তঙ¹ ম² লম² হাওক্‌¹ পাই² থু⁶ সেপ্‌¹ খাঙ¹",
+      "morphemes": [
+        "au2",
+        "tvng1",
+        "mav2",
+        "ljm2",
+        "hauk1",
+        "paai2",
+        "theu6",
+        "sep1",
+        "khang1"
+      ],
+      "glosses": [
+        "take",
+        "all",
+        "blade",
+        "CLF",
+        "lance",
+        "edge",
+        "thin",
+        "stab",
+        "side of body"
+      ],
+      "free_translation_en": "Take the thin blade of the lance and stab the side (of the bad spirit).",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s088",
+      "text_roman": "svng6 lj2 yang2 het1",
+      "lik_tai": "ꩢင်ႊ လႇ ယင်ႇ ေႁတ်",
+      "assamese_script": "সঙ⁶ ল² যাঙ² হেত্‌¹",
+      "morphemes": [
+        "svng6",
+        "lj2",
+        "yang2",
+        "het1"
+      ],
+      "glosses": [
+        "if",
+        "PRT",
+        "have",
+        "do"
+      ],
+      "free_translation_en": "If they grab it tightly and will not release it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s089",
+      "text_roman": "au2 tvng1 kaang1 khaa6 khv2 net1 yv2",
+      "lik_tai": "ဢဝ်ႇ တင် ၵႃင် ၶႃႊ ၶႇ ေၼတ် ယႇ",
+      "assamese_script": "ঔ² তঙ¹ কাঙ¹ খা⁶ খ² নেত্‌¹ য²",
+      "morphemes": [
+        "au2",
+        "tvng1",
+        "kaang1",
+        "khaa6",
+        "khv2",
+        "net1",
+        "yv2"
+      ],
+      "glosses": [
+        "take",
+        "both",
+        "crossbow",
+        "part of bow",
+        "strike in a sliding motion",
+        "flick with finger",
+        "shoot"
+      ],
+      "free_translation_en": "Take the crossbow and striking at them, shoot them.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s090",
+      "text_roman": "nan4 k4 mau1 pi1 hav3 pan2 maa2",
+      "lik_tai": "ၼၼ်း ၵး မဝ် ပိ ႁႈ ပၼ်ႇ မႃႇ",
+      "assamese_script": "নান⁴ ক⁴ মাও¹ পি¹ হ³ পান² মা²",
+      "morphemes": [
+        "nan4",
+        "k4",
+        "mau1",
+        "pi1",
+        "hav3",
+        "pan2",
+        "maa2"
+      ],
+      "glosses": [
+        "that",
+        "LINK",
+        "NEG",
+        "release",
+        "give",
+        "give",
+        "come"
+      ],
+      "free_translation_en": "If they still don't release it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s091",
+      "text_roman": "lai4 tsvng1 au2 tvng1 taau2 phaai6",
+      "lik_tai": "လႆး ၸင် ဢဝ်ႇ တင် တႃဝ်ႇ ၽႃႆႊ",
+      "assamese_script": "লাই⁴ চঙ¹ ঔ² তঙ¹ তাও² ফাই⁶",
+      "morphemes": [
+        "lai4",
+        "tsvng1",
+        "au2",
+        "tvng1",
+        "taau2",
+        "phaai6"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "take",
+        "all",
+        "sword",
+        "sharp"
+      ],
+      "free_translation_en": "Take a sharp sword with a razor sharp edge and go to chop them.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s092",
+      "text_roman": "hav3 mvn2 paau2 waau2 phaak3 nii6 kai2 tvn1 paai5",
+      "lik_tai": "ႁႈ မၼ်ႇ ပႃဝ်ႇ ဝႃဝ်ႇ ၽႃၵ်ႈ ၼႊ ၵႆႇ တၼ် ပႃႆႉ",
+      "assamese_script": "হ³ মন² পাও² ৱাও² ফাক্‌³ ন⁶ কাই² তন¹ পাই⁵",
+      "morphemes": [
+        "hav3",
+        "mvn2",
+        "paau2",
+        "waau2",
+        "phaak3",
+        "nii6",
+        "kai2",
+        "tvn1",
+        "paai5"
+      ],
+      "glosses": [
+        "give",
+        "3Sg",
+        "frightened",
+        "frightened",
+        "separated",
+        "go away",
+        "far",
+        "fear",
+        "flee"
+      ],
+      "free_translation_en": "Make the (bad spirits) run away, far far away.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "There was some discussion as to the meaning of pWwW . It was stated that it was onomatopoeic, referring to the call of the khon after it has been cut."
+    },
+    {
+      "id": "book_calling_khon_s093",
+      "text_roman": "tsvng1 tak1 phaa3 pi1 hav3 noi3 ngaai5",
+      "lik_tai": "ၸင် တၵ် ၽႃႈ ပိ ႁႈ ၼူႆႈ ငႃႆႉ",
+      "assamese_script": "চঙ¹ তাক্‌¹ ফা³ পি¹ হ³ নওই³ ঙাই⁵",
+      "morphemes": [
+        "tsvng1",
+        "tak1",
+        "phaa3",
+        "pi1",
+        "hav3",
+        "noi3",
+        "ngaai5"
+      ],
+      "glosses": [
+        "so",
+        "will",
+        "release",
+        "release",
+        "allow",
+        "with",
+        "easy"
+      ],
+      "free_translation_en": "Then easily he will release the khon.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s094",
+      "text_roman": "waa5 tii5 puu1 tsau3 sv1 tii5 yav1",
+      "lik_tai": "ဝႃႉ တႉ ပ ၸဝ်ႈ ꩢ တႉ ယ",
+      "assamese_script": "ৱা⁵ ত⁵ প¹ চাও³ স¹ ত⁵ য¹",
+      "morphemes": [
+        "waa5",
+        "tii5",
+        "puu1",
+        "tsau3",
+        "sv1",
+        "tii5",
+        "yav1"
+      ],
+      "glosses": [
+        "PRT",
+        "PRT",
+        "grandfather",
+        "RESP",
+        "place",
+        "place",
+        "big"
+      ],
+      "free_translation_en": "Oh, respected grandfather, who sits by the large fire,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s095",
+      "text_roman": "khjn2 t5 pai2 khaa6 khn6 waang1",
+      "lik_tai": "ၶၼ်ႇ တႉ ပႆႇ ၶႃႊ ၶၼ်ႊ ဝႃင်",
+      "assamese_script": "খন² ত⁵ পাই² খা⁶ খন⁶ ৱাঙ¹",
+      "morphemes": [
+        "khjn2",
+        "t5",
+        "pai2",
+        "khaa6",
+        "khn6",
+        "waang1"
+      ],
+      "glosses": [
+        "please",
+        "please",
+        "go",
+        "search",
+        "soul",
+        "confused"
+      ],
+      "free_translation_en": "Please go and bring the troubled khon and watch over it so it may stay quietly.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s096",
+      "text_roman": "nai4 le2 tvng1 kaa1 laai6 lvm2",
+      "lik_tai": "ၼႆး ေလႇ တင် ၵႃ လႃႆႊ လမ်ႇ",
+      "assamese_script": "নাই⁴ লে² তঙ¹ কা¹ লাই⁶ লম²",
+      "morphemes": [
+        "nai4",
+        "le2",
+        "tvng1",
+        "kaa1",
+        "laai6",
+        "lvm2"
+      ],
+      "glosses": [
+        "PRT",
+        "PRT",
+        "all",
+        "go",
+        "many",
+        "country"
+      ],
+      "free_translation_en": "Go searching in many places, in the open ground outside the edges of the village.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "In the Aiton version it is lJpq not lJmq , cf Shan lJpqG 'country'. Nabin stated that lJpq is used more widely. mJgq is replaced by xopq 'border' in the Aiton version."
+    },
+    {
+      "id": "book_calling_khon_s097",
+      "text_roman": "tvng1 kaa1 phii1 phjt1 yuk4 lj1",
+      "lik_tai": "တင် ၵႃ ၽ ၽတ် ယုၵ်း လ",
+      "assamese_script": "তঙ¹ কা¹ ফ¹ ফত্‌¹ যুক্‌⁴ ল¹",
+      "morphemes": [
+        "tvng1",
+        "kaa1",
+        "phii1",
+        "phjt1",
+        "yuk4",
+        "lj1"
+      ],
+      "glosses": [
+        "all",
+        "all",
+        "ghost",
+        "bad ghost",
+        "bad in character",
+        "roam"
+      ],
+      "free_translation_en": "If you have searched for all the bad spirits, don't fail to look thoroughly.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s098",
+      "text_roman": "tvng1 nan4 mau1 suu1 nai3 nvng1",
+      "lik_tai": "တင် ၼၼ်း မဝ် ꩢ ၼႆႈ ၼင်",
+      "assamese_script": "তঙ¹ নান⁴ মাও¹ স¹ নাই³ নঙ¹",
+      "morphemes": [
+        "tvng1",
+        "nan4",
+        "mau1",
+        "suu1",
+        "nai3",
+        "nvng1"
+      ],
+      "glosses": [
+        "all",
+        "that",
+        "not",
+        "to",
+        "get",
+        "like"
+      ],
+      "free_translation_en": "If you don't manage to get it quickly,' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s099",
+      "text_roman": "pi1 tsvng1 pai2 khaa6 khau3 him2 mzng2 tii5",
+      "lik_tai": "ပိ ၸင် ပႆႇ ၶႃႊ ၶဝ်ႈ ႁိမ်ႇ မင်ႇ တႉ",
+      "assamese_script": "পি¹ চঙ¹ পাই² খা⁶ খাও³ হিম² মঙ² ত⁵",
+      "morphemes": [
+        "pi1",
+        "tsvng1",
+        "pai2",
+        "khaa6",
+        "khau3",
+        "him2",
+        "mzng2",
+        "tii5"
+      ],
+      "glosses": [
+        "afterwards",
+        "afterwards",
+        "go",
+        "search",
+        "enter",
+        "edge",
+        "country",
+        "place"
+      ],
+      "free_translation_en": "Afterwards, go and search at the borders of the country and in every place.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s100",
+      "text_roman": "sv5 an2 phii6 khen6 naau6 naau6",
+      "lik_tai": "ꩢႉ ဢၼ်ႇ ၽႊ ေၶၼ်ႊ ၼႃဝ်ႊ ၼႃဝ်ႊ",
+      "assamese_script": "স⁵ অন² ফ⁶ খেন⁶ নাও⁶ নাও⁶",
+      "morphemes": [
+        "sv5",
+        "an2",
+        "phii6",
+        "khen6",
+        "naau6",
+        "naau6"
+      ],
+      "glosses": [
+        "straight",
+        "CLF",
+        "ghost",
+        "bad luck",
+        "cold",
+        "cold"
+      ],
+      "free_translation_en": "The place of the cold bad spirits.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "In was stated that sJwqAnq sv5 an2 meant 'at that time'"
+    },
+    {
+      "id": "book_calling_khon_s101",
+      "text_roman": "pzn5 hek4 tsj5 pai2 maa2 pen2",
+      "lik_tai": "ပၼ်ႉ ေႁၵ်း ၸႉ ပႆႇ မႃႇ ေပၼ်ႇ",
+      "assamese_script": "পন⁵ হেক্‌⁴ চ⁵ পাই² মা² পেন²",
+      "morphemes": [
+        "pzn5",
+        "hek4",
+        "tsj5",
+        "pai2",
+        "maa2",
+        "pen2"
+      ],
+      "glosses": [
+        "other",
+        "call",
+        "city",
+        "go",
+        "come",
+        "be"
+      ],
+      "free_translation_en": "Others call it a city.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s102",
+      "text_roman": "nan4 k4 khjn2 hav3 puu1 tsau3",
+      "lik_tai": "ၼၼ်း ၵး ၶၼ်ႇ ႁႈ ပ ၸဝ်ႈ",
+      "assamese_script": "নান⁴ ক⁴ খন² হ³ প¹ চাও³",
+      "morphemes": [
+        "nan4",
+        "k4",
+        "khjn2",
+        "hav3",
+        "puu1",
+        "tsau3"
+      ],
+      "glosses": [
+        "that",
+        "LINK",
+        "please",
+        "give",
+        "grandfather",
+        "RESP"
+      ],
+      "free_translation_en": "In that case, grandfather please go there and again search everywhere thoroughly.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s103",
+      "text_roman": "khaa6 au2 khn6 laan6 pauk4",
+      "lik_tai": "ၶႃႊ ဢဝ်ႇ ၶၼ်ႊ လႃၼ်ႊ ပဝ်ၵ်း",
+      "assamese_script": "খা⁶ ঔ² খন⁶ লান⁶ পাওক্‌⁴",
+      "morphemes": [
+        "khaa6",
+        "au2",
+        "khn6",
+        "laan6",
+        "pauk4"
+      ],
+      "glosses": [
+        "search",
+        "take",
+        "soul",
+        "grandchild",
+        "return"
+      ],
+      "free_translation_en": "Search and bring the khon of our grandchild back home, to this room, we request you.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s104",
+      "text_roman": "svng6 waa5 phii6 khen6 kam2 kvm2",
+      "lik_tai": "ꩢင်ႊ ဝႃႉ ၽႊ ေၶၼ်ႊ ၵမ်ႇ ၵမ်ႇ",
+      "assamese_script": "সঙ⁶ ৱা⁵ ফ⁶ খেন⁶ কাম² কম²",
+      "morphemes": [
+        "svng6",
+        "waa5",
+        "phii6",
+        "khen6",
+        "kam2",
+        "kvm2"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "ghost",
+        "bad luck",
+        "catch",
+        "tight"
+      ],
+      "free_translation_en": "Will not release it.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s105",
+      "text_roman": "puu1 tsau3 au2 tvng1 kan2 km3",
+      "lik_tai": "ပ ၸဝ်ႈ ဢဝ်ႇ တင် ၵၼ်ႇ ၵမ်ႈ",
+      "assamese_script": "প¹ চাও³ ঔ² তঙ¹ কান² কম³",
+      "morphemes": [
+        "puu1",
+        "tsau3",
+        "au2",
+        "tvng1",
+        "kan2",
+        "km3"
+      ],
+      "glosses": [
+        "grandfather",
+        "RESP",
+        "take",
+        "all",
+        "big stick",
+        "term"
+      ],
+      "free_translation_en": "Take a long red rattan stick and hit them.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s106",
+      "text_roman": "nan4 k4 mau1 pi1 hav3 waang2 pan2",
+      "lik_tai": "ၼၼ်း ၵး မဝ် ပိ ႁႈ ဝႃင်ႇ ပၼ်ႇ",
+      "assamese_script": "নান⁴ ক⁴ মাও¹ পি¹ হ³ ৱাঙ² পান²",
+      "morphemes": [
+        "nan4",
+        "k4",
+        "mau1",
+        "pi1",
+        "hav3",
+        "waang2",
+        "pan2"
+      ],
+      "glosses": [
+        "then",
+        "then",
+        "NEG",
+        "release",
+        "give",
+        "put down",
+        "give"
+      ],
+      "free_translation_en": "If they don't release it, and put it down.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "Nabin paraphrased this as:\thEpUnnqlFsIelsokq  AWlFwjmgqhgqfIxinq /"
+    },
+    {
+      "id": "book_calling_khon_s107",
+      "text_roman": "lai4 tsvng1 au2 tvng1 khaung6 tv2",
+      "lik_tai": "လႆး ၸင် ဢဝ်ႇ တင် ၶဝ်င်ႊ တႇ",
+      "assamese_script": "লাই⁴ চঙ¹ ঔ² তঙ¹ খাওঙ⁶ ত²",
+      "morphemes": [
+        "lai4",
+        "tsvng1",
+        "au2",
+        "tvng1",
+        "khaung6",
+        "tv2"
+      ],
+      "glosses": [
+        "so",
+        "so",
+        "take",
+        "all",
+        "thing",
+        "use"
+      ],
+      "free_translation_en": "Bring all the many utensils which were given.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s108",
+      "text_roman": "svng6 lak1 pan2 maa2 yau4",
+      "lik_tai": "ꩢင်ႊ လၵ် ပၼ်ႇ မႃႇ ယဝ်း",
+      "assamese_script": "সঙ⁶ লাক্‌¹ পান² মা² যাও⁴",
+      "morphemes": [
+        "svng6",
+        "lak1",
+        "pan2",
+        "maa2",
+        "yau4"
+      ],
+      "glosses": [
+        "if",
+        "if",
+        "give",
+        "COME",
+        "FINISHED"
+      ],
+      "free_translation_en": "If they give up the khon, our hearts will be glad and full of hope.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s109",
+      "text_roman": "au2 pauk4 haung4 hzn2 kaang1 thvng6",
+      "lik_tai": "ဢဝ်ႇ ပဝ်ၵ်း ႁဝ်င်း ႁၼ်ႇ ၵႃင် ထင်ႊ",
+      "assamese_script": "ঔ² পাওক্‌⁴ হাওঙ⁴ হন² কাঙ¹ থঙ⁶",
+      "morphemes": [
+        "au2",
+        "pauk4",
+        "haung4",
+        "hzn2",
+        "kaang1",
+        "thvng6"
+      ],
+      "glosses": [
+        "take",
+        "return",
+        "room",
+        "house",
+        "wide",
+        "reach"
+      ],
+      "free_translation_en": "Bring it back to this house, and let it eat peacefully, we request you.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Sa Myat defined this as nI$kinq. Nabin stated that it means: 'After you get you stay mindful and eat in peace.'"
+    },
+    {
+      "id": "book_calling_khon_s110",
+      "text_roman": "nai4 k4 lj1 sauk3 yau4",
+      "lik_tai": "ၼႆး ၵး လ ꩢဝ်ၵ်ႈ ယဝ်း",
+      "assamese_script": "নাই⁴ ক⁴ ল¹ সাওক্‌³ যাও⁴",
+      "morphemes": [
+        "nai4",
+        "k4",
+        "lj1",
+        "sauk3",
+        "yau4"
+      ],
+      "glosses": [
+        "this",
+        "LINK",
+        "roam",
+        "search",
+        "FINISHED"
+      ],
+      "free_translation_en": "Thus you have roamed and sought it in every place,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s111",
+      "text_roman": "mau1 mii2 toi2 han6 sv5 hing1 taa2",
+      "lik_tai": "မဝ် မႇ တူႆႇ ႁၼ်ႊ ꩢႉ ႁိင် တႃႇ",
+      "assamese_script": "মাও¹ ম² তওই² হান⁶ স⁵ হিঙ¹ তা²",
+      "morphemes": [
+        "mau1",
+        "mii2",
+        "toi2",
+        "han6",
+        "sv5",
+        "hing1",
+        "taa2"
+      ],
+      "glosses": [
+        "NEG",
+        "have",
+        "look",
+        "see",
+        "straight",
+        "guess",
+        "guess"
+      ],
+      "free_translation_en": "If it does not have strong eyes or if it does not clearly know,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s112",
+      "text_roman": "lai4 tsvng1 yang2 mii2 sau3 ngau2",
+      "lik_tai": "လႆး ၸင် ယင်ႇ မႇ ꩢဝ်ႈ ငဝ်ႇ",
+      "assamese_script": "লাই⁴ চঙ¹ যাঙ² ম² সাও³ ঙাও²",
+      "morphemes": [
+        "lai4",
+        "tsvng1",
+        "yang2",
+        "mii2",
+        "sau3",
+        "ngau2"
+      ],
+      "glosses": [
+        "so",
+        "so",
+        "have",
+        "have",
+        "gloomy",
+        "sad countenance"
+      ],
+      "free_translation_en": "If there is sadness in the cemetery which is covered with green thatch.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "The reading of this line is uncertain. The text states cWgW and the Phake pandits suggested that this meant 'many things'. Nabin suggested that change to sWgW 'sadness'."
+    },
+    {
+      "id": "book_calling_khon_s113",
+      "text_roman": "tan4 kh1 khn6 tsaa4 nai4 mz5 kiu2 sau2 sj1",
+      "lik_tai": "တၼ်း ၶ ၶၼ်ႊ ၸႃး ၼႆး မႉ ၵႇ ꩢဝ်ႇ ꩢ",
+      "assamese_script": "তান⁴ খ¹ খন⁶ চা⁴ নাই⁴ ম⁵ ক² সাও² স¹",
+      "morphemes": [
+        "tan4",
+        "kh1",
+        "khn6",
+        "tsaa4",
+        "nai4",
+        "mz5",
+        "kiu2",
+        "sau2",
+        "sj1"
+      ],
+      "glosses": [
+        "that",
+        "?",
+        "soul",
+        "bad",
+        "get",
+        "get",
+        "bind",
+        "stay",
+        "PRT"
+      ],
+      "free_translation_en": "Then get the bad khon and bind it up and make it stay (at the cemetery).",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s114",
+      "text_roman": "tvng1 nan4 hav3 nuu2 tst1 phaai3 khaa6",
+      "lik_tai": "တင် ၼၼ်း ႁႈ ၼႇ ၸတ် ၽႃႆႈ ၶႃႊ",
+      "assamese_script": "তঙ¹ নান⁴ হ³ ন² চত্‌¹ ফাই³ খা⁶",
+      "morphemes": [
+        "tvng1",
+        "nan4",
+        "hav3",
+        "nuu2",
+        "tst1",
+        "phaai3",
+        "khaa6"
+      ],
+      "glosses": [
+        "all",
+        "that",
+        "give",
+        "look",
+        "everywhere",
+        "walk",
+        "search"
+      ],
+      "free_translation_en": "Grandfather will again search everywhere.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s115",
+      "text_roman": "svng6 lak1 ljm2 han6 khn6 waang1 laan6 paing2",
+      "lik_tai": "ꩢင်ႊ လၵ် လမ်ႇ ႁၼ်ႊ ၶၼ်ႊ ဝႃင် လႃၼ်ႊ ပႆင်ႇ",
+      "assamese_script": "সঙ⁶ লাক্‌¹ লম² হান⁶ খন⁶ ৱাঙ¹ লান⁶ পাইঙ²",
+      "morphemes": [
+        "svng6",
+        "lak1",
+        "ljm2",
+        "han6",
+        "khn6",
+        "waang1",
+        "laan6",
+        "paing2"
+      ],
+      "glosses": [
+        "if",
+        "if",
+        "look",
+        "see",
+        "soul",
+        "worried",
+        "grandchild",
+        "love"
+      ],
+      "free_translation_en": "If you get to see him, take him to the room.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s116",
+      "text_roman": "maa2 lj4 maa2 taa4 khn6 zi2",
+      "lik_tai": "မႃႇ လး မႃႇ တႃး ၶၼ်ႊ ဢႇ",
+      "assamese_script": "মা² ল⁴ মা² তা⁴ খন⁶ অ²",
+      "morphemes": [
+        "maa2",
+        "lj4",
+        "maa2",
+        "taa4",
+        "khn6",
+        "zi2"
+      ],
+      "glosses": [
+        "come",
+        "PRT",
+        "come",
+        "PRT",
+        "soul",
+        "RESP"
+      ],
+      "free_translation_en": "Welcome, do come, oh khon!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s117",
+      "text_roman": "maa2 kin2 paa2 kup1 khau3",
+      "lik_tai": "မႃႇ ၵိၼ်ႇ ပႃႇ ၵုပ် ၶဝ်ႈ",
+      "assamese_script": "মা² কিন² পা² কুপ্‌¹ খাও³",
+      "morphemes": [
+        "maa2",
+        "kin2",
+        "paa2",
+        "kup1",
+        "khau3"
+      ],
+      "glosses": [
+        "come",
+        "eat",
+        "fish",
+        "and",
+        "rice"
+      ],
+      "free_translation_en": "Come, come oh soul!' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s118",
+      "text_roman": "maa2 kin2 nam3 sav6 tau3 tuu2 thjm6",
+      "lik_tai": "မႃႇ ၵိၼ်ႇ ၼမ်ႈ ꩢႊ တဝ်ႈ တႇ ထမ်ႊ",
+      "assamese_script": "মা² কিন² নাম³ স⁶ তাও³ ত² থম⁶",
+      "morphemes": [
+        "maa2",
+        "kin2",
+        "nam3",
+        "sav6",
+        "tau3",
+        "tuu2",
+        "thjm6"
+      ],
+      "glosses": [
+        "come",
+        "eat",
+        "water",
+        "put in",
+        "pot",
+        "body",
+        "put in, add to"
+      ],
+      "free_translation_en": "Come and drink the clear water which we have put into the pot.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* here it means 'we'. Note Shan tU 'I'"
+    },
+    {
+      "id": "book_calling_khon_s119",
+      "text_roman": "maa2 kin2 koi3 i3 kup1 khaung6 waan6",
+      "lik_tai": "မႃႇ ၵိၼ်ႇ ၵူႆႈ ဢိႈ ၵုပ် ၶဝ်င်ႊ ဝႃၼ်ႊ",
+      "assamese_script": "মা² কিন² কওই³ ই³ কুপ্‌¹ খাওঙ⁶ ৱান⁶",
+      "morphemes": [
+        "maa2",
+        "kin2",
+        "koi3",
+        "i3",
+        "kup1",
+        "khaung6",
+        "waan6"
+      ],
+      "glosses": [
+        "come",
+        "eat",
+        "banana",
+        "sugarcane",
+        "with",
+        "thing",
+        "sweet"
+      ],
+      "free_translation_en": "Come and eat banana, sugar can and all sweet things!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s120",
+      "text_roman": "maa2 kin2 khaung6 hm6 tsuu2 laai6 paan2",
+      "lik_tai": "မႃႇ ၵိၼ်ႇ ၶဝ်င်ႊ ႁမ်ႊ ၸႇ လႃႆႊ ပႃၼ်ႇ",
+      "assamese_script": "মা² কিন² খাওঙ⁶ হম⁶ চ² লাই⁶ পান²",
+      "morphemes": [
+        "maa2",
+        "kin2",
+        "khaung6",
+        "hm6",
+        "tsuu2",
+        "laai6",
+        "paan2"
+      ],
+      "glosses": [
+        "come",
+        "eat",
+        "thing",
+        "fragrant",
+        "generation",
+        "many",
+        "CLF of time"
+      ],
+      "free_translation_en": "Come and use the things we have had for many generations.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s126",
+      "text_roman": "maa2 lj1 maa2 taa4 saam6 sip1",
+      "lik_tai": "မႃႇ လ မႃႇ တႃး ꩢႃမ်ႊ ꩢိပ်",
+      "assamese_script": "মা² ল¹ মা² তা⁴ সাম⁶ সিপ্‌¹",
+      "morphemes": [
+        "maa2",
+        "lj1",
+        "maa2",
+        "taa4",
+        "saam6",
+        "sip1"
+      ],
+      "glosses": [
+        "come",
+        "PRT",
+        "come",
+        "PRT",
+        "3",
+        "10"
+      ],
+      "free_translation_en": "Come and be welcome, all 30 khons which live in the body, complete your full life, don't go.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s127",
+      "text_roman": "maa2 lj4 maa2 taa4 kau3 sip1",
+      "lik_tai": "မႃႇ လး မႃႇ တႃး ၵဝ်ႈ ꩢိပ်",
+      "assamese_script": "মা² ল⁴ মা² তা⁴ কাও³ সিপ্‌¹",
+      "morphemes": [
+        "maa2",
+        "lj4",
+        "maa2",
+        "taa4",
+        "kau3",
+        "sip1"
+      ],
+      "glosses": [
+        "come",
+        "PRT",
+        "come",
+        "PRT",
+        "nine",
+        "10"
+      ],
+      "free_translation_en": "Come all thirty-three khons who live in the body, don't be separated.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s128",
+      "text_roman": "maa2 sau2 yuu1 heng6 pii2 noi3 tsau3",
+      "lik_tai": "မႃႇ ꩢဝ်ႇ ယ ေႁင်ႊ ပႇ ၼူႆႈ ၸဝ်ႈ",
+      "assamese_script": "মা² সাও² য¹ হেঙ⁶ প² নওই³ চাও³",
+      "morphemes": [
+        "maa2",
+        "sau2",
+        "yuu1",
+        "heng6",
+        "pii2",
+        "noi3",
+        "tsau3"
+      ],
+      "glosses": [
+        "come",
+        "stay",
+        "stay",
+        "1000",
+        "year",
+        "with",
+        "RESP"
+      ],
+      "free_translation_en": "Come and stay with your owner for a thousand years.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s129",
+      "text_roman": "yaa1 ln4 laa2 pai2 phaai3 mzng2 nav2 taang1 tii5",
+      "lik_tai": "ယႃ လၼ်း လႃႇ ပႆႇ ၽႃႆႈ မင်ႇ ၼႇ တႃင် တႉ",
+      "assamese_script": "যা¹ লন⁴ লা² পাই² ফাই³ মঙ² ন² তাঙ¹ ত⁵",
+      "morphemes": [
+        "yaa1",
+        "ln4",
+        "laa2",
+        "pai2",
+        "phaai3",
+        "mzng2",
+        "nav2",
+        "taang1",
+        "tii5"
+      ],
+      "glosses": [
+        "don't",
+        "leave",
+        "leave",
+        "go",
+        "walk",
+        "country",
+        "in",
+        "other",
+        "lace"
+      ],
+      "free_translation_en": "Do not go and take off and wander in other countries.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "* Uncertain reading, perhaps Shan lonqO 'exceed, go beyond'"
+    },
+    {
+      "id": "book_calling_khon_s130",
+      "text_roman": "yuu1 noi3 naung4 ik1 pii1 tvng1 laai6",
+      "lik_tai": "ယ ၼူႆႈ ၼဝ်င်း ဢိၵ် ပ တင် လႃႆႊ",
+      "assamese_script": "য¹ নওই³ নাওঙ⁴ ইক্‌¹ প¹ তঙ¹ লাই⁶",
+      "morphemes": [
+        "yuu1",
+        "noi3",
+        "naung4",
+        "ik1",
+        "pii1",
+        "tvng1",
+        "laai6"
+      ],
+      "glosses": [
+        "stay",
+        "with",
+        "younger",
+        "also",
+        "elder",
+        "all",
+        "many"
+      ],
+      "free_translation_en": "Come and stay with your younger and elder siblings.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s131",
+      "text_roman": "maa2 taa4 khn6 kau1 phuu1 pen2 ho6",
+      "lik_tai": "မႃႇ တႃး ၶၼ်ႊ ၵဝ် ၽ ေပၼ်ႇ ႁူႊ",
+      "assamese_script": "মা² তা⁴ খন⁶ কাও¹ ফ¹ পেন² হো⁶",
+      "morphemes": [
+        "maa2",
+        "taa4",
+        "khn6",
+        "kau1",
+        "phuu1",
+        "pen2",
+        "ho6"
+      ],
+      "glosses": [
+        "come",
+        "PRT",
+        "soul",
+        "old/original",
+        "person",
+        "be",
+        "head"
+      ],
+      "free_translation_en": "Come, original khon, to the head of our beloved grandson.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s132",
+      "text_roman": "maa2 sau2 yuu1 phjng1 to2 yaa1 phaak3",
+      "lik_tai": "မႃႇ ꩢဝ်ႇ ယ ၽင် တူႇ ယႃ ၽႃၵ်ႈ",
+      "assamese_script": "মা² সাও² য¹ ফঙ¹ তো² যা¹ ফাক্‌³",
+      "morphemes": [
+        "maa2",
+        "sau2",
+        "yuu1",
+        "phjng1",
+        "to2",
+        "yaa1",
+        "phaak3"
+      ],
+      "glosses": [
+        "come",
+        "stay",
+        "stay",
+        "quiet",
+        "body",
+        "don't",
+        "separate"
+      ],
+      "free_translation_en": "Come and stay quietly in his body, and don't go away.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s133",
+      "text_roman": "khn6 huu6 khn6 taa2 yuu1 sə5 kau3",
+      "lik_tai": "ၶၼ်ႊ ႁႊ ၶၼ်ႊ တႃႇ ယ ꩢိုဝ်ႉ ၵဝ်ႈ",
+      "assamese_script": "খন⁶ হ⁶ খন⁶ তা² য¹ সো⁵ কাও³",
+      "morphemes": [
+        "khn6",
+        "huu6",
+        "khn6",
+        "taa2",
+        "yuu1",
+        "sə5",
+        "kau3"
+      ],
+      "glosses": [
+        "soul",
+        "ear",
+        "soul",
+        "eye",
+        "stay",
+        "straight",
+        "bundle of hair"
+      ],
+      "free_translation_en": "Khon of the ear, and khon of the eye, stay at that bundle of hair.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s134",
+      "text_roman": "yaa1 nap1 phaai3 laai6 phau1",
+      "lik_tai": "ယႃ ၼပ် ၽႃႆႈ လႃႆႊ ၽဝ်",
+      "assamese_script": "যা¹ নাপ্‌¹ ফাই³ লাই⁶ ফাও¹",
+      "morphemes": [
+        "yaa1",
+        "nap1",
+        "phaai3",
+        "laai6",
+        "phau1"
+      ],
+      "glosses": [
+        "don't",
+        "don't",
+        "walk",
+        "many",
+        "time"
+      ],
+      "free_translation_en": "Don't go walking about here and there many times, coming and going.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s136",
+      "text_roman": "han1 t1 thau3 thvng6 kj1 ho6 khaau6",
+      "lik_tai": "ႁၼ် တ ထဝ်ႈ ထင်ႊ ၵ ႁူႊ ၶႃဝ်ႊ",
+      "assamese_script": "হান¹ ত¹ থাও³ থঙ⁶ ক¹ হো⁶ খাও⁶",
+      "morphemes": [
+        "han1",
+        "t1",
+        "thau3",
+        "thvng6",
+        "kj1",
+        "ho6",
+        "khaau6"
+      ],
+      "glosses": [
+        "see",
+        "let",
+        "old",
+        "reach",
+        "old",
+        "head",
+        "white"
+      ],
+      "free_translation_en": "Let him reach old age, the age of white hair.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s137",
+      "text_roman": "yaa5 ln4 mii2 phe2 tsaung5 tang3 naau6 nai3 waa5",
+      "lik_tai": "ယႃႉ လၼ်း မႇ ေၽႇ ၸဝ်င်ႉ တင်ႈ ၼႃဝ်ႊ ၼႆႈ ဝႃႉ",
+      "assamese_script": "যা⁵ লন⁴ ম² ফে² চাওঙ⁵ তাঙ³ নাও⁶ নাই³ ৱা⁵",
+      "morphemes": [
+        "yaa5",
+        "ln4",
+        "mii2",
+        "phe2",
+        "tsaung5",
+        "tang3",
+        "naau6",
+        "nai3",
+        "waa5"
+      ],
+      "glosses": [
+        "don't",
+        "leave off",
+        "have",
+        "problem",
+        "kind",
+        "set up",
+        "cold fever",
+        "get",
+        "say"
+      ],
+      "free_translation_en": "Don't go away and leave him with any epidemic or fever.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s138",
+      "text_roman": "tvng1 kaa1 suu6 pen2 khn6 kon2",
+      "lik_tai": "တင် ၵႃ ꩢႊ ေပၼ်ႇ ၶၼ်ႊ ၵူၼ်ႇ",
+      "assamese_script": "তঙ¹ কা¹ স⁶ পেন² খন⁶ কোন²",
+      "morphemes": [
+        "tvng1",
+        "kaa1",
+        "suu6",
+        "pen2",
+        "khn6",
+        "kon2"
+      ],
+      "glosses": [
+        "all",
+        "all",
+        "you",
+        "be",
+        "soul",
+        "person"
+      ],
+      "free_translation_en": "Altogether there are 120 (types) of khons in people",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s139",
+      "text_roman": "kham139",
+      "lik_tai": "kham139",
+      "assamese_script": "kham139",
+      "morphemes": [
+        "kham139"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "hneta ..... kkinyJnenwnxonS /",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s139",
+      "text_roman": "han1 t1 thau3 phjng1 haang2 thɯng1 paak1",
+      "lik_tai": "ႁၼ် တ ထဝ်ႈ ၽင် ႁႃင်ႇ ထိုင် ပႃၵ်",
+      "assamese_script": "হান¹ ত¹ থাও³ ফঙ¹ হাঙ² থুঙ¹ পাক্‌¹",
+      "morphemes": [
+        "han1",
+        "t1",
+        "thau3",
+        "phjng1",
+        "haang2",
+        "thɯng1",
+        "paak1"
+      ],
+      "glosses": [
+        "see",
+        "PRT",
+        "old",
+        "stay quiet",
+        "body",
+        "reach",
+        "hundred"
+      ],
+      "free_translation_en": "Come here, live quietly and reach the age of a hundred, eating well and peacefully, oh khon, we request you!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s140",
+      "text_roman": "yuu1 lj4 yuu1 taa4 yuu1 thon3 tsuu2 sau2 nii2",
+      "lik_tai": "ယ လး ယ တႃး ယ ထူၼ်ႈ ၸႇ ꩢဝ်ႇ ၼႇ",
+      "assamese_script": "য¹ ল⁴ য¹ তা⁴ য¹ থোন³ চ² সাও² ন²",
+      "morphemes": [
+        "yuu1",
+        "lj4",
+        "yuu1",
+        "taa4",
+        "yuu1",
+        "thon3",
+        "tsuu2",
+        "sau2",
+        "nii2"
+      ],
+      "glosses": [
+        "stay",
+        "PRT",
+        "stay",
+        "PRT",
+        "stay",
+        "complete",
+        "time",
+        "stay",
+        "good"
+      ],
+      "free_translation_en": "Stay and live your complete life and stay well.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s141",
+      "text_roman": "kham141",
+      "lik_tai": "kham141",
+      "assamese_script": "kham141",
+      "morphemes": [
+        "kham141"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "hJgnnyXmIsI ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s141",
+      "text_roman": "hɯng2 naan2 yaa1 mii2 khii1 yuu1 n1",
+      "lik_tai": "ႁိုင်ႇ ၼႃၼ်ႇ ယႃ မႇ ၶ ယ ၼ",
+      "assamese_script": "হুঙ² নান² যা¹ ম² খ¹ য¹ ন¹",
+      "morphemes": [
+        "hɯng2",
+        "naan2",
+        "yaa1",
+        "mii2",
+        "khii1",
+        "yuu1",
+        "n1"
+      ],
+      "glosses": [
+        "long time",
+        "long time",
+        "don't",
+        "have",
+        "sad",
+        "stay",
+        "weak"
+      ],
+      "free_translation_en": "Live for a long time and without sadness or weakness.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s142",
+      "text_roman": "kham142",
+      "lik_tai": "kham142",
+      "assamese_script": "kham142",
+      "morphemes": [
+        "kham142"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "....tu.. nEwnpEfigtUwhuMyU /",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s142",
+      "text_roman": "naɯ2 wan2 paɯ3 phjng1 tuu2 hum2 yuu1",
+      "lik_tai": "ၼႇ ဝၼ်ႇ ပႈ ၽင် တႇ ႁုမ်ႇ ယ",
+      "assamese_script": "ন² ৱান² প³ ফঙ¹ ত² হুম² য¹",
+      "morphemes": [
+        "naɯ2",
+        "wan2",
+        "paɯ3",
+        "phjng1",
+        "tuu2",
+        "hum2",
+        "yuu1"
+      ],
+      "glosses": [
+        "in/all",
+        "day",
+        "wait",
+        "quietly",
+        "body",
+        "together",
+        "stay"
+      ],
+      "free_translation_en": "Every day, wait quietly in this body.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s143",
+      "text_roman": "hom5 saang3 p5 mj5 pii5 ik1",
+      "lik_tai": "ႁူမ်ႉ ꩢႃင်ႈ ပႉ မႉ ပႉ ဢိၵ်",
+      "assamese_script": "হোম⁵ সাঙ³ প⁵ ম⁵ প⁵ ইক্‌¹",
+      "morphemes": [
+        "hom5",
+        "saang3",
+        "p5",
+        "mj5",
+        "pii5",
+        "ik1"
+      ],
+      "glosses": [
+        "together",
+        "live",
+        "father",
+        "mother",
+        "elder",
+        "and"
+      ],
+      "free_translation_en": "Stay together with (your) father, mother, elder and younger siblings, and eat at the dinner table with the eating sticks, here in this house.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": "The Phake version has huMknqvUnEhJnq. It was staated that vU thU1 means 'help (each other)'"
+    },
+    {
+      "id": "book_calling_khon_s144",
+      "text_roman": "yaa1 hav3 khai3 yuu1 tsaa4 nai4 mai3 mii2 khii6",
+      "lik_tai": "ယႃ ႁႈ ၶႆႈ ယ ၸႃး ၼႆး မႆႈ မႇ ၶႊ",
+      "assamese_script": "যা¹ হ³ খাই³ য¹ চা⁴ নাই⁴ মাই³ ম² খ⁶",
+      "morphemes": [
+        "yaa1",
+        "hav3",
+        "khai3",
+        "yuu1",
+        "tsaa4",
+        "nai4",
+        "mai3",
+        "mii2",
+        "khii6"
+      ],
+      "glosses": [
+        "don't",
+        "give",
+        "fever",
+        "stay",
+        "bad",
+        "get",
+        "burn",
+        "have",
+        "sad"
+      ],
+      "free_translation_en": "Do not let the bad fever stay and burn you up in sadness.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s145",
+      "text_roman": "sau2 phjng1 to2 khing2 yuu1 heng6 pii2",
+      "lik_tai": "ꩢဝ်ႇ ၽင် တူႇ ၶိင်ႇ ယ ေႁင်ႊ ပႇ",
+      "assamese_script": "সাও² ফঙ¹ তো² খিঙ² য¹ হেঙ⁶ প²",
+      "morphemes": [
+        "sau2",
+        "phjng1",
+        "to2",
+        "khing2",
+        "yuu1",
+        "heng6",
+        "pii2"
+      ],
+      "glosses": [
+        "stay",
+        "quiet",
+        "body",
+        "body",
+        "stay",
+        "1000",
+        "year"
+      ],
+      "free_translation_en": "Stay quietly in this body for a thousand years and do not go away, oh khon, we request you",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s146",
+      "text_roman": "yaa1 hav3 mii2 khii6 khaung3 ho6 tsav2 pyaa1 paa1",
+      "lik_tai": "ယႃ ႁႈ မႇ ၶႊ ၶဝ်င်ႈ ႁူႊ ၸႇ ပ ပႃ",
+      "assamese_script": "যা¹ হ³ ম² খ⁶ খাওঙ³ হো⁶ চ² প¹ পা¹",
+      "morphemes": [
+        "yaa1",
+        "hav3",
+        "mii2",
+        "khii6",
+        "khaung3",
+        "ho6",
+        "tsav2",
+        "pyaa1",
+        "paa1"
+      ],
+      "glosses": [
+        "don't",
+        "give",
+        "have",
+        "sad",
+        "disturb",
+        "heart",
+        "heart",
+        "sadness/anxiety",
+        "sadness/anxiety"
+      ],
+      "free_translation_en": "Do not let sadness come to touch the heart.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s147",
+      "text_roman": "yuu1 tsvn5 noi3 khjm3 saa1 hvng6 naan2",
+      "lik_tai": "ယ ၸၼ်ႉ ၼူႆႈ ၶမ်ႈ ꩢႃ ႁင်ႊ ၼႃၼ်ႇ",
+      "assamese_script": "য¹ চন⁵ নওই³ খম³ সা¹ হঙ⁶ নান²",
+      "morphemes": [
+        "yuu1",
+        "tsvn5",
+        "noi3",
+        "khjm3",
+        "saa1",
+        "hvng6",
+        "naan2"
+      ],
+      "glosses": [
+        "stay",
+        "clear",
+        "with",
+        "good",
+        "good",
+        "long time",
+        "long time"
+      ],
+      "free_translation_en": "Young women and youths!. $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s148",
+      "text_roman": "tsii1 tsii1 tsuk4 tsuk4 ngak4 ngak4",
+      "lik_tai": "ၸ ၸ ၸုၵ်း ၸုၵ်း ငၵ်း ငၵ်း",
+      "assamese_script": "চ¹ চ¹ চুক্‌⁴ চুক্‌⁴ ঙাক্‌⁴ ঙাক্‌⁴",
+      "morphemes": [
+        "tsii1",
+        "tsii1",
+        "tsuk4",
+        "tsuk4",
+        "ngak4",
+        "ngak4"
+      ],
+      "glosses": [
+        "term",
+        "term",
+        "term",
+        "term",
+        "term",
+        "term"
+      ],
+      "free_translation_en": "Chi Chup Chi Chup Chup.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s149",
+      "text_roman": "phvn1 muu2 tsaa2 tsau3 lek1 nvm1 naa2",
+      "lik_tai": "ၽၼ် မႇ ၸႃႇ ၸဝ်ႈ ေလၵ် ၼမ် ၼႃႇ",
+      "assamese_script": "ফন¹ ম² চা² চাও³ লেক্‌¹ নম¹ না²",
+      "morphemes": [
+        "phvn1",
+        "muu2",
+        "tsaa2",
+        "tsau3",
+        "lek1",
+        "nvm1",
+        "naa2"
+      ],
+      "glosses": [
+        "CLF",
+        "reverence",
+        "reverence",
+        "RESP",
+        "iron",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "The book of calling the khon is finished.' $L=Aiton$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s151",
+      "text_roman": "yaa5 kii1 laai6 kun2",
+      "lik_tai": "ယႃႉ ၵ လႃႆႊ ၵုၼ်ႇ",
+      "assamese_script": "যা⁵ ক¹ লাই⁶ কুন²",
+      "morphemes": [
+        "yaa5",
+        "kii1",
+        "laai6",
+        "kun2"
+      ],
+      "glosses": [
+        "grandmother",
+        "how many",
+        "many",
+        "person"
+      ],
+      "free_translation_en": "Many old women' $L=Phake$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s152",
+      "text_roman": "puu1 thau3 h1 phaa3 ho6",
+      "lik_tai": "ပ ထဝ်ႈ ႁ ၽႃႈ ႁူႊ",
+      "assamese_script": "প¹ থাও³ হ¹ ফা³ হো⁶",
+      "morphemes": [
+        "puu1",
+        "thau3",
+        "h1",
+        "phaa3",
+        "ho6"
+      ],
+      "glosses": [
+        "grandfather",
+        "old",
+        "wrap",
+        "turban",
+        "turban"
+      ],
+      "free_translation_en": "Old men with turbans' $L=Phake$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_calling_khon_s153",
+      "text_roman": "yaa5 hang2 nii2 haa3 k3",
+      "lik_tai": "ယႃႉ ႁင်ႇ ၼႇ ႁႃႈ ၵႈ",
+      "assamese_script": "যা⁵ হাঙ² ন² হা³ ক³",
+      "morphemes": [
+        "yaa5",
+        "hang2",
+        "nii2",
+        "haa3",
+        "k3"
+      ],
+      "glosses": [
+        "grandmother",
+        "to",
+        "good",
+        "five",
+        "CLF"
+      ],
+      "free_translation_en": "There should be at least five old women.' $L=Phake$",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-5-1-1.mp3",
+      "notes": ""
+    }
+  ],
+  "book_id": "book_calling_khon",
+  "title": "The Sacred Book of Calling Back the Khon (Life-Spirit Ritual)",
+  "title_tai": "Lik4 Hok4 Khon1 Khun1",
+  "title_as": ""
+}

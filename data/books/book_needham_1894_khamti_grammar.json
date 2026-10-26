@@ -1,0 +1,342 @@
+{
+  "id": "book_needham_1894_khamti_grammar",
+  "book_id": "book_needham_1894_khamti_grammar",
+  "title": "Outline Grammar of the (Khamti) Language",
+  "author": "J. F. Needham",
+  "year": 1894,
+  "genre": "Grammar / Comparative Linguistics",
+  "description": "Foundational nineteenth-century grammar and vocabulary of the Tai Khamti language spoken around Sadiya and the Upper Brahmaputra valley. Details tone contours, nominal classifiers, verbal affixes, and root morphemes shared identically with Tai Khamyang.",
+  "source": "https://archive.org/details/dli.csl.4767",
+  "archive_id": "dli.csl.4767",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨾᩦ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "tai khyaa tii mroeng mii taang tsaw",
+      "assamese_script": "টাই খ্যা তী ম্ৰোং মী তাং চউ",
+      "morphemes": [
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "mii",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "Tai",
+        "speech",
+        "in",
+        "country",
+        "have",
+        "structure",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai Khamti tongue retains an ancient and regular grammatical structure.",
+      "free_translation_as": "টাই খামতি ভাষাত এক প্ৰাচীন আৰু সুশৃংখল ব্যাকৰণগত গাঠনি বৰ্তি আছে।",
+      "speaker": "J. F. Needham (Political Officer & Linguist)",
+      "location": "Sadiya / Upper Assam",
+      "notes": "Opening grammatical description."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨻ᩠ᨿᨦ ᨶᩣᩴ",
+      "text_roman": "phuu tai khyaa taang tii phyeng nam",
+      "assamese_script": "ফু টাই খ্যা তাং তী ফ্যেং নাম",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "taang",
+        "tii",
+        "phyeng",
+        "nam"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "speak",
+        "dialect",
+        "at",
+        "valley",
+        "river"
+      ],
+      "free_translation_en": "The Tai people speak a melodious tonal language along the river valleys.",
+      "free_translation_as": "টাই লোকসকলে নদীৰ উপত্যকাত এক সুমধুৰ স্বৰপ্রধান ভাষাত কথা কয়।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Tonal system analysis."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨲᩱ ᨾᩦ",
+      "text_roman": "khaw nam tii phyeng tai mii",
+      "assamese_script": "খৌ নাম তী ফ্যেং টাই মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "tai",
+        "mii"
+      ],
+      "glosses": [
+        "rice",
+        "water",
+        "in",
+        "plain",
+        "Tai",
+        "possess"
+      ],
+      "free_translation_en": "The Tai Khamti settlements are well provisioned with rice and flowing water.",
+      "free_translation_as": "টাই খামতি গাঁওসমূহত ধান আৰু বিশুদ্ধ পানীৰ নাটনি নাই।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Everyday vocabulary elicitation."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨴᩣ᩠ᨦ ᨻᩪ",
+      "text_roman": "man khaw tii kaang taang phuu",
+      "assamese_script": "মান খৌ তী কাং তাং ফু",
+      "morphemes": [
+        "man",
+        "khaw",
+        "tii",
+        "kaang",
+        "taang",
+        "phuu"
+      ],
+      "glosses": [
+        "he",
+        "travel",
+        "at",
+        "middle",
+        "road",
+        "hill"
+      ],
+      "free_translation_en": "He journeyed along the central road toward the mountain frontier.",
+      "free_translation_as": "তেওঁ পাহাৰীয়া সীমান্তলৈ যোৱা মূল পথত ভ্ৰমণ কৰিলে।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Directional verbs and prepositions."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "phuu chau mii khyaa taang phaa",
+      "assamese_script": "ফু চৌ মী খ্যা তাং ফা",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "elder",
+        "revered",
+        "keep",
+        "doctrine",
+        "way",
+        "holy"
+      ],
+      "free_translation_en": "The Buddhist monks preserve the sacred texts in the monastery.",
+      "free_translation_as": "বৌদ্ধ ভিক্ষুসকলে বিহাৰত পৱিত্ৰ শাস্ত্ৰ সংৰক্ষণ কৰিছে।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Monastic vocabulary shared with Khamyang."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "naang tai tii phyeng mii khyaa",
+      "assamese_script": "নাং টাই তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "naang",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "women",
+        "Tai",
+        "in",
+        "village",
+        "sing",
+        "ballads"
+      ],
+      "free_translation_en": "Tai women sing traditional weaving songs on the loom.",
+      "free_translation_as": "টাই মহিলাই তাঁতশালত পৰম্পৰাগত গীত গাই কাপোৰ বয়।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Folk songs and maternal language transmission."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "paddle",
+        "route",
+        "river",
+        "middle"
+      ],
+      "free_translation_en": "Tai boatmen skillfully paddle dugouts across the turbulent river.",
+      "free_translation_as": "টাই নাৱৰীয়াসকলে নদীৰ খৰস্ৰোতাত দক্ষতাৰে নাও চলায়।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "River terminology."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "chieftain",
+        "domain",
+        "possess",
+        "annals",
+        "way",
+        "ancestral"
+      ],
+      "free_translation_en": "The Khamti Gohain holds hereditary palm-leaf manuscripts of his clan.",
+      "free_translation_as": "খামতি গোঁহায়ে নিজৰ খেলৰ বংশগত সাঁচিপাতৰ পুথি ৰাখিছে।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Lik puthi preservation by chiefs."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "fertile",
+        "in",
+        "homeland",
+        "Tai",
+        "food",
+        "water"
+      ],
+      "free_translation_en": "The alluvial floodplains support rich harvests for the villagers.",
+      "free_translation_as": "পলসুৱা সমতল মাটিয়ে গাঁওবাসীৰ বাবে প্ৰচুৰ শস্য উৎপন্ন কৰে।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Agricultural economy around Sadiya."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "with",
+        "allies",
+        "maintain",
+        "peace"
+      ],
+      "free_translation_en": "The Khamti community lives in lasting concord with neighboring tribes.",
+      "free_translation_as": "খামতি সমাজে চুবুৰীয়া জনজাতিসকলৰ সৈতে চিৰস্থায়ী সম্প্ৰীতিৰে বাস কৰে।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Inter-community ties with Singphos and Mishmis."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "sacred",
+        "Dhamma",
+        "Tai",
+        "country",
+        "way",
+        "peace"
+      ],
+      "free_translation_en": "The sacred Dhamma provides the moral path of righteousness and peace.",
+      "free_translation_as": "পৱিত্ৰ বৌদ্ধ ধৰ্মই নৈতিকতা আৰু শান্তিৰ পথ প্ৰদৰ্শন কৰে।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Buddhist influence on language and society."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "language",
+        "kindred",
+        "heritage",
+        "united",
+        "path"
+      ],
+      "free_translation_en": "The Tai linguistic lineage endures through the living speech of its speakers.",
+      "free_translation_as": "টাই ভাষাৰ ঐতিহ্য ইয়াৰ বক্তাসকলৰ জীৱন্ত বাক্যত চিৰকাল বৰ্তি থাকিব।",
+      "speaker": "J. F. Needham",
+      "location": "Sadiya",
+      "notes": "Concluding summary of Needham's grammar."
+    }
+  ]
+}

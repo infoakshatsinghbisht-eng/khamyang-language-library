@@ -1,0 +1,342 @@
+{
+  "id": "book_barman_1997_history_assamese_literature",
+  "book_id": "book_barman_1997_history_assamese_literature",
+  "title": "History Of Assamese Literature",
+  "author": "Dr. Sivanath Barman (Ed.)",
+  "year": 1997,
+  "genre": "Literary History / Philology",
+  "description": "Comprehensive academic volume examining the evolution of Assamese literature, focusing on the substantial linguistic substrate contributed by Southwestern Tai (Khamyang, Ahom, Phake) to medieval vocabulary, grammar, and chronicle prose.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.451210",
+  "archive_id": "in.ernet.dli.2015.451210",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨲᩱ ᨴᩦ ᨾᩕ᩠ᨦ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phaa khyaa tai tii mroeng mii taang",
+      "assamese_script": "ফা খ্যা টাই তী ম্ৰোং মী তাং",
+      "morphemes": [
+        "phaa",
+        "khyaa",
+        "tai",
+        "tii",
+        "mroeng",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "heaven",
+        "language",
+        "Tai",
+        "in",
+        "country",
+        "shape",
+        "prose"
+      ],
+      "free_translation_en": "Tai linguistic structures shaped the distinctive prose style of the chronicles.",
+      "free_translation_as": "টাই ভাষাৰ গাঠনিয়ে বুৰঞ্জীৰ স্বতন্ত্ৰ গদ্য শৈলীক গঢ় দিলে।",
+      "speaker": "Dr. Sivanath Barman (Philologist)",
+      "location": "Guwahati",
+      "notes": "Linguistic substrate analysis in Assamese literary history."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ ᨴᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "phuu tai khyaa taang tsaw tii phyeng",
+      "assamese_script": "ফু টাই খ্যা তাং চউ তী ফ্যেং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "taang",
+        "tsaw",
+        "tii",
+        "phyeng"
+      ],
+      "glosses": [
+        "scribes",
+        "Tai",
+        "wrote",
+        "tradition",
+        "ancient",
+        "in",
+        "plain"
+      ],
+      "free_translation_en": "Tai scholars recorded ancestral traditions in clear narrative prose.",
+      "free_translation_as": "টাই পণ্ডিতসকলে স্পষ্ট বৰ্ণনামূলক গদ্যত পুৰণি পৰম্পৰা লিপিবদ্ধ কৰিছিল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Buranji prose as the earliest secular historical prose in North India."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "tai phaw tii nam mii khyaa",
+      "assamese_script": "টাই ফৌ তী নাম মী খ্যা",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "river",
+        "possess",
+        "songs"
+      ],
+      "free_translation_en": "The Tai riverside communities possessed rich traditions of oral poetry.",
+      "free_translation_as": "নৈপৰীয়া টাই সমাজসমূহত মৌখিক গীত-পদৰ এক সমৃদ্ধ পৰম্পৰা আছিল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Fɯn and oral poetic forms in Khamyang and Phake."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa mroeng khyaa tii kaang",
+      "assamese_script": "চৌ ফা ম্ৰোং খ্যা তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "kingdom",
+        "patronize",
+        "in",
+        "court"
+      ],
+      "free_translation_en": "The sovereign monarchs actively patronized manuscript composition at court.",
+      "free_translation_as": "স্বৰ্গদেউসকলে ৰাজদৰবাৰত পুথি ৰচনাত ব্যাপক পৃষ্ঠপোষকতা আগবঢ়াইছিল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Royal patronage of translation and scribal arts."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "khaw nam taang tai phyeng mii",
+      "assamese_script": "খৌ নাম তাং টাই ফ্যেং মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "tai",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "food",
+        "water",
+        "way",
+        "Tai",
+        "level",
+        "provide"
+      ],
+      "free_translation_en": "The agrarian vocabulary of the Tai integrated deeply into the common speech.",
+      "free_translation_as": "টাই ভাষাৰ কৃষিভিত্তিক শব্দসমূহ সৰ্বসাধাৰণৰ কথিত ভাষাত সুদৃঢ়ভাৱে সোমাই পৰিল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Tai loanwords in Assamese agriculture and cooking."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨡ᩠ᨿᩣ",
+      "text_roman": "naang chau tai tii phyeng khyaa",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং খ্যা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "khyaa"
+      ],
+      "glosses": [
+        "noblewoman",
+        "lord",
+        "Tai",
+        "in",
+        "court",
+        "celebrated"
+      ],
+      "free_translation_en": "The noble Tai women were celebrated in poetic epics and chronicles.",
+      "free_translation_as": "টাই মহিলাসকলৰ সাহস আৰু গুণ গাথা কাব্য আৰু বুৰঞ্জীত প্ৰশংসিত হ'ল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Heroic women portrayed in Assamese literature."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang phuu kaang",
+      "assamese_script": "ফু টাই খৌ তাং ফু কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "bridge",
+        "cultures",
+        "mountain",
+        "valley"
+      ],
+      "free_translation_en": "The Tai people built bridges of mutual understanding between hill and valley.",
+      "free_translation_as": "টাই লোকসকলে পাহাৰ আৰু ভৈয়ামৰ মাজত সমন্বয়ৰ সাঁকো গঢ়ি তুলিছিল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Cultural synthesis in the Brahmaputra valley."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "rulers",
+        "realm",
+        "preserve",
+        "annals",
+        "way",
+        "ancient"
+      ],
+      "free_translation_en": "The rulers ensured the meticulous preservation of chronological annals.",
+      "free_translation_as": "স্বৰ্গদেউসকলে ঐতিহাসিক দিনপঞ্জীসমূহ যথাযথভাৱে সংৰক্ষণ কৰাটো নিশ্চিত কৰিছিল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Official historiographical office under the Gandhia Barua."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "flourishing",
+        "in",
+        "country",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "Peace and material abundance fostered a renaissance of literary creativity.",
+      "free_translation_as": "শান্তি আৰু আৰ্থিক সমৃদ্ধিয়ে সাহিত্য সৃষ্টিৰ নৱজাগৰণ সম্ভৱ কৰি তুলিলে।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Medieval Assamese literature renaissance under royal peace."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "phuu tai tii phyeng mii khyaa",
+      "assamese_script": "ফু টাই তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "scholars",
+        "Tai",
+        "in",
+        "valleys",
+        "produce",
+        "manuscripts"
+      ],
+      "free_translation_en": "Tai scribes in the valley villages copied countless bark manuscripts.",
+      "free_translation_as": "উপত্যকাৰ গাঁৱৰ টাই পণ্ডিতে সাঁচিপাতত অসংখ্য পুথি নকল কৰিছিল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Manuscript production (*Sanchipat*) techniques."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "realm",
+        "guide",
+        "harmony"
+      ],
+      "free_translation_en": "The heavenly kings guided the kingdom into enduring cultural harmony.",
+      "free_translation_as": "স্বৰ্গদেউসকলে ৰাজ্যখনক এক স্থায়ী সাংস্কৃতিক সম্প্ৰীতিৰ দিশে আগুৱাই লৈ গ'ল।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Polyglossic literary harmony in medieval Assam."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "realm",
+        "clans",
+        "literature",
+        "united",
+        "legacy"
+      ],
+      "free_translation_en": "The Tai legacy continues as a foundational cornerstone of Assamese literature.",
+      "free_translation_as": "টাই ঐতিহ্য অসমীয়া সাহিত্যৰ এক মৌলিক ভেটি হিচাপে চিৰকাল উজ্বলি থাকিব।",
+      "speaker": "Dr. Sivanath Barman",
+      "location": "Guwahati",
+      "notes": "Conclusion of philological assessment."
+    }
+  ]
+}

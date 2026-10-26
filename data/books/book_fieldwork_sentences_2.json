@@ -1,0 +1,167 @@
+{
+  "id": "book_fieldwork_sentences_2",
+  "title_khamyang": "Kham1 Son1 Elicitation 2",
+  "title_english": "Tai Khamyang Fieldwork Sentences & Expressions (Part 2)",
+  "genre": "grammar_and_sentences",
+  "informant": "Chaw Deben Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Supplementary grammatical elicitations on nominal compounding, adjectival modification, and interrogative syntax in Tai Khamyang.",
+  "audio_file": "3-10-2-7.mp3",
+  "full_translation": "Supplementary grammatical elicitations on nominal compounding, adjectival modification, and interrogative syntax in Tai Khamyang.",
+  "sentences": [
+    {
+      "id": "book_fieldwork_sentences_2_s001",
+      "text_roman": "lzk4 thaa1 maang2",
+      "lik_tai": "လၵ်း ထႃ မႃင်ႇ",
+      "assamese_script": "লক্‌⁴ থা¹ মাঙ²",
+      "morphemes": [
+        "lzk4",
+        "thaa1",
+        "maang2"
+      ],
+      "glosses": [
+        "from",
+        "where",
+        "come.?"
+      ],
+      "free_translation_en": "Where have you come from?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-7.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_2_s002",
+      "text_roman": "tii1 kaa1 thaa1",
+      "lik_tai": "တ ၵႃ ထႃ",
+      "assamese_script": "ত¹ কা¹ থা¹",
+      "morphemes": [
+        "tii1",
+        "kaa1",
+        "thaa1"
+      ],
+      "glosses": [
+        "will",
+        "go",
+        "where.QN"
+      ],
+      "free_translation_en": "Where are you going?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-7.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_2_s003",
+      "text_roman": "kii1 ban2 pen5 aa1 an2 maɯ2 maang2",
+      "lik_tai": "ၵ ဢၼ်ႇ ေပၼ်ႉ ဢႃ ဢၼ်ႇ မႇ မႃင်ႇ",
+      "assamese_script": "ক¹ অন² পেন⁵ আ¹ অন² ম² মাঙ²",
+      "morphemes": [
+        "kii1",
+        "ban2",
+        "pen5",
+        "aa1",
+        "an2",
+        "maɯ2",
+        "maang2"
+      ],
+      "glosses": [
+        "how many",
+        "day",
+        "be",
+        "GO",
+        "CLF",
+        "2Sg",
+        "come.QN"
+      ],
+      "free_translation_en": "How many days will you stay?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-7.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_2_s004",
+      "text_roman": "kii1 ban2 pen5 aa1 an2 maa2 thai4",
+      "lik_tai": "ၵ ဢၼ်ႇ ေပၼ်ႉ ဢႃ ဢၼ်ႇ မႃႇ ထႆး",
+      "assamese_script": "ক¹ অন² পেন⁵ আ¹ অন² মা² থাই⁴",
+      "morphemes": [
+        "kii1",
+        "ban2",
+        "pen5",
+        "aa1",
+        "an2",
+        "maa2",
+        "thai4"
+      ],
+      "glosses": [
+        "how many",
+        "day",
+        "be",
+        "GO",
+        "CLF",
+        "come",
+        "here"
+      ],
+      "free_translation_en": "How many days will you stay?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-7.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_2_s005",
+      "text_roman": "uu1 liing5 lo5",
+      "lik_tai": "ဢ လင်ႉ လူႉ",
+      "assamese_script": "অ¹ লঙ⁵ লো⁵",
+      "morphemes": [
+        "uu1",
+        "liing5",
+        "lo5"
+      ],
+      "glosses": [
+        "stay",
+        "good.?",
+        "??"
+      ],
+      "free_translation_en": "Are you well?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-7.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_2_s006",
+      "text_roman": "ɯ2 kau2 uu1 liing5",
+      "lik_tai": "ဢိုႇ ၵဝ်ႇ ဢ လင်ႉ",
+      "assamese_script": "উ² কাও² অ¹ লঙ⁵",
+      "morphemes": [
+        "ɯ2",
+        "kau2",
+        "uu1",
+        "liing5"
+      ],
+      "glosses": [
+        "Yes",
+        "1Sg",
+        "stay",
+        "good.?"
+      ],
+      "free_translation_en": "Yes, I am well.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-7.mp3",
+      "notes": ""
+    }
+  ],
+  "book_id": "book_fieldwork_sentences_2",
+  "title": "Tai Khamyang Fieldwork Sentences & Expressions (Part 2)",
+  "title_tai": "Kham1 Son1 Elicitation 2",
+  "title_as": ""
+}

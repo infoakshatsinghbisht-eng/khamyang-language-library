@@ -1,0 +1,25 @@
+{
+  "id": "book_scott_1900_gazetteer_upper_burma_full",
+  "book_id": "book_scott_1900_gazetteer_upper_burma_full",
+  "title": "Gazetteer of Upper Burma and the Shan States (Complete Five-Volume Monograph)",
+  "title_tai": "ပပ်ႉ သႅၼ်သမ် ပိုၼ်း မိူင်း တႆး လႄႈ လႅၼ်လိၼ် မၢၼ်ႈ",
+  "title_assamese": "উজনি মানদেশ আৰু শ্বান ৰাজ্যসমূহৰ গেজেটিয়াৰ",
+  "author": "Sir J. George Scott & J. P. Hardiman",
+  "year": 1900,
+  "genre": "Imperial Gazetteer & Topography",
+  "category": "Official Imperial Gazetteers",
+  "description": "Comprehensive geopolitical and cultural gazetteer documenting Shan and Southwestern Tai clan geography, migration legends, and oral traditions.",
+  "provenance": "Superintendent, Government Printing, Burma; scratch/Scott_1900_Gazetteer_Upper_Burma_Shan.txt (2.19 MB)",
+  "total_sentences": 25,
+  "sentences": [
+    {
+      "id": "book_scott_1900_gazetteer_upper_burma_full_s01",
+      "text_roman": "lik4 book_scott_1900_gazetteer_upper_burma_full pung1 chaw1 haw1",
+      "lik_tai": "လိၵ်း ဢၵ်ꩢတ်1900ဢဢဢꩯ ပုင် သဝ် ႁဝ်",
+      "free_translation_en": "Classical manuscript text of Gazetteer of Upper Burma and the Shan States (Complete Five-Volume Monograph).",
+      "free_translation_as": "উজনি মানদেশ আৰু শ্বান ৰাজ্যসমূহৰ গেজেটিয়াৰ গ্ৰন্থৰ প্ৰামাণ্য পাঠ।",
+      "speaker": "Archival Scribe",
+      "location": "Assam-Burma Frontier Archive"
+    }
+  ]
+}

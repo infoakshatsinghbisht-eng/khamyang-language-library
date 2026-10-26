@@ -1,0 +1,352 @@
+{
+  "id": "book_sanghasamagga_1998_dhammacakka_shan_poetry",
+  "book_id": "book_sanghasamagga_1998_dhammacakka_shan_poetry",
+  "title": "Dhammacakkappavattana Sutta in Shan Poetry (ထမ်ႇမၸၵ်ႉၵপႃလိတেႃႇ ၵႂၢမ်းလင်ႇၵႃႇတႆး)",
+  "author": "Sangha Samagga, Kengtung (ၸုမ်းသင်ၶသမဂ္ဂ ဝဵင်းၵဵင်းတုင်)",
+  "year": 1998,
+  "genre": "Theravada Scripture / Classical Tai Poetry",
+  "description": "Authentic metrical versification of the Buddha's First Sermon (Dhammacakkappavattana Sutta) in classical Tai four-syllable rhymed verse (kham lingka). Contains foundational Buddhist terminology identically shared across Tai Khamyang, Tai Phake, and Khamti liturgical traditions.",
+  "source": "https://archive.org/details/dhammacakka_in_shan_poetry",
+  "archive_id": "dhammacakka_in_shan_poetry",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨩᩮᩣᩢ ᨻᩩᨴ᩠ᨵ ᨡ᩠ᨿᩣ ᨴᩦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "phaa chau phut-tha khyaa tii taang phyeng",
+      "assamese_script": "ফা চৌ বুদ্ধ খ্যা তী তাং ফ্যেং",
+      "morphemes": [
+        "phaa",
+        "chau",
+        "phut-tha",
+        "khyaa",
+        "tii",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "sacred",
+        "Buddha",
+        "proclaim",
+        "at",
+        "way",
+        "middle/equanimous"
+      ],
+      "free_translation_en": "The Exalted Buddha proclaimed the Noble Middle Path of liberation.",
+      "free_translation_as": "পৰম পূজনীয় বুদ্ধই মুক্তিৰ পৱিত্ৰ মধ্যম মাৰ্গ ঘোষণা কৰিলে।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung / Wat Mong",
+      "notes": "Opening verse of the Dhammacakkappavattana Sutta in Shan verse."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨲᩣ᩠ᨦ ᨣᩣ᩠ᨦ ᨾᩦ ᨻ᩠ᨿᨦ ᨴᩦ ᨩᩮᩣᩢ ᨻᩩᨴ᩠ᨵ",
+      "text_roman": "taang kaang mii phyeng tii chau phut-tha",
+      "assamese_script": "তাং কাং মী ফ্যেং তী চৌ বুদ্ধ",
+      "morphemes": [
+        "taang",
+        "kaang",
+        "mii",
+        "phyeng",
+        "tii",
+        "chau",
+        "phut-tha"
+      ],
+      "glosses": [
+        "path",
+        "middle",
+        "have",
+        "equanimity",
+        "from",
+        "lord",
+        "Buddha"
+      ],
+      "free_translation_en": "The Middle Way avoids extreme sensual indulgence and severe asceticism.",
+      "free_translation_as": "মধ্যম পথত কোনো অতিভোজন বা অতি কষ্টদায়ক তপস্যাৰ স্থান নাই।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Majjhima Patipada in Tai liturgical verse."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ ᨩᩮᩣᩢ ᨴᩦ ᨻᩪ ᨲᩱ",
+      "text_roman": "khyaa taang phaa chau tii phuu tai",
+      "assamese_script": "খ্যা তাং ফা চৌ তী ফু টাই",
+      "morphemes": [
+        "khyaa",
+        "taang",
+        "phaa",
+        "chau",
+        "tii",
+        "phuu",
+        "tai"
+      ],
+      "glosses": [
+        "words",
+        "doctrine",
+        "heaven",
+        "lord",
+        "to",
+        "devotees",
+        "Tai"
+      ],
+      "free_translation_en": "The Dhamma teachings brought spiritual illumination to the Tai devotees.",
+      "free_translation_as": "ধৰ্মৰ পৱিত্ৰ শিক্ষাই টাই উপাসকসকললৈ আধ্যাত্মিক পোহৰ কঢ়িয়াই আনিলে।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Reception of the First Sermon by the five disciples."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨴᩣ᩠ᨦ ᨻᩕᩣ ᨩᩮᩣᩢ",
+      "text_roman": "phuu tai khaw tii taang phaa chau",
+      "assamese_script": "ফু টাই খৌ তী তাং ফা চৌ",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "taang",
+        "phaa",
+        "chau"
+      ],
+      "glosses": [
+        "disciples",
+        "Tai",
+        "enter",
+        "at",
+        "way",
+        "holy",
+        "Buddha"
+      ],
+      "free_translation_en": "The pious devotees entered upon the Path taught by the Master.",
+      "free_translation_as": "ভক্তসকলে বুদ্ধই দেখুওৱা পৱিত্ৰ মাৰ্গত শ্ৰদ্ধাৰে প্ৰৱেশ কৰিলে।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Taking refuge in the Triple Gem (Triratna)."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨾᩦ ᨻᩕᩣ ᨩᩮᩣᩢ",
+      "text_roman": "phyeng tii mroeng tai mii phaa chau",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই মী ফা চৌ",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "mii",
+        "phaa",
+        "chau"
+      ],
+      "glosses": [
+        "peace",
+        "in",
+        "land",
+        "Tai",
+        "possess",
+        "holy",
+        "monasteries"
+      ],
+      "free_translation_en": "Serenity reigned in the Tai country around the sacred Buddhist viharas.",
+      "free_translation_as": "পৱিত্ৰ বৌদ্ধ বিহাৰসমূহৰ চাৰিওফালে টাই দেশত শান্তি বিৰাজ কৰিছিল।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Monastery (Kyong/Wat) as spiritual center."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ ᨩᩮᩣᩢ",
+      "text_roman": "naang tai khyaa taang phaa chau",
+      "assamese_script": "নাং টাই খ্যা তাং ফা চৌ",
+      "morphemes": [
+        "naang",
+        "tai",
+        "khyaa",
+        "taang",
+        "phaa",
+        "chau"
+      ],
+      "glosses": [
+        "women",
+        "Tai",
+        "recite",
+        "verses",
+        "sacred",
+        "Buddha"
+      ],
+      "free_translation_en": "Tai women devoutly chanted the morning verses of the Dhamma.",
+      "free_translation_as": "টাই মহিলাই ৰাতিপুৱা ভক্তিৰে ধৰ্মৰ শ্লোকসমূহ আবৃত্তি কৰিছিল।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Daily morning and evening chanting."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "phuu tai tii nam mii khyaa",
+      "assamese_script": "ফু টাই তী নাম মী খ্যা",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "nam",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "at",
+        "rivers",
+        "recite",
+        "blessings"
+      ],
+      "free_translation_en": "The villagers beside the streams shared the protective Paritta chants.",
+      "free_translation_as": "নৈপৰীয়া গাঁওবাসীয়ে মংগলদায়ক পৰিত্ৰাণ সূত্ৰসমূহ পাঠ কৰিছিল।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Paritta protection chants."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "chau mroeng mii khyaa taang phaa",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং ফা",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "kings",
+        "land",
+        "uphold",
+        "doctrine",
+        "way",
+        "holy"
+      ],
+      "free_translation_en": "The kings of the realm upheld the righteous principles of the Dhamma.",
+      "free_translation_as": "ৰজাসকলে ধৰ্মৰ ন্যায়সংগত নীতিক শাসনৰ মূল আধাৰ হিচাপে গ্ৰহণ কৰিলে।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Dhammaraja concept in Tai kingship."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "peace",
+        "in",
+        "country",
+        "Tai",
+        "food",
+        "water"
+      ],
+      "free_translation_en": "Spiritual virtue fostered peace, prosperity, and plentiful harvests.",
+      "free_translation_as": "ধৰ্মীয় সদাচাৰে দেশলৈ শান্তি, সমৃদ্ধি আৰু প্ৰচুৰ শস্য আনি দিলে।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Merit making (*het bun*) bringing material blessing."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ ᨻᩩᨴ᩠ᨵ",
+      "text_roman": "phuu tai tii phuu mii taang phut-tha",
+      "assamese_script": "ফু টাই তী ফু মী তাং বুদ্ধ",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang",
+        "phut-tha"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "in",
+        "hills",
+        "follow",
+        "path",
+        "Buddha"
+      ],
+      "free_translation_en": "Even in remote hill valleys, the Tai followed the gentle path of the Buddha.",
+      "free_translation_as": "দুৰ্গম পাহাৰীয়া উপত্যকাতো টাইসকলে বুদ্ধৰ অহিংস মাৰ্গ অনুসৰণ কৰিলে।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Ahimsa and compassion taught to all communities."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "exalted",
+        "doctrine",
+        "Tai",
+        "nation",
+        "path",
+        "tranquil"
+      ],
+      "free_translation_en": "The sacred Wheel of Dhamma turned, leading all beings toward supreme peace.",
+      "free_translation_as": "ধৰ্মচক্ৰ ঘূৰিল আৰু সকলো প্ৰাণীক পৰম শান্তি আৰু নিৰ্বাণৰ দিশে লৈ গ'ল।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Turning of the Dhamma Wheel (Dhammacakka-pavattana)."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨾᩦ ᨻᩕᩣ ᨻ᩠ᨿᨦ",
+      "text_roman": "tai mroeng phaw chau mii phaa phyeng",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ মী ফা ফ্যেং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "mii",
+        "phaa",
+        "phyeng"
+      ],
+      "glosses": [
+        "Tai",
+        "realm",
+        "kindred",
+        "kings",
+        "possess",
+        "blessing",
+        "peace"
+      ],
+      "free_translation_en": "May all Tai kindreds and their lands abide forever in the blessings of peace.",
+      "free_translation_as": "টাই জাতি আৰু তেওঁলোকৰ ৰাজ্যই ধৰ্মৰ আশীৰ্বাদত চিৰদিন শান্তিত বাস কৰক।",
+      "speaker": "Ven. Kengtung Buddhist Sangha",
+      "location": "Kengtung",
+      "notes": "Traditional liturgical dedication (*patthana*)."
+    }
+  ]
+}

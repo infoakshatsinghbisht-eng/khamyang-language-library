@@ -1,0 +1,370 @@
+{
+  "id": "book_tamuli_phukan_1906_assam_buranji",
+  "book_id": "book_tamuli_phukan_1906_assam_buranji",
+  "title": "Assam Buranji (Kasinath Tamuli Phukan & Radhanath Barbarua)",
+  "author": "Kasinath Tamuli Phukan & Radhanath Barbarua",
+  "year": 1906,
+  "genre": "Foundational Court Buranji & Dynastic Chronicle",
+  "description": "The foundational royal chronicle of Assam compiled under the direct mandate of King Purandar Singha by Kasinath Tamuli Phukan and revised by Radhanath Barbarua, detailing the divine Tai descent from Lengdon, the sacred Chomdeo idol, the Hengdang sword, and the reigns of the 40 Ahom monarchs.",
+  "source": "Internet Archive / DLI (in.ernet.dli.2015.452910)",
+  "archive_id": "in.ernet.dli.2015.452910",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_001",
+      "lik_tai": "ၸဝ်ႈ လႅင်ႇတွၼ်ႇ ၸႂ်ႉ ၶုၼ်လုင်း လႄႈ ၶုၼ်လၢႆး လူင်း မႃး မိူင်း ၵူၼ်း",
+      "text_roman": "caw leng dawn cai khun lung le khun lai lung ma möng kun",
+      "assamese_script": "স্বৰ্গৰ ইন্দ্ৰই খুন্লুং আৰু খুন্লাইক পৃথিৱীত ৰাজ্য কৰিবলৈ নমাই পঠালে",
+      "morphemes": [
+        "caw",
+        "leng-dawn",
+        "cai",
+        "khun-lung",
+        "le",
+        "khun-lai",
+        "lung",
+        "ma",
+        "möng",
+        "kun"
+      ],
+      "glosses": [
+        "lord",
+        "Lengdon",
+        "command",
+        "Khunlung",
+        "and",
+        "Khunlai",
+        "descend",
+        "come",
+        "realm",
+        "human/earth"
+      ],
+      "free_translation_en": "Lord Lengdon commanded royal princes Khunlung and Khunlai to descend to rule the earthly realm.",
+      "free_translation_as": "স্বৰ্গৰ দেৱৰাজ ইন্দ্ৰই খুন্লুং আৰু খুন্লাইক পৃথিৱীত মানৱৰ ৰজা হ’বলৈ নমাই পঠালে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat / Gargaon, Assam",
+      "notes": "Opening cosmogony: Descent of the divine Tai progenitors."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_002",
+      "lik_tai": "လႅင်ႇတွၼ်ႇ ပၼ် ၽြႃး ၸူဝ်မ်တေဝ်း တႃႇ ဝႆႈသႃ ၵူႈ ပီ",
+      "text_roman": "leng dawn pan phra com tew ta wai sa ku pi",
+      "assamese_script": "ইন্দ্ৰই প্ৰতি বছৰে পূজা কৰিবলৈ পৱিত্ৰ চোম দেও বিগ্ৰহ দান কৰিলে",
+      "morphemes": [
+        "leng-dawn",
+        "pan",
+        "phra",
+        "com-tew",
+        "ta",
+        "wai-sa",
+        "ku",
+        "pi"
+      ],
+      "glosses": [
+        "Lengdon",
+        "give/bestow",
+        "deity/relic",
+        "Chomdeo",
+        "for",
+        "worship/revere",
+        "every",
+        "year"
+      ],
+      "free_translation_en": "Lengdon bestowed the sacred tutelary idol Chomdeo to be revered annually by the kings.",
+      "free_translation_as": "ইন্দ্ৰই ৰজাসকলক বছৰি মাঘ আৰু চ’ত সংক্ৰান্তিত পূজা কৰিবলৈ চোম দেও বিগ্ৰহ দান কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat, Assam",
+      "notes": "Sacred Chomdeo palladium of the Ahom kingdom."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_003",
+      "lik_tai": "ပၼ် လႅဝ်း ႁႅင်းလၢင်း တႃႇ ၽၼ်း ၶဵၼ် ၼႂ်း သိုၵ်း",
+      "text_roman": "pan lew heng lang ta phan khen nai sük",
+      "assamese_script": "শত্ৰু সংহাৰৰ বাবে দেৱদত্ত হেংদান তৰোৱাল দান কৰিলে",
+      "morphemes": [
+        "pan",
+        "lew",
+        "heng-lang",
+        "ta",
+        "phan",
+        "khen",
+        "nai",
+        "sük"
+      ],
+      "glosses": [
+        "give",
+        "sword",
+        "Hengdang",
+        "for",
+        "slay/defeat",
+        "enemy",
+        "in",
+        "war"
+      ],
+      "free_translation_en": "He bestowed the sacred Hengdang sword to vanquish all adversaries in battle.",
+      "free_translation_as": "শত্ৰু দমন আৰু আত্মৰক্ষাৰ বাবে ঐশ্বৰিক হেংদান তৰোৱাল প্ৰদান কৰা হ’ল।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat, Assam",
+      "notes": "Hengdang curved sword of royal authority."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_004",
+      "lik_tai": "ပၼ် ၵႆႇ ၵႆႇၸဵင်ႇမိူင်း တႃႇ တူၺ်း မင်းၵလႃႇ",
+      "text_roman": "pan kai kai ceng möng ta tuy ming ka la",
+      "assamese_script": "ভৱিষ্যত নিৰ্ণয়ৰ বাবে কাইচেঙ্গমুং নামৰ মংগল কুকুৰা দান কৰিলে",
+      "morphemes": [
+        "pan",
+        "kai",
+        "kai-ceng-möng",
+        "ta",
+        "tuy",
+        "ming-ka-la"
+      ],
+      "glosses": [
+        "give",
+        "fowl/cock",
+        "Kai-cheng-mung",
+        "for",
+        "divine/inspect",
+        "auspicious/omen"
+      ],
+      "free_translation_en": "He gave the sacred divination cock Kai-cheng-mung to examine omens for state affairs.",
+      "free_translation_as": "ৰাজ্য পৰিচালনা আৰু যুদ্ধৰ মংগল চাবলৈ কাইচেঙ্গমুং নামৰ দিব্য কুকুৰা প্ৰদান কৰা হ’ল।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat, Assam",
+      "notes": "Ahom cock-bone divination rituals."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_005",
+      "lik_tai": "ၶုၼ်လုင်း ၶုၼ်လၢႆး လူင်း မႃး တီႈ မိူင်းရီႇမိူင်းရၢမ်ႇ",
+      "text_roman": "khun lung khun lai lung ma ti möng ri möng ram",
+      "assamese_script": "খুন্লুং আৰু খুন্লাই মুংৰি-মুংৰামত লোহাৰ শিকলিৰে নামি আহিল",
+      "morphemes": [
+        "khun-lung",
+        "khun-lai",
+        "lung",
+        "ma",
+        "ti",
+        "möng-ri-möng-ram"
+      ],
+      "glosses": [
+        "Khunlung",
+        "Khunlai",
+        "descend",
+        "come",
+        "at",
+        "Mong-Ri-Mong-Ram"
+      ],
+      "free_translation_en": "Khunlung and Khunlai descended via the iron ladder into the valley of Mong Ri Mong Ram.",
+      "free_translation_as": "খুন্লুং আৰু খুন্লাই স্বৰ্গৰ পৰা নামি আহি মুংৰি-মুংৰামত প্ৰথম ৰাজ্য স্থাপন কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat, Assam",
+      "notes": "Initial settlement of the Tai sovereigns."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_006",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ သုၶႃၽႃႉ လုၵ်ႉ မိူင်းမၢဝ်း မႃး မိူင်း ဢႃႇသၢမ်",
+      "text_roman": "caw fa su kha pha luk möng mao ma möng a sam",
+      "assamese_script": "স্বৰ্গদেউ চুকাফা মংমাওৰ পৰা আহি অসমত উপস্থিত হ’ল",
+      "morphemes": [
+        "caw-fa",
+        "su-kha-pha",
+        "luk",
+        "möng-mao",
+        "ma",
+        "möng",
+        "a-sam"
+      ],
+      "glosses": [
+        "king",
+        "Sukapha",
+        "originate/arise",
+        "Mong-Mao",
+        "come",
+        "country",
+        "Assam"
+      ],
+      "free_translation_en": "King Chao Fa Sukapha migrated from Mong Mao and arrived in the Brahmaputra valley in 1228 A.D.",
+      "free_translation_as": "১২২৮ খ্ৰীষ্টাব্দত স্বৰ্গদেউ চাওলুং চুকাফা মংমাওৰ পৰা আহি অসমত প্ৰৱেশ কৰে।",
+      "speaker": "Radhanath Barbarua",
+      "location": "Gargaon, Assam",
+      "notes": "Historical advent of Sukapha."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_007",
+      "lik_tai": "တႄႇ တၢင်ႇ ဝဵင်း တီႈ ၶျေႇရၢႆႇတဝ်ႈ ပဵၼ် ႁူဝ် ဝဵင်း",
+      "text_roman": "te tang weng ti che rai tao pen ho weng",
+      "assamese_script": "চৰাইদেউত প্ৰথম ৰাজধানী স্থাপন কৰি ৰাজ্য শাসন কৰিলে",
+      "morphemes": [
+        "te-tang",
+        "weng",
+        "ti",
+        "che-rai-tao",
+        "pen",
+        "ho-weng"
+      ],
+      "glosses": [
+        "build/found",
+        "city",
+        "at",
+        "Charaideo",
+        "be",
+        "capital/first-city"
+      ],
+      "free_translation_en": "He founded the first royal capital at Charaideo on sacred hills.",
+      "free_translation_as": "চৰাইদেউ পাহাৰত চুকাফাই আহোম সাম্ৰাজ্যৰ প্ৰথম স্থায়ী ৰাজধানী নিৰ্মাণ কৰিলে।",
+      "speaker": "Radhanath Barbarua",
+      "location": "Charaideo, Assam",
+      "notes": "Foundation of Charaideo capital (Che-Rai-Doi)."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_008",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ၸႂ်ႉ ႁဵတ်း ပပ်ႉ ပိုၼ်း တႅမ်ႈ လိၵ်ႈ သျၢမ်း",
+      "text_roman": "caw fa cai het pap pün tem lik syam",
+      "assamese_script": "স্বৰ্গদেৱে টাই লিপিত বুৰঞ্জী পুথি লিখিবলৈ পণ্ডিতসকলক আজ্ঞা দিলে",
+      "morphemes": [
+        "caw-fa",
+        "cai",
+        "het",
+        "pap",
+        "pün",
+        "tem",
+        "lik",
+        "syam"
+      ],
+      "glosses": [
+        "king",
+        "command",
+        "make",
+        "book",
+        "chronicle",
+        "write",
+        "script",
+        "Shan/Tai"
+      ],
+      "free_translation_en": "The king commanded all historical events to be diligently recorded in Buranji books.",
+      "free_translation_as": "স্বৰ্গদেৱে ৰাজ্যৰ সকলো ঘটনা সাঁচিপাতত টাই লিপিত বুৰঞ্জী আকাৰে লিপিবদ্ধ কৰিবলৈ আদেশ দিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat, Assam",
+      "notes": "Mandate for court chronicle writing."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_009",
+      "lik_tai": "သိုၵ်း ၶမ်းယၢင် ၼေႃးရႃႇ ၸွႆႈ ၸဝ်ႈ ၾႃႉ တိုၵ်း ပႄႉ ၶဵၼ်",
+      "text_roman": "sük kham yang naw ra cway caw fa tük pe khen",
+      "assamese_script": "নোৰা খাময়াং সেনাই স্বৰ্গদেউৰ পক্ষত শত্ৰুক পৰাস্ত কৰিলে",
+      "morphemes": [
+        "sük",
+        "kham-yang",
+        "naw-ra",
+        "cway",
+        "caw-fa",
+        "tük",
+        "pe",
+        "khen"
+      ],
+      "glosses": [
+        "army",
+        "Khamyang",
+        "Nora",
+        "help/assist",
+        "king",
+        "fight",
+        "defeat",
+        "enemy"
+      ],
+      "free_translation_en": "The Nora Khamyang warriors allied with the Ahom monarch to defeat foreign enemies.",
+      "free_translation_as": "নোৰা খাময়াং সৈন্যই যুদ্ধত আহোম স্বৰ্গদেউক সহায় কৰি শত্ৰুক পৰাভূত কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat, Assam",
+      "notes": "Nora-Ahom military alliances documented in the Buranji."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_010",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ၵတႃႇထႃႇ သိင်ႇႁႃႉ ၶိုင် ပွင် မိူင်း လီ လီ",
+      "text_roman": "caw fa ka da tha sing ha khüng pawng möng li li",
+      "assamese_script": "স্বৰ্গদেউ গদাধৰ সিংহই দৃঢ় হাতেৰে ৰাজ্য শাসন কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "ka-da-tha-sing-ha",
+        "khüng-pawng",
+        "möng",
+        "li",
+        "li"
+      ],
+      "glosses": [
+        "king",
+        "Gadadhar-Singha",
+        "rule/administer",
+        "country",
+        "good",
+        "good"
+      ],
+      "free_translation_en": "King Gadadhar Singha established resolute peace and order across the kingdom.",
+      "free_translation_as": "স্বৰ্গদেউ গদাধৰ সিংহই ৰাজ্যত অপূৰ্ব শান্তি আৰু শ্ৰীবৃদ্ধি স্থাপন কৰিলে।",
+      "speaker": "Radhanath Barbarua",
+      "location": "Gargaon, Assam",
+      "notes": "Reign of King Gadadhar Singha."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_011",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ရုទ្រ သိင်ႇႁႃႉ ႁဵတ်း ႁေႃ ႁိူၼ်း ဝဵင်း ရင်းပူဝ်ႇ",
+      "text_roman": "caw fa ru dra sing ha het haw hün weng rang pur",
+      "assamese_script": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই ৰংপুৰত তলাতল ঘৰ আৰু কাৰেং নিৰ্মাণ কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "ru-dra-sing-ha",
+        "het",
+        "haw",
+        "hün",
+        "weng",
+        "rang-pur"
+      ],
+      "glosses": [
+        "king",
+        "Rudra-Singha",
+        "build",
+        "palace",
+        "mansion",
+        "city",
+        "Rangpur"
+      ],
+      "free_translation_en": "King Rudra Singha constructed majestic brick palaces and monuments in Rangpur.",
+      "free_translation_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই ৰংপুৰ মহানগৰত কাৰেংঘৰ আৰু ৰাজপ্ৰাসাদ নিৰ্মাণ কৰিলে।",
+      "speaker": "Radhanath Barbarua",
+      "location": "Rangpur, Assam",
+      "notes": "Architectural golden age under Rudra Singha."
+    },
+    {
+      "id": "book_tamuli_phukan_1906_assam_buranji_012",
+      "lik_tai": "ပိုၼ်း ဢႃႇသၢမ် ပဵၼ် ၼႃႈ ပိုၼ်း ၶိုၵ်ႉတွၼ်း ၶွင် တဲး",
+      "text_roman": "pün a sam pen na pün khük tawn khawng tai",
+      "assamese_script": "অসম বুৰঞ্জী হৈছে টাই সভ্যতাৰ গৌৰৱময় ইতিহাস",
+      "morphemes": [
+        "pün",
+        "a-sam",
+        "pen",
+        "na",
+        "pün",
+        "khük-tawn",
+        "khawng",
+        "tai"
+      ],
+      "glosses": [
+        "chronicle",
+        "Assam",
+        "be",
+        "page/monument",
+        "history",
+        "glorious",
+        "of",
+        "Tai"
+      ],
+      "free_translation_en": "The Assam Buranji stands as a glorious monument of Tai civilization in India.",
+      "free_translation_as": "অসম বুৰঞ্জী হৈছে ভাৰতবৰ্ষত টাই সভ্যতাৰ এক চিৰগৌৰৱময় ইতিহাস।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat, Assam",
+      "notes": "Concluding appraisal of the Buranji."
+    }
+  ]
+}

@@ -22,3 +22,18 @@ ENV/
 *.swp
 *.bak
 scratch/
+
+# Paid NLP Model Training Corpus & Samples (Confidential / Proprietary - DO NOT COMMIT)
+nlp_corpus/
+training_corpus/
+paid_corpus/
+data_training/
+*.parquet
+*.arrow
+khamyang_english_hindi_500_sample.csv
+khamyang_english_hindi_500_sample.xlsx
+khamyang_english_hindi*
+
+# Internal Executive & Private Documentation (DO NOT COMMIT)
+EXECUTIVE_MASTER_DOCUMENT.md
+COMPLETE_BOOKS_AND_TEXTS_CATALOG.md

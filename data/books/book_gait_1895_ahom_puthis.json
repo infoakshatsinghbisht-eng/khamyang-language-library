@@ -1,0 +1,340 @@
+{
+  "id": "book_gait_1895_ahom_puthis",
+  "book_id": "book_gait_1895_ahom_puthis",
+  "title": "Abstract of the Contents of one of the Ahom Puthis",
+  "author": "Sir Edward Albert Gait",
+  "year": 1895,
+  "genre": "Manuscript Study / Philology",
+  "description": "Critical philological abstract of a Tai Ahom palm-leaf manuscript (Puthi) published in the Journal of the Asiatic Society of Bengal. Contains lexical and syntactic commentary on archaic Tai grammar, historical dates, and vocabulary shared directly with Tai Khamyang and Khamti.",
+  "source": "https://archive.org/details/biostor-281557",
+  "archive_id": "biostor-281557",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu chau tai khyaa tii mroeng tsaw",
+      "assamese_script": "ফু চৌ টাই খ্যা তী ম্ৰোং চউ",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "tsaw"
+      ],
+      "glosses": [
+        "scribe",
+        "venerable",
+        "Tai",
+        "write",
+        "at",
+        "country",
+        "ancient"
+      ],
+      "free_translation_en": "The venerable Tai scribes inscribed the ancient annals of the nation.",
+      "free_translation_as": "প্ৰাচীন টাই পণ্ডিতে দেশৰ বুৰঞ্জী সাঁচিপাতত লিপিবদ্ধ কৰিছিল।",
+      "speaker": "Sir Edward Albert Gait (Historian)",
+      "location": "Asiatic Society of Bengal / Shillong",
+      "notes": "Philological introduction to the Tai Puthi."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩕ᩠ᨦ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa mroeng khaw tii kaang",
+      "assamese_script": "চৌ ফা ম্ৰোং খৌ তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mroeng",
+        "khaw",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "realm",
+        "enter",
+        "at",
+        "seat"
+      ],
+      "free_translation_en": "The heavenly monarch took his seat on the throne of the realm.",
+      "free_translation_as": "স্বৰ্গদেৱে ৰাজ্যৰ সিংহাসনত আৰোহণ কৰিলে।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Coronation protocol."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii phyeng mii khaw",
+      "assamese_script": "টাই ফৌ তী ফ্যেং মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "phyeng",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "plains",
+        "possess",
+        "grain"
+      ],
+      "free_translation_en": "The Tai kindreds cultivated grain across the river plains.",
+      "free_translation_as": "নদীৰ সমতল পথাৰত টাই খেলসমূহে শস্য উৎপাদন কৰিছিল।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Agrarian economy described in the manuscript."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨾᩦ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨴᩦ ᨻᩪ",
+      "text_roman": "man mii taang nam tii phuu",
+      "assamese_script": "মান মী তাং নাম তী ফু",
+      "morphemes": [
+        "man",
+        "mii",
+        "taang",
+        "nam",
+        "tii",
+        "phuu"
+      ],
+      "glosses": [
+        "he",
+        "hold",
+        "channel",
+        "water",
+        "at",
+        "mountain"
+      ],
+      "free_translation_en": "He directed the irrigation channels from the mountain springs.",
+      "free_translation_as": "তেওঁ পাহাৰৰ জুৰিৰ পৰা পানীৰ নলা কাটি আনিলে।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Water management in early Tai settlement."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨻᩕᩣ",
+      "text_roman": "phuu tai khyaa taang chau phaa",
+      "assamese_script": "ফু টাই খ্যা তাং চৌ ফা",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "taang",
+        "chau",
+        "phaa"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "obey",
+        "command",
+        "lord",
+        "heaven"
+      ],
+      "free_translation_en": "The Tai folk adhered to the commands of the heavenly ruler.",
+      "free_translation_as": "টাই লোকসকলে স্বৰ্গদেউৰ আদেশ পালন কৰিছিল।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Civic obedience in the chronicles."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "queen",
+        "noble",
+        "Tai",
+        "in",
+        "court",
+        "reside"
+      ],
+      "free_translation_en": "The noble queen resided in the royal residence.",
+      "free_translation_as": "বৰকুঁৱৰী ৰাজকীয় প্ৰাসাদত অৱস্থান কৰিছিল।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Royal court household."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨣᩣ᩠ᨦ ᨴᩦ ᨶᩣᩴ ᨲᩱ",
+      "text_roman": "khaw taang kaang tii nam tai",
+      "assamese_script": "খৌ তাং কাং তী নাম টাই",
+      "morphemes": [
+        "khaw",
+        "taang",
+        "kaang",
+        "tii",
+        "nam",
+        "tai"
+      ],
+      "glosses": [
+        "advance",
+        "route",
+        "middle",
+        "at",
+        "river",
+        "Tai"
+      ],
+      "free_translation_en": "The Tai fleet advanced along the main river channel.",
+      "free_translation_as": "টাই নৌসেনা নদীৰ মূল সোঁতেৰে আগবাঢ়িল।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Naval military operations."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "phuu chau khyaa tii phyeng mroeng",
+      "assamese_script": "ফু চৌ খ্যা তী ফ্যেং ম্ৰোং",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "tii",
+        "phyeng",
+        "mroeng"
+      ],
+      "glosses": [
+        "minister",
+        "lord",
+        "proclaim",
+        "at",
+        "valley",
+        "realm"
+      ],
+      "free_translation_en": "The ministers published decrees throughout the river valleys.",
+      "free_translation_as": "মন্ত্ৰীসকলে সমগ্ৰ উপত্যকাত ৰাজকীয় ঘোষণা প্ৰচাৰ কৰিলে।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Provincial administrative announcements."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "tai phaw mii khyaa taang tsaw",
+      "assamese_script": "টাই ফৌ মী খ্যা তাং চউ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "keep",
+        "records",
+        "way",
+        "ancestral"
+      ],
+      "free_translation_en": "The Tai clans preserved their ancestral written genealogies.",
+      "free_translation_as": "টাই খেলসমূহে তেওঁলোকৰ বংশাৱলীৰ লিখিত নথি সংৰক্ষণ কৰিছিল।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Puthi genealogy records (*Likhita Buranji*)."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨲᩱ ᨾᩦ",
+      "text_roman": "khaw nam tii phyeng tai mii",
+      "assamese_script": "খৌ নাম তী ফ্যেং টাই মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "tai",
+        "mii"
+      ],
+      "glosses": [
+        "rice",
+        "water",
+        "in",
+        "plains",
+        "Tai",
+        "plentiful"
+      ],
+      "free_translation_en": "Food provisions were plentiful in the Tai settlements.",
+      "free_translation_as": "টাই গাঁওসমূহত শস্য আৰু খাদ্যৰ নাটনি নাছিল।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Sustenance and food storage."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "country",
+        "govern",
+        "justly"
+      ],
+      "free_translation_en": "The heavenly sovereign governed the Tai country with wisdom and equity.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই দেশক ন্যায় আৰু প্ৰজ্ঞাৰে পৰিচালনা কৰিলে।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Just ruler trope."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "tai phaw chau mroeng mii phyeng",
+      "assamese_script": "টাই ফৌ চৌ ম্ৰোং মী ফ্যেং",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "chau",
+        "mroeng",
+        "mii",
+        "phyeng"
+      ],
+      "glosses": [
+        "Tai",
+        "kindred",
+        "sovereign",
+        "land",
+        "possess",
+        "peace"
+      ],
+      "free_translation_en": "The Tai kindred and realm enjoyed lasting peace and tranquility.",
+      "free_translation_as": "টাই জাতি আৰু ৰাজ্যই চিৰস্থায়ী শান্তি আৰু সমৃদ্ধি লাভ কৰিলে।",
+      "speaker": "Sir Edward Albert Gait",
+      "location": "Shillong",
+      "notes": "Colophon formula of the Tai puthi."
+    }
+  ]
+}

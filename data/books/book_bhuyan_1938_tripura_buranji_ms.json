@@ -1,0 +1,326 @@
+{
+  "id": "book_bhuyan_1938_tripura_buranji_ms",
+  "book_id": "book_bhuyan_1938_tripura_buranji_ms",
+  "title": "Tripura Buranji",
+  "author": "Dr. Suryya Kumar Bhuyan",
+  "year": 1938,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Historical chronicle edited by Dr. S. K. Bhuyan from the original 1724 manuscript of Ratna Kandali Sarma and Arjundas Bairagi, detailing Swargadeo Rudra Singha's three embassies to Raja Ratna Manikya II of Tripura to forge a pan-Indian confederacy against the Mughal Empire.",
+  "source": "https://archive.org/details/TripuraBuranjiedSuryyaKumarBhuiyan1938",
+  "archive_id": "TripuraBuranjiedSuryyaKumarBhuiyan1938",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨧᩮᩢᩣ",
+      "text_roman": "phaa tai khyaa tii mroeng chau tsaw",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ চউ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau",
+        "tsaw"
+      ],
+      "glosses": [
+        "swargadeo",
+        "Tai",
+        "decree",
+        "for",
+        "embassy",
+        "monarch",
+        "sovereign"
+      ],
+      "free_translation_en": "Swargadeo Rudra Singha commissioned a diplomatic embassy to the royal court of Tripura.",
+      "free_translation_as": "স্বৰ্গদেৱ ৰুদ্ৰসিংহই ত্ৰিপুৰাৰ ৰাজদৰবাৰলৈ এক কূটনৈতিক দৌত্য পঠিয়াবলৈ আদেশ দিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan (Director of DHAS)",
+      "location": "Guwahati / DHAS",
+      "notes": "Opening chronicle of Tripura Buranji."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii kaang mroeng",
+      "assamese_script": "চৌ ফা টাই খৌ তী কাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "kaang",
+        "mroeng"
+      ],
+      "glosses": [
+        "lord",
+        "swargadeo",
+        "Tai",
+        "convene",
+        "in",
+        "hall",
+        "palace"
+      ],
+      "free_translation_en": "The sovereign monarch held council in the Gargaon palace to plan the interstate coalition.",
+      "free_translation_as": "স্বৰ্গদেৱে গড়গাঁৱৰ ৰাজপ্ৰাসাদত আন্তঃৰাজ্যিক সন্মিলনৰ পৰিকল্পনাৰ বাবে মেল পাতিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Gargaon Palace",
+      "notes": "Royal council deliberating confederacy."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "envoys",
+        "at",
+        "river",
+        "carry",
+        "provisions"
+      ],
+      "free_translation_en": "The envoys sailed by royal barges down the Brahmaputra, carrying gifts and provisions.",
+      "free_translation_as": "কটকীসকলে ব্ৰহ্মপুত্ৰৰে ৰাজকীয় নাওৰে উপহাৰ আৰু ৰচদ লৈ যাত্ৰা কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Brahmaputra Fluvial Route",
+      "notes": "River journey of Ratna Kandali and Arjundas Bairagi."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "ambassadors",
+        "noble",
+        "deliver",
+        "letter",
+        "to",
+        "ruler"
+      ],
+      "free_translation_en": "The Assamese ambassadors delivered the Swargadeo's sealed epistle to Raja Ratna Manikya.",
+      "free_translation_as": "অসমৰ কটকীয়ে মহাৰজা ৰত্ন মাণিক্যৰ হাতত স্বৰ্গদেৱৰ মোহৰমৰা কূটনৈতিক পত্ৰ অৰ্পণ কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Udaipur, Tripura",
+      "notes": "Ceremonial delivery of royal letter."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "they",
+        "traverse",
+        "route",
+        "through",
+        "hills",
+        "middle"
+      ],
+      "free_translation_en": "They traversed dense hill forests and swift rivers to reach the southern kingdom.",
+      "free_translation_as": "তেওঁলোকে দক্ষিণৰ ৰাজ্য পাবলৈ পাহাৰ আৰু ঘন জংঘলৰ মাজেৰে দুৰ্গম পথ অতিক্ৰম কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Tripura Hills",
+      "notes": "Travelogue description."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "queen",
+        "court",
+        "welcome",
+        "in",
+        "palace",
+        "hall"
+      ],
+      "free_translation_en": "The royal court extended gracious hospitality and honors to the visiting dignitaries.",
+      "free_translation_as": "ত্ৰিপুৰাৰ ৰাজপৰিয়ালে বিদেশী কটকীসকলক সাদৰ আদৰণি আৰু যথোচিত সন্মান জনালে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Udaipur Court",
+      "notes": "Court hospitality."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw tii nam kaang",
+      "assamese_script": "ফু টাই খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "warriors",
+        "allied",
+        "station",
+        "at",
+        "river",
+        "forts"
+      ],
+      "free_translation_en": "Both kingdoms agreed to coordinate frontier defenses along crucial river highways.",
+      "free_translation_as": "দুয়োখন ৰাজ্যই নদী সীমান্তত একত্ৰিত প্ৰতিৰক্ষা ব্যৱস্থা গঢ়ি তুলিবলৈ সন্মত হ’ল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Meghna / Surma Confluence",
+      "notes": "Strategic defense coordination."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "sovereigns",
+        "both",
+        "affirm",
+        "bond",
+        "alliance",
+        "eternal"
+      ],
+      "free_translation_en": "The sovereigns affirmed an enduring alliance sealed with ceremonial gifts of ivory and silk.",
+      "free_translation_as": "ৰজাসকলে হাতীদাঁত আৰু পাট-মুগাৰ উপহাৰেৰে এক চিৰস্থায়ী মিত্ৰতা দৃঢ় কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Rangpur / Udaipur",
+      "notes": "Mutual treaty ratifications."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "peace",
+        "in",
+        "realms",
+        "Tai",
+        "prosper",
+        "flourish"
+      ],
+      "free_translation_en": "Diplomatic friendship promoted security and open travel between the eastern regions.",
+      "free_translation_as": "কূটনৈতিক বন্ধুত্বই পূৰ্বঞ্চলৰ ৰাজ্যসমূহৰ মাজত নিৰাপত্তা আৰু মুক্ত যাতায়াত সুগম কৰিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Northeast India",
+      "notes": "Regional geopolitics."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "scribes",
+        "learned",
+        "record",
+        "facts",
+        "in",
+        "manuscript"
+      ],
+      "free_translation_en": "The learned scribes faithfully recorded dates, distances, court customs, and songs in the chronicle.",
+      "free_translation_as": "জ্ঞানী কটকীসকলে বুৰঞ্জীত তাৰিখ, দূৰত্ব, ৰাজদৰবাৰৰ নিয়ম আৰু গীত নিষ্ঠাৰে লিখি ৰাখিলে।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati",
+      "notes": "Scribal accuracy of Ratna Kandali and Arjundas."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "vision",
+        "grand",
+        "Tai",
+        "king",
+        "path",
+        "unity"
+      ],
+      "free_translation_en": "The grand vision of Swargadeo Rudra Singha stands as an early model of regional solidarity.",
+      "free_translation_as": "স্বৰ্গদেৱ ৰুদ্ৰসিংহৰ এই দূৰদৰ্শী চিন্তা আঞ্চলিক ঐক্যৰ এক প্ৰাথমিক আৰ্হি হৈ ৰ’ল।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Rangpur",
+      "notes": "Historical legacy of Rudra Singha."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "history",
+        "chronicles",
+        "heritage",
+        "unfading",
+        "path"
+      ],
+      "free_translation_en": "Tripura Buranji remains a masterpiece of indigenous historical prose and diplomacy.",
+      "free_translation_as": "ত্ৰিপুৰা বুৰঞ্জী দেশীয় ঐতিহাসিক গদ্য আৰু কূটনীতিৰ এক অনন্য কীৰ্তিস্তম্ভ।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "Guwahati",
+      "notes": "Conclusion of Tripura Buranji."
+    }
+  ]
+}

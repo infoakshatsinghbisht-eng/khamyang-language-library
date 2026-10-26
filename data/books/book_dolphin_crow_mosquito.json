@@ -1,0 +1,1064 @@
+{
+  "id": "book_dolphin_crow_mosquito",
+  "title_khamyang": "Pung1 Paa1 Laa1 Maan1 Nok4 Kaa1 Kap4 Yung1",
+  "title_english": "The Fable of the Dolphin, the Crow, and the Mosquito",
+  "genre": "folktale",
+  "informant": "Ee Nyan Khet",
+  "village": "Namphakey Village",
+  "audio_ref": "1-1-1-4.mp3",
+  "description": "Humorous allegorical animal fable demonstrating how vanity and gossip lead to absurd misunderstandings.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 40,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "mz5 nan4 tai2 saam6 k4",
+      "lik_tai": "မႉ ၼၼ်း တႆႇ ꩢႃမ်ႊ ၵး",
+      "assamese_script": "ম⁵ নান⁴ তাই² সাম⁶ ক⁴",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [tai˥˦] [saːm˧˥] [k˥˦ʔ]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "tai2",
+        "saam6",
+        "k4"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "friend",
+        "three",
+        "CLF"
+      ],
+      "translation": "At one time there were three friends.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At one time there were three friends.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "k4 nvng5 la4",
+      "lik_tai": "ၵး ၼင်ႉ လႃး",
+      "assamese_script": "ক⁴ নঙ⁵ লা⁴",
+      "ipa": "[k˥˦ʔ] [nvŋ˧˩] [la˥˦ʔ]",
+      "morphemes": [
+        "k4",
+        "nvng5",
+        "la4"
+      ],
+      "glosses": [
+        "CLF",
+        "one",
+        "crow"
+      ],
+      "translation": "One was a crow, one a dolphin and the other a mosquito",
+      "translation_assamese": "অসমীয়া অৰ্থ: One was a crow, one a dolphin and the other a mosquito",
+      "audio_file": null,
+      "notes": "* The meaning was given as 'also' by Aithown Che."
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "uu1 mz5 nan4 a1 mz5 naau6 yj4",
+      "lik_tai": "ဢ မႉ ၼၼ်း ဢႃ မႉ ၼႃဝ်ႊ ယး",
+      "assamese_script": "অ¹ ম⁵ নান⁴ অ¹ ম⁵ নাও⁶ য⁴",
+      "ipa": "[uu˧˧] [mz˧˩] [nan˥˦ʔ] [a˧˧] [mz˧˩] [naːu˧˥] [jj˥˦ʔ]",
+      "morphemes": [
+        "uu1",
+        "mz5",
+        "nan4",
+        "a1",
+        "mz5",
+        "naau6",
+        "yj4"
+      ],
+      "glosses": [
+        "stay",
+        "time",
+        "that",
+        "time",
+        "time",
+        "cold",
+        "PRT"
+      ],
+      "translation": "At that time it was cold,",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time it was cold,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "ka3 k4 ma1 nai3 kin2",
+      "lik_tai": "ၵႃႈ ၵး မႃ ၼႆႈ ၵိၼ်ႇ",
+      "assamese_script": "কা³ ক⁴ মা¹ নাই³ কিন²",
+      "ipa": "[ka˨˩̰] [k˥˦ʔ] [ma˧˧] [nai˨˩̰] [kin˥˦]",
+      "morphemes": [
+        "ka3",
+        "k4",
+        "ma1",
+        "nai3",
+        "kin2"
+      ],
+      "glosses": [
+        "anything",
+        "LINK",
+        "NEG",
+        "get",
+        "eat"
+      ],
+      "translation": "They couldn\"t get anything to eat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They couldn\"t get anything to eat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "s2 kaa1 kaa4 nvm1 j1",
+      "lik_tai": "ꩢႇ ၵႃ ၵႃး ၼမ် ဢ",
+      "assamese_script": "স² কা¹ কা⁴ নম¹ অ¹",
+      "ipa": "[s˥˦] [kaː˧˧] [kaː˥˦ʔ] [nvm˧˧] [j˧˧]",
+      "morphemes": [
+        "s2",
+        "kaa1",
+        "kaa4",
+        "nvm1",
+        "j1"
+      ],
+      "glosses": [
+        "let us",
+        "go",
+        "trade",
+        "PRT",
+        "HESIT"
+      ],
+      "translation": "(One said) \"Let us go to trade\",",
+      "translation_assamese": "অসমীয়া অৰ্থ: (One said) \"Let us go to trade\",",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "2 tsvng2 kaa1 hm6 wai4 sj6",
+      "lik_tai": "2 ၸင်ႇ ၵႃ ႁမ်ႊ ဝႆး ꩢႊ",
+      "assamese_script": "2 চঙ² কা¹ হম⁶ ৱাই⁴ স⁶",
+      "ipa": "[˥˦] [tɕvŋ˥˦] [kaː˧˧] [hm˧˥] [wai˥˦ʔ] [sj˧˥]",
+      "morphemes": [
+        "2",
+        "tsvng2",
+        "kaa1",
+        "hm6",
+        "wai4",
+        "sj6"
+      ],
+      "glosses": [
+        "YES",
+        "now",
+        "go",
+        "collect",
+        "keep",
+        "PRT"
+      ],
+      "translation": "Yes, let us go and collect (some foods) and store them.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Yes, let us go and collect (some foods) and store them.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "mz5 a1 mz5 yj4 waa5 kaa1 ka8",
+      "lik_tai": "မႉ ဢႃ မႉ ယး ဝႃႉ ၵႃ ka8",
+      "assamese_script": "ম⁵ অ¹ ম⁵ য⁴ ৱা⁵ কা¹ ka8",
+      "ipa": "[mz˧˩] [a˧˧] [mz˧˩] [jj˥˦ʔ] [waː˧˩] [kaː˧˧] [ka8˧˧]",
+      "morphemes": [
+        "mz5",
+        "a1",
+        "mz5",
+        "yj4",
+        "waa5",
+        "kaa1",
+        "ka8"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "summer",
+        "reach",
+        "SAY",
+        "go",
+        "GO.IMP"
+      ],
+      "translation": "When the summer comes, we will go trading.",
+      "translation_assamese": "অসমীয়া অৰ্থ: When the summer comes, we will go trading.",
+      "audio_file": null,
+      "notes": "Aithown Che stated that in this sentence, wA5 ought be translated as 'should'"
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "tsvng1 khvng5 nai4 hau2 waa5 hm6 wai4",
+      "lik_tai": "ၸင် ၶင်ႉ ၼႆး ႁဝ်ႇ ဝႃႉ ႁမ်ႊ ဝႆး",
+      "assamese_script": "চঙ¹ খঙ⁵ নাই⁴ হাও² ৱা⁵ হম⁶ ৱাই⁴",
+      "ipa": "[tɕvŋ˧˧] [kʰvŋ˧˩] [nai˥˦ʔ] [hau˥˦] [waː˧˩] [hm˧˥] [wai˥˦ʔ]",
+      "morphemes": [
+        "tsvng1",
+        "khvng5",
+        "nai4",
+        "hau2",
+        "waa5",
+        "hm6",
+        "wai4"
+      ],
+      "glosses": [
+        "now",
+        "things",
+        "this",
+        "1Pl",
+        "SAY",
+        "gather",
+        "keep"
+      ],
+      "translation": "Now we should gather things and store them.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Now we should gather things and store them.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "ka3 ta1 hm6",
+      "lik_tai": "ၵႃႈ တႃ ႁမ်ႊ",
+      "assamese_script": "কা³ তা¹ হম⁶",
+      "ipa": "[ka˨˩̰] [ta˧˧] [hm˧˥]",
+      "morphemes": [
+        "ka3",
+        "ta1",
+        "hm6"
+      ],
+      "glosses": [
+        "what",
+        "WILL",
+        "collect"
+      ],
+      "translation": "What will we collect?",
+      "translation_assamese": "অসমীয়া অৰ্থ: What will we collect?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "nj4 paa2 nj4 waa5 nii2 yaa4",
+      "lik_tai": "ၼး ပႃႇ ၼး ဝႃႉ ၼႇ ယႃး",
+      "assamese_script": "ন⁴ পা² ন⁴ ৱা⁵ ন² যা⁴",
+      "ipa": "[nj˥˦ʔ] [paː˥˦] [nj˥˦ʔ] [waː˧˩] [nii˥˦] [jaː˥˦ʔ]",
+      "morphemes": [
+        "nj4",
+        "paa2",
+        "nj4",
+        "waa5",
+        "nii2",
+        "yaa4"
+      ],
+      "glosses": [
+        "DEF",
+        "dolphin",
+        "DEF",
+        "say",
+        "good",
+        "PRT-EMPH"
+      ],
+      "translation": "The dolphin said, \"Yes, I have a boat",
+      "translation_assamese": "অসমীয়া অৰ্থ: The dolphin said, \"Yes, I have a boat",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "hz2 nj4 khii1 hz2 se6 laung5 kaa1 k",
+      "lik_tai": "ႁႇ ၼး ၶ ႁႇ ေꩢႊ လဝ်င်ႉ ၵႃ ၵ",
+      "assamese_script": "হ² ন⁴ খ¹ হ² সে⁶ লাওঙ⁵ কা¹ ক¹",
+      "ipa": "[hz˥˦] [nj˥˦ʔ] [kʰii˧˧] [hz˥˦] [se˧˥] [lauŋ˧˩] [kaː˧˧] [k˧˧]",
+      "morphemes": [
+        "hz2",
+        "nj4",
+        "khii1",
+        "hz2",
+        "se6",
+        "laung5",
+        "kaa1",
+        "k"
+      ],
+      "glosses": [
+        "boat",
+        "DEF",
+        "ride",
+        "boat",
+        "CLF",
+        "flow down",
+        "go"
+      ],
+      "translation": "(We can) ride this boat downstream and go trading.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (We can) ride this boat downstream and go trading.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "thaam6 hang2 kaa2 kaa2 nj4",
+      "lik_tai": "ထႃမ်ႊ ႁင်ႇ ၵႃႇ ၵႃႇ ၼး",
+      "assamese_script": "থাম⁶ হাঙ² কা² কা² ন⁴",
+      "ipa": "[tʰaːm˧˥] [haŋ˥˦] [kaː˥˦] [kaː˥˦] [nj˥˦ʔ]",
+      "morphemes": [
+        "thaam6",
+        "hang2",
+        "kaa2",
+        "kaa2",
+        "nj4"
+      ],
+      "glosses": [
+        "ask",
+        "to",
+        "crow",
+        "crow",
+        "DEF"
+      ],
+      "translation": "He asked the crow, \"Crow! What (will you get?)",
+      "translation_assamese": "অসমীয়া অৰ্থ: He asked the crow, \"Crow! What (will you get?)",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "2 nii2 yaa4 kau2 ta1 hm6 nam4 wai4",
+      "lik_tai": "2 ၼႇ ယႃး ၵဝ်ႇ တႃ ႁမ်ႊ ၼမ်း ဝႆး",
+      "assamese_script": "2 ন² যা⁴ কাও² তা¹ হম⁶ নাম⁴ ৱাই⁴",
+      "ipa": "[˥˦] [nii˥˦] [jaː˥˦ʔ] [kau˥˦] [ta˧˧] [hm˧˥] [nam˥˦ʔ] [wai˥˦ʔ]",
+      "morphemes": [
+        "2",
+        "nii2",
+        "yaa4",
+        "kau2",
+        "ta1",
+        "hm6",
+        "nam4",
+        "wai4"
+      ],
+      "glosses": [
+        "EXCL",
+        "good",
+        "yes",
+        "1Sg",
+        "WILL",
+        "gather",
+        "molasses",
+        "to keep"
+      ],
+      "translation": "(The crow said:) \"Oh, yes, I will get jaggery.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (The crow said:) \"Oh, yes, I will get jaggery.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "nj4 yung2 yj4 ka3 mav2 ta1 hm6",
+      "lik_tai": "ၼး ယုင်ႇ ယး ၵႃႈ မႇ တႃ ႁမ်ႊ",
+      "assamese_script": "ন⁴ যুঙ² য⁴ কা³ ম² তা¹ হম⁶",
+      "ipa": "[nj˥˦ʔ] [juŋ˥˦] [jj˥˦ʔ] [ka˨˩̰] [mav˥˦] [ta˧˧] [hm˧˥]",
+      "morphemes": [
+        "nj4",
+        "yung2",
+        "yj4",
+        "ka3",
+        "mav2",
+        "ta1",
+        "hm6"
+      ],
+      "glosses": [
+        "DEF",
+        "mosquito",
+        "PRT",
+        "what",
+        "2Sg",
+        "WILL",
+        "gather"
+      ],
+      "translation": "Mosquito, what will you gather, what will you trade?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Mosquito, what will you gather, what will you trade?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "2 kau2 ta1 hm6 wai4 kz2",
+      "lik_tai": "2 ၵဝ်ႇ တႃ ႁမ်ႊ ဝႆး ၵႇ",
+      "assamese_script": "2 কাও² তা¹ হম⁶ ৱাই⁴ ক²",
+      "ipa": "[˥˦] [kau˥˦] [ta˧˧] [hm˧˥] [wai˥˦ʔ] [kz˥˦]",
+      "morphemes": [
+        "2",
+        "kau2",
+        "ta1",
+        "hm6",
+        "wai4",
+        "kz2"
+      ],
+      "glosses": [
+        "YES",
+        "1Sg",
+        "WILL",
+        "gather",
+        "KEEP",
+        "salt"
+      ],
+      "translation": "Oh, I will gather salt.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh, I will gather salt.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "luk4 tsvng1 khau6 hm6 hm6 wai4",
+      "lik_tai": "လုၵ်း ၸင် ၶဝ်ႊ ႁမ်ႊ ႁမ်ႊ ဝႆး",
+      "assamese_script": "লুক্‌⁴ চঙ¹ খাও⁶ হম⁶ হম⁶ ৱাই⁴",
+      "ipa": "[luk˥˦ʔ] [tɕvŋ˧˧] [kʰau˧˥] [hm˧˥] [hm˧˥] [wai˥˦ʔ]",
+      "morphemes": [
+        "luk4",
+        "tsvng1",
+        "khau6",
+        "hm6",
+        "hm6",
+        "wai4"
+      ],
+      "glosses": [
+        "from",
+        "now, then",
+        "they",
+        "gather",
+        "gather",
+        "to keep"
+      ],
+      "translation": "From that time, they gathered food and stored it up.",
+      "translation_assamese": "অসমীয়া অৰ্থ: From that time, they gathered food and stored it up.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "thvng6 a1 mz5",
+      "lik_tai": "ထင်ႊ ဢႃ မႉ",
+      "assamese_script": "থঙ⁶ অ¹ ম⁵",
+      "ipa": "[tʰvŋ˧˥] [a˧˧] [mz˧˩]",
+      "morphemes": [
+        "thvng6",
+        "a1",
+        "mz5"
+      ],
+      "glosses": [
+        "reach",
+        "during",
+        "summer"
+      ],
+      "translation": "The summer came.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The summer came.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "s2 a1 nuu2 wan2 nii2 yj4",
+      "lik_tai": "ꩢႇ ဢႃ ၼႇ ဝၼ်ႇ ၼႇ ယး",
+      "assamese_script": "স² অ¹ ন² ৱান² ন² য⁴",
+      "ipa": "[s˥˦] [a˧˧] [nuu˥˦] [wan˥˦] [nii˥˦] [jj˥˦ʔ]",
+      "morphemes": [
+        "s2",
+        "a1",
+        "nuu2",
+        "wan2",
+        "nii2",
+        "yj4"
+      ],
+      "glosses": [
+        "let us",
+        "time",
+        "look",
+        "day",
+        "good",
+        "PRT"
+      ],
+      "translation": "Let us see if today is an auspicious day for us to go and trade,",
+      "translation_assamese": "অসমীয়া অৰ্থ: Let us see if today is an auspicious day for us to go and trade,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "kaa1 kaa4",
+      "lik_tai": "ၵႃ ၵႃး",
+      "assamese_script": "কা¹ কা⁴",
+      "ipa": "[kaː˧˧] [kaː˥˦ʔ]",
+      "morphemes": [
+        "kaa1",
+        "kaa4"
+      ],
+      "glosses": [
+        "go",
+        "trade"
+      ],
+      "translation": "So, they went trading.",
+      "translation_assamese": "অসমীয়া অৰ্থ: So, they went trading.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "mz5 yj4 khii1 l3 khii1 laing6 ma1 tsav6",
+      "lik_tai": "မႉ ယး ၶ လႈ ၶ လႆင်ႊ မႃ ၸႊ",
+      "assamese_script": "ম⁵ য⁴ খ¹ ল³ খ¹ লাইঙ⁶ মা¹ চ⁶",
+      "ipa": "[mz˧˩] [jj˥˦ʔ] [kʰii˧˧] [l˨˩̰] [kʰii˧˧] [laiŋ˧˥] [ma˧˧] [tɕav˧˥]",
+      "morphemes": [
+        "mz5",
+        "yj4",
+        "khii1",
+        "l3",
+        "khii1",
+        "laing6",
+        "ma1",
+        "tsav6"
+      ],
+      "glosses": [
+        "then",
+        "PRT",
+        "ride",
+        "cart",
+        "ride",
+        "vehicle",
+        "NEG",
+        "be.NEG"
+      ],
+      "translation": "At that time, they did not ride in their vehicles, and because of this they went to trade by boat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time, they did not ride in their vehicles, and because of this they went to trade by boat.",
+      "audio_file": null,
+      "notes": "*This word is difficult to make out on the tape. Aithown Che stated that it should be luN5 phA4, and that the meaning was the same as lai4 kq4 pz5 nai4 'therefore'. Note that lum5 phA4 is 'all, complete'."
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "paa2 nj4 kaa1 au2 maa2 yj4 hz2 mvn2",
+      "lik_tai": "ပႃႇ ၼး ၵႃ ဢဝ်ႇ မႃႇ ယး ႁႇ မၼ်ႇ",
+      "assamese_script": "পা² ন⁴ কা¹ ঔ² মা² য⁴ হ² মন²",
+      "ipa": "[paː˥˦] [nj˥˦ʔ] [kaː˧˧] [au˥˦] [maː˥˦] [jj˥˦ʔ] [hz˥˦] [mvn˥˦]",
+      "morphemes": [
+        "paa2",
+        "nj4",
+        "kaa1",
+        "au2",
+        "maa2",
+        "yj4",
+        "hz2",
+        "mvn2"
+      ],
+      "glosses": [
+        "dolphin",
+        "DEF",
+        "go",
+        "take",
+        "come",
+        "PRT",
+        "boat",
+        "3Sg"
+      ],
+      "translation": "The dolphin went to get his boat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The dolphin went to get his boat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "la4 nj4 kaa1 au2 maa2 yaa4",
+      "lik_tai": "လႃး ၼး ၵႃ ဢဝ်ႇ မႃႇ ယႃး",
+      "assamese_script": "লা⁴ ন⁴ কা¹ ঔ² মা² যা⁴",
+      "ipa": "[la˥˦ʔ] [nj˥˦ʔ] [kaː˧˧] [au˥˦] [maː˥˦] [jaː˥˦ʔ]",
+      "morphemes": [
+        "la4",
+        "nj4",
+        "kaa1",
+        "au2",
+        "maa2",
+        "yaa4"
+      ],
+      "glosses": [
+        "crow",
+        "DEF",
+        "go",
+        "take",
+        "come",
+        "PRT"
+      ],
+      "translation": "The crow went to get his pot of molasses.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The crow went to get his pot of molasses.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "yung2 nj4 kaa1 au2 maa2 yaa4 mauk1 kz2 mvn2",
+      "lik_tai": "ယုင်ႇ ၼး ၵႃ ဢဝ်ႇ မႃႇ ယႃး မဝ်ၵ် ၵႇ မၼ်ႇ",
+      "assamese_script": "যুঙ² ন⁴ কা¹ ঔ² মা² যা⁴ মাওক্‌¹ ক² মন²",
+      "ipa": "[juŋ˥˦] [nj˥˦ʔ] [kaː˧˧] [au˥˦] [maː˥˦] [jaː˥˦ʔ] [mauk˧˧] [kz˥˦] [mvn˥˦]",
+      "morphemes": [
+        "yung2",
+        "nj4",
+        "kaa1",
+        "au2",
+        "maa2",
+        "yaa4",
+        "mauk1",
+        "kz2",
+        "mvn2"
+      ],
+      "glosses": [
+        "mosquito",
+        "DEF",
+        "go",
+        "take",
+        "come",
+        "PRT",
+        "pipe",
+        "salt",
+        "3Sg"
+      ],
+      "translation": "The mosquito went to get his (bamboo) pipe of salt.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The mosquito went to get his (bamboo) pipe of salt.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "kaa1 kaa4 kaa1 khii1 kaa1 wvt4",
+      "lik_tai": "ၵႃ ၵႃး ၵႃ ၶ ၵႃ ဝတ်း",
+      "assamese_script": "কা¹ কা⁴ কা¹ খ¹ কা¹ ৱত্‌⁴",
+      "ipa": "[kaː˧˧] [kaː˥˦ʔ] [kaː˧˧] [kʰii˧˧] [kaː˧˧] [wvt˥˦ʔ]",
+      "morphemes": [
+        "kaa1",
+        "kaa4",
+        "kaa1",
+        "khii1",
+        "kaa1",
+        "wvt4"
+      ],
+      "glosses": [
+        "go",
+        "trade",
+        "GO",
+        "ride",
+        "GO",
+        "PRT"
+      ],
+      "translation": "So they went to trade, travelling (by boat), like that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: So they went to trade, travelling (by boat), like that.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "lom2 laing4 maa2 hav3 maa2 lom2",
+      "lik_tai": "လူမ်ႇ လႆင်း မႃႇ ႁႈ မႃႇ လူမ်ႇ",
+      "assamese_script": "লোম² লাইঙ⁴ মা² হ³ মা² লোম²",
+      "ipa": "[lom˥˦] [laiŋ˥˦ʔ] [maː˥˦] [hav˨˩̰] [maː˥˦] [lom˥˦]",
+      "morphemes": [
+        "lom2",
+        "laing4",
+        "maa2",
+        "hav3",
+        "maa2",
+        "lom2"
+      ],
+      "glosses": [
+        "wind",
+        "cyclone",
+        "come",
+        "GIVE",
+        "COME",
+        "cyclone"
+      ],
+      "translation": "A big cyclone was coming.",
+      "translation_assamese": "অসমীয়া অৰ্থ: A big cyclone was coming.",
+      "audio_file": null,
+      "notes": "Aithown Che translated mA2 hav3 mA2 as 'coming'."
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "lom2",
+      "lik_tai": "လူမ်ႇ",
+      "assamese_script": "লোম²",
+      "ipa": "[lom˥˦]",
+      "morphemes": [
+        "lom2"
+      ],
+      "glosses": [
+        "cyclone"
+      ],
+      "translation": "A cyclone (was coming).",
+      "translation_assamese": "অসমীয়া অৰ্থ: A cyclone (was coming).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "hz2 nj4 khom3 kaa1 kaa1 yj4",
+      "lik_tai": "ႁႇ ၼး ၶူမ်ႈ ၵႃ ၵႃ ယး",
+      "assamese_script": "হ² ন⁴ খোম³ কা¹ কা¹ য⁴",
+      "ipa": "[hz˥˦] [nj˥˦ʔ] [kʰom˨˩̰] [kaː˧˧] [kaː˧˧] [jj˥˦ʔ]",
+      "morphemes": [
+        "hz2",
+        "nj4",
+        "khom3",
+        "kaa1",
+        "kaa1",
+        "yj4"
+      ],
+      "glosses": [
+        "boat",
+        "DEF",
+        "capsize",
+        "go",
+        "GO",
+        "PRT"
+      ],
+      "translation": "The boat capsized",
+      "translation_assamese": "অসমীয়া অৰ্থ: The boat capsized",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "hz2 nj4 k4 khom3",
+      "lik_tai": "ႁႇ ၼး ၵး ၶူမ်ႈ",
+      "assamese_script": "হ² ন⁴ ক⁴ খোম³",
+      "ipa": "[hz˥˦] [nj˥˦ʔ] [k˥˦ʔ] [kʰom˨˩̰]",
+      "morphemes": [
+        "hz2",
+        "nj4",
+        "k4",
+        "khom3"
+      ],
+      "glosses": [
+        "boat",
+        "DEF",
+        "LINK",
+        "capsize"
+      ],
+      "translation": "The boat capsized",
+      "translation_assamese": "অসমীয়া অৰ্থ: The boat capsized",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "luk4 nj4 yj4",
+      "lik_tai": "လုၵ်း ၼး ယး",
+      "assamese_script": "লুক্‌⁴ ন⁴ য⁴",
+      "ipa": "[luk˥˦ʔ] [nj˥˦ʔ] [jj˥˦ʔ]",
+      "morphemes": [
+        "luk4",
+        "nj4",
+        "yj4"
+      ],
+      "glosses": [
+        "from",
+        "DEF",
+        "PRT"
+      ],
+      "translation": "After that, the pot of molasses fell in the water,",
+      "translation_assamese": "অসমীয়া অৰ্থ: After that, the pot of molasses fell in the water,",
+      "audio_file": null,
+      "notes": "* This is a grammaticalisation of the reciprocal particle kan2. The phonological process of change appears to be [Fin2] > [Fvn2] > /kvn2/~/kan2/."
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "haa1 nai4 kz2 mauk1 kz2",
+      "lik_tai": "ႁႃ ၼႆး ၵႇ မဝ်ၵ် ၵႇ",
+      "assamese_script": "হা¹ নাই⁴ ক² মাওক্‌¹ ক²",
+      "ipa": "[haː˧˧] [nai˥˦ʔ] [kz˥˦] [mauk˧˧] [kz˥˦]",
+      "morphemes": [
+        "haa1",
+        "nai4",
+        "kz2",
+        "mauk1",
+        "kz2"
+      ],
+      "glosses": [
+        "time",
+        "this",
+        "salt",
+        "pipe",
+        "salt"
+      ],
+      "translation": "At this time, the pipe of salt,",
+      "translation_assamese": "অসমীয়া অৰ্থ: At this time, the pipe of salt,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "yung2 nai4 kz2 tok1 nam4 kaa1 kvn2 yj4",
+      "lik_tai": "ယုင်ႇ ၼႆး ၵႇ တူၵ် ၼမ်း ၵႃ ၵၼ်ႇ ယး",
+      "assamese_script": "যুঙ² নাই⁴ ক² তোক্‌¹ নাম⁴ কা¹ কন² য⁴",
+      "ipa": "[juŋ˥˦] [nai˥˦ʔ] [kz˥˦] [tok˧˧] [nam˥˦ʔ] [kaː˧˧] [kvn˥˦] [jj˥˦ʔ]",
+      "morphemes": [
+        "yung2",
+        "nai4",
+        "kz2",
+        "tok1",
+        "nam4",
+        "kaa1",
+        "kvn2",
+        "yj4"
+      ],
+      "glosses": [
+        "mosquito",
+        "this",
+        "salt",
+        "fall",
+        "water",
+        "GO",
+        "RECIP",
+        "PRT"
+      ],
+      "translation": "The mosquito (said): 'The salt has fallen in the water (and is lost)",
+      "translation_assamese": "অসমীয়া অৰ্থ: The mosquito (said): 'The salt has fallen in the water (and is lost)",
+      "audio_file": null,
+      "notes": "* Aithown Che suggested that this should be kA1 kvn2 kA1 'GO-RECIP-GO'."
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "hz2 nj4 lai6 kaa1 kvn2 kz4",
+      "lik_tai": "ႁႇ ၼး လႆႊ ၵႃ ၵၼ်ႇ ၵး",
+      "assamese_script": "হ² ন⁴ লাই⁶ কা¹ কন² ক⁴",
+      "ipa": "[hz˥˦] [nj˥˦ʔ] [lai˧˥] [kaː˧˧] [kvn˥˦] [kz˥˦ʔ]",
+      "morphemes": [
+        "hz2",
+        "nj4",
+        "lai6",
+        "kaa1",
+        "kvn2",
+        "kz4"
+      ],
+      "glosses": [
+        "boat",
+        "DEF",
+        "flow",
+        "GO",
+        "RECIP",
+        "LINK"
+      ],
+      "translation": "This boat has flowed downwards.",
+      "translation_assamese": "অসমীয়া অৰ্থ: This boat has flowed downwards.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "nj4 paa2 nj4 kzt1 kvn2 tii5 nam4 nj4",
+      "lik_tai": "ၼး ပႃႇ ၼး ၵတ် ၵၼ်ႇ တႉ ၼမ်း ၼး",
+      "assamese_script": "ন⁴ পা² ন⁴ কত্‌¹ কন² ত⁵ নাম⁴ ন⁴",
+      "ipa": "[nj˥˦ʔ] [paː˥˦] [nj˥˦ʔ] [kzt˧˧] [kvn˥˦] [tii˧˩] [nam˥˦ʔ] [nj˥˦ʔ]",
+      "morphemes": [
+        "nj4",
+        "paa2",
+        "nj4",
+        "kzt1",
+        "kvn2",
+        "tii5",
+        "nam4",
+        "nj4"
+      ],
+      "glosses": [
+        "DEF",
+        "dolphin",
+        "DEF",
+        "remain",
+        "RECIP",
+        "at",
+        "water",
+        "DEF"
+      ],
+      "translation": "The dolphin remained in the water, not knowing how to fly.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The dolphin remained in the water, not knowing how to fly.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "yung2 na1 la4 nj4 tsaang5 min2 yj4",
+      "lik_tai": "ယုင်ႇ ၼႃ လႃး ၼး ၸႃင်ႉ မိၼ်ႇ ယး",
+      "assamese_script": "যুঙ² না¹ লা⁴ ন⁴ চাঙ⁵ মিন² য⁴",
+      "ipa": "[juŋ˥˦] [na˧˧] [la˥˦ʔ] [nj˥˦ʔ] [tɕaːŋ˧˩] [min˥˦] [jj˥˦ʔ]",
+      "morphemes": [
+        "yung2",
+        "na1",
+        "la4",
+        "nj4",
+        "tsaang5",
+        "min2",
+        "yj4"
+      ],
+      "glosses": [
+        "mosquito",
+        "both",
+        "crow",
+        "DEF",
+        "know",
+        "fly",
+        "PRT"
+      ],
+      "translation": "Both the mosquito and the crow knew how to fly.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Both the mosquito and the crow knew how to fly.",
+      "audio_file": null,
+      "notes": "* This was written as na1 khA6 by Aithown Che, but is really as simply [khA6]."
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "khau6 min2 kaa1 kvn2 kaa1",
+      "lik_tai": "ၶဝ်ႊ မိၼ်ႇ ၵႃ ၵၼ်ႇ ၵႃ",
+      "assamese_script": "খাও⁶ মিন² কা¹ কন² কা¹",
+      "ipa": "[kʰau˧˥] [min˥˦] [kaː˧˧] [kvn˥˦] [kaː˧˧]",
+      "morphemes": [
+        "khau6",
+        "min2",
+        "kaa1",
+        "kvn2",
+        "kaa1"
+      ],
+      "glosses": [
+        "3Pl",
+        "fly",
+        "GO",
+        "RECIP",
+        "GO"
+      ],
+      "translation": "(so) they flew,",
+      "translation_assamese": "অসমীয়া অৰ্থ: (so) they flew,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "luk4 nai4 yj4 thvng6 maa2",
+      "lik_tai": "လုၵ်း ၼႆး ယး ထင်ႊ မႃႇ",
+      "assamese_script": "লুক্‌⁴ নাই⁴ য⁴ থঙ⁶ মা²",
+      "ipa": "[luk˥˦ʔ] [nai˥˦ʔ] [jj˥˦ʔ] [tʰvŋ˧˥] [maː˥˦]",
+      "morphemes": [
+        "luk4",
+        "nai4",
+        "yj4",
+        "thvng6",
+        "maa2"
+      ],
+      "glosses": [
+        "from",
+        "there",
+        "PRT",
+        "reach",
+        "COME"
+      ],
+      "translation": "searched everywhere for (all) their things",
+      "translation_assamese": "অসমীয়া অৰ্থ: searched everywhere for (all) their things",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "ma1 yang6 wvt4",
+      "lik_tai": "မႃ ယင်ႊ ဝတ်း",
+      "assamese_script": "মা¹ যাঙ⁶ ৱত্‌⁴",
+      "ipa": "[ma˧˧] [jaŋ˧˥] [wvt˥˦ʔ]",
+      "morphemes": [
+        "ma1",
+        "yang6",
+        "wvt4"
+      ],
+      "glosses": [
+        "NEG",
+        "is",
+        "PRT"
+      ],
+      "translation": "There was nothing.",
+      "translation_assamese": "অসমীয়া অৰ্থ: There was nothing.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "uu1 uu1 yj4 luk4 nai4 yj4",
+      "lik_tai": "ဢ ဢ ယး လုၵ်း ၼႆး ယး",
+      "assamese_script": "অ¹ অ¹ য⁴ লুক্‌⁴ নাই⁴ য⁴",
+      "ipa": "[uu˧˧] [uu˧˧] [jj˥˦ʔ] [luk˥˦ʔ] [nai˥˦ʔ] [jj˥˦ʔ]",
+      "morphemes": [
+        "uu1",
+        "uu1",
+        "yj4",
+        "luk4",
+        "nai4",
+        "yj4"
+      ],
+      "glosses": [
+        "stay",
+        "stay",
+        "PRT",
+        "from",
+        "that",
+        "PRT"
+      ],
+      "translation": "Time passed, and from that time we have always gone trading in summer.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Time passed, and from that time we have always gone trading in summer.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "luk4 nai4 yj4",
+      "lik_tai": "လုၵ်း ၼႆး ယး",
+      "assamese_script": "লুক্‌⁴ নাই⁴ য⁴",
+      "ipa": "[luk˥˦ʔ] [nai˥˦ʔ] [jj˥˦ʔ]",
+      "morphemes": [
+        "luk4",
+        "nai4",
+        "yj4"
+      ],
+      "glosses": [
+        "from",
+        "there",
+        "PRT"
+      ],
+      "translation": "As a result of this, when the summer time comes, the mosquitos come to ask the people",
+      "translation_assamese": "অসমীয়া অৰ্থ: As a result of this, when the summer time comes, the mosquitos come to ask the people",
+      "audio_file": null,
+      "notes": "* Aithown Che stated that this should be hgqkunqnaxW. haN2 kon2 na1 khau6 'to-person-PLU'"
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "mauk1 kz2 kau2 suu6 han7",
+      "lik_tai": "မဝ်ၵ် ၵႇ ၵဝ်ႇ ꩢႊ han7",
+      "assamese_script": "মাওক্‌¹ ক² কাও² স⁶ han7",
+      "ipa": "[mauk˧˧] [kz˥˦] [kau˥˦] [suu˧˥] [han7˧˧]",
+      "morphemes": [
+        "mauk1",
+        "kz2",
+        "kau2",
+        "suu6",
+        "han7"
+      ],
+      "glosses": [
+        "pipe",
+        "salt",
+        "1Sg",
+        "2Pl",
+        "see"
+      ],
+      "translation": "Are you eating?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Are you eating?",
+      "audio_file": null,
+      "notes": "* hnq is pronounced on a rising-falling tone, which is marked as han7. Aithown Che said of this: 'Generally when there is a question, this type of tone is found. Sometimes lower tone and upper tone. When we call mother (mj5) we call mj2. Generally when we call the tune is up (i.e. the 2nd tone.)'"
+    }
+  ],
+  "full_translation": "At one time there were three friends. One was a crow, one a dolphin and the other a mosquito At that time it was cold, They couldn\"t get anything to eat. (One said) \"Let us go to trade\", Yes, let us go and collect (some foods) and store them. When the summer comes, we will go trading. Now we should gather things and store them. What will we collect? The dolphin said, \"Yes, I have a boat (We can) ride this boat downstream and go trading. He asked the crow, \"Crow! What (will you get?) (The crow said:) \"Oh, yes, I will get jaggery. Mosquito, what will you gather, what will you trade? Oh, I will gather salt. From that time, they gathered food and stored it up. The summer came. Let us see if today is an auspicious day for us to go and trade, So, they went trading. At that time, they did not ride in their vehicles, and because of this they went to trade by boat. The dolphin went to get his boat. The crow went to get his pot of molasses. The mosquito went to get his (bamboo) pipe of salt. So they went to trade, travelling (by boat), like that. A big cyclone was coming. A cyclone (was coming). The boat capsized The boat capsized After that, the pot of molasses fell in the water, At this time, the pipe of salt, The mosquito (said): 'The salt has fallen in the water (and is lost) This boat has flowed downwards. The dolphin remained in the water, not knowing how to fly. Both the mosquito and the crow knew how to fly. (so) they flew, searched everywhere for (all) their things There was nothing. Time passed, and from that time we have always gone trading in summer. As a result of this, when the summer time comes, the mosquitos come to ask the people Are you eating?",
+  "book_id": "book_dolphin_crow_mosquito",
+  "title": "The Fable of the Dolphin, the Crow, and the Mosquito",
+  "title_tai": "Pung1 Paa1 Laa1 Maan1 Nok4 Kaa1 Kap4 Yung1",
+  "title_as": ""
+}

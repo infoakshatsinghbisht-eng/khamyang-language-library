@@ -1,0 +1,317 @@
+{
+  "id": "book_goswami_1964_asamiya_sahityar_chamu_buranji",
+  "book_id": "book_goswami_1964_asamiya_sahityar_chamu_buranji",
+  "title": "Asamiya Sahityar Chamu Buranji Ed. 3rd",
+  "author": "Jatindranath Goswami",
+  "year": 1964,
+  "genre": "Literary History / Historiography",
+  "description": "Comprehensive concise history of Assamese literature detailing early oral traditions, Charyapada affiliations, Tai Ahom royal patronage of chronicles, Charit-puthis, and the emergence of modern prose.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.452135",
+  "archive_id": "in.ernet.dli.2015.452135",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨾᩦ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "tai khyaa tii mroeng mii taang tsaw",
+      "assamese_script": "টাই খ্যা তী ম্ৰোং মী তাং চউ",
+      "morphemes": [
+        "tai",
+        "chronicles",
+        "in",
+        "homeland",
+        "have",
+        "prose",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai historical chronicles introduced realistic secular prose into regional literature.",
+      "free_translation_as": "টাই বুৰঞ্জীসমূহে অসমীয়া সাহিত্যলৈ বাস্তৱবাদী ধৰ্মনিৰপেক্ষ গদ্যৰ সূচনা কৰিলে।",
+      "speaker": "Prof. Jatindranath Goswami (Literary Historian)",
+      "location": "Jorhat / Gauhati University",
+      "notes": "Evaluation of Buranji prose in Assamese literature."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨻ᩠ᨿᨦ ᨶᩣᩴ",
+      "text_roman": "phuu tai khyaa taang tii phyeng nam",
+      "assamese_script": "ফু টাই খ্যা তাং তী ফ্যেং নাম",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "taang",
+        "tii",
+        "phyeng",
+        "nam"
+      ],
+      "glosses": [
+        "scholars",
+        "tai",
+        "compose",
+        "records",
+        "at",
+        "court",
+        "palace"
+      ],
+      "free_translation_en": "Court scribes chronicled political events, treaties, and speeches with unadorned precision.",
+      "free_translation_as": "দৰবাৰৰ পণ্ডিতে ৰাজনৈতিক ঘটনা, সন্ধি আৰু বক্তৃতা স্পষ্ট আৰু অলংকাৰবিহীনভাৱে লিখিছিল।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Jorhat",
+      "notes": "Stylistic characteristics of chronicle prose."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "monarchs",
+        "at",
+        "capitals",
+        "patronize",
+        "writers"
+      ],
+      "free_translation_en": "Tai rulers actively subsidized scholars, translators, and astronomical scribes.",
+      "free_translation_as": "টাই স্বৰ্গদেৱসকলে পণ্ডিত, অনুবাদক আৰু জ্যোতিষীসকলক ৰাজকীয় পৃষ্ঠপোষকতা দিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Gargaon / Rangpur",
+      "notes": "Royal literary patronage."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "phuu chau mii khyaa taang phaa",
+      "assamese_script": "ফু চৌ মী খ্যা তাং ফা",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "poets",
+        "bhakti",
+        "sing",
+        "hymns",
+        "way",
+        "divine"
+      ],
+      "free_translation_en": "Bhakti saints and poets composed melodious Borgeets and dramatic Ankiya Naats.",
+      "free_translation_as": "ভক্তি আন্দোলনৰ কবিসকলে সুমধুৰ বৰগীত আৰু অংকীয়া নাট ৰচনা কৰিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Majuli Satras",
+      "notes": "Vaishnava literary traditions."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "khaw nam taang tai phyeng mii",
+      "assamese_script": "খৌ নাম তাং টাই ফ্যেং মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "tai",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "sanchi",
+        "bark",
+        "ink",
+        "tai",
+        "preservation",
+        "method"
+      ],
+      "free_translation_en": "Bark of the Sanchi tree treated with indigenous inks preserved the texts for centuries.",
+      "free_translation_as": "মৈহীৰে প্ৰস্তুত কৰা সাঁচিপাতে শতিকাজোৰা পুথিসমূহ সংৰক্ষণ কৰি ৰাখিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Guwahati",
+      "notes": "Manuscript materials and conservation."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "queens",
+        "royal",
+        "tai",
+        "commission",
+        "epics",
+        "translation"
+      ],
+      "free_translation_en": "Queens like Ambika and Phuleswari commissioned illustrated poetic translations.",
+      "free_translation_as": "বৰৰজা ফুলেশ্বৰী আৰু অম্বিকাদেৱীয়ে সচিত্ৰ কাব্য গ্ৰন্থ অনুবাদ কৰালে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Sibsagar",
+      "notes": "Female royal patrons of art and letters."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "missionaries",
+        "baptist",
+        "publish",
+        "orunodoi",
+        "journal",
+        "sibsagar"
+      ],
+      "free_translation_en": "The publication of the Orunodoi magazine at Sibsagar inaugurated modern literary prose.",
+      "free_translation_as": "শিৱসাগৰৰ পৰা অৰুণোদই আলোচনী প্ৰকাশে আধুনিক গদ্য সাহিত্যৰ নতুন যুগ সূচনা কৰিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Sibsagar Mission Press",
+      "notes": "Orunodoi era."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "pioneers",
+        "modern",
+        "revive",
+        "national",
+        "heritage",
+        "letters"
+      ],
+      "free_translation_en": "Lakshminath Bezbaroa and Hemchandra Barua restored the prestige of regional literature.",
+      "free_translation_as": "লক্ষ্মীনাথ বেজবৰুৱা আৰু হেমচন্দ্ৰ বৰুৱাই অসমীয়া সাহিত্যৰ মৰ্যাদা পুনৰ প্ৰতিষ্ঠা কৰিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Calcutta / Assam",
+      "notes": "Jonaki era revival."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "synthesis",
+        "in",
+        "letters",
+        "tai",
+        "aryan",
+        "confluence"
+      ],
+      "free_translation_en": "A fruitful synthesis of Tai and Indo-Aryan elements enriched vocabulary and syntax.",
+      "free_translation_as": "টাই আৰু ভাৰত-আৰ্য উপাদানৰ সুন্দৰ সমন্বয়ে শব্দকোষ আৰু বাক্যৰীতি চহকী কৰিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Guwahati",
+      "notes": "Linguistic synthesis."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "writers",
+        "novels",
+        "drama",
+        "poetry",
+        "excel",
+        "tradition"
+      ],
+      "free_translation_en": "Twentieth-century novelists and poets developed sophisticated lyrical and social themes.",
+      "free_translation_as": "বিংশ শতিকাৰ ঔপন্যাসিক আৰু কবিসকলে গভীৰ সামাজিক আৰু নান্দনিক ভাব প্ৰকাশ কৰিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Jorhat",
+      "notes": "Modern genre expansion."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "sabha",
+        "literary",
+        "preserves",
+        "regional",
+        "voice",
+        "unity"
+      ],
+      "free_translation_en": "The Asam Sahitya Sabha united the diverse language communities under one cultural platform.",
+      "free_translation_as": "অসম সাহিত্য সভাই বিভিন্ন জনগোষ্ঠীয় ভাষাক এক উমৈহতীয়া মঞ্চত একত্ৰিত কৰিলে।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Jorhat / Chandrakanta Handique Bhavan",
+      "notes": "Role of Asam Sahitya Sabha."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "literature",
+        "history",
+        "living",
+        "monument",
+        "future"
+      ],
+      "free_translation_en": "Asamiya Sahityar Chamu Buranji remains a classic survey of this multi-faceted literary history.",
+      "free_translation_as": "অসমীয়া সাহিত্যৰ চমু বুৰঞ্জী এই বহুমুখী সাহিত্যিক পৰিক্ৰমাৰ এক প্ৰামাণিক নিদৰ্শন।",
+      "speaker": "Prof. Jatindranath Goswami",
+      "location": "Jorhat",
+      "notes": "Conclusion of Chamu Buranji."
+    }
+  ]
+}

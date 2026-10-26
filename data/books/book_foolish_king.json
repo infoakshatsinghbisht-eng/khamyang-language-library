@@ -1,0 +1,1433 @@
+{
+  "id": "book_foolish_king",
+  "title_khamyang": "Pung1 Tsaw3 Phaa4 Mu2 Kap4 Amat1 Panyaa1",
+  "title_english": "The Fable of the Foolish King and the Wise Minister",
+  "genre": "folktale",
+  "informant": "Ee Nyan Khet",
+  "village": "Namphakey Village",
+  "audio_ref": "1-1-3-7.mp3",
+  "description": "Traditional Tai political and moral fable illustrating the folly of arrogant rulers and the quiet discernment of wise counselors.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 50,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "mz5 nan4 tii5 mzng2 an2 nvng5 yj4",
+      "lik_tai": "မႉ ၼၼ်း တႉ မင်ႇ ဢၼ်ႇ ၼင်ႉ ယး",
+      "assamese_script": "ম⁵ নান⁴ ত⁵ মঙ² অন² নঙ⁵ য⁴",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [tii˧˩] [mzŋ˥˦] [an˥˦] [nvŋ˧˩] [jj˥˦ʔ]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "tii5",
+        "mzng2",
+        "an2",
+        "nvng5",
+        "yj4"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "place",
+        "country",
+        "CLF",
+        "one",
+        "PRT"
+      ],
+      "translation": "At that time, in a certain country, there was a king.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time, in a certain country, there was a king.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "khun6 nan4 tvm2 nj4",
+      "lik_tai": "ၶုၼ်ႊ ၼၼ်း တမ်ႇ ၼး",
+      "assamese_script": "খুন⁶ নান⁴ তম² ন⁴",
+      "ipa": "[kʰun˧˥] [nan˥˦ʔ] [tvm˥˦] [nj˥˦ʔ]",
+      "morphemes": [
+        "khun6",
+        "nan4",
+        "tvm2",
+        "nj4"
+      ],
+      "glosses": [
+        "king",
+        "that",
+        "foolish",
+        "PRT"
+      ],
+      "translation": "That king was stupid.",
+      "translation_assamese": "অসমীয়া অৰ্থ: That king was stupid.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "kuu5 wan2 kuu5 wan2 kz4 khun6 nj4",
+      "lik_tai": "ၵႉ ဝၼ်ႇ ၵႉ ဝၼ်ႇ ၵး ၶုၼ်ႊ ၼး",
+      "assamese_script": "ক⁵ ৱান² ক⁵ ৱান² ক⁴ খুন⁶ ন⁴",
+      "ipa": "[kuu˧˩] [wan˥˦] [kuu˧˩] [wan˥˦] [kz˥˦ʔ] [kʰun˧˥] [nj˥˦ʔ]",
+      "morphemes": [
+        "kuu5",
+        "wan2",
+        "kuu5",
+        "wan2",
+        "kz4",
+        "khun6",
+        "nj4"
+      ],
+      "glosses": [
+        "every",
+        "day",
+        "every",
+        "day",
+        "LINK",
+        "king",
+        "PRT"
+      ],
+      "translation": "Every day the king wanted to eat the meat of dove.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Every day the king wanted to eat the meat of dove.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "haa1 nai3 a1 mvn2 nai4",
+      "lik_tai": "ႁႃ ၼႆႈ ဢႃ မၼ်ႇ ၼႆး",
+      "assamese_script": "হা¹ নাই³ অ¹ মন² নাই⁴",
+      "ipa": "[haː˧˧] [nai˨˩̰] [a˧˧] [mvn˥˦] [nai˥˦ʔ]",
+      "morphemes": [
+        "haa1",
+        "nai3",
+        "a1",
+        "mvn2",
+        "nai4"
+      ],
+      "glosses": [
+        "time",
+        "this",
+        "minister",
+        "3Sg",
+        "this"
+      ],
+      "translation": "I know",
+      "translation_assamese": "অসমীয়া অৰ্থ: I know",
+      "audio_file": null,
+      "notes": "(5.1) and (5.2) are an interruption to the text while Ee Nyan Khet asks Stephen Morey if he knows the meaning of the word a1 mAt1"
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "a1 mvn2 nj4 kuu5 wan2 kuu5 wan2 kz4",
+      "lik_tai": "ဢႃ မၼ်ႇ ၼး ၵႉ ဝၼ်ႇ ၵႉ ဝၼ်ႇ ၵး",
+      "assamese_script": "অ¹ মন² ন⁴ ক⁵ ৱান² ক⁵ ৱান² ক⁴",
+      "ipa": "[a˧˧] [mvn˥˦] [nj˥˦ʔ] [kuu˧˩] [wan˥˦] [kuu˧˩] [wan˥˦] [kz˥˦ʔ]",
+      "morphemes": [
+        "a1",
+        "mvn2",
+        "nj4",
+        "kuu5",
+        "wan2",
+        "kuu5",
+        "wan2",
+        "kz4"
+      ],
+      "glosses": [
+        "minister",
+        "3Sg",
+        "DEF",
+        "every",
+        "day",
+        "every",
+        "day",
+        "LINK"
+      ],
+      "translation": "Every day he (the minister) gave him the meat of doves to eat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Every day he (the minister) gave him the meat of doves to eat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "kuu5 wan2 kuu5 wan2",
+      "lik_tai": "ၵႉ ဝၼ်ႇ ၵႉ ဝၼ်ႇ",
+      "assamese_script": "ক⁵ ৱান² ক⁵ ৱান²",
+      "ipa": "[kuu˧˩] [wan˥˦] [kuu˧˩] [wan˥˦]",
+      "morphemes": [
+        "kuu5",
+        "wan2",
+        "kuu5",
+        "wan2"
+      ],
+      "glosses": [
+        "every",
+        "day",
+        "every",
+        "day"
+      ],
+      "translation": "Every day he gave him the dove meat of doves to eat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Every day he gave him the dove meat of doves to eat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "nvng5 wan2 nvng5 yj4 nz4 nuk4 ma1 yang6",
+      "lik_tai": "ၼင်ႉ ဝၼ်ႇ ၼင်ႉ ယး ၼး ၼုၵ်း မႃ ယင်ႊ",
+      "assamese_script": "নঙ⁵ ৱান² নঙ⁵ য⁴ ন⁴ নুক্‌⁴ মা¹ যাঙ⁶",
+      "ipa": "[nvŋ˧˩] [wan˥˦] [nvŋ˧˩] [jj˥˦ʔ] [nz˥˦ʔ] [nuk˥˦ʔ] [ma˧˧] [jaŋ˧˥]",
+      "morphemes": [
+        "nvng5",
+        "wan2",
+        "nvng5",
+        "yj4",
+        "nz4",
+        "nuk4",
+        "ma1",
+        "yang6"
+      ],
+      "glosses": [
+        "one",
+        "day",
+        "one",
+        "PRT",
+        "flesh",
+        "dove",
+        "NEG",
+        "have.NEG"
+      ],
+      "translation": "One day, there was no dove meat",
+      "translation_assamese": "অসমীয়া অৰ্থ: One day, there was no dove meat",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "nz4 nuk4 mot1 kaa1 wzt4",
+      "lik_tai": "ၼး ၼုၵ်း မူတ် ၵႃ ဝတ်း",
+      "assamese_script": "ন⁴ নুক্‌⁴ মোত্‌¹ কা¹ ৱত্‌⁴",
+      "ipa": "[nz˥˦ʔ] [nuk˥˦ʔ] [mot˧˧] [kaː˧˧] [wzt˥˦ʔ]",
+      "morphemes": [
+        "nz4",
+        "nuk4",
+        "mot1",
+        "kaa1",
+        "wzt4"
+      ],
+      "glosses": [
+        "flesh",
+        "dove",
+        "finished",
+        "GO",
+        "PRT"
+      ],
+      "translation": "The dove meat was all finished.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The dove meat was all finished.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "nuk4 mot1 kaa1 yj4 nj4",
+      "lik_tai": "ၼုၵ်း မူတ် ၵႃ ယး ၼး",
+      "assamese_script": "নুক্‌⁴ মোত্‌¹ কা¹ য⁴ ন⁴",
+      "ipa": "[nuk˥˦ʔ] [mot˧˧] [kaː˧˧] [jj˥˦ʔ] [nj˥˦ʔ]",
+      "morphemes": [
+        "nuk4",
+        "mot1",
+        "kaa1",
+        "yj4",
+        "nj4"
+      ],
+      "glosses": [
+        "dove",
+        "finished",
+        "GO",
+        "PRT",
+        "DEF"
+      ],
+      "translation": "The doves were all gone.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The doves were all gone.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "a1 mvn2 kaa1 khaa6 nuk4 yj4",
+      "lik_tai": "ဢႃ မၼ်ႇ ၵႃ ၶႃႊ ၼုၵ်း ယး",
+      "assamese_script": "অ¹ মন² কা¹ খা⁶ নুক্‌⁴ য⁴",
+      "ipa": "[a˧˧] [mvn˥˦] [kaː˧˧] [kʰaː˧˥] [nuk˥˦ʔ] [jj˥˦ʔ]",
+      "morphemes": [
+        "a1",
+        "mvn2",
+        "kaa1",
+        "khaa6",
+        "nuk4",
+        "yj4"
+      ],
+      "glosses": [
+        "minister",
+        "3Sg",
+        "GO",
+        "search",
+        "dove",
+        "PRT"
+      ],
+      "translation": "Then his minister went searching for dove meat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then his minister went searching for dove meat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "kaa1 kaa1 hav3 yj4 phaa4 yj4",
+      "lik_tai": "ၵႃ ၵႃ ႁႈ ယး ၽႃး ယး",
+      "assamese_script": "কা¹ কা¹ হ³ য⁴ ফা⁴ য⁴",
+      "ipa": "[kaː˧˧] [kaː˧˧] [hav˨˩̰] [jj˥˦ʔ] [pʰaː˥˦ʔ] [jj˥˦ʔ]",
+      "morphemes": [
+        "kaa1",
+        "kaa1",
+        "hav3",
+        "yj4",
+        "phaa4",
+        "yj4"
+      ],
+      "glosses": [
+        "go",
+        "go",
+        "GIVE",
+        "PRT",
+        "evening",
+        "PRT"
+      ],
+      "translation": "He kept going until the evening.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He kept going until the evening.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "kaa1 thvng6 tii5 maan3 an2 nvng5 yj4",
+      "lik_tai": "ၵႃ ထင်ႊ တႉ မႃၼ်ႈ ဢၼ်ႇ ၼင်ႉ ယး",
+      "assamese_script": "কা¹ থঙ⁶ ত⁵ মান³ অন² নঙ⁵ য⁴",
+      "ipa": "[kaː˧˧] [tʰvŋ˧˥] [tii˧˩] [maːn˨˩̰] [an˥˦] [nvŋ˧˩] [jj˥˦ʔ]",
+      "morphemes": [
+        "kaa1",
+        "thvng6",
+        "tii5",
+        "maan3",
+        "an2",
+        "nvng5",
+        "yj4"
+      ],
+      "glosses": [
+        "go",
+        "reach",
+        "place",
+        "village",
+        "CLF",
+        "one",
+        "PRT"
+      ],
+      "translation": "He reached a village.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He reached a village.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "hzn2 sa1 k4 nvng5 yj4",
+      "lik_tai": "ႁၼ်ႇ ꩢႃ ၵး ၼင်ႉ ယး",
+      "assamese_script": "হন² সা¹ ক⁴ নঙ⁵ য⁴",
+      "ipa": "[hzn˥˦] [sa˧˧] [k˥˦ʔ] [nvŋ˧˩] [jj˥˦ʔ]",
+      "morphemes": [
+        "hzn2",
+        "sa1",
+        "k4",
+        "nvng5",
+        "yj4"
+      ],
+      "glosses": [
+        "house",
+        "rich man",
+        "CLF",
+        "one",
+        "PRT"
+      ],
+      "translation": "(In the village) there was a house of one rich man.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (In the village) there was a house of one rich man.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "nj4 luk4 saau6 mvn2 yang2 k4 nvng5 wzt4",
+      "lik_tai": "ၼး လုၵ်း ꩢႃဝ်ႊ မၼ်ႇ ယင်ႇ ၵး ၼင်ႉ ဝတ်း",
+      "assamese_script": "ন⁴ লুক্‌⁴ সাও⁶ মন² যাঙ² ক⁴ নঙ⁵ ৱত্‌⁴",
+      "ipa": "[nj˥˦ʔ] [luk˥˦ʔ] [saːu˧˥] [mvn˥˦] [jaŋ˥˦] [k˥˦ʔ] [nvŋ˧˩] [wzt˥˦ʔ]",
+      "morphemes": [
+        "nj4",
+        "luk4",
+        "saau6",
+        "mvn2",
+        "yang2",
+        "k4",
+        "nvng5",
+        "wzt4"
+      ],
+      "glosses": [
+        "DEF",
+        "child",
+        "female",
+        "3Sg",
+        "have",
+        "CLF",
+        "one",
+        "PRT"
+      ],
+      "translation": "He had one daughter.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He had one daughter.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "tsə5 mvn2 waa5 naang2 mk1 wzt4",
+      "lik_tai": "ၸိုဝ်ႉ မၼ်ႇ ဝႃႉ ၼႃင်ႇ မၵ် ဝတ်း",
+      "assamese_script": "চো⁵ মন² ৱা⁵ নাঙ² মক্‌¹ ৱত্‌⁴",
+      "ipa": "[tɕə˧˩] [mvn˥˦] [waː˧˩] [naːŋ˥˦] [mk˧˧] [wzt˥˦ʔ]",
+      "morphemes": [
+        "tsə5",
+        "mvn2",
+        "waa5",
+        "naang2",
+        "mk1",
+        "wzt4"
+      ],
+      "glosses": [
+        "name",
+        "3Sg",
+        "say",
+        "lady",
+        "lotus",
+        "PRT"
+      ],
+      "translation": "Her name was Miss Lotus.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Her name was Miss Lotus.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "kaa1 khvn3 hav6 tii5 hzn2 nan4 yj4",
+      "lik_tai": "ၵႃ ၶၼ်ႈ ႁႊ တႉ ႁၼ်ႇ ၼၼ်း ယး",
+      "assamese_script": "কা¹ খন³ হ⁶ ত⁵ হন² নান⁴ য⁴",
+      "ipa": "[kaː˧˧] [kʰvn˨˩̰] [hav˧˥] [tii˧˩] [hzn˥˦] [nan˥˦ʔ] [jj˥˦ʔ]",
+      "morphemes": [
+        "kaa1",
+        "khvn3",
+        "hav6",
+        "tii5",
+        "hzn2",
+        "nan4",
+        "yj4"
+      ],
+      "glosses": [
+        "go",
+        "up",
+        "GIVE",
+        "place",
+        "house",
+        "that",
+        "PRT"
+      ],
+      "translation": "He (the Minister) went up into the house (searching for meat).",
+      "translation_assamese": "অসমীয়া অৰ্থ: He (the Minister) went up into the house (searching for meat).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "pa1 nj3 sp1 waa5 sp1 wzt4",
+      "lik_tai": "ပႃ ၼႈ ꩢပ် ဝႃႉ ꩢပ် ဝတ်း",
+      "assamese_script": "পা¹ ন³ সপ্‌¹ ৱা⁵ সপ্‌¹ ৱত্‌⁴",
+      "ipa": "[pa˧˧] [nj˨˩̰] [sp˧˧] [waː˧˩] [sp˧˧] [wzt˥˦ʔ]",
+      "morphemes": [
+        "pa1",
+        "nj3",
+        "sp1",
+        "waa5",
+        "sp1",
+        "wzt4"
+      ],
+      "glosses": [
+        "girl",
+        "DEF",
+        "beautiful",
+        "say",
+        "beautiful",
+        "PRT"
+      ],
+      "translation": "That girl was very beautiful.",
+      "translation_assamese": "অসমীয়া অৰ্থ: That girl was very beautiful.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "pa1 nj4 sp1 phju6",
+      "lik_tai": "ပႃ ၼး ꩢပ် ၽႊ",
+      "assamese_script": "পা¹ ন⁴ সপ্‌¹ ফ⁶",
+      "ipa": "[pa˧˧] [nj˥˦ʔ] [sp˧˧] [pʰju˧˥]",
+      "morphemes": [
+        "pa1",
+        "nj4",
+        "sp1",
+        "phju6"
+      ],
+      "glosses": [
+        "girl",
+        "DEF",
+        "beautiful",
+        "excessive"
+      ],
+      "translation": "That girl was so beautiful.",
+      "translation_assamese": "অসমীয়া অৰ্থ: That girl was so beautiful.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "a1 nj4 han6 hang2 pa1 nj4",
+      "lik_tai": "ဢႃ ၼး ႁၼ်ႊ ႁင်ႇ ပႃ ၼး",
+      "assamese_script": "অ¹ ন⁴ হান⁶ হাঙ² পা¹ ন⁴",
+      "ipa": "[a˧˧] [nj˥˦ʔ] [han˧˥] [haŋ˥˦] [pa˧˧] [nj˥˦ʔ]",
+      "morphemes": [
+        "a1",
+        "nj4",
+        "han6",
+        "hang2",
+        "pa1",
+        "nj4"
+      ],
+      "glosses": [
+        "minister",
+        "PRT",
+        "see",
+        "to",
+        "girl",
+        "DEF"
+      ],
+      "translation": "When the minister saw that girl, he became unconscious.",
+      "translation_assamese": "অসমীয়া অৰ্থ: When the minister saw that girl, he became unconscious.",
+      "audio_file": null,
+      "notes": "Ee Nyan Khet stated that this sentence could be paraphrased as: pinqsgqekamahU / kasgqekamahU- 'don't know anything'"
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "lop1 yj4 pa1 nj4 au2 nam3 se6",
+      "lik_tai": "လူပ် ယး ပႃ ၼး ဢဝ်ႇ ၼမ်ႈ ေꩢႊ",
+      "assamese_script": "লোপ্‌¹ য⁴ পা¹ ন⁴ ঔ² নাম³ সে⁶",
+      "ipa": "[lop˧˧] [jj˥˦ʔ] [pa˧˧] [nj˥˦ʔ] [au˥˦] [nam˨˩̰] [se˧˥]",
+      "morphemes": [
+        "lop1",
+        "yj4",
+        "pa1",
+        "nj4",
+        "au2",
+        "nam3",
+        "se6"
+      ],
+      "glosses": [
+        "after",
+        "PRT",
+        "girl",
+        "DEF",
+        "take",
+        "water",
+        "PRT"
+      ],
+      "translation": "Then the girl brought some water and sprinkled it on him.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the girl brought some water and sprinkled it on him.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "nj4 a1 nj4 tsvn5 hav3 maa2 yj4",
+      "lik_tai": "ၼး ဢႃ ၼး ၸၼ်ႉ ႁႈ မႃႇ ယး",
+      "assamese_script": "ন⁴ অ¹ ন⁴ চন⁵ হ³ মা² য⁴",
+      "ipa": "[nj˥˦ʔ] [a˧˧] [nj˥˦ʔ] [tɕvn˧˩] [hav˨˩̰] [maː˥˦] [jj˥˦ʔ]",
+      "morphemes": [
+        "nj4",
+        "a1",
+        "nj4",
+        "tsvn5",
+        "hav3",
+        "maa2",
+        "yj4"
+      ],
+      "glosses": [
+        "DEF",
+        "minister",
+        "DEF",
+        "clear",
+        "GIVE",
+        "COME",
+        "PRT"
+      ],
+      "translation": "The minister came back to consciousness.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The minister came back to consciousness.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "pa1 nj1 thaam6 wzt4 naang2 mk1 nj4 waa5 wzt4",
+      "lik_tai": "ပႃ ၼ ထႃမ်ႊ ဝတ်း ၼႃင်ႇ မၵ် ၼး ဝႃႉ ဝတ်း",
+      "assamese_script": "পা¹ ন¹ থাম⁶ ৱত্‌⁴ নাঙ² মক্‌¹ ন⁴ ৱা⁵ ৱত্‌⁴",
+      "ipa": "[pa˧˧] [nj˧˧] [tʰaːm˧˥] [wzt˥˦ʔ] [naːŋ˥˦] [mk˧˧] [nj˥˦ʔ] [waː˧˩] [wzt˥˦ʔ]",
+      "morphemes": [
+        "pa1",
+        "nj1",
+        "thaam6",
+        "wzt4",
+        "naang2",
+        "mk1",
+        "nj4",
+        "waa5",
+        "wzt4"
+      ],
+      "glosses": [
+        "girl",
+        "DEF",
+        "ask",
+        "PRT",
+        "lady",
+        "lotus",
+        "DEF",
+        "say",
+        "PRT"
+      ],
+      "translation": "That lady (I mean Miss Lotus) asked him:",
+      "translation_assamese": "অসমীয়া অৰ্থ: That lady (I mean Miss Lotus) asked him:",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "ka3 pii5 tsaai2 mav2 maa2 maa2 aa1 sang6",
+      "lik_tai": "ၵႃႈ ပႉ ၸႃႆႇ မႇ မႃႇ မႃႇ ဢႃ ꩢင်ႊ",
+      "assamese_script": "কা³ প⁵ চাই² ম² মা² মা² আ¹ সাঙ⁶",
+      "ipa": "[ka˨˩̰] [pii˧˩] [tɕaːi˥˦] [mav˥˦] [maː˥˦] [maː˥˦] [aː˧˧] [saŋ˧˥]",
+      "morphemes": [
+        "ka3",
+        "pii5",
+        "tsaai2",
+        "mav2",
+        "maa2",
+        "maa2",
+        "aa1",
+        "sang6"
+      ],
+      "glosses": [
+        "what",
+        "elder",
+        "male",
+        "2Sg",
+        "come",
+        "COME",
+        "reason",
+        "what"
+      ],
+      "translation": "Elder brother, why have you come here?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Elder brother, why have you come here?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "mav2 maa2 tii5 hzn2 hau2 waa5 nvng1 nai4 wzt4",
+      "lik_tai": "မႇ မႃႇ တႉ ႁၼ်ႇ ႁဝ်ႇ ဝႃႉ ၼင် ၼႆး ဝတ်း",
+      "assamese_script": "ম² মা² ত⁵ হন² হাও² ৱা⁵ নঙ¹ নাই⁴ ৱত্‌⁴",
+      "ipa": "[mav˥˦] [maː˥˦] [tii˧˩] [hzn˥˦] [hau˥˦] [waː˧˩] [nvŋ˧˧] [nai˥˦ʔ] [wzt˥˦ʔ]",
+      "morphemes": [
+        "mav2",
+        "maa2",
+        "tii5",
+        "hzn2",
+        "hau2",
+        "waa5",
+        "nvng1",
+        "nai4",
+        "wzt4"
+      ],
+      "glosses": [
+        "2Sg",
+        "come",
+        "place",
+        "house",
+        "1Pl",
+        "say",
+        "like",
+        "this",
+        "PRT"
+      ],
+      "translation": "Why have you come to our house?\" She spoke like this.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Why have you come to our house?\" She spoke like this.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "mz5 nan4 a1 nj4 waa5",
+      "lik_tai": "မႉ ၼၼ်း ဢႃ ၼး ဝႃႉ",
+      "assamese_script": "ম⁵ নান⁴ অ¹ ন⁴ ৱা⁵",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [a˧˧] [nj˥˦ʔ] [waː˧˩]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "a1",
+        "nj4",
+        "waa5"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "minister",
+        "DEF",
+        "say"
+      ],
+      "translation": "Then the minister said.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the minister said.",
+      "audio_file": null,
+      "notes": "I first wrote nj, but Ee Nyan Khet insisted on en, saying: Aamtqentapinq - It should be a1 mAt1 nj4."
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "1 khun6 hau2 nj4 kuu5 wan2 kuu5 wan2 kz4",
+      "lik_tai": "1 ၶုၼ်ႊ ႁဝ်ႇ ၼး ၵႉ ဝၼ်ႇ ၵႉ ဝၼ်ႇ ၵး",
+      "assamese_script": "1 খুন⁶ হাও² ন⁴ ক⁵ ৱান² ক⁵ ৱান² ক⁴",
+      "ipa": "[˧˧] [kʰun˧˥] [hau˥˦] [nj˥˦ʔ] [kuu˧˩] [wan˥˦] [kuu˧˩] [wan˥˦] [kz˥˦ʔ]",
+      "morphemes": [
+        "1",
+        "khun6",
+        "hau2",
+        "nj4",
+        "kuu5",
+        "wan2",
+        "kuu5",
+        "wan2",
+        "kz4"
+      ],
+      "glosses": [
+        "EXCL",
+        "king",
+        "1Pl",
+        "DEF",
+        "every",
+        "day",
+        "every",
+        "day",
+        "LINK"
+      ],
+      "translation": "Every day (I) have to give the king dove meat to eat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Every day (I) have to give the king dove meat to eat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "kuu5 wan2 kuu5 wan2 kz4 kau2 hav3 kin2 nz4 nuk4",
+      "lik_tai": "ၵႉ ဝၼ်ႇ ၵႉ ဝၼ်ႇ ၵး ၵဝ်ႇ ႁႈ ၵိၼ်ႇ ၼး ၼုၵ်း",
+      "assamese_script": "ক⁵ ৱান² ক⁵ ৱান² ক⁴ কাও² হ³ কিন² ন⁴ নুক্‌⁴",
+      "ipa": "[kuu˧˩] [wan˥˦] [kuu˧˩] [wan˥˦] [kz˥˦ʔ] [kau˥˦] [hav˨˩̰] [kin˥˦] [nz˥˦ʔ] [nuk˥˦ʔ]",
+      "morphemes": [
+        "kuu5",
+        "wan2",
+        "kuu5",
+        "wan2",
+        "kz4",
+        "kau2",
+        "hav3",
+        "kin2",
+        "nz4",
+        "nuk4"
+      ],
+      "glosses": [
+        "every",
+        "day",
+        "every",
+        "day",
+        "LINK",
+        "1Sg",
+        "give",
+        "eat",
+        "flesh",
+        "dove"
+      ],
+      "translation": "Every day I have to get dove meat for him to eat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Every day I have to get dove meat for him to eat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "nz4 nuk4 nj4 mot1 se6 kau2 maa2 khaa6 nuk4 nvm1",
+      "lik_tai": "ၼး ၼုၵ်း ၼး မူတ် ေꩢႊ ၵဝ်ႇ မႃႇ ၶႃႊ ၼုၵ်း ၼမ်",
+      "assamese_script": "ন⁴ নুক্‌⁴ ন⁴ মোত্‌¹ সে⁶ কাও² মা² খা⁶ নুক্‌⁴ নম¹",
+      "ipa": "[nz˥˦ʔ] [nuk˥˦ʔ] [nj˥˦ʔ] [mot˧˧] [se˧˥] [kau˥˦] [maː˥˦] [kʰaː˧˥] [nuk˥˦ʔ] [nvm˧˧]",
+      "morphemes": [
+        "nz4",
+        "nuk4",
+        "nj4",
+        "mot1",
+        "se6",
+        "kau2",
+        "maa2",
+        "khaa6",
+        "nuk4",
+        "nvm1"
+      ],
+      "glosses": [
+        "meat",
+        "dove",
+        "DEF",
+        "finished",
+        "PRT",
+        "1Sg",
+        "come",
+        "search",
+        "dove",
+        "PRT"
+      ],
+      "translation": "The dove meat is finished, so I have come to search for some.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The dove meat is finished, so I have come to search for some.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "kau2 maa2 maa2 yj4 phaa4 se6 yj4 kau2 maa2 khvn3",
+      "lik_tai": "ၵဝ်ႇ မႃႇ မႃႇ ယး ၽႃး ေꩢႊ ယး ၵဝ်ႇ မႃႇ ၶၼ်ႈ",
+      "assamese_script": "কাও² মা² মা² য⁴ ফা⁴ সে⁶ য⁴ কাও² মা² খন³",
+      "ipa": "[kau˥˦] [maː˥˦] [maː˥˦] [jj˥˦ʔ] [pʰaː˥˦ʔ] [se˧˥] [jj˥˦ʔ] [kau˥˦] [maː˥˦] [kʰvn˨˩̰]",
+      "morphemes": [
+        "kau2",
+        "maa2",
+        "maa2",
+        "yj4",
+        "phaa4",
+        "se6",
+        "yj4",
+        "kau2",
+        "maa2",
+        "khvn3"
+      ],
+      "glosses": [
+        "1Sg",
+        "come",
+        "COME",
+        "PRT",
+        "evening",
+        "PRT",
+        "PRT",
+        "1Sg",
+        "come",
+        "go up"
+      ],
+      "translation": "I came in the evening and then came up into your house.\" He spoke like this.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I came in the evening and then came up into your house.\" He spoke like this.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "mz5 nan3 naang2 nj4 waa5 naang2 mk1 nj4",
+      "lik_tai": "မႉ ၼၼ်ႈ ၼႃင်ႇ ၼး ဝႃႉ ၼႃင်ႇ မၵ် ၼး",
+      "assamese_script": "ম⁵ নান³ নাঙ² ন⁴ ৱা⁵ নাঙ² মক্‌¹ ন⁴",
+      "ipa": "[mz˧˩] [nan˨˩̰] [naːŋ˥˦] [nj˥˦ʔ] [waː˧˩] [naːŋ˥˦] [mk˧˧] [nj˥˦ʔ]",
+      "morphemes": [
+        "mz5",
+        "nan3",
+        "naang2",
+        "nj4",
+        "waa5",
+        "naang2",
+        "mk1",
+        "nj4"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "lady",
+        "PRT",
+        "say",
+        "lady",
+        "lotus",
+        "PRT"
+      ],
+      "translation": "Then the lady spoke, Miss Lotus spoke,",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the lady spoke, Miss Lotus spoke,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "1 nii2 yaa1 kau2 ta1 hav3",
+      "lik_tai": "1 ၼႇ ယႃ ၵဝ်ႇ တႃ ႁႈ",
+      "assamese_script": "1 ন² যা¹ কাও² তা¹ হ³",
+      "ipa": "[˧˧] [nii˥˦] [jaː˧˧] [kau˥˦] [ta˧˧] [hav˨˩̰]",
+      "morphemes": [
+        "1",
+        "nii2",
+        "yaa1",
+        "kau2",
+        "ta1",
+        "hav3"
+      ],
+      "glosses": [
+        "EXCL",
+        "good",
+        "PRT",
+        "1Sg",
+        "will",
+        "give"
+      ],
+      "translation": "Oh, very good, I will give it to you.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh, very good, I will give it to you.",
+      "audio_file": null,
+      "notes": "* short for nIyW."
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "nan4 nj4 kau2 ta1 het1 hav3 nz4 nuk4 nj4",
+      "lik_tai": "ၼၼ်း ၼး ၵဝ်ႇ တႃ ေႁတ် ႁႈ ၼး ၼုၵ်း ၼး",
+      "assamese_script": "নান⁴ ন⁴ কাও² তা¹ হেত্‌¹ হ³ ন⁴ নুক্‌⁴ ন⁴",
+      "ipa": "[nan˥˦ʔ] [nj˥˦ʔ] [kau˥˦] [ta˧˧] [het˧˧] [hav˨˩̰] [nz˥˦ʔ] [nuk˥˦ʔ] [nj˥˦ʔ]",
+      "morphemes": [
+        "nan4",
+        "nj4",
+        "kau2",
+        "ta1",
+        "het1",
+        "hav3",
+        "nz4",
+        "nuk4",
+        "nj4"
+      ],
+      "glosses": [
+        "that",
+        "DEF",
+        "1Pl",
+        "will",
+        "do",
+        "GIVE",
+        "flesh",
+        "dove",
+        "DEF"
+      ],
+      "translation": "I will give you some dove meat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will give you some dove meat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "haa1 nai4 pa1 nan4 nj4 kyjp4 nj4",
+      "lik_tai": "ႁႃ ၼႆး ပႃ ၼၼ်း ၼး ၵပ်း ၼး",
+      "assamese_script": "হা¹ নাই⁴ পা¹ নান⁴ ন⁴ কপ্‌⁴ ন⁴",
+      "ipa": "[haː˧˧] [nai˥˦ʔ] [pa˧˧] [nan˥˦ʔ] [nj˥˦ʔ] [kyjp˥˦ʔ] [nj˥˦ʔ]",
+      "morphemes": [
+        "haa1",
+        "nai4",
+        "pa1",
+        "nan4",
+        "nj4",
+        "kyjp4",
+        "nj4"
+      ],
+      "glosses": [
+        "time",
+        "this",
+        "girl",
+        "that",
+        "PRT",
+        "chaff",
+        "PRT"
+      ],
+      "translation": "The skin of rice is called \"Chaff\"'.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The skin of rice is called \"Chaff\"'.",
+      "audio_file": null,
+      "notes": "* Ee Nyan Khet defined kYpq as:"
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "kyjp4 khau3 an2 mun5 nj4",
+      "lik_tai": "ၵပ်း ၶဝ်ႈ ဢၼ်ႇ မုၼ်ႉ ၼး",
+      "assamese_script": "কপ্‌⁴ খাও³ অন² মুন⁵ ন⁴",
+      "ipa": "[kyjp˥˦ʔ] [kʰau˨˩̰] [an˥˦] [mun˧˩] [nj˥˦ʔ]",
+      "morphemes": [
+        "kyjp4",
+        "khau3",
+        "an2",
+        "mun5",
+        "nj4"
+      ],
+      "glosses": [
+        "chaff",
+        "husked rice",
+        "CLF",
+        "dusk",
+        "PRT"
+      ],
+      "translation": "She took a lump of chaff of husked rice and made it into a tight little ball.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She took a lump of chaff of husked rice and made it into a tight little ball.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "sep1 tii5 mai3 se6 laam6 phai2 hav3 wzt4",
+      "lik_tai": "ေꩢပ် တႉ မႆႈ ေꩢႊ လႃမ်ႊ ၽႆႇ ႁႈ ဝတ်း",
+      "assamese_script": "সেপ্‌¹ ত⁵ মাই³ সে⁶ লাম⁶ ফাই² হ³ ৱত্‌⁴",
+      "ipa": "[sep˧˧] [tii˧˩] [mai˨˩̰] [se˧˥] [laːm˧˥] [pʰai˥˦] [hav˨˩̰] [wzt˥˦ʔ]",
+      "morphemes": [
+        "sep1",
+        "tii5",
+        "mai3",
+        "se6",
+        "laam6",
+        "phai2",
+        "hav3",
+        "wzt4"
+      ],
+      "glosses": [
+        "thrust",
+        "to",
+        "wood/stick",
+        "PRT",
+        "cook",
+        "fire",
+        "GIVE",
+        "PRT"
+      ],
+      "translation": "She thrust in into the fire on a stick.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She thrust in into the fire on a stick.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "laam6 phai2 hav3 khyjp4 se6",
+      "lik_tai": "လႃမ်ႊ ၽႆႇ ႁႈ ၶပ်း ေꩢႊ",
+      "assamese_script": "লাম⁶ ফাই² হ³ খপ্‌⁴ সে⁶",
+      "ipa": "[laːm˧˥] [pʰai˥˦] [hav˨˩̰] [kʰyjp˥˦ʔ] [se˧˥]",
+      "morphemes": [
+        "laam6",
+        "phai2",
+        "hav3",
+        "khyjp4",
+        "se6"
+      ],
+      "glosses": [
+        "cook",
+        "fire",
+        "GIVE",
+        "dry and cooked",
+        "PRT"
+      ],
+      "translation": "She cooked it on the fire until it was dry and cooked.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She cooked it on the fire until it was dry and cooked.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "hav3 kaa1 wzt4",
+      "lik_tai": "ႁႈ ၵႃ ဝတ်း",
+      "assamese_script": "হ³ কা¹ ৱত্‌⁴",
+      "ipa": "[hav˨˩̰] [kaː˧˧] [wzt˥˦ʔ]",
+      "morphemes": [
+        "hav3",
+        "kaa1",
+        "wzt4"
+      ],
+      "glosses": [
+        "give",
+        "GO",
+        "PRT"
+      ],
+      "translation": "She gave it to him.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She gave it to him.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "hav3 kaa1 hang2 a1 nj4",
+      "lik_tai": "ႁႈ ၵႃ ႁင်ႇ ဢႃ ၼး",
+      "assamese_script": "হ³ কা¹ হাঙ² অ¹ ন⁴",
+      "ipa": "[hav˨˩̰] [kaː˧˧] [haŋ˥˦] [a˧˧] [nj˥˦ʔ]",
+      "morphemes": [
+        "hav3",
+        "kaa1",
+        "hang2",
+        "a1",
+        "nj4"
+      ],
+      "glosses": [
+        "give",
+        "GO",
+        "to",
+        "minister",
+        "PRT"
+      ],
+      "translation": "She gave it to the minister.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She gave it to the minister.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "hav3 yj4 nj4 z2 a1 nj4",
+      "lik_tai": "ႁႈ ယး ၼး ဢႇ ဢႃ ၼး",
+      "assamese_script": "হ³ য⁴ ন⁴ অ² অ¹ ন⁴",
+      "ipa": "[hav˨˩̰] [jj˥˦ʔ] [nj˥˦ʔ] [z˥˦] [a˧˧] [nj˥˦ʔ]",
+      "morphemes": [
+        "hav3",
+        "yj4",
+        "nj4",
+        "z2",
+        "a1",
+        "nj4"
+      ],
+      "glosses": [
+        "give",
+        "PRT",
+        "PRT",
+        "HESIT",
+        "minister",
+        "PRT"
+      ],
+      "translation": "Gave it to that umm minister.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Gave it to that umm minister.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "au2 kaa1 kaa1",
+      "lik_tai": "ဢဝ်ႇ ၵႃ ၵႃ",
+      "assamese_script": "ঔ² কা¹ কা¹",
+      "ipa": "[au˥˦] [kaː˧˧] [kaː˧˧]",
+      "morphemes": [
+        "au2",
+        "kaa1",
+        "kaa1"
+      ],
+      "glosses": [
+        "take",
+        "GO",
+        "GO"
+      ],
+      "translation": "Is the rice ready?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Is the rice ready?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_042",
+      "text_roman": "a1 nj4 au2 kaa1 ye4 kaa1 hav3 kin2 kaa1 nai4",
+      "lik_tai": "ဢႃ ၼး ဢဝ်ႇ ၵႃ ေယး ၵႃ ႁႈ ၵိၼ်ႇ ၵႃ ၼႆး",
+      "assamese_script": "অ¹ ন⁴ ঔ² কা¹ যে⁴ কা¹ হ³ কিন² কা¹ নাই⁴",
+      "ipa": "[a˧˧] [nj˥˦ʔ] [au˥˦] [kaː˧˧] [je˥˦ʔ] [kaː˧˧] [hav˨˩̰] [kin˥˦] [kaː˧˧] [nai˥˦ʔ]",
+      "morphemes": [
+        "a1",
+        "nj4",
+        "au2",
+        "kaa1",
+        "ye4",
+        "kaa1",
+        "hav3",
+        "kin2",
+        "kaa1",
+        "nai4"
+      ],
+      "glosses": [
+        "minister",
+        "PRT",
+        "take",
+        "GO",
+        "PRT",
+        "go",
+        "give",
+        "eat",
+        "GO",
+        "this"
+      ],
+      "translation": "The minister took it and went to give it to the king to eat, it is said like that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The minister took it and went to give it to the king to eat, it is said like that.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_043",
+      "text_roman": "a1 nai3 au2 kaa1 kaa1 hav3 kin2 yj4 nj4",
+      "lik_tai": "ဢႃ ၼႆႈ ဢဝ်ႇ ၵႃ ၵႃ ႁႈ ၵိၼ်ႇ ယး ၼး",
+      "assamese_script": "অ¹ নাই³ ঔ² কা¹ কা¹ হ³ কিন² য⁴ ন⁴",
+      "ipa": "[a˧˧] [nai˨˩̰] [au˥˦] [kaː˧˧] [kaː˧˧] [hav˨˩̰] [kin˥˦] [jj˥˦ʔ] [nj˥˦ʔ]",
+      "morphemes": [
+        "a1",
+        "nai3",
+        "au2",
+        "kaa1",
+        "kaa1",
+        "hav3",
+        "kin2",
+        "yj4",
+        "nj4"
+      ],
+      "glosses": [
+        "minister",
+        "this",
+        "take",
+        "GO",
+        "GO",
+        "give",
+        "eat",
+        "PRT",
+        "DEF"
+      ],
+      "translation": "The minister took it to give to the king.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The minister took it to give to the king.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_044",
+      "text_roman": "waan6 waa5 waan6 wzt4",
+      "lik_tai": "ဝႃၼ်ႊ ဝႃႉ ဝႃၼ်ႊ ဝတ်း",
+      "assamese_script": "ৱান⁶ ৱা⁵ ৱান⁶ ৱত্‌⁴",
+      "ipa": "[waːn˧˥] [waː˧˩] [waːn˧˥] [wzt˥˦ʔ]",
+      "morphemes": [
+        "waan6",
+        "waa5",
+        "waan6",
+        "wzt4"
+      ],
+      "glosses": [
+        "sweet",
+        "say",
+        "sweet",
+        "PRT"
+      ],
+      "translation": "It is so sweet",
+      "translation_assamese": "অসমীয়া অৰ্থ: It is so sweet",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_045",
+      "text_roman": "paing3 kyjp1 nj4 waan6 yj4 khun6 nj4 thaam6 wzt4",
+      "lik_tai": "ပႆင်ႈ ၵပ် ၼး ဝႃၼ်ႊ ယး ၶုၼ်ႊ ၼး ထႃမ်ႊ ဝတ်း",
+      "assamese_script": "পাইঙ³ কপ্‌¹ ন⁴ ৱান⁶ য⁴ খুন⁶ ন⁴ থাম⁶ ৱত্‌⁴",
+      "ipa": "[paiŋ˨˩̰] [kyjp˧˧] [nj˥˦ʔ] [waːn˧˥] [jj˥˦ʔ] [kʰun˧˥] [nj˥˦ʔ] [tʰaːm˧˥] [wzt˥˦ʔ]",
+      "morphemes": [
+        "paing3",
+        "kyjp1",
+        "nj4",
+        "waan6",
+        "yj4",
+        "khun6",
+        "nj4",
+        "thaam6",
+        "wzt4"
+      ],
+      "glosses": [
+        "cake",
+        "chaff",
+        "PRT",
+        "sweet",
+        "PRT",
+        "king",
+        "PRT",
+        "ask",
+        "PRT"
+      ],
+      "translation": "The king asked: '\"(How is it that) the chaff cake is so sweet?",
+      "translation_assamese": "অসমীয়া অৰ্থ: The king asked: '\"(How is it that) the chaff cake is so sweet?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_046",
+      "text_roman": "aa2 tii5 thav6 mav2 kaa1 nai3 maa2",
+      "lik_tai": "ဢႃႇ တႉ ထႊ မႇ ၵႃ ၼႆႈ မႃႇ",
+      "assamese_script": "আ² ত⁵ থ⁶ ম² কা¹ নাই³ মা²",
+      "ipa": "[aː˥˦] [tii˧˩] [tʰav˧˥] [mav˥˦] [kaː˧˧] [nai˨˩̰] [maː˥˦]",
+      "morphemes": [
+        "aa2",
+        "tii5",
+        "thav6",
+        "mav2",
+        "kaa1",
+        "nai3",
+        "maa2"
+      ],
+      "glosses": [
+        "EXCL",
+        "place",
+        "where",
+        "2Sg",
+        "go",
+        "get",
+        "COME"
+      ],
+      "translation": "Where did you get it from?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Where did you get it from?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_047",
+      "text_roman": "nz4 nuk4 nj4 waan6 kha1 waa5 nvng1 nai4 wvt4",
+      "lik_tai": "ၼး ၼုၵ်း ၼး ဝႃၼ်ႊ ၶႃ ဝႃႉ ၼင် ၼႆး ဝတ်း",
+      "assamese_script": "ন⁴ নুক্‌⁴ ন⁴ ৱান⁶ খা¹ ৱা⁵ নঙ¹ নাই⁴ ৱত্‌⁴",
+      "ipa": "[nz˥˦ʔ] [nuk˥˦ʔ] [nj˥˦ʔ] [waːn˧˥] [kʰa˧˧] [waː˧˩] [nvŋ˧˧] [nai˥˦ʔ] [wvt˥˦ʔ]",
+      "morphemes": [
+        "nz4",
+        "nuk4",
+        "nj4",
+        "waan6",
+        "kha1",
+        "waa5",
+        "nvng1",
+        "nai4",
+        "wvt4"
+      ],
+      "glosses": [
+        "flesh",
+        "dove",
+        "PRT",
+        "sweet",
+        "this much",
+        "say",
+        "like",
+        "this",
+        "PRT"
+      ],
+      "translation": "This dove meat is so sweet\". He spoke like that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: This dove meat is so sweet\". He spoke like that.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_048",
+      "text_roman": "mz5 nan4 a1 nj4 ta1 khai5 kz4 aai2",
+      "lik_tai": "မႉ ၼၼ်း ဢႃ ၼး တႃ ၶႆႉ ၵး ဢႃႆႇ",
+      "assamese_script": "ম⁵ নান⁴ অ¹ ন⁴ তা¹ খাই⁵ ক⁴ অাই²",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [a˧˧] [nj˥˦ʔ] [ta˧˧] [kʰai˧˩] [kz˥˦ʔ] [aːi˥˦]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "a1",
+        "nj4",
+        "ta1",
+        "khai5",
+        "kz4",
+        "aai2"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "minister",
+        "PRT",
+        "will",
+        "tell",
+        "LINK",
+        "shy"
+      ],
+      "translation": "Then, the minister was (too) shy to tell.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then, the minister was (too) shy to tell.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_049",
+      "text_roman": "ko2 pzn5 nai3 wzt4",
+      "lik_tai": "ၵူႇ ပၼ်ႉ ၼႆႈ ဝတ်း",
+      "assamese_script": "কো² পন⁵ নাই³ ৱত্‌⁴",
+      "ipa": "[ko˥˦] [pzn˧˩] [nai˨˩̰] [wzt˥˦ʔ]",
+      "morphemes": [
+        "ko2",
+        "pzn5",
+        "nai3",
+        "wzt4"
+      ],
+      "glosses": [
+        "fear",
+        "other",
+        "hear",
+        "PRT"
+      ],
+      "translation": "He was afraid that others would hear.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was afraid that others would hear.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_050",
+      "text_roman": "kyjp4 lung5 mvn2 aai2 yj4",
+      "lik_tai": "ၵပ်း လုင်ႉ မၼ်ႇ ဢႃႆႇ ယး",
+      "assamese_script": "কপ্‌⁴ লুঙ⁵ মন² অাই² য⁴",
+      "ipa": "[kyjp˥˦ʔ] [luŋ˧˩] [mvn˥˦] [aːi˥˦] [jj˥˦ʔ]",
+      "morphemes": [
+        "kyjp4",
+        "lung5",
+        "mvn2",
+        "aai2",
+        "yj4"
+      ],
+      "glosses": [
+        "chaff",
+        "all",
+        "3Sg",
+        "shy",
+        "PRT"
+      ],
+      "translation": "He was shy about the whole matter of the chaff.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He was shy about the whole matter of the chaff.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_051",
+      "text_roman": "mvn2 ma1 khai5 wzt4",
+      "lik_tai": "မၼ်ႇ မႃ ၶႆႉ ဝတ်း",
+      "assamese_script": "মন² মা¹ খাই⁵ ৱত্‌⁴",
+      "ipa": "[mvn˥˦] [ma˧˧] [kʰai˧˩] [wzt˥˦ʔ]",
+      "morphemes": [
+        "mvn2",
+        "ma1",
+        "khai5",
+        "wzt4"
+      ],
+      "glosses": [
+        "3Sg",
+        "NEG",
+        "tell",
+        "PRT"
+      ],
+      "translation": "He did not tell.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He did not tell.",
+      "audio_file": null,
+      "notes": ""
+    }
+  ],
+  "full_translation": "At that time, in a certain country, there was a king. That king was stupid. Every day the king wanted to eat the meat of dove. I know Every day he (the minister) gave him the meat of doves to eat. Every day he gave him the dove meat of doves to eat. One day, there was no dove meat The dove meat was all finished. The doves were all gone. Then his minister went searching for dove meat. He kept going until the evening. He reached a village. (In the village) there was a house of one rich man. He had one daughter. Her name was Miss Lotus. He (the Minister) went up into the house (searching for meat). That girl was very beautiful. That girl was so beautiful. When the minister saw that girl, he became unconscious. Then the girl brought some water and sprinkled it on him. The minister came back to consciousness. That lady (I mean Miss Lotus) asked him: Elder brother, why have you come here? Why have you come to our house?\" She spoke like this. Then the minister said. Every day (I) have to give the king dove meat to eat. Every day I have to get dove meat for him to eat. The dove meat is finished, so I have come to search for some. I came in the evening and then came up into your house.\" He spoke like this. Then the lady spoke, Miss Lotus spoke, Oh, very good, I will give it to you. I will give you some dove meat. The skin of rice is called \"Chaff\"'. She took a lump of chaff of husked rice and made it into a tight little ball. She thrust in into the fire on a stick. She cooked it on the fire until it was dry and cooked. She gave it to him. She gave it to the minister. Gave it to that umm minister. Is the rice ready? The minister took it and went to give it to the king to eat, it is said like that. The minister took it to give to the king. It is so sweet The king asked: '\"(How is it that) the chaff cake is so sweet? Where did you get it from? This dove meat is so sweet\". He spoke like that. Then, the minister was (too) shy to tell. He was afraid that others would hear. He was shy about the whole matter of the chaff. He did not tell.",
+  "book_id": "book_foolish_king",
+  "title": "The Fable of the Foolish King and the Wise Minister",
+  "title_tai": "Pung1 Tsaw3 Phaa4 Mu2 Kap4 Amat1 Panyaa1",
+  "title_as": ""
+}

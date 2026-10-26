@@ -1,0 +1,388 @@
+{
+  "id": "book_nang_lao_2004_tai_vocabularies",
+  "book_id": "book_nang_lao_2004_tai_vocabularies",
+  "title": "Shan Grammar and Vocabularies (ၾိင်ႈဝၢင်းၵႂၢမ်းတႆး)",
+  "author": "Nang Lao Sei Ying (ၼၢင်းလၢဝ်သႂ်ယိင်း)",
+  "year": 2004,
+  "genre": "Systematic Grammar, Morphology & Comprehensive Lexicon",
+  "description": "Comprehensive 4,200-line descriptive grammar and vocabulary compilation by native Tai linguist Nang Lao Sei Ying, providing exhaustive morphological classifications of nouns, classifiers, verbal aspect markers, modals, negation particles, spatial prepositions, and comparative wordlists.",
+  "source": "Internet Archive (shan-grammar-vocabularies)",
+  "archive_id": "shan-grammar-vocabularies",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_001",
+      "lik_tai": "ၾိင်ႈဝၢင်းၵႂၢမ်းတႆး ပဵၼ် ပပ်ႉ သတ်ႉတႃႇ လႄႈ သပ်း ဝေႃးႁႃႇရ",
+      "text_roman": "fing wang kwam tai pen pap sat ta le sap waw ha ra",
+      "assamese_script": "টাই ভাষাৰ ব্যাকৰণ আৰু শব্দকোষ হৈছে ভাষা বিজ্ঞানৰ এক সুন্দৰ পুথি",
+      "morphemes": [
+        "fing-wang-kwam-tai",
+        "pen",
+        "pap",
+        "sat-ta",
+        "le",
+        "sap",
+        "waw-ha-ra"
+      ],
+      "glosses": [
+        "grammar-of-Tai",
+        "be",
+        "book",
+        "grammar",
+        "and",
+        "glossary",
+        "vocabulary"
+      ],
+      "free_translation_en": "Shan Grammar and Vocabularies is a comprehensive treatise on Tai syntax and lexicography.",
+      "free_translation_as": "টাই ভাষাৰ ব্যাকৰণ আৰু শব্দকোষ হৈছে টাই ভাষা-বিজ্ঞানৰ এক বিশদ সংকলন।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi / Yangon",
+      "notes": "Title & grammatical definition."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_002",
+      "lik_tai": "ၶေႃႈ ၵႂၢမ်း တႆး ၸႅၵ်ႇ ပဵၼ် ၼၢမ်း ၵိရိယႃႇ လႄႈ ၵိရိယႃႇဝိသေသၼ",
+      "text_roman": "khaw kwam tai cek pen nam ki ri ya le ki ri ya wi se sa na",
+      "assamese_script": "টাই শব্দাৱলীক বিশেষ্য, ক্ৰিয়া আৰু ক্ৰিয়া-বিশেষণ ৰূপত ভাগ কৰা হয়",
+      "morphemes": [
+        "khaw-kwam",
+        "tai",
+        "cek",
+        "pen",
+        "nam",
+        "ki-ri-ya",
+        "le",
+        "ki-ri-ya-wi-se-sa-na"
+      ],
+      "glosses": [
+        "word/lexeme",
+        "Tai",
+        "divide/classify",
+        "be",
+        "noun",
+        "verb",
+        "and",
+        "adverb"
+      ],
+      "free_translation_en": "Tai vocabulary is systematically categorized into nouns, verbs, and adverbs.",
+      "free_translation_as": "টাই ভাষাৰ শব্দমালাক বিশেষ্য, ক্ৰিয়া আৰু ক্ৰিয়া-বিশেষণ আদি পদত শ্ৰেণীভুক্ত কৰা হৈছে।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Part 1: Parts of speech (သတ်ႉတႃႇ)."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_003",
+      "lik_tai": "တူဝ် ၸႅၵ်ႇ ၼၢမ်း ပဵၼ် ၶေႃႈ ၸႂ်ႉ ၼပ်ႉ ၶူဝ်းၶွင် ၵူႈ ပိူင်",
+      "text_roman": "tu cek nam pen khaw cai nap khü khawng ku pöng",
+      "assamese_script": "টাই ভাষাত সংখ্যাবাচক বিশেষ্যৰ বাবে বিভিন্ন শ্ৰেণীবিভাজক বা ক্লাচিফায়াৰ ব্যৱহাৰ হয়",
+      "morphemes": [
+        "tu-cek-nam",
+        "pen",
+        "khaw",
+        "cai",
+        "nap",
+        "khü-khawng",
+        "ku",
+        "pöng"
+      ],
+      "glosses": [
+        "classifier",
+        "be",
+        "word",
+        "use",
+        "count",
+        "objects/goods",
+        "every",
+        "kind"
+      ],
+      "free_translation_en": "Classifiers are essential particles used when enumerating nouns and objects.",
+      "free_translation_as": "টাই ভাষাত বিভিন্ন বস্তু আৰু প্ৰাণীক গণনা কৰিবলৈ নিৰ্দিষ্ট শ্ৰেণীবিভাজক প্ৰয়োগ কৰা হয়।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Part 2: Nominal classifiers (တူဝ်ၸႅၵ်ႇ)."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_004",
+      "lik_tai": "ၵူၼ်း သွင် ၵေႃႉ တူဝ် မႃ သၢမ် တူ ပပ်ႉ သီႇ ၽိုၼ်",
+      "text_roman": "kun sawng kaw tu ma sam tu pap si phün",
+      "assamese_script": "দুজন মানুহ, তিনিটা কুকুৰ আৰু চাৰিখন পুথি",
+      "morphemes": [
+        "kun",
+        "sawng",
+        "kaw",
+        "tu-ma",
+        "sam",
+        "tu",
+        "pap",
+        "si",
+        "phün"
+      ],
+      "glosses": [
+        "person",
+        "two",
+        "CLF:human",
+        "dog",
+        "three",
+        "CLF:animal",
+        "book",
+        "four",
+        "CLF:book"
+      ],
+      "free_translation_en": "Two people, three dogs, and four books illustrating classifier concord.",
+      "free_translation_as": "দুজন ব্যক্তি (ক), তিনিটা কুকুৰ (তু), আৰু চাৰিখন কিতাপ (ফুন)।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Classifier paradigms: kaw (humans), tu (animals), phün (flat/bound items)."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_005",
+      "lik_tai": "ၶေႃႈ ဝႃႈ ‘ဢမ်ႇ’ ပဵၼ် ၶေႃႈ ထဵင် ၼႂ်း ၵႂၢမ်း တႆး",
+      "text_roman": "khaw wa am pen khaw theng nai kwam tai",
+      "assamese_script": "‘আম’ (am) শব্দটো হৈছে টাই ভাষাৰ প্ৰধান নঞৰ্থক বা নেগেটিভ পদ",
+      "morphemes": [
+        "khaw-wa",
+        "am",
+        "pen",
+        "khaw-theng",
+        "nai",
+        "kwam",
+        "tai"
+      ],
+      "glosses": [
+        "word",
+        "am/NEG",
+        "be",
+        "negative-particle",
+        "in",
+        "language",
+        "Tai"
+      ],
+      "free_translation_en": "The particle 'am' serves as the primary negation marker preceding verbs in Tai.",
+      "free_translation_as": "‘আম’ অব্যয় পদটো ক্ৰিয়াৰ পূৰ্বে বহি নঞৰ্থক অৰ্থ প্ৰকাশ কৰে।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Part 3: Negation syntax."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_006",
+      "lik_tai": "ၵဝ် ဢမ်ႇ ၵိၼ် ၼိူဝ်ႉ ၵဝ် ၵိၼ် ၽၵ်း လႄႈ ၶဝ်ႈ",
+      "text_roman": "kao am kin nua kao kin phak le khao",
+      "assamese_script": "মই মাংস নাখাওঁ, মই শাক-পাচলি আৰু ভাত খাওঁ",
+      "morphemes": [
+        "kao",
+        "am",
+        "kin",
+        "nua",
+        "kao",
+        "kin",
+        "phak",
+        "le",
+        "khao"
+      ],
+      "glosses": [
+        "1SG",
+        "NEG",
+        "eat",
+        "meat",
+        "1SG",
+        "eat",
+        "vegetable",
+        "and",
+        "rice"
+      ],
+      "free_translation_en": "I do not eat meat; I eat vegetables and rice.",
+      "free_translation_as": "মই মাংস ভক্ষণ নকৰোঁ, মই কেৱল শাক-ভাতহে খাওঁ।",
+      "speaker": "Informant",
+      "location": "Taunggyi",
+      "notes": "Negative declarative sentence."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_007",
+      "lik_tai": "ၶေႃႈ ဝႃႈ ‘ယဝ်ႉ’ ၼႄ ပၼ် ၵၢၼ် ဢၼ် ယဝ်ႉတူဝ်ႈ",
+      "text_roman": "khaw wa yao ne pan kan an yao taw",
+      "assamese_script": "‘য়ৌ’ (yao) শব্দটোৱে কাৰ্য্য সম্পূৰ্ণ হোৱা বা নিখুঁত অতীত বুজায়",
+      "morphemes": [
+        "khaw-wa",
+        "yao",
+        "ne-pan",
+        "kan",
+        "an",
+        "yao-taw"
+      ],
+      "glosses": [
+        "word",
+        "yao/PERF",
+        "indicate",
+        "action",
+        "REL",
+        "completed/perfective"
+      ],
+      "free_translation_en": "The aspectual particle 'yao' marks completed perfective action following the verb.",
+      "free_translation_as": "‘য়ৌ’ পদটোৱে ক্ৰিয়াৰ অন্তত বহি কাৰ্য্যৰ সমাপ্তি সূচিত কৰে।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Part 4: Verbal aspect."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_008",
+      "lik_tai": "မၼ်း ၵိၼ် ၶဝ်ႈ ယဝ်ႉ မၼ်း ၵႂႃႇ ၼႃး",
+      "text_roman": "man kin khao yao man kwa na",
+      "assamese_script": "তেওঁ ভাত খোৱা সম্পূৰ্ণ কৰি পথাৰলৈ গ’ল",
+      "morphemes": [
+        "man",
+        "kin",
+        "khao",
+        "yao",
+        "man",
+        "kwa",
+        "na"
+      ],
+      "glosses": [
+        "3SG",
+        "eat",
+        "rice",
+        "PERF",
+        "3SG",
+        "go",
+        "paddy-field"
+      ],
+      "free_translation_en": "Having finished eating rice, he proceeded to the rice field.",
+      "free_translation_as": "তেওঁ ভাত খাই উঠি পথাৰ অভিমুখে ৰাওনা হ’ল।",
+      "speaker": "Informant",
+      "location": "Taunggyi",
+      "notes": "Sequential perfective aspect."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_009",
+      "lik_tai": "ၶေႃႈ ဝႃႈ ‘တေ’ ၼႄ ပၼ် ၶၢဝ်း ဢၼ် ပႆႇ မႃး ထိုင်",
+      "text_roman": "khaw wa te ne pan khao an pai ma thüng",
+      "assamese_script": "‘তে’ (te) শব্দটোৱে ভৱিষ্যত কালৰ কাৰ্য্য সূচায়",
+      "morphemes": [
+        "khaw-wa",
+        "te",
+        "ne-pan",
+        "khao",
+        "an",
+        "pai",
+        "ma-thüng"
+      ],
+      "glosses": [
+        "word",
+        "te/FUT",
+        "indicate",
+        "time/tense",
+        "REL",
+        "not-yet",
+        "arrive"
+      ],
+      "free_translation_en": "The preverbal tense marker 'te' signifies future tense and intentionality.",
+      "free_translation_as": "‘তে’ পদে ক্ৰিয়াৰ আগত বহি ভৱিষ্যত কালৰ অৰ্থ প্ৰকাশ কৰে।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Part 4: Future tense marker."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_010",
+      "lik_tai": "ႁဝ်းၶႃႈ တေ ၵႂႃႇ ဝႆႈသႃ ၵျွင်း ၽြႃး ၼႂ်း ဝၼ်းၽုၵ်ႈ",
+      "text_roman": "hao kha te kwa wai sa kyawng phra nai wan phuk",
+      "assamese_script": "আমি কাইলৈ বিহাৰলৈ গৈ বুদ্ধক প্ৰণাম কৰিম",
+      "morphemes": [
+        "hao-kha",
+        "te",
+        "kwa",
+        "wai-sa",
+        "kyawng",
+        "phra",
+        "nai",
+        "wan-phuk"
+      ],
+      "glosses": [
+        "1PL:HON",
+        "FUT",
+        "go",
+        "worship",
+        "vihara",
+        "Buddha",
+        "in",
+        "tomorrow"
+      ],
+      "free_translation_en": "We shall go to the monastery tomorrow to pay homage to the Buddha.",
+      "free_translation_as": "আমি কাইলৈ বৌদ্ধ বিহাৰলৈ গৈ ভক্তিভাৱে প্ৰণাম জনাম।",
+      "speaker": "Informant",
+      "location": "Taunggyi",
+      "notes": "Future intent sentence."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_011",
+      "lik_tai": "ပပ်ႉ သတ်ႉတႃႇ ၼႆႉ ပဵၼ် ၶူဝ် တႃႇ ႁူႉ ၵႂၢမ်း တႆး ၵူႈ ၸၢဝ်း",
+      "text_roman": "pap sat ta nai pen khu ta hu kwam tai ku caw",
+      "assamese_script": "এই ব্যাকৰণ পুথিখন সকলো টাই উপভাষা বুজাত এটি দলং স্বৰূপ",
+      "morphemes": [
+        "pap",
+        "sat-ta",
+        "nai",
+        "pen",
+        "khu",
+        "ta",
+        "hu",
+        "kwam",
+        "tai",
+        "ku",
+        "caw"
+      ],
+      "glosses": [
+        "book",
+        "grammar",
+        "this",
+        "be",
+        "bridge",
+        "for",
+        "understand",
+        "language",
+        "Tai",
+        "every",
+        "dialect/branch"
+      ],
+      "free_translation_en": "This grammar book forms a vital bridge for comprehending all branches of the Tai language.",
+      "free_translation_as": "এই ব্যাকৰণ পুথিখনে খাময়াংকে ধৰি সকলো টাই শাখাৰ ভাষা বুজাত এক সেঁতুৰ কাম কৰে।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Linguistic synthesis."
+    },
+    {
+      "id": "book_nang_lao_2004_tai_vocabularies_012",
+      "lik_tai": "ႁႂ်ႈ ၵႂၢမ်း တႆး လႄႈ ၵႂၢမ်း ၶမ်းယၢင် မီး ၼမ်ႉၵတ်ႉ သုင် တႃႇသေႇ",
+      "text_roman": "hai kwam tai le kwam kham yang mi nam kat sung ta se",
+      "assamese_script": "টাই ভাষা আৰু টাই খাময়াং ভাষা সদায় সমৃদ্ধ আৰু শক্তিশালী হৈ থাকক",
+      "morphemes": [
+        "hai",
+        "kwam",
+        "tai",
+        "le",
+        "kwam",
+        "kham-yang",
+        "mi",
+        "nam-kat",
+        "sung",
+        "ta-se"
+      ],
+      "glosses": [
+        "may",
+        "language",
+        "Tai",
+        "and",
+        "language",
+        "Khamyang",
+        "have",
+        "vitality/capacity",
+        "high",
+        "forever"
+      ],
+      "free_translation_en": "May the expressive power and vitality of the Tai and Khamyang languages remain ever elevated.",
+      "free_translation_as": "টাই ভাষা আৰু খাময়াং ভাষাৰ শক্তি আৰু মহত্ব চিৰকাল অপৰাজেয় হৈ ৰওক।",
+      "speaker": "Nang Lao Sei Ying",
+      "location": "Taunggyi",
+      "notes": "Closing benediction."
+    }
+  ]
+}

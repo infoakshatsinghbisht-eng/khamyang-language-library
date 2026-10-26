@@ -6,6 +6,7 @@ Interactive CLI for developers, linguists, and researchers.
 
 import sys
 import os
+from typing import Optional, List, Dict, Any
 import click
 from rich.console import Console
 from rich.table import Table
@@ -18,7 +19,15 @@ from khamyang.grammar.naming import list_birth_names, generate_full_name, KHAMYA
 from khamyang.grammar.classifiers import ClassifierEngine
 from khamyang.corpus.igt import InterlinearGloss
 
-console = Console()
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
+console = Console(highlight=False)
+
 
 
 @click.group()
@@ -409,6 +418,78 @@ def biblio_cmd(action: str, query: str, output: str):
         out = output or "BIBLIOGRAPHY.md"
         BibliographyManager.save_markdown_file(out)
         console.print(f"[bold green]Markdown bibliography saved to:[/bold green] {out}")
+
+
+@cli.command("books")
+@click.option("--genre", default=None, help="Filter books by genre (e.g. 'novel', 'jataka', 'fable', 'chronicle', 'folktale').")
+@click.option("--limit", default=25, help="Number of books to display (default 25).")
+def books_cmd(genre: Optional[str], limit: int):
+    """List all digitalized Tai Khamyang books and interlinear texts (2,000+ available)."""
+    from khamyang.corpus.texts import get_corpus
+    corpus = get_corpus()
+    books = corpus.list_books()
+
+    if genre:
+        g = genre.strip().lower()
+        books = [b for b in books if g in b["genre"].lower()]
+
+    table = Table(title=f"[Books] Tai Khamyang Digital Library & Archive ({len(books)} books found)", style="bold cyan")
+    table.add_column("ID", style="bold yellow")
+    table.add_column("Title (English)", style="bold white")
+    table.add_column("Tai Title", style="cyan")
+    table.add_column("Genre", style="green")
+    table.add_column("Sentences", justify="right", style="magenta")
+
+    for b in books[:limit]:
+        table.add_row(
+            b["id"],
+            b["title_english"][:40],
+            b["title_khamyang"][:30],
+            b["genre"],
+            str(b["sentence_count"])
+        )
+    console.print(table)
+    if len(books) > limit:
+        console.print(f"\n[dim]Showing {limit} of {len(books)} books. Use --limit {len(books)} or --genre <type> to filter.[/dim]")
+    console.print(f"[dim]Read any book with:[/dim] [bold green]khamyang read <book_id>[/bold green]")
+
+
+
+@cli.command("read")
+@click.argument("book_id")
+@click.option("--limit", default=10, help="Number of sentences to display.")
+def read_cmd(book_id: str, limit: int):
+    """Read a digitalized book with interlinear glosses."""
+    from khamyang.corpus.texts import get_corpus
+    corpus = get_corpus()
+    book = corpus.get_book(book_id)
+    if not book:
+        console.print(f"[bold red]Book '{book_id}' not found.[/bold red] Use 'khamyang books' to see available books.")
+        return
+
+    console.print(Panel(
+        f"[bold yellow]{book.title_english}[/bold yellow]\n"
+        f"[cyan]{book.title_khamyang}[/cyan]\n\n"
+        f"[dim]{book.description}[/dim]\n\n"
+        f"[bold]Informant:[/bold] {book.informant} | [bold]Location:[/bold] {book.village} | [bold]Total Sentences:[/bold] {len(book.sentences)}",
+        title=f"[Book] {book.id}",
+        border_style="cyan"
+    ))
+
+
+    for idx, s in enumerate(book.sentences[:limit], 1):
+        console.print(f"\n[bold green]Sentence {idx}[/bold green] [dim]({s.id})[/dim]:")
+        console.print(f"  [bold yellow]Lik Tai:[/bold yellow]   {s.lik_tai}")
+        console.print(f"  [bold cyan]Roman:[/bold cyan]     {s.text_roman}")
+        console.print(f"  [bold magenta]Assamese:[/bold magenta]  {s.assamese_script}")
+        if s.morphemes and s.glosses:
+            console.print(f"  [dim]Gloss:[/dim]     {' | '.join(s.glosses)}")
+        console.print(f"  [bold white]English:[/bold white]   \"{s.free_translation_en}\"")
+        if s.notes:
+            console.print(f"  [italic dim]Note:[/italic dim]      {s.notes}")
+
+    if len(book.sentences) > limit:
+        console.print(f"\n[dim]Showing {limit} of {len(book.sentences)} sentences. Use --limit {len(book.sentences)} to view all.[/dim]")
 
 
 if __name__ == "__main__":

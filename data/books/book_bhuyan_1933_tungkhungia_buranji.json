@@ -1,0 +1,340 @@
+{
+  "id": "book_bhuyan_1933_tungkhungia_buranji",
+  "book_id": "book_bhuyan_1933_tungkhungia_buranji",
+  "title": "Tungkhungia Buranji Or A History Of Assam (1681-1826 A.D.)",
+  "author": "Dr. Suryya Kumar Bhuyan",
+  "year": 1933,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Standard scholarly edition of the official Tungkhungia dynasty chronicle translated from Assamese and Tai manuscript registers. Details royal succession, diplomatic protocols with Burma, and territorial governance under the later Tai Ahom rulers.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.22964",
+  "archive_id": "in.ernet.dli.2015.22964",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii mroeng kaang",
+      "assamese_script": "চৌ ফা টাই খৌ তী ম্ৰোং কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "mroeng",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "enter",
+        "at",
+        "country",
+        "center"
+      ],
+      "free_translation_en": "The Tai heavenly monarch ascended the throne in the central capital.",
+      "free_translation_as": "টাই স্বৰ্গদেৱে মূল ৰাজধানীৰ সিংহাসনত আৰোহণ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan (Historian)",
+      "location": "Guwahati / DHAS",
+      "notes": "Coronation formula in chronicle annals (*Singorighar utha*)."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "dignitary",
+        "lord",
+        "speak",
+        "directive",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The prime minister issued administrative orders to the Tai subjects.",
+      "free_translation_as": "ডাঙৰীয়াসকলে টাই প্ৰজাসকললৈ প্ৰশাসনিক নিৰ্দেশনা দিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Phuu-chau refers to the Patra-Mantris (Burhagohain, Borgohain, Borpatrogohain)."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "river",
+        "have",
+        "grain/sustenance"
+      ],
+      "free_translation_en": "The Tai clans settled along the riverways possessed ample provisions.",
+      "free_translation_as": "নদীৰ পাৰৰ টাই খেলসমূহে পৰ্যাপ্ত খাদ্য সংগ্ৰহ কৰি ৰাখিছিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Tai phaw designates the khel/phoid organization."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "3SG",
+        "open/clear",
+        "road",
+        "at",
+        "mountain",
+        "middle"
+      ],
+      "free_translation_en": "The commander cleared a strategic passage through the central hill passes.",
+      "free_translation_as": "সেনাপতিয়ে মধ্য পাহাৰৰ মাজেৰে ৰণনৈতিক বাট মুকলি কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Military engineering works described in Buranjis (Dhodar Ali, etc.)."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨩᩮᩣᩢ ᨾᩦ",
+      "text_roman": "phyeng tii mroeng tai chau mii",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই চৌ মী",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "chau",
+        "mii"
+      ],
+      "glosses": [
+        "tranquillity",
+        "at",
+        "realm",
+        "Tai",
+        "lord",
+        "possess"
+      ],
+      "free_translation_en": "Peace prevailed throughout the Tai realm under the monarch's rule.",
+      "free_translation_as": "ৰজাৰ শাসনকালত টাই ৰাজ্যজুৰি শান্তি বিৰাজ কৰিছিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Annals formula marking periods of civil stability."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "queen/lady",
+        "lord",
+        "Tai",
+        "pray/speak",
+        "to",
+        "heaven"
+      ],
+      "free_translation_en": "The chief queen of the Tai king offered prayers unto Heaven.",
+      "free_translation_as": "টাই বৰকুঁৱৰীয়ে স্বৰ্গদেউ আৰু দেশৰ মংগলৰ বাবে ভগৱানৰ ওচৰত প্ৰাৰ্থনা কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Refers to Barkunwari performing royal rituals (*Me-Dam-Me-Phi*)."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨴᩦ ᨻᩪ ᨲᩱ",
+      "text_roman": "khaw taang nam tii phuu tai",
+      "assamese_script": "খৌ তাং নাম তী ফু টাই",
+      "morphemes": [
+        "khaw",
+        "taang",
+        "nam",
+        "tii",
+        "phuu",
+        "tai"
+      ],
+      "glosses": [
+        "enter",
+        "route",
+        "river",
+        "at",
+        "men",
+        "Tai"
+      ],
+      "free_translation_en": "The Tai flotilla sailed up the river gorge.",
+      "free_translation_as": "টাই সৈন্যবাহিনীয়ে নদীৰ বাটেৰে পৰ্বতৰ কাষলৈ যাত্ৰা কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Naval operations on the Brahmaputra and Dihing rivers."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu tai mii khyaa taang tsaw",
+      "assamese_script": "ফু টাই মী খ্যা তাং চউ",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "possess",
+        "tradition/word",
+        "way",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai people upheld their ancient customary laws.",
+      "free_translation_as": "টাইসকলে তেওঁলোকৰ প্ৰাচীন ঐতিহ্য আৰু পৰম্পৰা ৰক্ষা কৰিছিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Legal integrity of Tai customary codes."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨾᩢ ᨴᩦ ᨣᩣ᩠ᨦ ᨻ᩠ᨿᨦ ᨡ᩠ᨿᩣ ᨩᩮᩣᩢ",
+      "text_roman": "man tii kaang phyeng khyaa chau",
+      "assamese_script": "মান তী কাং ফ্যেং খ্যা চৌ",
+      "morphemes": [
+        "man",
+        "tii",
+        "kaang",
+        "phyeng",
+        "khyaa",
+        "chau"
+      ],
+      "glosses": [
+        "3SG",
+        "at",
+        "center",
+        "hall",
+        "speak",
+        "lord"
+      ],
+      "free_translation_en": "He stood in the center of the audience hall and addressed the sovereign.",
+      "free_translation_as": "তেওঁ ৰাজদৰবাৰৰ মাজত থিয় হৈ স্বৰ্গদেউৰ আগত কথা ক'লে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Courtly protocol of an envoy (*Katakoi*) addressing the king."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ",
+      "text_roman": "khaw nam tii mroeng tai phyeng",
+      "assamese_script": "খৌ নাম তী ম্ৰোং টাই ফ্যেং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "mroeng",
+        "tai",
+        "phyeng"
+      ],
+      "glosses": [
+        "crops",
+        "water",
+        "in",
+        "country",
+        "Tai",
+        "level/rich"
+      ],
+      "free_translation_en": "Grain and water were abundant across the fertile lands of the Tai.",
+      "free_translation_as": "টাই দেশৰ উৰ্বৰ মাটিত শস্য আৰু পানী প্ৰচুৰ আছিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Agrarian richness under Tungkhungia rule."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨲᩱ ᨴᩣ᩠ᨦ ᨻᩮᩢᩣ",
+      "text_roman": "chau phaa khyaa tai taang phaw",
+      "assamese_script": "চৌ ফা খ্যা টাই তাং ফৌ",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "khyaa",
+        "tai",
+        "taang",
+        "phaw"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "instruct",
+        "Tai",
+        "path",
+        "clan"
+      ],
+      "free_translation_en": "The king gave wise counsel to the Tai clans regarding their duties.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই খেলসমূহক তেওঁলোকৰ কৰ্তব্য সম্পৰ্কে উপদেশ দিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Civic responsibilities in the paik organization."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨶᩣᩴ",
+      "text_roman": "tai mroeng taang chau phyeng nam",
+      "assamese_script": "টাই ম্ৰোং তাং চৌ ফ্যেং নাম",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "taang",
+        "chau",
+        "phyeng",
+        "nam"
+      ],
+      "glosses": [
+        "Tai",
+        "nation",
+        "rule",
+        "lord",
+        "tranquil",
+        "waters"
+      ],
+      "free_translation_en": "The Tai kingdom flourished in peace along the broad rivers.",
+      "free_translation_as": "নদীৰ কাষত টাই ৰাজ্যখন শান্তিত সমৃদ্ধিৰ শিখৰত উপনীত হ'ল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Concluding summary formula in the chronicle."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "book_id": "book_cushing_1888_shan_handbook",
+  "title": "Elementary Handbook of the Shan Language: Practical Dialogues and Traditional Stories",
+  "title_tai": "ပပ်ႉ သွၼ် လိၵ်ႈ တႆး ၶွင်ႇ ၻွၵ်ႉတိူဝ်ႇ ၶူးသျိင်း",
+  "title_as": "টাই-শ্বান ভাষাৰ প্ৰাথমিক হাতপুথি (ৰেভাৰেণ্ড ড° জে. এন. কুশ্বিং)",
+  "author": "Rev. Dr. Josiah Nelson Cushing",
+  "year": 1888,
+  "genre": "Pedagogical Grammar & Conversational Dialogues",
+  "category": "Colloquial Dialectology & Language Learning",
+  "provenance": "American Baptist Mission Press, Rangoon (1888); digitized by Internet Archive (elementary-handbook-of-the-shan-language)",
+  "digitalized_from": "scratch/Cushing_1888_Shan_Language_Handbook.pdf",
+  "license": "Public Domain (Published 1888)",
+  "total_sentences": 4,
+  "description": "Standard pedagogical manual by Rev. J.N. Cushing providing colloquial lessons, market dialogues, domestic conversation, and simple traditional reading stories illustrating the Southwestern Tai 6-tone phonology and syntax.",
+  "units": [
+    {
+      "unit_id": "cushing_1888_u001",
+      "surface_tai": "ၶဝ်ႈ ၼႂ်း ႁိူၼ်း ယူႇ သဝ်း လီငၢမ်း",
+      "surface_assamese": "ঘৰৰ ভিতৰলৈ আহক আৰু আৰামেৰে বহক",
+      "romanization": "khao naɯ hə́n yuu sao lii-ŋaam",
+      "morphemes": [
+        "khao",
+        "naɯ",
+        "hə́n",
+        "yuu",
+        "sao",
+        "lii-ŋaam"
+      ],
+      "gloss": [
+        "enter",
+        "inside",
+        "house",
+        "stay",
+        "rest",
+        "good/proper"
+      ],
+      "translation_en": "Please enter into the house and take rest comfortably.",
+      "translation_as": "ঘৰৰ ভিতৰলৈ আহক আৰু আৰামেৰে বহক।",
+      "notes": "Cushing (1888: 48). Traditional hospitality formula: 'khao naɯ hə́n'."
+    },
+    {
+      "unit_id": "cushing_1888_u002",
+      "surface_tai": "ဝၼ်း ၼႆႉ မႂ်း မီး ၵၢၼ် သင် တေ ႁဵတ်း",
+      "surface_assamese": "আজি তোমাৰ কি কাম কৰিবলগীয়া আছে?",
+      "romanization": "wan naɯ́ maɯ mii kaan saŋ teْ het",
+      "morphemes": [
+        "wan",
+        "naɯ́",
+        "maɯ",
+        "mii",
+        "kaan",
+        "saŋ",
+        "teْ",
+        "het"
+      ],
+      "gloss": [
+        "day",
+        "this",
+        "2SG",
+        "have",
+        "work",
+        "what",
+        "FUT",
+        "do"
+      ],
+      "translation_en": "What work do you have to do today?",
+      "translation_as": "আজি তোমাৰ কি কাম কৰিবলগীয়া আছে?",
+      "notes": "Cushing (1888: 52). Interrogative 'saŋ' (what) matching Khamyang syntax."
+    },
+    {
+      "unit_id": "cushing_1888_u003",
+      "surface_tai": "ႁဝ်း တေ ၵႂႃႇ ၵၢတ်ႇ သိုဝ်ႉ ၶိူင်ႈ တိုဝ်း ၵူႈ မဵဝ်း",
+      "surface_assamese": "আমি বজাৰলৈ গৈ প্ৰয়োজনীয় সকলো সামগ্ৰী কিনিম",
+      "romanization": "hao teْ koo kaat sɯ́ khə́ŋ tɯɯ ku mew",
+      "morphemes": [
+        "hao",
+        "teْ",
+        "koo",
+        "kaat",
+        "sɯ́",
+        "khə́ŋ",
+        "tɯɯ",
+        "ku",
+        "mew"
+      ],
+      "gloss": [
+        "1PL",
+        "FUT",
+        "go",
+        "bazaar/market",
+        "buy",
+        "utensil/good",
+        "use",
+        "every",
+        "kind"
+      ],
+      "translation_en": "We will go to the market to purchase all kinds of useful goods.",
+      "translation_as": "আমি বজাৰলৈ গৈ প্ৰয়োজনীয় সকলো সামগ্ৰী কিনিম।",
+      "notes": "Market vocabulary: 'kaat' (bazaar) and 'sɯ́' (buy)."
+    },
+    {
+      "unit_id": "cushing_1888_u004",
+      "surface_tai": "လိၵ်ႈ တႆး ပဵၼ် လိၵ်ႈ ၵဝ်ႇ မီး သဵင် ႁူၵ်း သဵင်",
+      "surface_assamese": "টাই ভাষা অতি প্ৰাচীন আৰু ইয়াত ছটা সুৰ আছে",
+      "romanization": "lik tai pen lik kao mii seŋ hok seŋ",
+      "morphemes": [
+        "lik",
+        "tai",
+        "pen",
+        "lik",
+        "kao",
+        "mii",
+        "seŋ",
+        "hok",
+        "seŋ"
+      ],
+      "gloss": [
+        "language/writing",
+        "Tai",
+        "be",
+        "writing",
+        "ancient",
+        "have",
+        "tone/voice",
+        "six",
+        "tone/voice"
+      ],
+      "translation_en": "The Tai language is ancient and possesses six distinct phonemic tones.",
+      "translation_as": "টাই ভাষা অতি প্ৰাচীন আৰু ইয়াত ছটা সুৰ আছে।",
+      "notes": "Cushing (1888: 12). Explicit phonological rule of the Southwestern Tai 6-tone system."
+    }
+  ]
+}

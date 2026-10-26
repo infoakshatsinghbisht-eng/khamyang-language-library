@@ -1,0 +1,1415 @@
+{
+  "id": "book_future_khamyang",
+  "title_khamyang": "Pung1 Khing2 Naa3 Kham1 Tai1 Khamyang",
+  "title_english": "The Present State and Future of the Tai Khamyang Language",
+  "genre": "sociolinguistic_narrative",
+  "informant": "Chaw Deben Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Discussion by Chaw Deben Chowlik on the transmission of Tai Khamyang across generations, comparison with Tai Phake and Tai Khamti, and urgent revitalization.",
+  "audio_file": "3-6-2-1.mp3",
+  "full_translation": "In Gologhat there are people who know Tai Khamti, there are two or three of them who know Khamti. There are none at Jorhat. \r\rThere is no Khamyang language there, it has disappeared. In Sibsagar it has disappeared. There are two or three villages in Sibsagar, but nobody knows anything, it has all disappeared. \r\rSo Tai Khamyang is spoken a little, only at Margherita, in the Tai Khamyang village of Pawaimukh. So there is just a little. Moreover, they've forgotten, those children now, those children can't speak, its all gone.\r\rSo we are very sorry and now we are trying to do something about it. Those who know the books should teach those who don't know, so that they will be able to know. We are doing something about it, we are discussing it. \r\rWe Tai, Tai Khamyang, from the generations of our fathers and grandfathers, came from Khau Khau Mau Lung. From Mau Lung, generations ago, hundreds and thousands of years ago. It is all finished.\r\rWe still have a little of the Tai Khamyang here. We have forgotten how to be true Tai, that is having our own language, and we have become like the Assamese. We became foreigners. We no longer wear our traditional clothes. The ladies wear them, just a l",
+  "sentences": [
+    {
+      "id": "book_future_khamyang_s001",
+      "text_roman": "khaam2 kham2 yang2 nai4",
+      "lik_tai": "ၶႃမ်ႇ ၶမ်ႇ ယင်ႇ ၼႆး",
+      "assamese_script": "খাম² খাম² যাঙ² নাই⁴",
+      "morphemes": [
+        "khaam2",
+        "kham2",
+        "yang2",
+        "nai4"
+      ],
+      "glosses": [
+        "language",
+        "Khamyang",
+        "Khamyang",
+        "DEF"
+      ],
+      "free_translation_en": "Sentence 1 from book_future_khamyang.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s002",
+      "text_roman": "kham2",
+      "lik_tai": "ၶမ်ႇ",
+      "assamese_script": "খাম²",
+      "morphemes": [
+        "kham2"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "SM continuing",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s003",
+      "text_roman": "maan3 kham2 yang2 yang2 n6",
+      "lik_tai": "မႃၼ်ႈ ၶမ်ႇ ယင်ႇ ယင်ႇ ၼႊ",
+      "assamese_script": "মান³ খাম² যাঙ² যাঙ² ন⁶",
+      "morphemes": [
+        "maan3",
+        "kham2",
+        "yang2",
+        "yang2",
+        "n6"
+      ],
+      "glosses": [
+        "Jorhat",
+        "village",
+        "village",
+        "Khamyang",
+        "have"
+      ],
+      "free_translation_en": "Sentence 3 from book_future_khamyang.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s004",
+      "text_roman": "ɯng1 mang5",
+      "lik_tai": "ဢိုင် မင်ႉ",
+      "assamese_script": "উঙ¹ মাঙ⁵",
+      "morphemes": [
+        "ɯng1",
+        "mang5"
+      ],
+      "glosses": [
+        "NEG",
+        "have"
+      ],
+      "free_translation_en": "No.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s005",
+      "text_roman": "yang2 n6",
+      "lik_tai": "ယင်ႇ ၼႊ",
+      "assamese_script": "যাঙ² ন⁶",
+      "morphemes": [
+        "yang2",
+        "n6"
+      ],
+      "glosses": [
+        "have",
+        "QN"
+      ],
+      "free_translation_en": "Are there?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s006",
+      "text_roman": "ɯng1 mang5",
+      "lik_tai": "ဢိုင် မင်ႉ",
+      "assamese_script": "উঙ¹ মাঙ⁵",
+      "morphemes": [
+        "ɯng1",
+        "mang5"
+      ],
+      "glosses": [
+        "NEG",
+        "have"
+      ],
+      "free_translation_en": "No",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s007",
+      "text_roman": "kon2 tsaang5 khaam2 yang2 n6",
+      "lik_tai": "ၵူၼ်ႇ ၸႃင်ႉ ၶႃမ်ႇ ယင်ႇ ၼႊ",
+      "assamese_script": "কোন² চাঙ⁵ খাম² যাঙ² ন⁶",
+      "morphemes": [
+        "kon2",
+        "tsaang5",
+        "khaam2",
+        "yang2",
+        "n6"
+      ],
+      "glosses": [
+        "person",
+        "know",
+        "language",
+        "have",
+        "QN"
+      ],
+      "free_translation_en": "Are there any people who know (Khamyang) language?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s008",
+      "text_roman": "kon2 tsaang5 g1 laa1 ghat1 khaam2 tai2 kham2 tii5",
+      "lik_tai": "ၵူၼ်ႇ ၸႃင်ႉ ဢ လႃ ဢတ် ၶႃမ်ႇ တႆႇ ၶမ်ႇ တႉ",
+      "assamese_script": "কোন² চাঙ⁵ অ¹ লা¹ অত্‌¹ খাম² তাই² খাম² ত⁵",
+      "morphemes": [
+        "kon2",
+        "tsaang5",
+        "g1",
+        "laa1",
+        "ghat1",
+        "khaam2",
+        "tai2",
+        "kham2",
+        "tii5"
+      ],
+      "glosses": [
+        "person",
+        "know",
+        "Golaghat",
+        "Golaghat",
+        "Golaghat",
+        "language",
+        "Tai",
+        "Khamti",
+        "Khamti"
+      ],
+      "free_translation_en": "In Gologhat there are people who know Tai Khamti",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s009",
+      "text_roman": "tai2 kham2 tii5 khaam2 an5 tsaang5 yang5 uu1 sng6 saam6 k4",
+      "lik_tai": "တႆႇ ၶမ်ႇ တႉ ၶႃမ်ႇ ဢၼ်ႉ ၸႃင်ႉ ယင်ႉ ဢ ꩢင်ႊ ꩢႃမ်ႊ ၵး",
+      "assamese_script": "তাই² খাম² ত⁵ খাম² অন⁵ চাঙ⁵ যাঙ⁵ অ¹ সঙ⁶ সাম⁶ ক⁴",
+      "morphemes": [
+        "tai2",
+        "kham2",
+        "tii5",
+        "khaam2",
+        "an5",
+        "tsaang5",
+        "yang5",
+        "uu1",
+        "sng6",
+        "saam6",
+        "k4"
+      ],
+      "glosses": [
+        "Tai",
+        "Khamti",
+        "Khamti",
+        "word",
+        "CLF",
+        "know",
+        "have",
+        "stay",
+        "two",
+        "three",
+        "CLF"
+      ],
+      "free_translation_en": "There are two or three of them who know Khamti.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s010",
+      "text_roman": "z2",
+      "lik_tai": "ဢႇ",
+      "assamese_script": "অ²",
+      "morphemes": [
+        "z2"
+      ],
+      "glosses": [
+        "YES"
+      ],
+      "free_translation_en": "Yes",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s011",
+      "text_roman": "tii5 tii4 ɯng1 mang5",
+      "lik_tai": "တႉ တး ဢိုင် မင်ႉ",
+      "assamese_script": "ত⁵ ত⁴ উঙ¹ মাঙ⁵",
+      "morphemes": [
+        "tii5",
+        "tii4",
+        "ɯng1",
+        "mang5"
+      ],
+      "glosses": [
+        "at",
+        "Jorhat",
+        "at",
+        "Jorhat"
+      ],
+      "free_translation_en": "There are none at Jorhat.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s012",
+      "text_roman": "khaam2 kham2 yang2 nai4",
+      "lik_tai": "ၶႃမ်ႇ ၶမ်ႇ ယင်ႇ ၼႆး",
+      "assamese_script": "খাম² খাম² যাঙ² নাই⁴",
+      "morphemes": [
+        "khaam2",
+        "kham2",
+        "yang2",
+        "nai4"
+      ],
+      "glosses": [
+        "word",
+        "Khamyang",
+        "Khamyang",
+        "DEF"
+      ],
+      "free_translation_en": "The Khamyang language? ",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s013",
+      "text_roman": "khaam2 kham2 yaang2 nai4",
+      "lik_tai": "ၶႃမ်ႇ ၶမ်ႇ ယႃင်ႇ ၼႆး",
+      "assamese_script": "খাম² খাম² যাঙ² নাই⁴",
+      "morphemes": [
+        "khaam2",
+        "kham2",
+        "yaang2",
+        "nai4"
+      ],
+      "glosses": [
+        "word",
+        "Khamyang",
+        "Khamyang",
+        "DEF"
+      ],
+      "free_translation_en": "The Khamyang language.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s014",
+      "text_roman": "khaam2 kham2 yaang2 nai4 ɯng1 mang5 haai6 mot1 aa1",
+      "lik_tai": "ၶႃမ်ႇ ၶမ်ႇ ယႃင်ႇ ၼႆး ဢိုင် မင်ႉ ႁႃႆႊ မူတ် ဢႃ",
+      "assamese_script": "খাম² খাম² যাঙ² নাই⁴ উঙ¹ মাঙ⁵ হাই⁶ মোত্‌¹ আ¹",
+      "morphemes": [
+        "khaam2",
+        "kham2",
+        "yaang2",
+        "nai4",
+        "ɯng1",
+        "mang5",
+        "haai6",
+        "mot1",
+        "aa1"
+      ],
+      "glosses": [
+        "word",
+        "Khamyang",
+        "Khamyang",
+        "DEF",
+        "NEG",
+        "have",
+        "disappear",
+        "gone",
+        "PRT.GO"
+      ],
+      "free_translation_en": "There is no Khamyang language (there), it has disappeared.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* This particle marks past time, exactly as kA1 'GO' in postverbal position in Phake. It is probably derived from kA1, and is therefore marked as PRT.GO."
+    },
+    {
+      "id": "book_future_khamyang_s015",
+      "text_roman": "haai6 mot1",
+      "lik_tai": "ႁႃႆႊ မူတ်",
+      "assamese_script": "হাই⁶ মোত্‌¹",
+      "morphemes": [
+        "haai6",
+        "mot1"
+      ],
+      "glosses": [
+        "disappear",
+        "gone"
+      ],
+      "free_translation_en": "Disappeared.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s016",
+      "text_roman": "nan4 1 haai6 aa1",
+      "lik_tai": "ၼၼ်း 1 ႁႃႆႊ ဢႃ",
+      "assamese_script": "নান⁴ 1 হাই⁶ আ¹",
+      "morphemes": [
+        "nan4",
+        "1",
+        "haai6",
+        "aa1"
+      ],
+      "glosses": [
+        "Sibsagar",
+        "that",
+        "PRT",
+        "disappear"
+      ],
+      "free_translation_en": "In Sibsagar it has disappeared.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s017",
+      "text_roman": "tsj5 sng6 saam6 maan3 mang5",
+      "lik_tai": "ၸႉ ꩢင်ႊ ꩢႃမ်ႊ မႃၼ်ႈ မင်ႉ",
+      "assamese_script": "চ⁵ সঙ⁶ সাম⁶ মান³ মাঙ⁵",
+      "morphemes": [
+        "tsj5",
+        "sng6",
+        "saam6",
+        "maan3",
+        "mang5"
+      ],
+      "glosses": [
+        "now",
+        "Sibsagar",
+        "two",
+        "three",
+        "village"
+      ],
+      "free_translation_en": "There are two or three villages in Sibsagar, but nobody knows anything, it has all disappeared.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s018",
+      "text_roman": "lz4 pɛ5 nai4 tsn5 nɯng5 khaam2 tai2 kham2 yaang2",
+      "lik_tai": "လး ႄပႉ ၼႆး ၸၼ်ႉ ၼိုင်ႉ ၶႃမ်ႇ တႆႇ ၶမ်ႇ ယႃင်ႇ",
+      "assamese_script": "ল⁴ পে⁵ নাই⁴ চন⁵ নুঙ⁵ খাম² তাই² খাম² যাঙ²",
+      "morphemes": [
+        "lz4",
+        "pɛ5",
+        "nai4",
+        "tsn5",
+        "nɯng5",
+        "khaam2",
+        "tai2",
+        "kham2",
+        "yaang2"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "little",
+        "one",
+        "language",
+        "Tai",
+        "Khamyang",
+        "Khamyang"
+      ],
+      "free_translation_en": "So Tai Khamyang is spoken a little, only at Margherita, in the Tai Khamyang village of Pawaimukh.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s019",
+      "text_roman": "yang5 tsn5 nɯng5 mang5",
+      "lik_tai": "ယင်ႉ ၸၼ်ႉ ၼိုင်ႉ မင်ႉ",
+      "assamese_script": "যাঙ⁵ চন⁵ নুঙ⁵ মাঙ⁵",
+      "morphemes": [
+        "yang5",
+        "tsn5",
+        "nɯng5",
+        "mang5"
+      ],
+      "glosses": [
+        "have",
+        "little",
+        "one",
+        "have"
+      ],
+      "free_translation_en": "So there is just a little.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s020",
+      "text_roman": "nan4 k1 lɯm2 tsang1 nai3 luk4 nai4 khau6",
+      "lik_tai": "ၼၼ်း ၵ လိုမ်ႇ ၸင် ၼႆႈ လုၵ်း ၼႆး ၶဝ်ႊ",
+      "assamese_script": "নান⁴ ক¹ লুম² চাঙ¹ নাই³ লুক্‌⁴ নাই⁴ খাও⁶",
+      "morphemes": [
+        "nan4",
+        "k1",
+        "lɯm2",
+        "tsang1",
+        "nai3",
+        "luk4",
+        "nai4",
+        "khau6"
+      ],
+      "glosses": [
+        "there",
+        "there",
+        "forget",
+        "now",
+        "now",
+        "child",
+        "DEF",
+        "3Pl"
+      ],
+      "free_translation_en": "Moreover, they've forgotten, those children now, those children can't speak, its all gone.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s021",
+      "text_roman": "lɛ4 pɛ5 nan4 hau2 tsep1 long6",
+      "lik_tai": "ႄလး ႄပႉ ၼၼ်း ႁဝ်ႇ ေၸပ် လူင်ႊ",
+      "assamese_script": "লে⁴ পে⁵ নান⁴ হাও² চেপ্‌¹ লোঙ⁶",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nan4",
+        "hau2",
+        "tsep1",
+        "long6"
+      ],
+      "glosses": [
+        "so",
+        "so",
+        "so",
+        "1Pl",
+        "hurt",
+        "much"
+      ],
+      "free_translation_en": "It is difficult for me to get to see my mother.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* Yehom Buragohain said that in Phake this was pronounced as sa1 kut4 sa1 kaat4,. She gave the following example of its use:"
+    },
+    {
+      "id": "book_future_khamyang_s022",
+      "text_roman": "hang2 pa1 tsaang5 nai4 khau6 an5 tsaang5 lik4 nai4 khau6",
+      "lik_tai": "ႁင်ႇ ပႃ ၸႃင်ႉ ၼႆး ၶဝ်ႊ ဢၼ်ႉ ၸႃင်ႉ လိၵ်း ၼႆး ၶဝ်ႊ",
+      "assamese_script": "হাঙ² পা¹ চাঙ⁵ নাই⁴ খাও⁶ অন⁵ চাঙ⁵ লিক্‌⁴ নাই⁴ খাও⁶",
+      "morphemes": [
+        "hang2",
+        "pa1",
+        "tsaang5",
+        "nai4",
+        "khau6",
+        "an5",
+        "tsaang5",
+        "lik4",
+        "nai4",
+        "khau6"
+      ],
+      "glosses": [
+        "to",
+        "AGENT",
+        "know",
+        "DEF",
+        "3Pl",
+        "CLF",
+        "know",
+        "book",
+        "DEF",
+        "3Pl"
+      ],
+      "free_translation_en": "Those who know the books should teach those who don't know, so that they will be able to know",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* Phonetically [haa*]."
+    },
+    {
+      "id": "book_future_khamyang_s023",
+      "text_roman": "pa1 het1 set4 tsaa1 waa5 se6 hau2 khai5 kin2",
+      "lik_tai": "ပႃ ေႁတ် ေꩢတ်း ၸႃ ဝႃႉ ေꩢႊ ႁဝ်ႇ ၶႆႉ ၵိၼ်ႇ",
+      "assamese_script": "পা¹ হেত্‌¹ সেত্‌⁴ চা¹ ৱা⁵ সে⁶ হাও² খাই⁵ কিন²",
+      "morphemes": [
+        "pa1",
+        "het1",
+        "set4",
+        "tsaa1",
+        "waa5",
+        "se6",
+        "hau2",
+        "khai5",
+        "kin2"
+      ],
+      "glosses": [
+        "AGENT",
+        "do",
+        "truth",
+        "truth",
+        "say",
+        "PRT",
+        "1Pl",
+        "tell",
+        "RECIP"
+      ],
+      "free_translation_en": "We are doing something about it, we are discussing it.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s024",
+      "text_roman": "lz4 pz5 nai4 to5 tang1 long6 kum5 kin5 khai5 kin5 1",
+      "lik_tai": "လး ပႉ ၼႆး တူႉ တင် လူင်ႊ ၵုမ်ႉ ၵိၼ်ႉ ၶႆႉ ၵိၼ်ႉ 1",
+      "assamese_script": "ল⁴ প⁵ নাই⁴ তো⁵ তাঙ¹ লোঙ⁶ কুম⁵ কিন⁵ খাই⁵ কিন⁵ 1",
+      "morphemes": [
+        "lz4",
+        "pz5",
+        "nai4",
+        "to5",
+        "tang1",
+        "long6",
+        "kum5",
+        "kin5",
+        "khai5",
+        "kin5",
+        "1"
+      ],
+      "glosses": [
+        "so",
+        "so",
+        "so",
+        "body",
+        "all",
+        "all",
+        "discuss",
+        "RECIP",
+        "speak",
+        "RECIP",
+        "PRT"
+      ],
+      "free_translation_en": "So therefore we are all discussing this.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s025",
+      "text_roman": "hau2 kon2 tai2 tai2 kham2 yaang2 tso5 puu1",
+      "lik_tai": "ႁဝ်ႇ ၵူၼ်ႇ တႆႇ တႆႇ ၶမ်ႇ ယႃင်ႇ ၸူႉ ပ",
+      "assamese_script": "হাও² কোন² তাই² তাই² খাম² যাঙ² চো⁵ প¹",
+      "morphemes": [
+        "hau2",
+        "kon2",
+        "tai2",
+        "tai2",
+        "kham2",
+        "yaang2",
+        "tso5",
+        "puu1"
+      ],
+      "glosses": [
+        "1Pl",
+        "person",
+        "Tai",
+        "Tai",
+        "Khamyang",
+        "Khamyang",
+        "generation",
+        "grandfather"
+      ],
+      "free_translation_en": "We Tai, Tai Khamyang, from the generations of our fathers and grandfathers, came from Khau Khau Mau Lung.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* realised as [maaN2]"
+    },
+    {
+      "id": "book_future_khamyang_s026",
+      "text_roman": "luk4 maau2 long6 maa2 tso5 an5 lai4",
+      "lik_tai": "လုၵ်း မႃဝ်ႇ လူင်ႊ မႃႇ ၸူႉ ဢၼ်ႉ လႆး",
+      "assamese_script": "লুক্‌⁴ মাও² লোঙ⁶ মা² চো⁵ অন⁵ লাই⁴",
+      "morphemes": [
+        "luk4",
+        "maau2",
+        "long6",
+        "maa2",
+        "tso5",
+        "an5",
+        "lai4"
+      ],
+      "glosses": [
+        "from",
+        "Mau Lung",
+        "Mau Lung",
+        "come",
+        "generation",
+        "CLF",
+        "so"
+      ],
+      "free_translation_en": "From Mau Lung, generations ago, hundreds and thousands of years ago.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s027",
+      "text_roman": "mot1 y4",
+      "lik_tai": "မူတ် ယး",
+      "assamese_script": "মোত্‌¹ য⁴",
+      "morphemes": [
+        "mot1",
+        "y4"
+      ],
+      "glosses": [
+        "finished",
+        "FINISHED"
+      ],
+      "free_translation_en": "It is all finished.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* This is clearly a process of [au] > [q]."
+    },
+    {
+      "id": "book_future_khamyang_s028",
+      "text_roman": "hau2 tsn5 nɯng5 nai4 yang5 suu1 tai2 kham2 yaang2 tii5 thai4",
+      "lik_tai": "ႁဝ်ႇ ၸၼ်ႉ ၼိုင်ႉ ၼႆး ယင်ႉ ꩢ တႆႇ ၶမ်ႇ ယႃင်ႇ တႉ ထႆး",
+      "assamese_script": "হাও² চন⁵ নুঙ⁵ নাই⁴ যাঙ⁵ স¹ তাই² খাম² যাঙ² ত⁵ থাই⁴",
+      "morphemes": [
+        "hau2",
+        "tsn5",
+        "nɯng5",
+        "nai4",
+        "yang5",
+        "suu1",
+        "tai2",
+        "kham2",
+        "yaang2",
+        "tii5",
+        "thai4"
+      ],
+      "glosses": [
+        "we",
+        "little",
+        "one",
+        "this",
+        "have",
+        "TOWARDS",
+        "Tai",
+        "Khamyang",
+        "Khamyang",
+        "at",
+        "here"
+      ],
+      "free_translation_en": "We still have a little of the Tai Khamyang here.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s029",
+      "text_roman": "tai2 j1 tai2 tsjt4 nai4 k4 khaam2 pa1 tsau3 lɯm2 kaa1",
+      "lik_tai": "တႆႇ ဢ တႆႇ ၸတ်း ၼႆး ၵး ၶႃမ်ႇ ပႃ ၸဝ်ႈ လိုမ်ႇ ၵႃ",
+      "assamese_script": "তাই² অ¹ তাই² চত্‌⁴ নাই⁴ ক⁴ খাম² পা¹ চাও³ লুম² কা¹",
+      "morphemes": [
+        "tai2",
+        "j1",
+        "tai2",
+        "tsjt4",
+        "nai4",
+        "k4",
+        "khaam2",
+        "pa1",
+        "tsau3",
+        "lɯm2",
+        "kaa1"
+      ],
+      "glosses": [
+        "Tai",
+        "PRT",
+        "Tai",
+        "pure",
+        "this",
+        "LINK",
+        "word",
+        "self",
+        "self",
+        "forget",
+        "GO"
+      ],
+      "free_translation_en": "We have forgotten how to be true Tai, that is having our own language, and we have become like the Assamese.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s030",
+      "text_roman": "ɯm1 pen5 ka1 laa2 kaa1",
+      "lik_tai": "ဢိုမ် ေပၼ်ႉ ၵႃ လႃႇ ၵႃ",
+      "assamese_script": "উম¹ পেন⁵ কা¹ লা² কা¹",
+      "morphemes": [
+        "ɯm1",
+        "pen5",
+        "ka1",
+        "laa2",
+        "kaa1"
+      ],
+      "glosses": [
+        "HESIT",
+        "be",
+        "foreigner",
+        "foreigner",
+        "GO"
+      ],
+      "free_translation_en": "We became foreigners.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s031",
+      "text_roman": "an5 lung5 an5 mai5 k4 ɛng1 mang5",
+      "lik_tai": "ဢၼ်ႉ လုင်ႉ ဢၼ်ႉ မႆႉ ၵး ႄဢင် မင်ႉ",
+      "assamese_script": "অন⁵ লুঙ⁵ অন⁵ মাই⁵ ক⁴ অেঙ¹ মাঙ⁵",
+      "morphemes": [
+        "an5",
+        "lung5",
+        "an5",
+        "mai5",
+        "k4",
+        "ɛng1",
+        "mang5"
+      ],
+      "glosses": [
+        "CLF",
+        "wear",
+        "CLF",
+        "cover",
+        "LINK",
+        "NEG",
+        "have"
+      ],
+      "free_translation_en": "We no longer wear (our traditional clothes).",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s032",
+      "text_roman": "tsn2 tsn2 nai4 mang5 phung6 pa1 ying2 nai4 khau1",
+      "lik_tai": "ၸၼ်ႇ ၸၼ်ႇ ၼႆး မင်ႉ ၽုင်ႊ ပႃ ယိင်ႇ ၼႆး ၶဝ်",
+      "assamese_script": "চন² চন² নাই⁴ মাঙ⁵ ফুঙ⁶ পা¹ যিঙ² নাই⁴ খাও¹",
+      "morphemes": [
+        "tsn2",
+        "tsn2",
+        "nai4",
+        "mang5",
+        "phung6",
+        "pa1",
+        "ying2",
+        "nai4",
+        "khau1"
+      ],
+      "glosses": [
+        "little",
+        "little",
+        "this",
+        "have",
+        "group",
+        "female",
+        "female",
+        "DEF",
+        "3Pl"
+      ],
+      "free_translation_en": "The ladies (wear them), just a little.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s033",
+      "text_roman": "ɯ1 nan3 khau6 j1",
+      "lik_tai": "ဢို ၼၼ်ႈ ၶဝ်ႊ ဢ",
+      "assamese_script": "উ¹ নান³ খাও⁶ অ¹",
+      "morphemes": [
+        "ɯ1",
+        "nan3",
+        "khau6",
+        "j1"
+      ],
+      "glosses": [
+        "HESIT",
+        "Jorhat",
+        "Golaghat",
+        "Sibsagar"
+      ],
+      "free_translation_en": "Um, those in Jorhat, Golaghat and Sibsagar became Assamese.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s034",
+      "text_roman": "ɯm1 po1 taa1 po1 taa1 waa1 saa1 aa1 kyiu2 hau2 nai3 k4",
+      "lik_tai": "ဢိုမ် ပူ တႃ ပူ တႃ ဝႃ ꩢႃ ဢႃ ၵႇ ႁဝ်ႇ ၼႆႈ ၵး",
+      "assamese_script": "উম¹ পো¹ তা¹ পো¹ তা¹ ৱা¹ সা¹ আ¹ ক² হাও² নাই³ ক⁴",
+      "morphemes": [
+        "ɯm1",
+        "po1",
+        "taa1",
+        "po1",
+        "taa1",
+        "waa1",
+        "saa1",
+        "aa1",
+        "kyiu2",
+        "hau2",
+        "nai3",
+        "k4"
+      ],
+      "glosses": [
+        "HESIT",
+        "Buddha",
+        "Buddha",
+        "Buddha",
+        "Buddha",
+        "religion",
+        "religion",
+        "merit",
+        "merit",
+        "1Pl",
+        "this",
+        "LINK"
+      ],
+      "free_translation_en": "They do not know the language of our Buddhist religion.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s035",
+      "text_roman": "ɯm1 aa1 kyiu2 nai4 mang5",
+      "lik_tai": "ဢိုမ် ဢႃ ၵႇ ၼႆး မင်ႉ",
+      "assamese_script": "উম¹ আ¹ ক² নাই⁴ মাঙ⁵",
+      "morphemes": [
+        "ɯm1",
+        "aa1",
+        "kyiu2",
+        "nai4",
+        "mang5"
+      ],
+      "glosses": [
+        "HESIT",
+        "merit",
+        "merit",
+        "DEF",
+        "have"
+      ],
+      "free_translation_en": "We have the religion.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s036",
+      "text_roman": "an5 lung5 nai4 mj5 khɯng5 nai4 khau6",
+      "lik_tai": "ဢၼ်ႉ လုင်ႉ ၼႆး မႉ ၶိုင်ႉ ၼႆး ၶဝ်ႊ",
+      "assamese_script": "অন⁵ লুঙ⁵ নাই⁴ ম⁵ খুঙ⁵ নাই⁴ খাও⁶",
+      "morphemes": [
+        "an5",
+        "lung5",
+        "nai4",
+        "mj5",
+        "khɯng5",
+        "nai4",
+        "khau6"
+      ],
+      "glosses": [
+        "CLF",
+        "wear",
+        "DEF",
+        "mother",
+        "thing",
+        "DEF",
+        "3Pl"
+      ],
+      "free_translation_en": "Our original clothing is no longer found",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* Yehom Buragohain believes that the phrase mj5 kh*N5, literally 'mother things' may refer to the original clothing of the Tai people."
+    },
+    {
+      "id": "book_future_khamyang_s037",
+      "text_roman": "lɛ4 pa1 saau6 luk4 n1 nai4 khau6 pa1 maau1 nai4 khau1",
+      "lik_tai": "ႄလး ပႃ ꩢႃဝ်ႊ လုၵ်း ၼ ၼႆး ၶဝ်ႊ ပႃ မႃဝ် ၼႆး ၶဝ်",
+      "assamese_script": "লে⁴ পা¹ সাও⁶ লুক্‌⁴ ন¹ নাই⁴ খাও⁶ পা¹ মাও¹ নাই⁴ খাও¹",
+      "morphemes": [
+        "lɛ4",
+        "pa1",
+        "saau6",
+        "luk4",
+        "n1",
+        "nai4",
+        "khau6",
+        "pa1",
+        "maau1",
+        "nai4",
+        "khau1"
+      ],
+      "glosses": [
+        "so",
+        "girl",
+        "girl",
+        "child",
+        "child",
+        "DEF",
+        "3Pl",
+        "youth",
+        "youth",
+        "DEF",
+        "3PL"
+      ],
+      "free_translation_en": "So the young girls and boys wear their own clothing at home.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* This is /tii5/, realised in Khamyang as [t&5]"
+    },
+    {
+      "id": "book_future_khamyang_s038",
+      "text_roman": "kaa1 kan5 nk4 j1 khɯng5 pɛn5 lai4 lung5",
+      "lik_tai": "ၵႃ ၵၼ်ႉ ၼၵ်း ဢ ၶိုင်ႉ ႄပၼ်ႉ လႆး လုင်ႉ",
+      "assamese_script": "কা¹ কান⁵ নক্‌⁴ অ¹ খুঙ⁵ পেন⁵ লাই⁴ লুঙ⁵",
+      "morphemes": [
+        "kaa1",
+        "kan5",
+        "nk4",
+        "j1",
+        "khɯng5",
+        "pɛn5",
+        "lai4",
+        "lung5"
+      ],
+      "glosses": [
+        "go",
+        "direction",
+        "outside",
+        "PRT",
+        "thing",
+        "other",
+        "this",
+        "wear"
+      ],
+      "free_translation_en": "When they go out, they wear Assamese clothes.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s039",
+      "text_roman": "lɛ4 pɛ5 nan4 nai4 pa1 tsau3 waa5 sii1",
+      "lik_tai": "ႄလး ႄပႉ ၼၼ်း ၼႆး ပႃ ၸဝ်ႈ ဝႃႉ ꩢ",
+      "assamese_script": "লে⁴ পে⁵ নান⁴ নাই⁴ পা¹ চাও³ ৱা⁵ স¹",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nan4",
+        "nai4",
+        "pa1",
+        "tsau3",
+        "waa5",
+        "sii1"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "PRT",
+        "self",
+        "self",
+        "say",
+        "PRT"
+      ],
+      "free_translation_en": "So, we can say of ourselves, some things we know, some things we do not know.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s040",
+      "text_roman": "lɛ4 pɛ5 nai4 sii6 to5 tang1 long6 tsep1 na1 hɯ6",
+      "lik_tai": "ႄလး ႄပႉ ၼႆး ꩢႊ တူႉ တင် လူင်ႊ ေၸပ် ၼႃ ႁိုႊ",
+      "assamese_script": "লে⁴ পে⁵ নাই⁴ স⁶ তো⁵ তাঙ¹ লোঙ⁶ চেপ্‌¹ না¹ হু⁶",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nai4",
+        "sii6",
+        "to5",
+        "tang1",
+        "long6",
+        "tsep1",
+        "na1",
+        "hɯ6"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "PRT",
+        "body",
+        "all",
+        "all",
+        "hurt",
+        "how",
+        "how"
+      ],
+      "free_translation_en": "So we are distressed, and do not know how we will get (our traditions) back.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* Deben Chowlik stated that barely audible phrase was khan5 naa6, and it meant 'how'."
+    },
+    {
+      "id": "book_future_khamyang_s041",
+      "text_roman": "lɛ4 pɛ5 nai4 sii6 to5 khaɯ3 tsaɯ2 m6 kin5 saang1 kin5",
+      "lik_tai": "ႄလး ႄပႉ ၼႆး ꩢႊ တူႉ ၶႈ ၸႇ မႊ ၵိၼ်ႉ ꩢႃင် ၵိၼ်ႉ",
+      "assamese_script": "লে⁴ পে⁵ নাই⁴ স⁶ তো⁵ খ³ চ² ম⁶ কিন⁵ সাঙ¹ কিন⁵",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nai4",
+        "sii6",
+        "to5",
+        "khaɯ3",
+        "tsaɯ2",
+        "m6",
+        "kin5",
+        "saang1",
+        "kin5"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "PRT",
+        "body",
+        "think",
+        "think",
+        "skilled",
+        "RECIP",
+        "discuss",
+        "RECIP"
+      ],
+      "free_translation_en": "Therefore we have discussed it amongst ourselves in this village",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* realised as [khaa* 3]"
+    },
+    {
+      "id": "book_future_khamyang_s042",
+      "text_roman": "hang2 me2 hang2 luk4 tang1 long6 haɯ3 taan3 khaam2 tai2",
+      "lik_tai": "ႁင်ႇ ေမႇ ႁင်ႇ လုၵ်း တင် လူင်ႊ ႁႈ တႃၼ်ႈ ၶႃမ်ႇ တႆႇ",
+      "assamese_script": "হাঙ² মে² হাঙ² লুক্‌⁴ তাঙ¹ লোঙ⁶ হ³ তান³ খাম² তাই²",
+      "morphemes": [
+        "hang2",
+        "me2",
+        "hang2",
+        "luk4",
+        "tang1",
+        "long6",
+        "haɯ3",
+        "taan3",
+        "khaam2",
+        "tai2"
+      ],
+      "glosses": [
+        "to",
+        "wife",
+        "to",
+        "child",
+        "all",
+        "all",
+        "GIVE",
+        "speak",
+        "word",
+        "Tai"
+      ],
+      "free_translation_en": "We should get out wives and children to learn and speak the Tai language.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "* realised as [haa* 3]"
+    },
+    {
+      "id": "book_future_khamyang_s043",
+      "text_roman": "to5 m6 kin5 1",
+      "lik_tai": "တူႉ မႊ ၵိၼ်ႉ 1",
+      "assamese_script": "তো⁵ ম⁶ কিন⁵ 1",
+      "morphemes": [
+        "to5",
+        "m6",
+        "kin5",
+        "1"
+      ],
+      "glosses": [
+        "body",
+        "skilled",
+        "RECIP",
+        "PRT"
+      ],
+      "free_translation_en": "We consulted.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s044",
+      "text_roman": "lɛ4 pɛ5 nan4 na1 hɯ6 ta1 pen5 ma1 lɯ6 ti1 pj4",
+      "lik_tai": "ႄလး ႄပႉ ၼၼ်း ၼႃ ႁိုႊ တႃ ေပၼ်ႉ မႃ လိုႊ တိ ပး",
+      "assamese_script": "লে⁴ পে⁵ নান⁴ না¹ হু⁶ তা¹ পেন⁵ মা¹ লু⁶ তি¹ প⁴",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nan4",
+        "na1",
+        "hɯ6",
+        "ta1",
+        "pen5",
+        "ma1",
+        "lɯ6",
+        "ti1",
+        "pj4"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "how",
+        "how",
+        "will",
+        "be",
+        "where",
+        "where",
+        "will",
+        "can"
+      ],
+      "free_translation_en": "But how and where can we do this?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s045",
+      "text_roman": "nan4 hau2 taai2 kaa1 hoi1 taa2 tii5 ɯng1 han6 1",
+      "lik_tai": "ၼၼ်း ႁဝ်ႇ တႃႆႇ ၵႃ ႁူႆ တႃႇ တႉ ဢိုင် ႁၼ်ႊ 1",
+      "assamese_script": "নান⁴ হাও² তাই² কা¹ হওই¹ তা² ত⁵ উঙ¹ হান⁶ 1",
+      "morphemes": [
+        "nan4",
+        "hau2",
+        "taai2",
+        "kaa1",
+        "hoi1",
+        "taa2",
+        "tii5",
+        "ɯng1",
+        "han6",
+        "1"
+      ],
+      "glosses": [
+        "that",
+        "1Pl",
+        "die",
+        "GO",
+        "eye",
+        "eye",
+        "place",
+        "NEG",
+        "see",
+        "PRT"
+      ],
+      "free_translation_en": "When we die, our eyes cannot see anything.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s046",
+      "text_roman": "lɛ4 pɛ5 nan4 se6 to5 kaa1 tsang1 nai4 hau2 uu1 nai4",
+      "lik_tai": "ႄလး ႄပႉ ၼၼ်း ေꩢႊ တူႉ ၵႃ ၸင် ၼႆး ႁဝ်ႇ ဢ ၼႆး",
+      "assamese_script": "লে⁴ পে⁵ নান⁴ সে⁶ তো⁵ কা¹ চাঙ¹ নাই⁴ হাও² অ¹ নাই⁴",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nan4",
+        "se6",
+        "to5",
+        "kaa1",
+        "tsang1",
+        "nai4",
+        "hau2",
+        "uu1",
+        "nai4"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "PRT",
+        "body",
+        "go",
+        "now",
+        "now",
+        "1Pl",
+        "stay",
+        "DEF"
+      ],
+      "free_translation_en": "I don't know whether I will go or not.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_future_khamyang_s047",
+      "text_roman": "lɛ4 pɛ5 nan4 to5 het1 set4 tsaa1 khai5 nɛng5 1",
+      "lik_tai": "ႄလး ႄပႉ ၼၼ်း တူႉ ေႁတ် ေꩢတ်း ၸႃ ၶႆႉ ႄၼင်ႉ 1",
+      "assamese_script": "লে⁴ পে⁵ নান⁴ তো⁵ হেত্‌¹ সেত্‌⁴ চা¹ খাই⁵ নেঙ⁵ 1",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nan4",
+        "to5",
+        "het1",
+        "set4",
+        "tsaa1",
+        "khai5",
+        "nɛng5",
+        "1"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "body",
+        "do",
+        "truth",
+        "truth",
+        "tell",
+        "one",
+        "PRT"
+      ],
+      "free_translation_en": "And so we have made this promise.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-1.mp3",
+      "notes": "Deben Chowlik stated that khai5 n&N5 q1 had no meaning."
+    }
+  ],
+  "book_id": "book_future_khamyang",
+  "title": "The Present State and Future of the Tai Khamyang Language",
+  "title_tai": "Pung1 Khing2 Naa3 Kham1 Tai1 Khamyang",
+  "title_as": ""
+}

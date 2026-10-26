@@ -1,0 +1,329 @@
+{
+  "id": "book_avoiding_dangers",
+  "title_khamyang": "Lik4 Paai1 Phaai1 An1 Traai1",
+  "title_english": "The Book of Protection and Avoiding Dangers",
+  "genre": "sacred_protection",
+  "informant": "Chaw Sa Myat Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Traditional protective chants and instructions for warding off harm, misfortune, and malevolent influences.",
+  "audio_file": "3-6-2-5.mp3",
+  "full_translation": "Traditional protective chants and instructions for warding off harm, misfortune, and malevolent influences.",
+  "sentences": [
+    {
+      "id": "book_avoiding_dangers_s001",
+      "text_roman": "ka1 sang6 khaɯ3 nai3 naɯ6 nai3",
+      "lik_tai": "ၵႃ ꩢင်ႊ ၶႈ ၼႆႈ ၼႊ ၼႆႈ",
+      "assamese_script": "কা¹ সাঙ⁶ খ³ নাই³ ন⁶ নাই³",
+      "morphemes": [
+        "ka1",
+        "sang6",
+        "khaɯ3",
+        "nai3",
+        "naɯ6",
+        "nai3"
+      ],
+      "glosses": [
+        "what",
+        "what",
+        "want",
+        "get",
+        "what",
+        "get"
+      ],
+      "free_translation_en": "What do you want to get?",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s002",
+      "text_roman": "an2 nai4 lik4 nai4 lik4 tsv5 mvn2 sang6",
+      "lik_tai": "ဢၼ်ႇ ၼႆး လိၵ်း ၼႆး လိၵ်း ၸႉ မၼ်ႇ ꩢင်ႊ",
+      "assamese_script": "অন² নাই⁴ লিক্‌⁴ নাই⁴ লিক্‌⁴ চ⁵ মন² সাঙ⁶",
+      "morphemes": [
+        "an2",
+        "nai4",
+        "lik4",
+        "nai4",
+        "lik4",
+        "tsv5",
+        "mvn2",
+        "sang6"
+      ],
+      "glosses": [
+        "CLF",
+        "DEF",
+        "book",
+        "this",
+        "book",
+        "name",
+        "3Sg",
+        "what"
+      ],
+      "free_translation_en": "What is the name of this book?",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s003",
+      "text_roman": "phun6 phe2 phun6 phe2",
+      "lik_tai": "ၽုၼ်ႊ ေၽႇ ၽုၼ်ႊ ေၽႇ",
+      "assamese_script": "ফুন⁶ ফে² ফুন⁶ ফে²",
+      "morphemes": [
+        "phun6",
+        "phe2",
+        "phun6",
+        "phe2"
+      ],
+      "glosses": [
+        "volume",
+        "danger",
+        "volume",
+        "danger"
+      ],
+      "free_translation_en": "The book of (avoiding) danger.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s004",
+      "text_roman": "phun6 phe2",
+      "lik_tai": "ၽုၼ်ႊ ေၽႇ",
+      "assamese_script": "ফুন⁶ ফে²",
+      "morphemes": [
+        "phun6",
+        "phe2"
+      ],
+      "glosses": [
+        "volume",
+        "danger"
+      ],
+      "free_translation_en": "The book of (avoiding) danger.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s005",
+      "text_roman": "an2 nai4 lik4 nai4 phav6 phav6 tjm3",
+      "lik_tai": "ဢၼ်ႇ ၼႆး လိၵ်း ၼႆး ၽႊ ၽႊ တမ်ႈ",
+      "assamese_script": "অন² নাই⁴ লিক্‌⁴ নাই⁴ ফ⁶ ফ⁶ তম³",
+      "morphemes": [
+        "an2",
+        "nai4",
+        "lik4",
+        "nai4",
+        "phav6",
+        "phav6",
+        "tjm3"
+      ],
+      "glosses": [
+        "CLF",
+        "DEF",
+        "book",
+        "DEF",
+        "who",
+        "who",
+        "write"
+      ],
+      "free_translation_en": "And who wrote this book?",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s006",
+      "text_roman": "2 nai4 yj4 puu1 tsau3 hau2 p5 tsau3 khau6",
+      "lik_tai": "2 ၼႆး ယး ပ ၸဝ်ႈ ႁဝ်ႇ ပႉ ၸဝ်ႈ ၶဝ်ႊ",
+      "assamese_script": "2 নাই⁴ য⁴ প¹ চাও³ হাও² প⁵ চাও³ খাও⁶",
+      "morphemes": [
+        "2",
+        "nai4",
+        "yj4",
+        "puu1",
+        "tsau3",
+        "hau2",
+        "p5",
+        "tsau3",
+        "khau6"
+      ],
+      "glosses": [
+        "EXCL",
+        "this",
+        "PRT",
+        "grandfather",
+        "RESP",
+        "1Pl",
+        "father",
+        "RESP",
+        "3Pl"
+      ],
+      "free_translation_en": "Oh, it was written by the father of our grandfather.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s007",
+      "text_roman": "khaam2 hɯng6 long6 kaa1",
+      "lik_tai": "ၶႃမ်ႇ ႁိုင်ႊ လူင်ႊ ၵႃ",
+      "assamese_script": "খাম² হুঙ⁶ লোঙ⁶ কা¹",
+      "morphemes": [
+        "khaam2",
+        "hɯng6",
+        "long6",
+        "kaa1"
+      ],
+      "glosses": [
+        "word",
+        "long time",
+        "big",
+        "GO"
+      ],
+      "free_translation_en": "This is page seventy, isn't it?",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s001",
+      "text_roman": "kj3 yau4 tau1 khaak4 laai2 se6 nii5 h6",
+      "lik_tai": "ၵႈ ယဝ်း တဝ် ၶႃၵ်း လႃႆႇ ေꩢႊ ၼႉ ႁႊ",
+      "assamese_script": "ক³ যাও⁴ তাও¹ খাক্‌⁴ লাই² সে⁶ ন⁵ হ⁶",
+      "morphemes": [
+        "kj3",
+        "yau4",
+        "tau1",
+        "khaak4",
+        "laai2",
+        "se6",
+        "nii5",
+        "h6"
+      ],
+      "glosses": [
+        "rescue",
+        "FINISHED",
+        "spit",
+        "spit",
+        "spittle",
+        "PRT",
+        "good",
+        "PRT"
+      ],
+      "free_translation_en": "Sentence 1 from book_avoiding_dangers.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s002",
+      "text_roman": "phan6 pzn5 pan5 koi3 pan5 i3 tak1 nai3 laap4 h6",
+      "lik_tai": "ၽၼ်ႊ ပၼ်ႉ ပၼ်ႉ ၵူႆႈ ပၼ်ႉ ဢိႈ တၵ် ၼႆႈ လႃပ်း ႁႊ",
+      "assamese_script": "ফান⁶ পন⁵ পান⁵ কওই³ পান⁵ ই³ তাক্‌¹ নাই³ লাপ্‌⁴ হ⁶",
+      "morphemes": [
+        "phan6",
+        "pzn5",
+        "pan5",
+        "koi3",
+        "pan5",
+        "i3",
+        "tak1",
+        "nai3",
+        "laap4",
+        "h6"
+      ],
+      "glosses": [
+        "dream",
+        "other",
+        "give",
+        "banana",
+        "give",
+        "molasses",
+        "WILL",
+        "get",
+        "reward",
+        "PRT"
+      ],
+      "free_translation_en": "Read it, please, for the tape.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": "* Perhaps Shan lBpqH 'present, acquired fortune'. Phake lAp4."
+    },
+    {
+      "id": "book_avoiding_dangers_s003",
+      "text_roman": "phan6 nung5 phj2 tsam4",
+      "lik_tai": "ၽၼ်ႊ ၼုင်ႉ ၽႇ ၸမ်း",
+      "assamese_script": "ফান⁶ নুঙ⁵ ফ² চাম⁴",
+      "morphemes": [
+        "phan6",
+        "nung5",
+        "phj2",
+        "tsam4"
+      ],
+      "glosses": [
+        "dream",
+        "wear",
+        "satin",
+        "PRT"
+      ],
+      "free_translation_en": "If he dreams of wearing satin.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_avoiding_dangers_s004",
+      "text_roman": "phuu3 lik4 tak1 nii2 tj4 h1",
+      "lik_tai": "ၽႈ လိၵ်း တၵ် ၼႇ တး ႁ",
+      "assamese_script": "ফ³ লিক্‌⁴ তাক্‌¹ ন² ত⁴ হ¹",
+      "morphemes": [
+        "phuu3",
+        "lik4",
+        "tak1",
+        "nii2",
+        "tj4",
+        "h1"
+      ],
+      "glosses": [
+        "poor man",
+        "poor man",
+        "WILL",
+        "good",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "Of wearing every type of satin.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-6-2-5.mp3",
+      "notes": ""
+    }
+  ],
+  "book_id": "book_avoiding_dangers",
+  "title": "The Book of Protection and Avoiding Dangers",
+  "title_tai": "Lik4 Paai1 Phaai1 An1 Traai1",
+  "title_as": ""
+}

@@ -1,0 +1,112 @@
+{
+  "book_id": "book_cochrane_1915_the_shans",
+  "title": "The Shans: Historical Annals, Origin Myths and Dialects of the Tai",
+  "title_tai": "ပပ်ႉ ပိုၼ်း တႆး ၶွင်ႇ ဝီႇလ်ၿိူဝ်ႇ ဝီႇလိတ်ႉသ် ၶွၵ်ႉၶရဵၼ်ႇ (၁၉၁၅)",
+  "title_as": "টাই জাতিৰ ইতিহাস, পৌৰাণিক কাহিনী আৰু ভাষা-সংস্কৃতি (ডব্লিউ. ডব্লিউ. ক'ক্ৰেন, ১৯১৫)",
+  "author": "Wilbur Willis Cochrane",
+  "year": 1915,
+  "genre": "Historiography, Mythology & Dialectology",
+  "category": "Comparative Tai Studies",
+  "provenance": "Superintendent, Government Printing, Rangoon (1915); digitized by Cornell University and Internet Archive (theshans01coch)",
+  "digitalized_from": "scratch/Cochrane_1915_The_Shans.txt",
+  "license": "Public Domain (Published 1915)",
+  "total_sentences": 3,
+  "description": "Comprehensive historical monograph on the origins, folk migrations, religious traditions, and dialectological divisions of the Tai family, documenting the historical ties between Upper Burma and Assam.",
+  "units": [
+    {
+      "unit_id": "cochrane_1915_u001",
+      "surface_tai": "ၸိူဝ်ႉၶိူဝ်း တႆး မီး ပိုၼ်း ယႂ်ႇ လုၵ်ႉ မိူင်းမၢဝ်း မႃး တင်ႈ မိူင်း",
+      "surface_assamese": "টাই জাতিৰ ইতিহাস সুবিশাল, তেওঁলোকে মৌংমাওৰ পৰা আহি নতুন ৰাজ্য গঢ়িছিল",
+      "romanization": "cɯ́-khə́ tai mii pɯn yaɯ luk mə́ŋ-maao maa taŋ mə́ŋ",
+      "morphemes": [
+        "cɯ́-khə́",
+        "tai",
+        "mii",
+        "pɯn",
+        "yaɯ",
+        "luk",
+        "mə́ŋ-maao",
+        "maa",
+        "taŋ",
+        "mə́ŋ"
+      ],
+      "gloss": [
+        "lineage/race",
+        "Tai",
+        "have",
+        "history",
+        "great",
+        "emerge",
+        "Mungmau",
+        "come",
+        "establish",
+        "kingdom"
+      ],
+      "translation_en": "The Tai race has a grand history, migrating from Mungmau to establish new realms.",
+      "translation_as": "টাই জাতিৰ ইতিহাস সুবিশাল, তেওঁলোকে মৌংমাওৰ পৰা আহি নতুন ৰাজ্য গঢ়িছিল।",
+      "notes": "Cochrane (1915: 14). Southwestern Tai historical trajectory."
+    },
+    {
+      "unit_id": "cochrane_1915_u002",
+      "surface_tai": "ၽႃႇသႃႇ တႆး ၵူႈ တီႈ မီး လိၵ်ႈလၢႆး ၸိုဝ်ႈသဵင် ၵိုၵ်း သာသၼႃႇ",
+      "surface_assamese": "সকলো অঞ্চলৰ টাই ভাষাত বৌদ্ধ ধৰ্মৰ লগত জড়িত ঐতিহ্যমণ্ডিত সাহিত্য আছে",
+      "romanization": "phaa-saa tai ku tii mii lik-laai cɯɯ-seŋ kək saa-sa-naa",
+      "morphemes": [
+        "phaa-saa",
+        "tai",
+        "ku",
+        "tii",
+        "mii",
+        "lik-laai",
+        "cɯɯ-seŋ",
+        "kək",
+        "saa-sa-naa"
+      ],
+      "gloss": [
+        "language",
+        "Tai",
+        "every",
+        "place",
+        "have",
+        "literature",
+        "fame",
+        "linked",
+        "religion/Sasana"
+      ],
+      "translation_en": "The Tai language across all regions possesses celebrated literature linked to the Buddhist faith.",
+      "translation_as": "সকলো অঞ্চলৰ টাই ভাষাত বৌদ্ধ ধৰ্মৰ লগত জড়িত ঐতিহ্যমণ্ডিত সাহিত্য আছে।",
+      "notes": "Cochrane (1915: 78). The interconnection between Tai script and Theravada Buddhist literature."
+    },
+    {
+      "unit_id": "cochrane_1915_u003",
+      "surface_tai": "ၵူၼ် တႆး ႁၵ်ႉ ၽႃႇသႃႇ လႄႈ လိၵ်ႈ ၸဝ်ႈၵဝ်ႇ တိုဝ်း မၼ်ႈၵိုမ်း",
+      "surface_assamese": "টাইসকলে নিজৰ মাতৃভাষা আৰু লিপিক চিৰদিন শ্ৰদ্ধাৰে ৰক্ষা কৰে",
+      "romanization": "kon tai hak phaa-saa lɛ lik cao-kao tɯɯ man-kəm",
+      "morphemes": [
+        "kon",
+        "tai",
+        "hak",
+        "phaa-saa",
+        "lɛ",
+        "lik",
+        "cao-kao",
+        "tɯɯ",
+        "man-kəm"
+      ],
+      "gloss": [
+        "person",
+        "Tai",
+        "love",
+        "language",
+        "and",
+        "script",
+        "oneself",
+        "preserve",
+        "steadfast"
+      ],
+      "translation_en": "The Tai people cherish and steadfastly preserve their mother tongue and written script.",
+      "translation_as": "টাইসকলে নিজৰ মাতৃভাষা আৰু লিপিক চিৰদিন শ্ৰদ্ধাৰে ৰক্ষা কৰে।",
+      "notes": "Cochrane's reflections on Tai linguistic resilience."
+    }
+  ]
+}

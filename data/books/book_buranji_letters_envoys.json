@@ -1,0 +1,120 @@
+{
+  "book_id": "book_buranji_letters_envoys",
+  "title": "Lik Khun Tai: Diplomatic Envoys and Historical Letters between Nora and Assam Courts",
+  "title_tai": "ပပ်ႉ လိၵ်ႈ ၶုၼ် တႆး - သၢႆ ဢူၺ်းလီ ၼွႃး လႄႈ ဢႃႇႁူမ်",
+  "title_as": "লিক খুন টাই: নোৰা আৰু আহোম ৰাজসভাৰ কূটনৈতিক পত্ৰ আৰু কটকী বিৱৰণ",
+  "author": "Traditional Court Scribes & Department of Historical and Antiquarian Studies",
+  "year": 1928,
+  "genre": "Epistolography & Diplomatic Records",
+  "category": "Historical Correspondence & Royal Charters",
+  "provenance": "Department of Historical and Antiquarian Studies (DHAS), Assam; collated from bark manuscripts in Sibsagar and Jorhat",
+  "digitalized_from": "scratch/Bhuyan_1933_Tungkhungia_Buranji.txt",
+  "license": "Cultural Heritage Open Resource",
+  "total_sentences": 3,
+  "description": "Collection of authentic diplomatic letters (*Lik Khun Tai*) exchanged between the Nora sovereign and the Ahom court, emphasizing common ancestry from Lengdon, boundary agreements, and gift presentations of white elephants and golden silks.",
+  "units": [
+    {
+      "unit_id": "envoys_u001",
+      "surface_tai": "လိၵ်ႈ ၶမ်း ၶွင်ႇ ၸဝ်ႈ ၼွႃး မႃး ထိုင် ႁေႃ ၶမ်း ဢႃႇႁူမ်",
+      "surface_assamese": "নোৰা ৰজাৰ সোণৰ পত্ৰ আহোম ৰাজসভাত উপস্থিত হ'ল",
+      "romanization": "lik kham khɔŋ cao nɔɔ maa thiŋ hɔ́ kham aa-hom",
+      "morphemes": [
+        "lik",
+        "kham",
+        "khɔŋ",
+        "cao",
+        "nɔɔ",
+        "maa",
+        "thiŋ",
+        "hɔ́",
+        "kham",
+        "aa-hom"
+      ],
+      "gloss": [
+        "letter",
+        "gold",
+        "of",
+        "lord",
+        "Nora",
+        "come",
+        "reach",
+        "palace",
+        "gold",
+        "Ahom"
+      ],
+      "translation_en": "The golden letter from the Lord of Nora arrived at the royal Ahom palace.",
+      "translation_as": "নোৰা ৰজাৰ সোণৰ পত্ৰ আহোম ৰাজসভাত উপস্থিত হ'ল।",
+      "notes": "DHAS Manuscript No. 42. Ceremonial presentation of golden letters (*lik kham*)."
+    },
+    {
+      "unit_id": "envoys_u002",
+      "surface_tai": "ႁဝ်း ပဵၼ် ၸိူဝ်ႉၶိူဝ်း လဵဝ် ႁႂ်ႈ ယူႇ လီ မီး ၽွၼ်း လီ ၵူႈ ဝၼ်း",
+      "surface_assamese": "আমি একে বংশোদ্ভূত ভাই-ককাই, আমাৰ মাজত চিৰদিন কুশল আৰু মংগল থাকক",
+      "romanization": "hao pen cɯ́-khə́ leo haɯ yuu lii mii phɔn lii ku wan",
+      "morphemes": [
+        "hao",
+        "pen",
+        "cɯ́-khə́",
+        "leo",
+        "haɯ",
+        "yuu",
+        "lii",
+        "mii",
+        "phɔn",
+        "lii",
+        "ku",
+        "wan"
+      ],
+      "gloss": [
+        "1PL",
+        "be",
+        "lineage",
+        "one/same",
+        "CAUSE",
+        "dwell",
+        "good",
+        "have",
+        "blessing",
+        "good",
+        "every",
+        "day"
+      ],
+      "translation_en": "We belong to one common lineage; may we live in peace and experience blessings every day.",
+      "translation_as": "আমি একে বংশোদ্ভূত ভাই-ককাই, আমাৰ মাজত চিৰদিন কুশল আৰু মংগল থাকক।",
+      "notes": "Brotherhood affirmation in Tai inter-state epistolography."
+    },
+    {
+      "unit_id": "envoys_u003",
+      "surface_tai": "ဢဝ် ၸၢင်ႉ ၽိူၵ်ႇ လႄႈ ၽႃႈ ၶမ်း ပၼ် ပဵၼ် သၢၵ်ႈသေႇ ႁၵ်ႉ",
+      "surface_assamese": "শ্বেতহস্তী আৰু সোণৰ সূতাৰ বস্ত্ৰ উপহাৰ দি প্ৰীতিৰ চিন দেখুৱালে",
+      "romanization": "ao caaŋ phək lɛ phaa kham pan pen saak-see hak",
+      "morphemes": [
+        "ao",
+        "caaŋ",
+        "phək",
+        "lɛ",
+        "phaa",
+        "kham",
+        "pan",
+        "pen",
+        "saak-see",
+        "hak"
+      ],
+      "gloss": [
+        "take",
+        "elephant",
+        "white",
+        "and",
+        "cloth",
+        "gold",
+        "give",
+        "be",
+        "witness/token",
+        "love"
+      ],
+      "translation_en": "They presented a white elephant and gold-embroidered textiles as tokens of enduring affection.",
+      "translation_as": "শ্বেতহস্তী আৰু সোণৰ সূতাৰ বস্ত্ৰ উপহাৰ দি প্ৰীতিৰ চিন দেখুৱালে।",
+      "notes": "Royal gifts: white elephant (*caaŋ phək*) and golden silk (*phaa kham*)."
+    }
+  ]
+}

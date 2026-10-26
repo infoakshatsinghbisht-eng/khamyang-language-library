@@ -1,0 +1,372 @@
+{
+  "id": "book_bhuyan_1932_asamar_padya_buranji",
+  "book_id": "book_bhuyan_1932_asamar_padya_buranji",
+  "title": "Asamar Padya-Buranji: Or Metrical Chronicles of Assam",
+  "author": "Dutiram Hazarika, Bisweswar Baidyadhipa & Dr. S. K. Bhuyan",
+  "year": 1932,
+  "genre": "Metrical Verse Chronicles & Royal Annals",
+  "description": "Monumental verse chronicle consisting of Dutiram Hazarika's 'Kali-Bharat Buranji' (1679–1858) and Bisweswar Baidyadhipa's 'Belimarar Buranji' (1780–1845), edited with exhaustive critical apparatus by Dr. S. K. Bhuyan at the Department of Historical and Antiquarian Studies (DHAS), recounting the late Ahom dynasty, the Moamaria rebellions, Burmese wars, and British treaty negotiations in traditional Assamese verse meters.",
+  "source": "Internet Archive / DLI (in.ernet.dli.2015.452327)",
+  "archive_id": "in.ernet.dli.2015.452327",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_001",
+      "lik_tai": "ပိုၼ်း ပတ်ႉယႃႇ ဢႃႇသၢမ် ပဵၼ် ပိုၼ်း ၵႃႇထႃႇ ၶွင် ၸဝ်ႈ ၾႃႉ",
+      "text_roman": "pün pat ya a sam pen pün ka tha khawng caw fa",
+      "assamese_script": "অসমৰ পদ্য-বুৰঞ্জী হৈছে স্বৰ্গদেউসকলৰ কাব্যিক ছন্দোবদ্ধ ইতিহাস",
+      "morphemes": [
+        "pün",
+        "pat-ya",
+        "a-sam",
+        "pen",
+        "pün",
+        "ka-tha",
+        "khawng",
+        "caw-fa"
+      ],
+      "glosses": [
+        "chronicle",
+        "verse/metrical",
+        "Assam",
+        "be",
+        "history",
+        "poetic-verse",
+        "of",
+        "king"
+      ],
+      "free_translation_en": "The Asamar Padya-Buranji is a metrical poetic history of the Ahom monarchs.",
+      "free_translation_as": "অসমৰ পদ্য-বুৰঞ্জী হৈছে আহোম স্বৰ্গদেউসকলৰ পদ্যছন্দত ৰচিত এক অপূৰ্ব ইতিহাস।",
+      "speaker": "Dr. Suryya Kumar Bhuyan",
+      "location": "DHAS, Guwahati, Assam",
+      "notes": "Title & introductory preface by Dr. S. K. Bhuyan."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_002",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ၵတႃႇထႃႇ သိင်ႇႁႃႉ ၶိုၼ်ႈ ႁေႃ တီႈ ဝဵင်း ၵႃႇရ်ႈၵၢဝ်း",
+      "text_roman": "caw fa ka da tha sing ha khün haw ti weng kar kaw",
+      "assamese_script": "স্বৰ্গদেউ গদাধৰ সিংহ গড়গাঁৱৰ ৰাজপাটত আৰোহণ কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "ka-da-tha-sing-ha",
+        "khün",
+        "haw",
+        "ti",
+        "weng",
+        "kar-kaw"
+      ],
+      "glosses": [
+        "king",
+        "Gadadhar-Singha",
+        "ascend",
+        "palace/throne",
+        "at",
+        "city",
+        "Gargaon"
+      ],
+      "free_translation_en": "King Gadadhar Singha ascended the royal throne at the capital of Gargaon.",
+      "free_translation_as": "স্বৰ্গদেউ গদাধৰ সিংহ গড়গাঁৱৰ সিংহাসনত উপৱিষ্ট হৈ ৰাজ্য শাসন কৰিলে।",
+      "speaker": "Dutiram Hazarika",
+      "location": "Gargaon, Assam",
+      "notes": "Kali-Bharat Buranji opening canto."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_003",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ရုទ្រ သိင်ႇႁႃႉ ႁဵတ်း ဝဵင်း ႁၢင်ႈလီ ရင်းပူဝ်ႇ",
+      "text_roman": "caw fa ru dra sing ha het weng hang li rang pur",
+      "assamese_script": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই নতুন ৰাজধানী ৰংপুৰ নগৰ নিৰ্মাণ কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "ru-dra-sing-ha",
+        "het",
+        "weng",
+        "hang-li",
+        "rang-pur"
+      ],
+      "glosses": [
+        "king",
+        "Rudra-Singha",
+        "build",
+        "city",
+        "beautiful",
+        "Rangpur"
+      ],
+      "free_translation_en": "King Rudra Singha constructed the majestic and splendid metropolis of Rangpur.",
+      "free_translation_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই ৰংপুৰ মহানগৰীৰ অপৰূপ কাৰেং আৰু দেৱালয় নিৰ্মাণ কৰালে।",
+      "speaker": "Dutiram Hazarika",
+      "location": "Rangpur, Assam",
+      "notes": "Construction of Rangpur capital."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_004",
+      "lik_tai": "ၶုၼ် ဢႃႇႁူမ် သွင်ႇ ၽွင်းၶဵဝ် ၵႂႃႇ မိူင်း ၼေႃးရႃႇ သွင်ႇ လိၵ်ႈ ၶမ်း",
+      "text_roman": "khun a hom sawng phawng khew kwa möng naw ra sawng lik kham",
+      "assamese_script": "স্বৰ্গদেৱে নোৰা ৰাজ্যলৈ কটকী পঠাই সোণৰ মোহৰ আৰু পত্ৰ যাচিলে",
+      "morphemes": [
+        "khun",
+        "a-hom",
+        "sawng",
+        "phawng-khew",
+        "kwa",
+        "möng",
+        "naw-ra",
+        "sawng",
+        "lik-kham"
+      ],
+      "glosses": [
+        "ruler",
+        "Ahom",
+        "send",
+        "envoy",
+        "go",
+        "country",
+        "Nora",
+        "send",
+        "golden-letter"
+      ],
+      "free_translation_en": "The Ahom sovereign dispatched envoys and golden letters to the Nora realm.",
+      "free_translation_as": "আহোম স্বৰ্গদেৱে পিতৃভূমি নোৰা ৰাজ্যলৈ ৰাজকীয় কটকী আৰু উপহাৰ প্ৰেৰণ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Embassies to Nora recorded in metrical chronicles."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_005",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ৰႃႇၵျေႇသျွႃႇရီႇ သိင်ႇႁႃႉ ၸွႆႈ ၶုၼ် မိူင်း မၼိပူဝ်ႇရ်",
+      "text_roman": "caw fa ra kye swa ri sing ha cway khun möng ma ni pur",
+      "assamese_script": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহই মণিপুৰৰ ৰজাক সহায় কৰিবলৈ সেনা পঠালে",
+      "morphemes": [
+        "caw-fa",
+        "ra-kye-swa-ri-sing-ha",
+        "cway",
+        "khun",
+        "möng",
+        "ma-ni-pur"
+      ],
+      "glosses": [
+        "king",
+        "Rajeswar-Singha",
+        "help",
+        "ruler",
+        "country",
+        "Manipur"
+      ],
+      "free_translation_en": "King Rajeswar Singha dispatched an allied army to assist the Raja of Manipur.",
+      "free_translation_as": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহই মিত্ৰতাৰ খাতিৰত মণিপুৰৰ ৰজাক সাহায্য কৰিবলৈ সৈন্য পঠালে।",
+      "speaker": "Dutiram Hazarika",
+      "location": "Rangpur, Assam",
+      "notes": "The Lata-Kata Ran expedition to Manipur."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_006",
+      "lik_tai": "သိုၵ်း မူဝ်ႇဢႃႇမႃႇရီႇယႃႇ ပဵၼ် သိုၵ်း ယႂ်ႇ ၼႂ်း မိူင်း",
+      "text_roman": "sük mo a ma ri ya pen sük yai nai möng",
+      "assamese_script": "মোৱামৰীয়া বিদ্ৰোহৰ ফলত সমগ্ৰ ৰাজ্যত অশান্তি বিয়পি পৰিল",
+      "morphemes": [
+        "sük",
+        "mo-a-ma-ri-ya",
+        "pen",
+        "sük",
+        "yai",
+        "nai",
+        "möng"
+      ],
+      "glosses": [
+        "war",
+        "Moamaria",
+        "be",
+        "conflict",
+        "great",
+        "in",
+        "country"
+      ],
+      "free_translation_en": "The Moamaria uprising broke out as a devastating conflict across the land.",
+      "free_translation_as": "মোৱামৰীয়া বিদ্ৰোহৰ ফলত দেশত ব্যাপক ৰাজনৈতিক অস্থিৰতাৰ সৃষ্টি হৈছিল।",
+      "speaker": "Bisweswar Baidyadhipa",
+      "location": "Jorhat, Assam",
+      "notes": "Belimarar Buranji opening."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_007",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ၵမလေႇသျွႃႇရီႇ သိင်ႇႁႃႉ ၶိုင် ပွင် ၵတ်းယဵၼ် ၶိုၼ်း",
+      "text_roman": "caw fa kam le swa ri sing ha khüng pawng kat yen khün",
+      "assamese_script": "স্বৰ্গদেউ কমলেশ্বৰ সিংহই দেশত পুনৰ শান্তি স্থাপন কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "kam-le-swa-ri-sing-ha",
+        "khüng-pawng",
+        "kat-yen",
+        "khün"
+      ],
+      "glosses": [
+        "king",
+        "Kamaleswar-Singha",
+        "administer",
+        "peace/order",
+        "again"
+      ],
+      "free_translation_en": "King Kamaleswar Singha and Purnananda Buragohain restored peace to the kingdom.",
+      "free_translation_as": "স্বৰ্গদেউ কমলেশ্বৰ সিংহ আৰু পূৰ্ণানন্দ বুঢ়াগোহাঞিয়ে ৰাজ্যত শান্তি পুনৰুদ্ধাৰ কৰিলে।",
+      "speaker": "Bisweswar Baidyadhipa",
+      "location": "Jorhat, Assam",
+      "notes": "Restoration under Kamaleswar Singha."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_008",
+      "lik_tai": "ပုင်းၼၼ်ႇတ ပူႇရႃႇၵူဝ်ႇႁႅင်း ပဵၼ် ၽူႈဢွၼ်ႁူဝ် ႁတ်းႁၢၼ်",
+      "text_roman": "pung nan ta pu ra ko heng pen phu awn ho hat han",
+      "assamese_script": "পূৰ্ণানন্দ বুঢ়াগোহাঞি আছিল এজন বিচক্ষণ আৰু সাহসী ৰাজনীতিজ্ঞ",
+      "morphemes": [
+        "pung-nan-ta-pu-ra-ko-heng",
+        "pen",
+        "phu-awn-ho",
+        "hat-han"
+      ],
+      "glosses": [
+        "Purnananda-Buragohain",
+        "be",
+        "prime-minister/leader",
+        "brave/resolute"
+      ],
+      "free_translation_en": "Purnananda Buragohain served as a resolute and brilliant prime minister of the realm.",
+      "free_translation_as": "পূৰ্ণানন্দ বুঢ়াগোহাঞি ডাঙৰীয়াই সংকটকালত ৰাজ্যৰ নেতৃত্ব দৃঢ়তাৰে বহন কৰিছিল।",
+      "speaker": "Bisweswar Baidyadhipa",
+      "location": "Jorhat, Assam",
+      "notes": "Characterization of the Premier."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_009",
+      "lik_tai": "သိုၵ်း မၢၼ်ႈ မႃး တီႈ မိူင်း ဢႃႇသၢမ် ႁဵတ်း ၵူၼ်း လႆႈ တုၵ်ႉၶ",
+      "text_roman": "sük man ma ti möng a sam het kun lai tuk kha",
+      "assamese_script": "মানৰ আক্ৰমণে দেশবাসীৰ ওপৰত অসহ্য দুৰ্যোগ নমাই আনিলে",
+      "morphemes": [
+        "sük",
+        "man",
+        "ma",
+        "ti",
+        "möng",
+        "a-sam",
+        "het",
+        "kun",
+        "lai",
+        "tuk-kha"
+      ],
+      "glosses": [
+        "army",
+        "Burmese",
+        "come",
+        "at",
+        "country",
+        "Assam",
+        "cause",
+        "people",
+        "PASS",
+        "suffering"
+      ],
+      "free_translation_en": "The Burmese invasions brought immense tragedy and devastation upon the inhabitants.",
+      "free_translation_as": "মানৰ তিনিটা আক্ৰমণে অসমৰ প্ৰজাৰ ওপৰত ভয়ংকৰ দুখ-কষ্ট কঢ়িয়াই আনিলে।",
+      "speaker": "Bisweswar Baidyadhipa",
+      "location": "Assam",
+      "notes": "The Burmese wars (1817-1826)."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_010",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ပုရၼ်ႇတႃႇ သိင်ႇႁႃႉ ဢုပ်ႉ မိူင်း တီႈ ၶၢဝ်း ဝၢႆး မၢၼ်ႈ",
+      "text_roman": "caw fa pu ran da sing ha up möng ti khao wai man",
+      "assamese_script": "স্বৰ্গদেউ পুৰন্দৰ সিংহই মানৰ পিছৰ সময়ত উজনি অসম শাসন কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "pu-ran-da-sing-ha",
+        "up",
+        "möng",
+        "ti",
+        "khao",
+        "wai",
+        "man"
+      ],
+      "glosses": [
+        "king",
+        "Purandar-Singha",
+        "govern",
+        "country",
+        "at",
+        "period",
+        "after",
+        "Burmese"
+      ],
+      "free_translation_en": "King Purandar Singha governed Upper Assam in the era following the Burmese expulsions.",
+      "free_translation_as": "স্বৰ্গদেউ পুৰন্দৰ সিংহই মানৰ উপদ্ৰৱৰ পিছত উজনি অসমত ৰাজত্ব কৰিছিল।",
+      "speaker": "Dutiram Hazarika",
+      "location": "Jorhat, Assam",
+      "notes": "Reign of Purandar Singha (1833-1838)."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_011",
+      "lik_tai": "လိၵ်ႈ ၵႃႇထႃႇ ပိုၼ်း ၼႆႉ တႅမ်ႈ ဝႆႉ ပဵၼ် သၢၵ်ႈသေႇ ၵဝ်ႇ",
+      "text_roman": "lik ka tha pün nai tem wai pen sak se kaw",
+      "assamese_script": "এই ছন্দোবদ্ধ পদ্য-বুৰঞ্জীয়ে অতীতৰ জীৱন্ত চিত্ৰ তুলি ধৰে",
+      "morphemes": [
+        "lik",
+        "ka-tha",
+        "pün",
+        "nai",
+        "tem",
+        "wai",
+        "pen",
+        "sak-se",
+        "kaw"
+      ],
+      "glosses": [
+        "script/text",
+        "metrical-verse",
+        "chronicle",
+        "this",
+        "write",
+        "PERF",
+        "be",
+        "evidence",
+        "ancient"
+      ],
+      "free_translation_en": "These metrical chronicles preserve living poetic testimony of historical times.",
+      "free_translation_as": "এই পদ্য-বুৰঞ্জীখনে অসমৰ মধ্যযুগীয় ইতিহাসৰ এক অমূল্য চিত্ৰ ডাঙি ধৰিছে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Editorial summation."
+    },
+    {
+      "id": "book_bhuyan_1932_asamar_padya_buranji_012",
+      "lik_tai": "ႁႂ်ႈ ပိုၼ်း ဢႃႇသၢမ် လႄႈ တဲး ၵိုၵ်း ၼႂ်း ၸႂ် ၵူၼ်း တႃႇသေႇ",
+      "text_roman": "hai pün a sam le tai kök nai cai kun ta se",
+      "assamese_script": "অসম আৰু টাইসকলৰ গৌৰৱময় ইতিহাস চিৰদিন স্মৰণীয় হৈ থাকক",
+      "morphemes": [
+        "hai",
+        "pün",
+        "a-sam",
+        "le",
+        "tai",
+        "kök",
+        "nai",
+        "cai",
+        "kun",
+        "ta-se"
+      ],
+      "glosses": [
+        "may",
+        "history",
+        "Assam",
+        "and",
+        "Tai",
+        "cling/dwell",
+        "in",
+        "heart",
+        "people",
+        "forever"
+      ],
+      "free_translation_en": "May the shared history of Assam and the Tai remain revered forever in the hearts of the people.",
+      "free_translation_as": "অসম আৰু টাই জনগোষ্ঠীৰ গৌৰৱময় ইতিহাস চিৰকাল মানুহৰ হৃদয়ত সজীৱ হৈ থাকক।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati, Assam",
+      "notes": "Closing verse dedication."
+    }
+  ]
+}

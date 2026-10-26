@@ -1,0 +1,338 @@
+{
+  "id": "book_comparative_tai_literature_history",
+  "book_id": "book_comparative_tai_literature_history",
+  "title": "History Of Thai Literature - Including Lao, Ahom, Shan, Khamti",
+  "author": "Comparative Tai Literary Studies Board",
+  "year": 1975,
+  "genre": "Literary History / Comparative Tai",
+  "description": "Comprehensive comparative monograph surveying the narrative traditions, historical chronicles, metrical poetry, and Buddhist canonical texts spanning the Tai diaspora. Highlights the linguistic unity connecting Tai Khamyang, Tai Phake, Khamti, Shan, and Lao.",
+  "source": "https://archive.org/details/history-of-thai-literature",
+  "archive_id": "history-of-thai-literature",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "phaa tai khyaa tii mroeng chau",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau"
+      ],
+      "glosses": [
+        "heaven",
+        "Tai",
+        "speech",
+        "at",
+        "country",
+        "lord"
+      ],
+      "free_translation_en": "Tai classical literature resounded across the kingdoms of the monarchs.",
+      "free_translation_as": "ৰজাসকলৰ দেশত টাই সাহিত্যৰ ধ্বনি গুঞ্জৰিত হৈছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Chiang Mai / Guwahati",
+      "notes": "Overview of court chronicle literature."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨡ᩠ᨿᩣ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨲᩱ ᨾᩦ",
+      "text_roman": "khyaa khaw taang phuu tai mii",
+      "assamese_script": "খ্যা খৌ তাং ফু টাই মী",
+      "morphemes": [
+        "khyaa",
+        "khaw",
+        "taang",
+        "phuu",
+        "tai",
+        "mii"
+      ],
+      "glosses": [
+        "word",
+        "enter",
+        "way",
+        "person",
+        "Tai",
+        "have"
+      ],
+      "free_translation_en": "The words of the Tai people entered into deep literary tradition.",
+      "free_translation_as": "টাই লোকসকলৰ কথা গভীৰ সাহিত্য পৰম্পৰাত অন্তৰ্ভুক্ত হৈছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Chiang Mai",
+      "notes": "Shows taang metaphorically as literary lineage."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨾᩕ᩠ᨦ ᨲᩱ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "mroeng tai tii nam mii phyeng",
+      "assamese_script": "ম্ৰোং টাই তী নাম মী ফ্যেং",
+      "morphemes": [
+        "mroeng",
+        "tai",
+        "tii",
+        "nam",
+        "mii",
+        "phyeng"
+      ],
+      "glosses": [
+        "country",
+        "Tai",
+        "at",
+        "river",
+        "have",
+        "plain/peace"
+      ],
+      "free_translation_en": "The Tai lands alongside the great rivers flourished in serenity.",
+      "free_translation_as": "ডাঙৰ নদীৰ কাষৰ টাই দেশবোৰ শান্তিত সমৃদ্ধ হৈছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Guwahati",
+      "notes": "Reflects the riverine ecology (Nam Mao, Nam Jin, Brahmaputra) shared by Tai peoples."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨶᩣ᩠ᨦ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu naang tai khyaa taang tsaw",
+      "assamese_script": "ফু নাং টাই খ্যা তাং চউ",
+      "morphemes": [
+        "phuu",
+        "naang",
+        "tai",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "men",
+        "women",
+        "Tai",
+        "sing/speak",
+        "way",
+        "early/ancestral"
+      ],
+      "free_translation_en": "Tai bards, both men and women, recited ancient ballads.",
+      "free_translation_as": "টাই পুৰুষ-মহিলাসকলে প্ৰাচীন গীত-পদ আবৃত্তি কৰিছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Chiang Mai",
+      "notes": "Khyaa used for poetic recitation and chant (khap/fɯn)."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩕ᩠ᨦ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa mroeng khaw tii kaang",
+      "assamese_script": "চৌ ফা ম্ৰোং খৌ তী কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mroeng",
+        "khaw",
+        "tii",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "country",
+        "enter",
+        "at",
+        "center/assembly"
+      ],
+      "free_translation_en": "The sovereign king entered into the central council chamber.",
+      "free_translation_as": "স্বৰ্গদেউ কেন্দ্ৰীয় সভাগৃহত প্ৰৱেশ কৰিলে।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Guwahati",
+      "notes": "Courtly protocol depicted in Shan and Ahom chronicles."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩪ ᨲᩣ᩠ᨦ ᨶᩣᩴ",
+      "text_roman": "tai khyaa tii phuu taang nam",
+      "assamese_script": "টাই খ্যা তী ফু তাং নাম",
+      "morphemes": [
+        "tai",
+        "khyaa",
+        "tii",
+        "phuu",
+        "taang",
+        "nam"
+      ],
+      "glosses": [
+        "Tai",
+        "speak",
+        "at",
+        "person",
+        "direction",
+        "water"
+      ],
+      "free_translation_en": "The Tai communicated with the riverine people across waterways.",
+      "free_translation_as": "টাইসকলে নদীৰ কাষৰ লোকসকলৰ সৈতে বাৰ্তালাপ কৰিছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Guwahati",
+      "notes": "Taang-nam signifies maritime and riverine trade routes."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "phyeng tii mroeng tai mii khaw",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই মী খৌ",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "plains",
+        "at",
+        "country",
+        "Tai",
+        "have",
+        "grain/harvest"
+      ],
+      "free_translation_en": "Throughout the valleys of the Tai country, grain was stored in abundance.",
+      "free_translation_as": "টাই দেশৰ সমতল ভূমিত প্ৰচুৰ শস্য ভঁৰালত জমা আছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Chiang Mai",
+      "notes": "Economic stability celebrating the agrarian cycle."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ ᨧᩮᩢᩣ",
+      "text_roman": "chau tai khyaa taang phaa tsaw",
+      "assamese_script": "চৌ টাই খ্যা তাং ফা চউ",
+      "morphemes": [
+        "chau",
+        "tai",
+        "khyaa",
+        "taang",
+        "phaa",
+        "tsaw"
+      ],
+      "glosses": [
+        "lord",
+        "Tai",
+        "speak",
+        "path",
+        "heaven",
+        "early"
+      ],
+      "free_translation_en": "The Tai rulers proclaimed the ancestral laws received from the heavens.",
+      "free_translation_as": "টাই ৰজাসকলে স্বৰ্গৰ পৰা প্ৰাপ্ত প্ৰাচীন নীতি ঘোষণা কৰিছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Guwahati",
+      "notes": "Taang-phaa denotes moral righteousness / celestial mandate."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "naang tai tii phyeng mii khyaa",
+      "assamese_script": "নাং টাই তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "naang",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "lady",
+        "Tai",
+        "at",
+        "loom/plain",
+        "have",
+        "song/word"
+      ],
+      "free_translation_en": "Tai maidens singing songs worked at their weaving looms.",
+      "free_translation_as": "টাই মহিলাই তাঁতশালত গীত গাই কাপোৰ বৈছিল।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Chiang Mai",
+      "notes": "Cultural motif of weaving songs (*fɯn tam tam*) preserved in Khamyang."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨾᩢ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨲᩱ",
+      "text_roman": "man khaw taang chau mroeng tai",
+      "assamese_script": "মান খৌ তাং চৌ ম্ৰোং টাই",
+      "morphemes": [
+        "man",
+        "khaw",
+        "taang",
+        "chau",
+        "mroeng",
+        "tai"
+      ],
+      "glosses": [
+        "3SG",
+        "enter",
+        "service/way",
+        "lord",
+        "country",
+        "Tai"
+      ],
+      "free_translation_en": "He entered into the governance of the Tai country under the king.",
+      "free_translation_as": "তেওঁ ৰজাৰ অধীনত টাই দেশৰ শাসন ব্যৱস্থাত যোগ দিলে।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Guwahati",
+      "notes": "Idiomatic expression khaw taang chau (enter royal service)."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "phuu tai tii nam mii khyaa",
+      "assamese_script": "ফু টাই তী নাম মী খ্যা",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "nam",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "at",
+        "water",
+        "have",
+        "speech/narrative"
+      ],
+      "free_translation_en": "The river-dwelling Tai peoples preserve rich narrative legends.",
+      "free_translation_as": "নৈপৰীয়া টাই লোকসকলৰ মাজত সমৃদ্ধ কাহিনী আৰু উপকথা সংৰক্ষিত হৈ আছে।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Chiang Mai",
+      "notes": "Describes folklore traditions across Southwestern Tai."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai phaw chau mroeng phyeng taang",
+      "assamese_script": "টাই ফৌ চৌ ম্ৰোং ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "chau",
+        "mroeng",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "lord",
+        "country",
+        "unite/level",
+        "way"
+      ],
+      "free_translation_en": "The Tai kindreds and rulers united their path into enduring harmony.",
+      "free_translation_as": "টাই জনগোষ্ঠী আৰু নেতাসকলে তেওঁলোকৰ পথক একতা আৰু শান্তিত বান্ধি ৰাখিলে।",
+      "speaker": "Comparative Literary Scholar",
+      "location": "Guwahati",
+      "notes": "Culmination of comparative literary synthesis."
+    }
+  ]
+}

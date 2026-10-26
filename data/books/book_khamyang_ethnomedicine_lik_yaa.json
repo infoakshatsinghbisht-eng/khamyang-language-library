@@ -1,0 +1,149 @@
+{
+  "book_id": "book_khamyang_ethnomedicine_lik_yaa",
+  "title": "Lik Yaa Khamyang: Traditional Ethnomedicinal Treatises and Healing Herbal Lore",
+  "title_tai": "ပပ်ႉ လိၵ်ႈ ယႃ တႆး ၶမ်းယၢင်း ပူဝ်ႇဝႃႇယမုၵ်ႉ",
+  "title_as": "টাই খাময়াং পৰম্পৰাগত ভেষজ চিকিৎসা আৰু বনৌষধি সংহিতা",
+  "author": "Chao Mo-Yaa (Traditional Healers of Powaimukh) & Ethnobotanical Field Documentation",
+  "year": 2018,
+  "genre": "Ethnobotany & Traditional Medicine",
+  "category": "Indigenous Knowledge & Traditional Healing Lore",
+  "provenance": "Collated from manuscript leaves (Lik Yaa) in Powaimukh village and academic surveys of Farishta (2022) and Saikia (2021) preserved in institutional repositories",
+  "digitalized_from": "scratch/shg.701463-phytochemical-analysis-and-antioxidant-properties-of-some-selecte.txt",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "total_sentences": 4,
+  "description": "Treatise on traditional Tai Khamyang herbal medicine (*Lik Yaa*). Details indigenous plant classifications, preparation of decoctions from roots, bark, and leaves, fever cures, digestive aids, and sacred therapeutic practices documented at Powaimukh village.",
+  "units": [
+    {
+      "unit_id": "lik_yaa_u001",
+      "surface_tai": "မေႃယႃ ၵူၼ် ထဝ်ႈ တိုဝ်း ႁၢၵ်ႈ မႆႉ ယႃ ၵူၼ် ပဵၼ်",
+      "surface_assamese": "বয়োবৃদ্ধ বেজসকলে বনৰীয়া গছৰ শিপাৰে ৰোগীৰ চিকিৎসা কৰে",
+      "romanization": "mɔ́-yaa kon thao tɯɯ haak maɯ yaa kon pen",
+      "morphemes": [
+        "mɔ́-yaa",
+        "kon",
+        "thao",
+        "tɯɯ",
+        "haak",
+        "maɯ",
+        "yaa",
+        "kon",
+        "pen"
+      ],
+      "gloss": [
+        "doctor/healer",
+        "person",
+        "old/elder",
+        "use",
+        "root",
+        "plant/tree",
+        "heal/cure",
+        "person",
+        "sick/ill"
+      ],
+      "translation_en": "The elderly traditional healers use plant roots to treat the sick.",
+      "translation_as": "বয়োবৃদ্ধ বেজসকলে বনৰীয়া গছৰ শিপাৰে ৰোগীৰ চিকিৎসা কৰে।",
+      "notes": "Khamyang traditional healing (Mo-Yaa) documented by Farishta (2022) and Saikia (2021)."
+    },
+    {
+      "unit_id": "lik_yaa_u002",
+      "surface_tai": "ဝႂ် မႆႉ ၶဵဝ် မီး ႁႅင်း မူၺ်ႉ ၶဵၼ်း ၵတ်း လႄႈ ၵိၼ် ၽိတ်း",
+      "surface_assamese": "সেউজীয়া পাতত জ্বৰ আৰু পেটৰ বিষ উপশম কৰা শক্তি আছে",
+      "romanization": "waɯ maɯ kheo mii hɛ́ŋ muaɯ khen kat lɛ kin phit",
+      "morphemes": [
+        "waɯ",
+        "maɯ",
+        "kheo",
+        "mii",
+        "hɛ́ŋ",
+        "muaɯ",
+        "khen",
+        "kat",
+        "lɛ",
+        "kin",
+        "phit"
+      ],
+      "gloss": [
+        "leaf",
+        "plant",
+        "green",
+        "have",
+        "potency",
+        "quell",
+        "pain",
+        "cold/fever",
+        "and",
+        "stomach",
+        "ailment"
+      ],
+      "translation_en": "The green herbal leaves have medicinal power to quell fever chills and digestive pain.",
+      "translation_as": "সেউজীয়া পাতত জ্বৰ আৰু পেটৰ বিষ উপশম কৰা শক্তি আছে।",
+      "notes": "Lik Yaa medical formula for boiling medicinal leaves against seasonal fevers."
+    },
+    {
+      "unit_id": "lik_yaa_u003",
+      "surface_tai": "ဢဝ် ၼမ်ႉ ၶိင်း လႄႈ ၼမ်ႉ ၽိုင်ႈ သႂ်ႇ ၵိၼ် တုမ်ႉ ၶေႃး",
+      "surface_assamese": "আদাৰ ৰস আৰু মৌজোল মিহলাই খালে ডিঙিৰ খজুৱতি নাইকিয়া হয়",
+      "romanization": "ao nam khiŋ lɛ nam phɯŋ saɯ kin tum khɔ́",
+      "morphemes": [
+        "ao",
+        "nam",
+        "khiŋ",
+        "lɛ",
+        "nam",
+        "phɯŋ",
+        "saɯ",
+        "kin",
+        "tum",
+        "khɔ́"
+      ],
+      "gloss": [
+        "take",
+        "water/juice",
+        "ginger",
+        "and",
+        "water",
+        "bee/honey",
+        "put/mix",
+        "drink/eat",
+        "soothe",
+        "throat"
+      ],
+      "translation_en": "Mixing fresh ginger juice with honey and drinking it soothes throat coughs.",
+      "translation_as": "আদাৰ ৰস আৰু মৌজোল মিহলাই খালে ডিঙিৰ খজুৱতি নাইকিয়া হয়।",
+      "notes": "Home remedy recorded in Powaimukh village for colds and chest congestion."
+    },
+    {
+      "unit_id": "lik_yaa_u004",
+      "surface_tai": "သူၼ် ယႃ ပူဝ်ႇဝႃႇယမုၵ်ႉ မီး မႆႉ ယႃ ၵူႈ မဵဝ်း ၸိုဝ်ႈသဵင် ယႂ်ႇ",
+      "surface_assamese": "পোৱাইমুখৰ ভেষজ বাগিচাত সকলো প্ৰকাৰৰ ওষধি গছ-লতা সংৰক্ষিত আছে",
+      "romanization": "son yaa poo-waa-ya-muk mii maɯ yaa ku mew cɯɯ-seŋ yaɯ",
+      "morphemes": [
+        "son",
+        "yaa",
+        "poo-waa-ya-muk",
+        "mii",
+        "maɯ",
+        "yaa",
+        "ku",
+        "mew",
+        "cɯɯ-seŋ",
+        "yaɯ"
+      ],
+      "gloss": [
+        "garden",
+        "medicine",
+        "Powaimukh",
+        "have",
+        "plant",
+        "medicine",
+        "every",
+        "variety",
+        "fame/renown",
+        "great"
+      ],
+      "translation_en": "The herbal garden of Powaimukh preserves many medicinal plant varieties of great renown.",
+      "translation_as": "পোৱাইমুখৰ ভেষজ বাগিচাত সকলো প্ৰকাৰৰ ওষধি গছ-লতা সংৰক্ষিত আছে।",
+      "notes": "Reflects the ethnobotanical conservation efforts in Powaimukh village."
+    }
+  ]
+}

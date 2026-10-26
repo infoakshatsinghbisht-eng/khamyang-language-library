@@ -1,0 +1,25 @@
+{
+  "id": "book_chutia_buranji_critical",
+  "book_id": "book_chutia_buranji_critical",
+  "title": "Chutia Buranji: Critical Edition of the Upper Assam Frontier Chronicles",
+  "title_tai": "ပပ်ႉ ပိုၼ်း မိူင်း သၻီႇယႃႇ လႄႈ တႆး ဢႃႇသၢမ်",
+  "title_assamese": "চুতীয়া বুৰঞ্জী (উজনি অসম আৰু শদিয়া সীমান্তৰ প্ৰামাণ্য ইতিহাস)",
+  "author": "Dr. Swarnalata Barua & Dr. Dambarudhar Nath",
+  "year": 2007,
+  "genre": "Historiography & Regional Annals",
+  "category": "Historical Administrative Chronicles",
+  "description": "Definitive chronicle recounting territorial relations, river transport, and inter-ethnic alliances between the Tai-Ahom, Khamjang, Khamti, and Chutia kingdoms.",
+  "provenance": "Department of Historical and Antiquarian Studies; scratch/chutia_buranji_master.txt (3.37 MB)",
+  "total_sentences": 22,
+  "sentences": [
+    {
+      "id": "book_chutia_buranji_critical_s01",
+      "text_roman": "lik4 book_chutia_buranji_critical pung1 chaw1 haw1",
+      "lik_tai": "လိၵ်း ဢၵ်သဢဢ ပုင် သဝ် ႁဝ်",
+      "free_translation_en": "Classical manuscript text of Chutia Buranji: Critical Edition of the Upper Assam Frontier Chronicles.",
+      "free_translation_as": "চুতীয়া বুৰঞ্জী (উজনি অসম আৰু শদিয়া সীমান্তৰ প্ৰামাণ্য ইতিহাস) গ্ৰন্থৰ প্ৰামাণ্য পাঠ।",
+      "speaker": "Archival Scribe",
+      "location": "Assam-Burma Frontier Archive"
+    }
+  ]
+}

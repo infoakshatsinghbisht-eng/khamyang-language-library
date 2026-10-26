@@ -1,0 +1,377 @@
+{
+  "id": "book_manpoong_1993_new_tai_reader",
+  "book_id": "book_manpoong_1993_new_tai_reader",
+  "title": "New Tai Reader Basic Book (Chow Khouk Manpoong)",
+  "author": "Chow Khouk Manpoong, M.A. & Tai Literature Committee",
+  "year": 1993,
+  "genre": "Indigenous Southwestern Tai Primer & Reader",
+  "description": "Foundational curriculum textbook published by the Tai Literature Committee at Chongkham, approved by the Arunachal Bhikkhu Sangha and educational directorates for teaching Tai literacy, syllabary, tone distinctions, and daily conversation across Assam and Arunachal Pradesh.",
+  "source": "Internet Archive (NewTaiReaderBasicBookChowKhoukManpoong)",
+  "archive_id": "NewTaiReaderBasicBookChowKhoukManpoong",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_manpoong_1993_new_tai_reader_001",
+      "lik_tai": "ပပ်ႉ လိၵ်ႈ တဲး မႂ်ႇ ပုၼ်ႈတႃႇ လုၵ်ႈႁဵၼ်း",
+      "text_roman": "pap lik tai mai pun ta luk hen",
+      "assamese_script": "পাপ লিক ত্তাই মাই পুন তা লুক হেন",
+      "morphemes": [
+        "pap",
+        "lik",
+        "tai",
+        "mai",
+        "pun-ta",
+        "luk-hen"
+      ],
+      "glosses": [
+        "book",
+        "script/literature",
+        "Tai",
+        "new",
+        "for",
+        "students/pupils"
+      ],
+      "free_translation_en": "New Tai reader book for young students and learners.",
+      "free_translation_as": "ছাত্ৰ-ছাত্ৰী আৰু শিক্ষার্থীসকলৰ বাবে নতুন টাই শিক্ষাপুথি।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chowkham / Chongkham, Arunachal Pradesh",
+      "notes": "Title heading of the New Tai Reader Basic Book."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_002",
+      "lik_tai": "လိၵ်ႈ တဲး မီး တူဝ် မႄႈ လိၵ်ႈ သိပ်းႁူၵ်း တူဝ်",
+      "text_roman": "lik tai mi tu me lik sip huk tu",
+      "assamese_script": "লিক ত্তাই মী তু মে লিক চিপ-হুক তু",
+      "morphemes": [
+        "lik",
+        "tai",
+        "mi",
+        "tu",
+        "me-lik",
+        "sip-huk",
+        "tu"
+      ],
+      "glosses": [
+        "script",
+        "Tai",
+        "have",
+        "CLF",
+        "consonant-mother",
+        "sixteen",
+        "CLF"
+      ],
+      "free_translation_en": "The Tai script possesses sixteen primary base consonant letters.",
+      "free_translation_as": "টাই বৰ্ণমালাই ১৬ (ষোল্ল) টা মূল ব্যঞ্জনবৰ্ণ ধাৰণ কৰে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Lesson 1: Tai Consonant Inventory."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_003",
+      "lik_tai": "ၵႃ ၶႃ ငႃ ၸႃ သႃ ၺႃ တႃ ထႃ ၼႃ",
+      "text_roman": "ka kha nga ca sa nya ta tha na",
+      "assamese_script": "কা খা ঙা চা ছা ঞা তা থা না",
+      "morphemes": [
+        "ka",
+        "kha",
+        "nga",
+        "ca",
+        "sa",
+        "nya",
+        "ta",
+        "tha",
+        "na"
+      ],
+      "glosses": [
+        "k",
+        "kh",
+        "ng",
+        "c",
+        "s",
+        "ny",
+        "t",
+        "th",
+        "n"
+      ],
+      "free_translation_en": "Ka, Kha, Nga, Ca, Sa, Nya, Ta, Tha, Na.",
+      "free_translation_as": "কা, খা, ঙা, চা, ছা, ঞা, তা, থা, না।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "First row of consonants with inherent vowel."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_004",
+      "lik_tai": "ပႃ ၽႃ မႃ ယႃ လႃ ဝႃ ႁႃ ဢႃ",
+      "text_roman": "pa pha ma ya la wa ha a",
+      "assamese_script": "পা ফা মা য়া লা ৱা হা আ",
+      "morphemes": [
+        "pa",
+        "pha",
+        "ma",
+        "ya",
+        "la",
+        "wa",
+        "ha",
+        "a"
+      ],
+      "glosses": [
+        "p",
+        "ph",
+        "m",
+        "y",
+        "l",
+        "w",
+        "h",
+        "a"
+      ],
+      "free_translation_en": "Pa, Pha, Ma, Ya, La, Wa, Ha, A.",
+      "free_translation_as": "পা, ফা, মা, য়া, লা, ৱা, হা, আ।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Second row of consonants concluding with glottal onset."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_005",
+      "lik_tai": "တၢင်းႁူႉ ပဵၼ် သႅင် ၶမ်း ၼႂ်း ၸႂ် ၵူၼ်း",
+      "text_roman": "tang hu pen seng kham nai cai kun",
+      "assamese_script": "তাং হু পেন ছেং খাম নাই চৈ কুন",
+      "morphemes": [
+        "tang-hu",
+        "pen",
+        "seng",
+        "kham",
+        "nai",
+        "cai",
+        "kun"
+      ],
+      "glosses": [
+        "knowledge/wisdom",
+        "be",
+        "gem/jewel",
+        "gold",
+        "inside",
+        "heart/mind",
+        "human"
+      ],
+      "free_translation_en": "Knowledge and learning are like golden jewels in the human mind.",
+      "free_translation_as": "জ্ঞান হৈছে মানুহৰ মনৰ ভিতৰত সোণৰ মণিৰ দৰে বহুমূলীয়া সম্পদ।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Proverbial reading motto."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_006",
+      "lik_tai": "လုၵ်ႈႁဵၼ်း ၵူႈ ၵေႃႉ တွင်း လိၵ်ႈ တဲး ၶိုၼ်း ၵူႈ ဝၼ်း",
+      "text_roman": "luk hen ku kaw tawng lik tai khün ku wan",
+      "assamese_script": "লুক হেন কু ক তং লিক ত্তাই খুন কু ৱান",
+      "morphemes": [
+        "luk-hen",
+        "ku",
+        "kaw",
+        "tawng",
+        "lik",
+        "tai",
+        "khün",
+        "ku",
+        "wan"
+      ],
+      "glosses": [
+        "pupil/student",
+        "every",
+        "CLF:person",
+        "memorize/practice",
+        "script",
+        "Tai",
+        "again",
+        "every",
+        "day"
+      ],
+      "free_translation_en": "Every student practices reading and writing the Tai script daily.",
+      "free_translation_as": "প্ৰতিজন ছাত্ৰ-ছাত্ৰীয়ে প্ৰতিদিনে টাই লিপি অভ্যাস কৰে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Pedagogical instruction."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_007",
+      "lik_tai": "ဢူႈ မႄႈ ပဵၼ် ၽြႃး ႁိူၼ်း ၶွင် လုၵ်ႈလၢၼ်",
+      "text_roman": "u me pen phra hün khawng luk lan",
+      "assamese_script": "উ মে পেন ফ্ৰা হুন খঙ লুক লান",
+      "morphemes": [
+        "u",
+        "me",
+        "pen",
+        "phra",
+        "hün",
+        "khawng",
+        "luk-lan"
+      ],
+      "glosses": [
+        "father",
+        "mother",
+        "be",
+        "deity/revered",
+        "house",
+        "of",
+        "children"
+      ],
+      "free_translation_en": "Father and mother are the sacred living deities of the household for their children.",
+      "free_translation_as": "পিতৃ-মাতৃ হৈছে সন্তানৰ বাবে ঘৰৰ জীৱন্ত দেৱতাস্বৰূপ।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Filial ethics in Tai pedagogical literature."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_008",
+      "lik_tai": "ၵႂႃႇ ၵျွင်း ဝႆႈ ၽြႃး ပုတ်ႉထ ၵူႈ ဝၼ်း သီလ်",
+      "text_roman": "kwa kyawng wai phra put tha ku wan sil",
+      "assamese_script": "কা ক্যং ৱাই ফ্ৰা বুদ্ধ কু ৱান চীল",
+      "morphemes": [
+        "kwa",
+        "kyawng",
+        "wai",
+        "phra",
+        "put-tha",
+        "ku",
+        "wan-sil"
+      ],
+      "glosses": [
+        "go",
+        "vihara/monastery",
+        "pay-homage",
+        "Buddha",
+        "Buddha",
+        "every",
+        "Uposatha-day"
+      ],
+      "free_translation_en": "Go to the monastery to worship the Buddha on every Uposatha holy day.",
+      "free_translation_as": "প্ৰতিটো উপোসথ তিথিত বৌদ্ধ বিহাৰলৈ গৈ বুদ্ধক প্ৰণাম কৰা উচিত।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Buddhist observances (Wan Sil)."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_009",
+      "lik_tai": "ၼမ်ႉ ၸိုၼ်ႈ ပႃ လອႆ ၼႂ်း ႁွင်ႈ",
+      "text_roman": "nam cün pa loy nai hawng",
+      "assamese_script": "নাম চুন পা লয় নাই হং",
+      "morphemes": [
+        "nam",
+        "cün",
+        "pa",
+        "loy",
+        "nai",
+        "hawng"
+      ],
+      "glosses": [
+        "water",
+        "clear/pure",
+        "fish",
+        "swim",
+        "inside",
+        "stream/brook"
+      ],
+      "free_translation_en": "In the crystal-clear water, fishes swim peacefully in the brook.",
+      "free_translation_as": "নিৰ্মল পানীত মাছবোৰে জান-জুৰিত সাঁতুৰি ফুৰিছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Nature descriptive reading lesson."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_010",
+      "lik_tai": "ႁဝ်း ၵိၼ် ၶဝ်ႈ ၽၵ်း လီ လီ ဢိမ်ႇ လီ",
+      "text_roman": "hao kin khao phak li li im li",
+      "assamese_script": "হাও কিন খাও ফাক লী লী ইম লী",
+      "morphemes": [
+        "hao",
+        "kin",
+        "khao",
+        "phak",
+        "li",
+        "li",
+        "im",
+        "li"
+      ],
+      "glosses": [
+        "1PL",
+        "eat",
+        "rice",
+        "vegetables",
+        "good",
+        "good",
+        "full/sated",
+        "well"
+      ],
+      "free_translation_en": "We eat rice and vegetables with gratitude and are fully satisfied.",
+      "free_translation_as": "আমি শাক-ভাত তৃপ্তিৰে খাওঁ।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Daily dining expressions."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_011",
+      "lik_tai": "ဝၢၼ်ႈ ႁဝ်း မီး တူၼ်ႈ မႆႉ လႄႈ သူၼ် လီ ငၢမ်း",
+      "text_roman": "wan hao mi tun mai le sun li ngam",
+      "assamese_script": "ৱান হাও মী তুন মাই লে ছুন লী ঙাম",
+      "morphemes": [
+        "wan",
+        "hao",
+        "mi",
+        "tun-mai",
+        "le",
+        "sun",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "village",
+        "1PL:POSS",
+        "have",
+        "tree",
+        "plant",
+        "and",
+        "garden/orchard",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "Our village has lush green trees and flourishing gardens.",
+      "free_translation_as": "আমাৰ গাঁওখনত সেউজীয়া গছ-গছনি আৰু সুন্দৰ ফল-মূলৰ বাৰী আছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Village environment description."
+    },
+    {
+      "id": "book_manpoong_1993_new_tai_reader_012",
+      "lik_tai": "လိၵ်ႈ တဲး မီး ၽွၼ်းလီ တႃႇ သႃႇသၼႃႇ လႄႈ ၵူၼ်း ႁဝ်း",
+      "text_roman": "lik tai mi phawn li ta sa sa na le kun hao",
+      "assamese_script": "লিক ত্তাই মী ফন্ লী তা শাসনা লে কুন হাও",
+      "morphemes": [
+        "lik",
+        "tai",
+        "mi",
+        "phawn-li",
+        "ta",
+        "sa-sa-na",
+        "le",
+        "kun",
+        "hao"
+      ],
+      "glosses": [
+        "script/literature",
+        "Tai",
+        "have",
+        "benefit/blessing",
+        "for",
+        "Sasana/religion",
+        "and",
+        "people",
+        "1PL"
+      ],
+      "free_translation_en": "Tai literature brings immense blessings for the Sasana and for our people.",
+      "free_translation_as": "টাই লিপিয়ে বৌদ্ধ শাসন আৰু আমাৰ সমাজলৈ অপৰিসীম মংগল কঢ়িয়াই আনে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Concluding blessing of the primer."
+    }
+  ]
+}

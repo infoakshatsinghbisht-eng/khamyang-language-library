@@ -1,0 +1,342 @@
+{
+  "id": "book_neog_1947_introduction_to_assam",
+  "book_id": "book_neog_1947_introduction_to_assam",
+  "title": "Introduction To Assam",
+  "author": "Dimbeswar Neog",
+  "year": 1947,
+  "genre": "Regional Ethnography / Cultural History",
+  "description": "Comprehensive historical survey published in 1947 by Dimbeswar Neog examining the ethnological roots of Assam's diverse population, highlighting the Tai migrations (Ahom, Khamyang, Phake, Khamti) and their foundational role in building Assamese society.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.529928",
+  "archive_id": "in.ernet.dli.2015.529928",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨾᩕ᩠ᨦ ᨴᩦ ᨧᩮᩢᩣ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw mroeng tii tsaw mii taang",
+      "assamese_script": "ফু টাই খৌ ম্ৰোং তী চউ মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "mroeng",
+        "tii",
+        "tsaw",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "enter",
+        "country",
+        "at",
+        "early",
+        "bring",
+        "civilization"
+      ],
+      "free_translation_en": "The Tai immigrants arrived in the ancient land and laid the foundations of statehood.",
+      "free_translation_as": "টাই প্ৰব্ৰজনকাৰীসকলে প্ৰাচীন ভূমিত প্ৰৱেশ কৰি ৰাজ্যিক ব্যৱস্থাৰ ভেটি স্থাপন কৰিলে।",
+      "speaker": "Prof. Dimbeswar Neog (Historian)",
+      "location": "Jorhat / Guwahati",
+      "notes": "Ethnohistorical analysis of Tai migration into Assam."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "tai phaw tii nam phyeng mii",
+      "assamese_script": "টাই ফৌ তী নাম ফ্যেং মী",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "Tai",
+        "clans",
+        "at",
+        "river",
+        "plain",
+        "settle"
+      ],
+      "free_translation_en": "Tai communities settled permanently along the waterways of Upper Assam.",
+      "free_translation_as": "টাই জনগোষ্ঠীসমূহ উজনি অসমৰ জলপথৰ কাষত স্থায়ীভাৱে বসতি কৰিলে।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Riverine settlement geography."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨲᩱ ᨾᩕ᩠ᨦ",
+      "text_roman": "khaw nam tii phyeng tai mroeng",
+      "assamese_script": "খৌ নাম তী ফ্যেং টাই ম্ৰোং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "tai",
+        "mroeng"
+      ],
+      "glosses": [
+        "grain",
+        "water",
+        "in",
+        "plains",
+        "Tai",
+        "enrich"
+      ],
+      "free_translation_en": "Hydraulic rice cultivation enriched the valleys of the new homeland.",
+      "free_translation_as": "জলসিঞ্চিত কৃষি ব্যৱস্থাই নতুন ভূখণ্ডৰ উপত্যকাসমূহ সমৃদ্ধ কৰি তুলিলে।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Introduction of advanced agrarian techniques."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨴᩣ᩠ᨦ ᨣᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "phuu chau mii taang kaang chau",
+      "assamese_script": "ফু চৌ মী তাং কাং চৌ",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "taang",
+        "kaang",
+        "chau"
+      ],
+      "glosses": [
+        "leaders",
+        "noble",
+        "hold",
+        "councils",
+        "assembly",
+        "kings"
+      ],
+      "free_translation_en": "The leaders established participatory assemblies to govern the territory.",
+      "free_translation_as": "নেতাসকলে অঞ্চলটো পৰিচালনাৰ বাবে সামূহিক পৰিষদ গঠন কৰিলে।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Administrative structures."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨲᩱ ᨻᩮᩢᩣ",
+      "text_roman": "man khyaa taang phuu tai phaw",
+      "assamese_script": "মান খ্যা তাং ফু টাই ফৌ",
+      "morphemes": [
+        "man",
+        "khyaa",
+        "taang",
+        "phuu",
+        "tai",
+        "phaw"
+      ],
+      "glosses": [
+        "they",
+        "unite",
+        "way",
+        "people",
+        "Tai",
+        "clan"
+      ],
+      "free_translation_en": "They forged bonds of unity among all the diverse clans of the land.",
+      "free_translation_as": "তেওঁলোকে দেশৰ বিভিন্ন খেলৰ মাজত ঐক্যৰ বান্ধোন গঢ়ি তুলিলে।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Integration of indigenous populations."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "women",
+        "noble",
+        "Tai",
+        "in",
+        "society",
+        "honored"
+      ],
+      "free_translation_en": "Tai noblewomen commanded deep honor in social and political life.",
+      "free_translation_as": "টাই মহিলাই সামাজিক আৰু ৰাজনৈতিক জীৱনত গভীৰ সন্মান লাভ কৰিছিল।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Status of women in Tai society."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "navigate",
+        "network",
+        "river",
+        "trade"
+      ],
+      "free_translation_en": "Tai traders navigated the river networks to foster regional commerce.",
+      "free_translation_as": "টাই ব্যৱসায়ীসকলে আঞ্চলিক বাণিজ্যৰ বাবে নদীৰ জলপথ ব্যৱহাৰ কৰিছিল।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "River trading networks."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "kings",
+        "state",
+        "keep",
+        "traditions",
+        "way",
+        "ancestral"
+      ],
+      "free_translation_en": "The monarchs carefully preserved the ancestral traditions of their forefathers.",
+      "free_translation_as": "ৰজাসকলে পূৰ্বপুৰুষৰ পৰম্পৰাগত ৰীতি-নীতিসমূহ নিষ্ঠাৰে পালন কৰিছিল।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Cultural continuity."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "flourishing",
+        "in",
+        "homeland",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "Peaceful coexistence brought sustained agricultural plenty to the valley.",
+      "free_translation_as": "শান্তিপূৰ্ণ সহাৱস্থানে উপত্যকালৈ চিৰস্থায়ী শস্য সমৃদ্ধি কঢ়িয়াই আনিলে।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Social peace as catalyst for growth."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "with",
+        "neighbors",
+        "keep",
+        "amity"
+      ],
+      "free_translation_en": "The Tai preserved amity and fellowship with all neighbouring communities.",
+      "free_translation_as": "টাইসকলে সকলো ওচৰ-চুবুৰীয়া জনগোষ্ঠীৰ সৈতে বন্ধুত্ব আৰু সদ্ভাৱ ৰাখিছিল।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Inter-ethnic synthesis."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "country",
+        "govern",
+        "equitably"
+      ],
+      "free_translation_en": "The heavenly kings governed the land with righteousness and equity.",
+      "free_translation_as": "স্বৰ্গদেউসকলে ৰাজ্যখন ন্যায় আৰু সমতাৰে পৰিচালনা কৰিলে।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Evaluation of Tai kingship."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "heritage",
+        "clans",
+        "society",
+        "united",
+        "foundation"
+      ],
+      "free_translation_en": "The Tai heritage remains an inseparable foundation of the greater Assamese identity.",
+      "free_translation_as": "টাই ঐতিহ্য বৃহত্তৰ অসমীয়া পৰিচয়ৰ এক অবিচ্ছেদ্য ভেটি হৈ ৰৈছে।",
+      "speaker": "Prof. Dimbeswar Neog",
+      "location": "Guwahati",
+      "notes": "Conclusion of Introduction To Assam."
+    }
+  ]
+}

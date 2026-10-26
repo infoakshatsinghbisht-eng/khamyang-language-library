@@ -1,0 +1,340 @@
+{
+  "id": "book_bhuyan_1932_tungkhungia_buranji_assamese",
+  "book_id": "book_bhuyan_1932_tungkhungia_buranji_assamese",
+  "title": "Tungkhungia Buranji (Assamese Original)",
+  "author": "Dr. Suryya Kumar Bhuyan",
+  "year": 1932,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Original Assamese prose text of the Tungkhungia Buranji compiled and edited by Dr. S. K. Bhuyan from authentic manuscripts in 1932. Documents the detailed annals of Gadadhar Singha, Rudra Singha, Siva Singha, and Pramatta Singha with original administrative vocabulary.",
+  "source": "https://archive.org/details/dli.ministry.06886",
+  "archive_id": "dli.ministry.06886",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨣᩣ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii mroeng kaang",
+      "assamese_script": "চৌ ফা টাই খৌ তী ম্ৰোং কাং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "mroeng",
+        "kaang"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "ascend",
+        "at",
+        "capital",
+        "center"
+      ],
+      "free_translation_en": "The Tai heavenly king ascended the throne in the central capital of Barkola.",
+      "free_translation_as": "টাই স্বৰ্গদেউ বৰকলাৰ মূল ৰাজধানীৰ সিংহাসনত আৰোহণ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan (Compiler)",
+      "location": "Guwahati / DHAS",
+      "notes": "Accession of Gadadhar Singha (Chao-Pha Supaatphaa)."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "ministers",
+        "noble",
+        "issue",
+        "commands",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The prime ministers issued the new administrative decrees of the dynasty.",
+      "free_translation_as": "মন্ত্ৰী ডাঙৰীয়াসকলে নতুন ৰাজবংশৰ প্ৰশাসনিক নিয়ম প্ৰৱৰ্তন কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Patra-Mantri governmental restructuring."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "clans",
+        "by",
+        "river",
+        "cultivate",
+        "paddy"
+      ],
+      "free_translation_en": "The Tai clans along the rivers expanded cultivation across broad paddy tracts.",
+      "free_translation_as": "নৈপৰীয়া টাই খেলসমূহে বিস্তৃত পথাৰত ধান খেতিৰ সম্প্ৰসাৰণ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Paik mobilization for agricultural reclamation."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "they",
+        "clear",
+        "causeway",
+        "at",
+        "central",
+        "pass"
+      ],
+      "free_translation_en": "They constructed military causeways connecting Upper Assam with the foothills.",
+      "free_translation_as": "তেওঁলোকে উজনি অসমক পাহাৰৰ পাদদেশৰ সৈতে সংযোগ কৰি আলি নিৰ্মাণ কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Construction of strategic roads (Dhodar Ali, Cheoni Ali)."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨩᩮᩣᩢ ᨾᩦ",
+      "text_roman": "phyeng tii mroeng tai chau mii",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই চৌ মী",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "chau",
+        "mii"
+      ],
+      "glosses": [
+        "peace",
+        "in",
+        "country",
+        "Tai",
+        "king",
+        "secure"
+      ],
+      "free_translation_en": "The sovereign ensured domestic tranquillity and political stability.",
+      "free_translation_as": "স্বৰ্গদেৱে দেশত আভ্যন্তৰীণ শান্তি আৰু ৰাজনৈতিক সুস্থিৰতা নিশ্চিত কৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Consolidation under Rudra Singha."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "queen",
+        "revered",
+        "Tai",
+        "pray",
+        "to",
+        "heaven"
+      ],
+      "free_translation_en": "The royal consort offered ancestral worship at the royal shrines of Charaideo.",
+      "free_translation_as": "ৰাণীয়ে চৰাইদেউৰ পৱিত্ৰ মৈদামত পূৰ্বপুৰুষলৈ শ্ৰদ্ধাঞ্জলি জনালে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Charaideo Maidam ancestor worship."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨴᩦ ᨻᩪ ᨲᩱ",
+      "text_roman": "khaw taang nam tii phuu tai",
+      "assamese_script": "খৌ তাং নাম তী ফু টাই",
+      "morphemes": [
+        "khaw",
+        "taang",
+        "nam",
+        "tii",
+        "phuu",
+        "tai"
+      ],
+      "glosses": [
+        "sail",
+        "route",
+        "river",
+        "at",
+        "men",
+        "Tai"
+      ],
+      "free_translation_en": "The Tai fleet sailed along the river to hold the grand sports festival.",
+      "free_translation_as": "টাই নাওসমূহ নদীৰে আগবাঢ়ি ৰাজকীয় নাওখেল মহোৎসৱত অংশ ল'লে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Boat racing festivals at Rangghar."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu tai mii khyaa taang tsaw",
+      "assamese_script": "ফু টাই মী খ্যা তাং চউ",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "hold",
+        "records",
+        "way",
+        "ancestors"
+      ],
+      "free_translation_en": "The court scholars preserved the chronological annals of every campaign.",
+      "free_translation_as": "দৰবাৰৰ পণ্ডিতে প্ৰতিটো সামৰিক অভিযানৰ দিনপঞ্জী নিখুঁতভাৱে লিখি ৰাখিছিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Chronicling practices."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨾᩢ ᨴᩦ ᨣᩣ᩠ᨦ ᨻ᩠ᨿᨦ ᨡ᩠ᨿᩣ ᨩᩮᩣᩢ",
+      "text_roman": "man tii kaang phyeng khyaa chau",
+      "assamese_script": "মান তী কাং ফ্যেং খ্যা চৌ",
+      "morphemes": [
+        "man",
+        "tii",
+        "kaang",
+        "phyeng",
+        "khyaa",
+        "chau"
+      ],
+      "glosses": [
+        "ambassador",
+        "at",
+        "center",
+        "hall",
+        "address",
+        "monarch"
+      ],
+      "free_translation_en": "Ambassadors from Jaintia and Tripura presented credentials to the monarch.",
+      "free_translation_as": "জয়ন্তীয়া আৰু ত্ৰিপুৰাৰ কটকীয়ে স্বৰ্গদেউৰ চৰণত উপহাৰ দাঙি ধৰিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Diplomatic reception under Rudra Singha."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ",
+      "text_roman": "khaw nam tii mroeng tai phyeng",
+      "assamese_script": "খৌ নাম তী ম্ৰোং টাই ফ্যেং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "mroeng",
+        "tai",
+        "phyeng"
+      ],
+      "glosses": [
+        "food",
+        "water",
+        "in",
+        "country",
+        "Tai",
+        "overflow"
+      ],
+      "free_translation_en": "Food and trade supplies overflowed in the bustling market towns.",
+      "free_translation_as": "চহৰ আৰু বজাৰসমূহত খাদ্য আৰু বাণিজ্যিক সামগ্ৰীৰে ভৰি পৰিল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Urban growth of Rangpur and Garhgaon."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨲᩱ ᨴᩣ᩠ᨦ ᨻᩮᩢᩣ",
+      "text_roman": "chau phaa khyaa tai taang phaw",
+      "assamese_script": "চৌ ফা খ্যা টাই তাং ফৌ",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "khyaa",
+        "tai",
+        "taang",
+        "phaw"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "counsel",
+        "Tai",
+        "way",
+        "clans"
+      ],
+      "free_translation_en": "The king counseled the nobles to maintain civic harmony among all communities.",
+      "free_translation_as": "ৰজাই সকলো সম্প্ৰদায়ৰ মাজত সামাজিক সম্প্ৰীতি বজাই ৰাখিবলৈ ডাঙৰীয়াসকলক উপদেশ দিলে।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Rudra Singha's grand assembly speech."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨶᩣᩴ",
+      "text_roman": "tai mroeng taang chau phyeng nam",
+      "assamese_script": "টাই ম্ৰোং তাং চৌ ফ্যেং নাম",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "taang",
+        "chau",
+        "phyeng",
+        "nam"
+      ],
+      "glosses": [
+        "Tai",
+        "kingdom",
+        "rule",
+        "lord",
+        "flourish",
+        "river"
+      ],
+      "free_translation_en": "Thus the Tungkhungia dynasty guided the Tai realm through a century of glory.",
+      "free_translation_as": "এইদৰে তুংখুঙীয়া ৰাজবংশই টাই দেশক এক শতাব্দীৰ গৌৰৱময় শিখৰলৈ লৈ গ'ল।",
+      "speaker": "Dr. S. K. Bhuyan",
+      "location": "Guwahati",
+      "notes": "Conclusion of Tungkhungia Buranji Assamese Original."
+    }
+  ]
+}

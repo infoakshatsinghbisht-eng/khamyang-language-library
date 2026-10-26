@@ -1,0 +1,558 @@
+{
+  "id": "book_two_brothers",
+  "title_khamyang": "Pung1 Phi5 Nong4 Song1 Ko1",
+  "title_english": "The Story of the Two Brothers",
+  "genre": "folktale",
+  "informant": "Ee Nyan Khet",
+  "village": "Namphakey Village",
+  "audio_ref": "1-1-1-2.mp3",
+  "description": "Ancient tale of fraternal loyalty, sharing harvests, and mutual devotion in traditional Tai agrarian society.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 19,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "mz5 nan4 pii5 naung4 saung6 k4 wzt4",
+      "lik_tai": "မႉ ၼၼ်း ပႉ ၼဝ်င်း ꩢဝ်င်ႊ ၵး ဝတ်း",
+      "assamese_script": "ম⁵ নান⁴ প⁵ নাওঙ⁴ সাওঙ⁶ ক⁴ ৱত্‌⁴",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [pii˧˩] [nauŋ˥˦ʔ] [sauŋ˧˥] [k˥˦ʔ] [wzt˥˦ʔ]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "pii5",
+        "naung4",
+        "saung6",
+        "k4",
+        "wzt4"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "elder",
+        "younger",
+        "two",
+        "CLF",
+        "PRT"
+      ],
+      "translation": "At one time there were two brothers.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At one time there were two brothers.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "hom5 kvn2 kaa1 lj1 thzn1 wzt4",
+      "lik_tai": "ႁူမ်ႉ ၵၼ်ႇ ၵႃ လ ထၼ် ဝတ်း",
+      "assamese_script": "হোম⁵ কন² কা¹ ল¹ থন¹ ৱত্‌⁴",
+      "ipa": "[hom˧˩] [kvn˥˦] [kaː˧˧] [lj˧˧] [tʰzn˧˧] [wzt˥˦ʔ]",
+      "morphemes": [
+        "hom5",
+        "kvn2",
+        "kaa1",
+        "lj1",
+        "thzn1",
+        "wzt4"
+      ],
+      "glosses": [
+        "gather",
+        "RECIP",
+        "go",
+        "roam",
+        "forest",
+        "PRT"
+      ],
+      "translation": "They went together to the forest",
+      "translation_assamese": "অসমীয়া অৰ্থ: They went together to the forest",
+      "audio_file": null,
+      "notes": "When revising the text, Ee Nyan Khet stated that wJtq wzt4 should be omitted."
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "kaa1 lj1 thzn1 yj4",
+      "lik_tai": "ၵႃ လ ထၼ် ယး",
+      "assamese_script": "কা¹ ল¹ থন¹ য⁴",
+      "ipa": "[kaː˧˧] [lj˧˧] [tʰzn˧˧] [jj˥˦ʔ]",
+      "morphemes": [
+        "kaa1",
+        "lj1",
+        "thzn1",
+        "yj4"
+      ],
+      "glosses": [
+        "go",
+        "roam",
+        "forest",
+        "PRT"
+      ],
+      "translation": "They were in the forest, when the evening came.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They were in the forest, when the evening came.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "haa1 taung4",
+      "lik_tai": "ႁႃ တဝ်င်း",
+      "assamese_script": "হা¹ তাওঙ⁴",
+      "ipa": "[haː˧˧] [tauŋ˥˦ʔ]",
+      "morphemes": [
+        "haa1",
+        "taung4"
+      ],
+      "glosses": [
+        "at that time",
+        "hungry"
+      ],
+      "translation": "At that time they were hungry, but there was nothing to eat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time they were hungry, but there was nothing to eat.",
+      "audio_file": null,
+      "notes": "ta1 is usually spelled tkq in manuscripts, but pronounced as ta1."
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "haa1 puu1 k4 nvng5 yj4 maik1 nz4 se6 maa2",
+      "lik_tai": "ႁႃ ပ ၵး ၼင်ႉ ယး မႆၵ် ၼး ေꩢႊ မႃႇ",
+      "assamese_script": "হা¹ প¹ ক⁴ নঙ⁵ য⁴ মাইক্‌¹ ন⁴ সে⁶ মা²",
+      "ipa": "[haː˧˧] [puu˧˧] [k˥˦ʔ] [nvŋ˧˩] [jj˥˦ʔ] [maik˧˧] [nz˥˦ʔ] [se˧˥] [maː˥˦]",
+      "morphemes": [
+        "haa1",
+        "puu1",
+        "k4",
+        "nvng5",
+        "yj4",
+        "maik1",
+        "nz4",
+        "se6",
+        "maa2"
+      ],
+      "glosses": [
+        "then",
+        "old man",
+        "CLF",
+        "one",
+        "PRT",
+        "carry",
+        "meat",
+        "PRES",
+        "come"
+      ],
+      "translation": "Then an old man (came), carrying meat on his shoulder.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then an old man (came), carrying meat on his shoulder.",
+      "audio_file": null,
+      "notes": "When revising the story, Ee Nyan Khet stated that hanj should be replaced by mJwqnnq mz5 nan4 'then'."
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "maa2 yj4 nai4 khau6 taung4 naung4 tsaai2 mvn2 waa5 wzt4",
+      "lik_tai": "မႃႇ ယး ၼႆး ၶဝ်ႊ တဝ်င်း ၼဝ်င်း ၸႃႆႇ မၼ်ႇ ဝႃႉ ဝတ်း",
+      "assamese_script": "মা² য⁴ নাই⁴ খাও⁶ তাওঙ⁴ নাওঙ⁴ চাই² মন² ৱা⁵ ৱত্‌⁴",
+      "ipa": "[maː˥˦] [jj˥˦ʔ] [nai˥˦ʔ] [kʰau˧˥] [tauŋ˥˦ʔ] [nauŋ˥˦ʔ] [tɕaːi˥˦] [mvn˥˦] [waː˧˩] [wzt˥˦ʔ]",
+      "morphemes": [
+        "maa2",
+        "yj4",
+        "nai4",
+        "khau6",
+        "taung4",
+        "naung4",
+        "tsaai2",
+        "mvn2",
+        "waa5",
+        "wzt4"
+      ],
+      "glosses": [
+        "come",
+        "PRT",
+        "this",
+        "3Pl",
+        "hungry",
+        "younger",
+        "male",
+        "3Sg",
+        "say",
+        "PRT"
+      ],
+      "translation": "They saw that old man.",
+      "translation_assamese": "অসমীয়া অৰ্থ: They saw that old man.",
+      "audio_file": null,
+      "notes": "When revising the story, Ee Nyan Khet stated that the first part of this line should be omitted and replaced with:"
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "zi2 puu1 nz4 mav2 nai4 hav3 maa2 tsaa5 kau2",
+      "lik_tai": "ဢႇ ပ ၼး မႇ ၼႆး ႁႈ မႃႇ ၸႃႉ ၵဝ်ႇ",
+      "assamese_script": "অ² প¹ ন⁴ ম² নাই⁴ হ³ মা² চা⁵ কাও²",
+      "ipa": "[zi˥˦] [puu˧˧] [nz˥˦ʔ] [mav˥˦] [nai˥˦ʔ] [hav˨˩̰] [maː˥˦] [tɕaː˧˩] [kau˥˦]",
+      "morphemes": [
+        "zi2",
+        "puu1",
+        "nz4",
+        "mav2",
+        "nai4",
+        "hav3",
+        "maa2",
+        "tsaa5",
+        "kau2"
+      ],
+      "glosses": [
+        "VOC",
+        "grandfather",
+        "meat",
+        "2Sg",
+        "this",
+        "give",
+        "come",
+        "for/to",
+        "1Sg"
+      ],
+      "translation": "Oh! granddad, give me your meat! Distribute it to us\"!, he spoke like that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh! granddad, give me your meat! Distribute it to us\"!, he spoke like that.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "puu1 nai4 ma1 hav6",
+      "lik_tai": "ပ ၼႆး မႃ ႁႊ",
+      "assamese_script": "প¹ নাই⁴ মা¹ হ⁶",
+      "ipa": "[puu˧˧] [nai˥˦ʔ] [ma˧˧] [hav˧˥]",
+      "morphemes": [
+        "puu1",
+        "nai4",
+        "ma1",
+        "hav6"
+      ],
+      "glosses": [
+        "grandfather",
+        "that",
+        "NEG",
+        "give.NEG"
+      ],
+      "translation": "(But),  the old man didn't want to give (them) the food.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (But),  the old man didn't want to give (them) the food.",
+      "audio_file": null,
+      "notes": "When revising this translation, Ee Nyan Khet stated that (8) should be:"
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "mvn2 t2 se6 yn2 yj4",
+      "lik_tai": "မၼ်ႇ တႇ ေꩢႊ ယၼ်ႇ ယး",
+      "assamese_script": "মন² ত² সে⁶ যন² য⁴",
+      "ipa": "[mvn˥˦] [t˥˦] [se˧˥] [jn˥˦] [jj˥˦ʔ]",
+      "morphemes": [
+        "mvn2",
+        "t2",
+        "se6",
+        "yn2",
+        "yj4"
+      ],
+      "glosses": [
+        "3Sg",
+        "impolite/angry",
+        "PRT",
+        "ask",
+        "PRT"
+      ],
+      "translation": "(Because the younger one) had impolitely asked,",
+      "translation_assamese": "অসমীয়া অৰ্থ: (Because the younger one) had impolitely asked,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "puu1 nai4 ma1 hav3 wzt4",
+      "lik_tai": "ပ ၼႆး မႃ ႁႈ ဝတ်း",
+      "assamese_script": "প¹ নাই⁴ মা¹ হ³ ৱত্‌⁴",
+      "ipa": "[puu˧˧] [nai˥˦ʔ] [ma˧˧] [hav˨˩̰] [wzt˥˦ʔ]",
+      "morphemes": [
+        "puu1",
+        "nai4",
+        "ma1",
+        "hav3",
+        "wzt4"
+      ],
+      "glosses": [
+        "grandfather",
+        "this",
+        "NEG",
+        "give",
+        "PRT"
+      ],
+      "translation": "(and so) the old man did not give (them the food).",
+      "translation_assamese": "অসমীয়া অৰ্থ: (and so) the old man did not give (them the food).",
+      "audio_file": null,
+      "notes": "There is no negative tone on hav3 in (10), in contrast to (8)."
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "haa1 lop1 yj4 pii5 tsaai2 mvn2 waa5 wzt4",
+      "lik_tai": "ႁႃ လူပ် ယး ပႉ ၸႃႆႇ မၼ်ႇ ဝႃႉ ဝတ်း",
+      "assamese_script": "হা¹ লোপ্‌¹ য⁴ প⁵ চাই² মন² ৱা⁵ ৱত্‌⁴",
+      "ipa": "[haː˧˧] [lop˧˧] [jj˥˦ʔ] [pii˧˩] [tɕaːi˥˦] [mvn˥˦] [waː˧˩] [wzt˥˦ʔ]",
+      "morphemes": [
+        "haa1",
+        "lop1",
+        "yj4",
+        "pii5",
+        "tsaai2",
+        "mvn2",
+        "waa5",
+        "wzt4"
+      ],
+      "glosses": [
+        "at that time",
+        "afterwards",
+        "PRT",
+        "elder",
+        "male",
+        "3Sg",
+        "say",
+        "PRT"
+      ],
+      "translation": "After that, the elder brother said, ",
+      "translation_assamese": "অসমীয়া অৰ্থ: After that, the elder brother said, ",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "aa2 puu1 tsau3 zi2 nz4 mav2 nj4 khjn2",
+      "lik_tai": "ဢႃႇ ပ ၸဝ်ႈ ဢႇ ၼး မႇ ၼး ၶၼ်ႇ",
+      "assamese_script": "আ² প¹ চাও³ অ² ন⁴ ম² ন⁴ খন²",
+      "ipa": "[aː˥˦] [puu˧˧] [tɕau˨˩̰] [zi˥˦] [nz˥˦ʔ] [mav˥˦] [nj˥˦ʔ] [kʰjn˥˦]",
+      "morphemes": [
+        "aa2",
+        "puu1",
+        "tsau3",
+        "zi2",
+        "nz4",
+        "mav2",
+        "nj4",
+        "khjn2"
+      ],
+      "glosses": [
+        "EXCL",
+        "grandfather",
+        "RESP",
+        "VOC",
+        "meat",
+        "your",
+        "this",
+        "please"
+      ],
+      "translation": "Oh, grandfather, please, give your meat to us\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh, grandfather, please, give your meat to us\".",
+      "audio_file": null,
+      "notes": "In revising this text, Ee Nyan Khet suggested that the second line should read."
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "hau2 kz4 noi1 phju6 taung4 kh2 waa5 nvng1 nai4",
+      "lik_tai": "ႁဝ်ႇ ၵး ၼူႆ ၽႊ တဝ်င်း ၶႇ ဝႃႉ ၼင် ၼႆး",
+      "assamese_script": "হাও² ক⁴ নওই¹ ফ⁶ তাওঙ⁴ খ² ৱা⁵ নঙ¹ নাই⁴",
+      "ipa": "[hau˥˦] [kz˥˦ʔ] [noi˧˧] [pʰju˧˥] [tauŋ˥˦ʔ] [kʰ˥˦] [waː˧˩] [nvŋ˧˧] [nai˥˦ʔ]",
+      "morphemes": [
+        "hau2",
+        "kz4",
+        "noi1",
+        "phju6",
+        "taung4",
+        "kh2",
+        "waa5",
+        "nvng1",
+        "nai4"
+      ],
+      "glosses": [
+        "1Pl",
+        "LINK",
+        "tired",
+        "excessive",
+        "hungry",
+        "thirsty",
+        "say",
+        "like",
+        "this"
+      ],
+      "translation": "We are so tired, hungry and thirsty\", he spoke like that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: We are so tired, hungry and thirsty\", he spoke like that.",
+      "audio_file": null,
+      "notes": "The expression tauN4 mai3 'to be hungry.' literally means '(my) stomach is burning' and khq2 haiN3 'to be thirsty' literally means '(my) throat is dry.'"
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "mz5 nan4 puu1 nj4 nz4 mvn2 nj4",
+      "lik_tai": "မႉ ၼၼ်း ပ ၼး ၼး မၼ်ႇ ၼး",
+      "assamese_script": "ম⁵ নান⁴ প¹ ন⁴ ন⁴ মন² ন⁴",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [puu˧˧] [nj˥˦ʔ] [nz˥˦ʔ] [mvn˥˦] [nj˥˦ʔ]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "puu1",
+        "nj4",
+        "nz4",
+        "mvn2",
+        "nj4"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "old man",
+        "DEF",
+        "meat",
+        "his",
+        "PRT"
+      ],
+      "translation": "So the old man gave his meat to those two brothers.",
+      "translation_assamese": "অসমীয়া অৰ্থ: So the old man gave his meat to those two brothers.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "nai3 kin2 kaa1 wzt4",
+      "lik_tai": "ၼႆႈ ၵိၼ်ႇ ၵႃ ဝတ်း",
+      "assamese_script": "নাই³ কিন² কা¹ ৱত্‌⁴",
+      "ipa": "[nai˨˩̰] [kin˥˦] [kaː˧˧] [wzt˥˦ʔ]",
+      "morphemes": [
+        "nai3",
+        "kin2",
+        "kaa1",
+        "wzt4"
+      ],
+      "glosses": [
+        "get",
+        "eat",
+        "GO",
+        "PRT"
+      ],
+      "translation": "Then (those two brothers) got to eat!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then (those two brothers) got to eat!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "lai4 nai4 se6 khaam2 nj4 an2 waa5 nj4",
+      "lik_tai": "လႆး ၼႆး ေꩢႊ ၶႃမ်ႇ ၼး ဢၼ်ႇ ဝႃႉ ၼး",
+      "assamese_script": "লাই⁴ নাই⁴ সে⁶ খাম² ন⁴ অন² ৱা⁵ ন⁴",
+      "ipa": "[lai˥˦ʔ] [nai˥˦ʔ] [se˧˥] [kʰaːm˥˦] [nj˥˦ʔ] [an˥˦] [waː˧˩] [nj˥˦ʔ]",
+      "morphemes": [
+        "lai4",
+        "nai4",
+        "se6",
+        "khaam2",
+        "nj4",
+        "an2",
+        "waa5",
+        "nj4"
+      ],
+      "glosses": [
+        "therefore",
+        "this",
+        "PRT",
+        "word",
+        "this",
+        "CLF",
+        "say",
+        "PRT"
+      ],
+      "translation": "That's why these words, it is said,",
+      "translation_assamese": "অসমীয়া অৰ্থ: That's why these words, it is said,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "au2 kyaam2 yj4 hang2 pzn5 ma1 pj4 nvm1 waa5 nvng1 nai4",
+      "lik_tai": "ဢဝ်ႇ ၵမ်ႇ ယး ႁင်ႇ ပၼ်ႉ မႃ ပး ၼမ် ဝႃႉ ၼင် ၼႆး",
+      "assamese_script": "ঔ² কম² য⁴ হাঙ² পন⁵ মা¹ প⁴ নম¹ ৱা⁵ নঙ¹ নাই⁴",
+      "ipa": "[au˥˦] [kyaam˥˦] [jj˥˦ʔ] [haŋ˥˦] [pzn˧˩] [ma˧˧] [pj˥˦ʔ] [nvm˧˧] [waː˧˩] [nvŋ˧˧] [nai˥˦ʔ]",
+      "morphemes": [
+        "au2",
+        "kyaam2",
+        "yj4",
+        "hang2",
+        "pzn5",
+        "ma1",
+        "pj4",
+        "nvm1",
+        "waa5",
+        "nvng1",
+        "nai4"
+      ],
+      "glosses": [
+        "take",
+        "rough",
+        "PRT",
+        "to",
+        "others",
+        "NEG",
+        "can",
+        "PRT",
+        "say",
+        "like",
+        "this"
+      ],
+      "translation": "If you are impolite, to others, you cannot succeed, it is said",
+      "translation_assamese": "অসমীয়া অৰ্থ: If you are impolite, to others, you cannot succeed, it is said",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "au2 on3 au2 waan6 yj4 pj4 hang2 pzn5 nvm1",
+      "lik_tai": "ဢဝ်ႇ ဢူၼ်ႈ ဢဝ်ႇ ဝႃၼ်ႊ ယး ပး ႁင်ႇ ပၼ်ႉ ၼမ်",
+      "assamese_script": "ঔ² ওন³ ঔ² ৱান⁶ য⁴ প⁴ হাঙ² পন⁵ নম¹",
+      "ipa": "[au˥˦] [on˨˩̰] [au˥˦] [waːn˧˥] [jj˥˦ʔ] [pj˥˦ʔ] [haŋ˥˦] [pzn˧˩] [nvm˧˧]",
+      "morphemes": [
+        "au2",
+        "on3",
+        "au2",
+        "waan6",
+        "yj4",
+        "pj4",
+        "hang2",
+        "pzn5",
+        "nvm1"
+      ],
+      "glosses": [
+        "take",
+        "soft",
+        "take",
+        "sweet",
+        "PRT",
+        "succeed",
+        "to",
+        "other",
+        "PRT"
+      ],
+      "translation": "If you speak softly and sweetly, you will succeed with others, it is said'.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If you speak softly and sweetly, you will succeed with others, it is said'.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "sut1 yau4",
+      "lik_tai": "ꩢုတ် ယဝ်း",
+      "assamese_script": "সুত্‌¹ যাও⁴",
+      "ipa": "[sut˧˧] [jau˥˦ʔ]",
+      "morphemes": [
+        "sut1",
+        "yau4"
+      ],
+      "glosses": [
+        "finish",
+        "PAST"
+      ],
+      "translation": "(The story) is finished.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (The story) is finished.",
+      "audio_file": null,
+      "notes": ""
+    }
+  ],
+  "full_translation": "At one time there were two brothers. They went together to the forest They were in the forest, when the evening came. At that time they were hungry, but there was nothing to eat. Then an old man (came), carrying meat on his shoulder. They saw that old man. Oh! granddad, give me your meat! Distribute it to us\"!, he spoke like that. (But),  the old man didn't want to give (them) the food. (Because the younger one) had impolitely asked, (and so) the old man did not give (them the food). After that, the elder brother said,  Oh, grandfather, please, give your meat to us\". We are so tired, hungry and thirsty\", he spoke like that. So the old man gave his meat to those two brothers. Then (those two brothers) got to eat! That's why these words, it is said, If you are impolite, to others, you cannot succeed, it is said If you speak softly and sweetly, you will succeed with others, it is said'. (The story) is finished.",
+  "book_id": "book_two_brothers",
+  "title": "The Story of the Two Brothers",
+  "title_tai": "Pung1 Phi5 Nong4 Song1 Ko1",
+  "title_as": ""
+}

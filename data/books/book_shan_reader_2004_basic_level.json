@@ -1,0 +1,368 @@
+{
+  "id": "book_shan_reader_2004_basic_level",
+  "book_id": "book_shan_reader_2004_basic_level",
+  "title": "Shan Reader Basic Level (ပပ်ႉႁဵၼ်းလိၵ်ႈတႆး ၸၼ်ႉငဝ်ႈ)",
+  "author": "Tai Literature and Culture Association",
+  "year": 2004,
+  "genre": "Standard Southwestern Tai Reading Primer",
+  "description": "Standard pedagogical primer published by the central Tai Literature and Culture Association for basic grade education, systematically presenting consonant combinations, vowel ligatures, tone diacritics, everyday vocabularies, nature narratives, and civic ethics.",
+  "source": "Internet Archive (shan-reader-basic-level)",
+  "archive_id": "shan-reader-basic-level",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_shan_reader_2004_basic_level_001",
+      "lik_tai": "ပပ်ႉ ႁဵၼ်း လိၵ်ႈ တႆး ၸၼ်ႉငဝ်ႈ ၶွင် တႆး",
+      "text_roman": "pap hen lik tai can ngaw khawng tai",
+      "assamese_script": "পাপ হেন লিক ত্তাই চান ঙৌ খঙ ত্তাই",
+      "morphemes": [
+        "pap",
+        "hen",
+        "lik",
+        "tai",
+        "can-ngaw",
+        "khawng",
+        "tai"
+      ],
+      "glosses": [
+        "book",
+        "study",
+        "script",
+        "Tai",
+        "basic-level",
+        "of",
+        "Tai"
+      ],
+      "free_translation_en": "Basic level Tai reading textbook for learners.",
+      "free_translation_as": "টাই ভাষাৰ প্ৰাথমিক স্তৰৰ শিক্ষাপুথি।",
+      "speaker": "Tai Literature & Culture Association",
+      "location": "Taunggyi / Shan State",
+      "notes": "Title of the basic reader."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_002",
+      "lik_tai": "ၵ ၶ င ၸ သ ၺ တ ထ ၼ",
+      "text_roman": "ka kha nga ca sa nya ta tha na",
+      "assamese_script": "কা খা ঙা চা ছা ঞা তা থা না",
+      "morphemes": [
+        "ka",
+        "kha",
+        "nga",
+        "ca",
+        "sa",
+        "nya",
+        "ta",
+        "tha",
+        "na"
+      ],
+      "glosses": [
+        "k",
+        "kh",
+        "ng",
+        "c",
+        "s",
+        "ny",
+        "t",
+        "th",
+        "n"
+      ],
+      "free_translation_en": "First group of primary Tai consonants.",
+      "free_translation_as": "টাই বৰ্ণমালাৰ প্ৰথম শাৰীৰ ব্যঞ্জনবৰ্ণসমূহ।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Lesson 1: Consonants."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_003",
+      "lik_tai": "ပ ၽ မ ယ လ ဝ ႁ ဢ",
+      "text_roman": "pa pha ma ya la wa ha a",
+      "assamese_script": "পা ফা মা য়া লা ৱা হা আ",
+      "morphemes": [
+        "pa",
+        "pha",
+        "ma",
+        "ya",
+        "la",
+        "wa",
+        "ha",
+        "a"
+      ],
+      "glosses": [
+        "p",
+        "ph",
+        "m",
+        "y",
+        "l",
+        "w",
+        "h",
+        "a"
+      ],
+      "free_translation_en": "Second group of Tai consonants.",
+      "free_translation_as": "টাই বৰ্ণমালাৰ দ্বিতীয় শাৰীৰ ব্যঞ্জনবৰ্ণসমূহ।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Lesson 1: Final consonants."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_004",
+      "lik_tai": "ၵႃ ၵီ ၵူ ၵေ ၵေႃ ၵိုဝ်",
+      "text_roman": "ka ki ku ke kaw kü",
+      "assamese_script": "কা কী কূ কে কৌ ক্যু",
+      "morphemes": [
+        "ka",
+        "ki",
+        "ku",
+        "ke",
+        "kaw",
+        "kü"
+      ],
+      "glosses": [
+        "ka",
+        "ki",
+        "ku",
+        "ke",
+        "kaw",
+        "kü"
+      ],
+      "free_translation_en": "Vowel combination paradigm with consonant Ka.",
+      "free_translation_as": "‘ক’ বৰ্ণত বিভিন্ন স্বৰবৰ্ণৰ প্ৰয়োগ।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Vowel diacritics lesson."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_005",
+      "lik_tai": "ၼူၵ်ႉ ဢွၼ်ႇ မိၼ် ၵႂႃႇ တီႈ လွႆ သုင်",
+      "text_roman": "nok awn min kwa ti loy sung",
+      "assamese_script": "সৰু চৰাইটো ওখ পাহাৰলৈ উৰি গ’ল",
+      "morphemes": [
+        "nok-awn",
+        "min",
+        "kwa",
+        "ti",
+        "loy",
+        "sung"
+      ],
+      "glosses": [
+        "small-bird",
+        "fly",
+        "go",
+        "to",
+        "mountain",
+        "high"
+      ],
+      "free_translation_en": "The little bird flies high toward the mountain peak.",
+      "free_translation_as": "সৰু চৰাইজনী ওখ পাহাৰৰ দিশে উৰি গৈছে।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Reading practice: nature sentences."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_006",
+      "lik_tai": "ဝၢၼ်ႈ ႁဝ်း မီး မွၵ်ႇ မွၵ်ႇ သီ မၢၵ်ႇ လီ ငၢမ်း",
+      "text_roman": "wan hao mi mawk mawk si mak li ngam",
+      "assamese_script": "আমাৰ গাঁৱত ৰঙীন ফুল আৰু ফল-মূল সুন্দৰকৈ ফুলিছে",
+      "morphemes": [
+        "wan",
+        "hao",
+        "mi",
+        "mawk",
+        "mawk-si-mak",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "village",
+        "1PL",
+        "have",
+        "flower",
+        "colorful/fruits",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "Our village is blessed with colorful blossoms and fruitful orchards.",
+      "free_translation_as": "আমাৰ গাঁওখনত নানাবৰণীয়া ফুল আৰু ফলোৰ্থান সুশোভিত।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Descriptive sentence."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_007",
+      "lik_tai": "ႁဝ်း ၵိၼ် ၶဝ်ႈ မႂ်ႇ ၸွမ်း ပီႈၼွင်ႉ ၼႂ်း ႁိူၼ်း",
+      "text_roman": "hao kin khao mai cwom pi nawng nai hün",
+      "assamese_script": "আমি পৰিয়ালৰ সৈতে নতুন চাউলৰ ভাত খাওঁ",
+      "morphemes": [
+        "hao",
+        "kin",
+        "khao-mai",
+        "cwom",
+        "pi-nawng",
+        "nai",
+        "hün"
+      ],
+      "glosses": [
+        "1PL",
+        "eat",
+        "new-rice",
+        "with",
+        "family/brethren",
+        "in",
+        "house"
+      ],
+      "free_translation_en": "We eat newly harvested fragrant rice together with our family at home.",
+      "free_translation_as": "আমি ঘৰৰ আত্মীয়-স্বজনৰ সৈতে নতুন চাউলৰ ভাত তৃপ্তিৰে খাওঁ।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "New rice harvest feast."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_008",
+      "lik_tai": "လုၵ်ႈႁဵၼ်း လီ တေ တွင်း ၶေႃႈ သင်ႇသွၼ် ဢူႈ မႄႈ",
+      "text_roman": "luk hen li te tawng khaw sang sawn u me",
+      "assamese_script": "ভাল ছাত্ৰই সদায় মা-দেউতাৰ উপদেশ মনত ৰাখে",
+      "morphemes": [
+        "luk-hen",
+        "li",
+        "te",
+        "tawng",
+        "khaw-sang-sawn",
+        "u",
+        "me"
+      ],
+      "glosses": [
+        "student",
+        "good",
+        "FUT",
+        "remember",
+        "teachings/advice",
+        "father",
+        "mother"
+      ],
+      "free_translation_en": "Good students always remember the wise teachings of their parents.",
+      "free_translation_as": "এজন সৎ ছাত্ৰই সদায় পিতৃ-মাতৃৰ বহুমূলীয়া উপদেশ পালন কৰে।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Moral education."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_009",
+      "lik_tai": "ၽီလူး ပၢႆႈ ၵႂႃႇ ဝၢႆး ယိၼ်း သဵင် ထမ်း",
+      "text_roman": "phi lu pai kwa wai yin syeŋ tham",
+      "assamese_script": "ধৰ্মবাণী শুনি দুৰাত্মা পলাই গ’ল",
+      "morphemes": [
+        "phi-lu",
+        "pai",
+        "kwa",
+        "wai",
+        "yin",
+        "syeŋ",
+        "tham"
+      ],
+      "glosses": [
+        "ogre/evil-spirit",
+        "flee",
+        "go",
+        "after",
+        "hear",
+        "voice/sound",
+        "Dharma"
+      ],
+      "free_translation_en": "The evil spirit fled far away after hearing the recitation of the Dharma.",
+      "free_translation_as": "পৱিত্ৰ ধৰ্মৰ ধ্বনি শুনি অসুৰ আৰু দুৰাত্মা আঁতৰি পলাল।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Folktale moral motif."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_010",
+      "lik_tai": "မွၵ်ႇ ၶမ်း ပိုတ်ႇ ငၢမ်း ၼႂ်း သူၼ် ပၢင်ႇ",
+      "text_roman": "mawk kham püt ngam nai sun pang",
+      "assamese_script": "সোণালী ফুলবোৰ বাগিচাত সুন্দৰকৈ ফুলি উঠিছে",
+      "morphemes": [
+        "mawk-kham",
+        "püt",
+        "ngam",
+        "nai",
+        "sun",
+        "pang"
+      ],
+      "glosses": [
+        "golden-flower",
+        "bloom/open",
+        "beautiful",
+        "in",
+        "garden",
+        "plain"
+      ],
+      "free_translation_en": "Golden blossoms bloom brilliantly in the valley garden.",
+      "free_translation_as": "বাগিচাত সোণালী ফুলবোৰ অতি বিনন্দীয়াকৈ ফুলি উঠিছে।",
+      "speaker": "Tai Instructor",
+      "location": "Taunggyi",
+      "notes": "Poetic vocabulary."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_011",
+      "lik_tai": "ႁဝ်း ႁၵ်ႉ လိၵ်ႈ တႆး ႁဝ်း တေ ဢၢၼ်ႇ ၵူႈ ဝၼ်း",
+      "text_roman": "hao hak lik tai hao te an ku wan",
+      "assamese_script": "আমি আমাৰ টাই লিপি ভাল পাওঁ আৰু প্ৰতিদিনে পাঠ কৰোঁ",
+      "morphemes": [
+        "hao",
+        "hak",
+        "lik",
+        "tai",
+        "hao",
+        "te",
+        "an",
+        "ku",
+        "wan"
+      ],
+      "glosses": [
+        "1PL",
+        "love",
+        "script",
+        "Tai",
+        "1PL",
+        "FUT",
+        "read",
+        "every",
+        "day"
+      ],
+      "free_translation_en": "We love the Tai script and will read it diligently every day.",
+      "free_translation_as": "আমি আমাৰ মাতৃভাষা আৰু লিপিক ভাল পাওঁ আৰু সদায় পাঠ কৰোঁ।",
+      "speaker": "Tai Literature & Culture Association",
+      "location": "Taunggyi",
+      "notes": "Pedagogical pledge."
+    },
+    {
+      "id": "book_shan_reader_2004_basic_level_012",
+      "lik_tai": "ႁႂ်ႈ ၵူၼ်း ၸၢဝ်း တႆး ၵူႈ ၵေႃႉ ယူႇလီ မီးသုၵ်ႈ",
+      "text_roman": "hai kun caw tai ku kaw yu li mi suk",
+      "assamese_script": "সকলো টাই জনগোষ্ঠীৰ লোক সুখে-শান্তিয়ে জীৱন যাপন কৰক",
+      "morphemes": [
+        "hai",
+        "kun",
+        "caw",
+        "tai",
+        "ku",
+        "kaw",
+        "yu-li",
+        "mi-suk"
+      ],
+      "glosses": [
+        "may",
+        "person",
+        "ethnicity",
+        "Tai",
+        "every",
+        "CLF:person",
+        "live-well",
+        "have-happiness"
+      ],
+      "free_translation_en": "May every Tai person across all lands live in enduring peace and happiness.",
+      "free_translation_as": "সকলো টাই ভাতৃ-ভগ্নী শান্তি আৰু আনন্দেৰে জীয়াই থাকক।",
+      "speaker": "Tai Literature & Culture Association",
+      "location": "Taunggyi",
+      "notes": "Closing blessing."
+    }
+  ]
+}

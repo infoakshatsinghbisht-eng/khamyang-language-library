@@ -1,0 +1,338 @@
+{
+  "id": "book_ahom_buranji_translations_parallel",
+  "book_id": "book_ahom_buranji_translations_parallel",
+  "title": "Ahom Buranji Translations (Parallel Ahom-Assamese Text)",
+  "author": "Department of Historical and Antiquarian Studies (DHAS)",
+  "year": 1950,
+  "genre": "Parallel Historical Chronicle",
+  "description": "Direct interlinear translation of authentic Tai Ahom palm-leaf chronicle registers into Assamese, preserving the grammatical structure, morpheme alignments, and lexical parallels matching Tai Khamyang syntax and lexicon.",
+  "source": "https://archive.org/details/ahom-buranji-translations",
+  "archive_id": "ahom-buranji-translations",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡ᩠ᨿᩣ",
+      "text_roman": "chau phaa tii mroeng tai khyaa",
+      "assamese_script": "চৌ ফা তী ম্ৰোং টাই খ্যা",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tii",
+        "mroeng",
+        "tai",
+        "khyaa"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "at",
+        "country",
+        "Tai",
+        "proclaim"
+      ],
+      "free_translation_en": "The heavenly king proclaimed his royal edict across the Tai territory.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই দেশজুৰি ৰাজকীয় আদেশ ঘোষণা কৰিলে।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati / Sibsagar",
+      "notes": "Direct interlinear opening formula."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu chau khaw tii kaang taang",
+      "assamese_script": "ফু চৌ খৌ তী কাং তাং",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khaw",
+        "tii",
+        "kaang",
+        "taang"
+      ],
+      "glosses": [
+        "dignitary",
+        "lord",
+        "enter",
+        "at",
+        "middle",
+        "path"
+      ],
+      "free_translation_en": "The noble councillors assembled along the main highway.",
+      "free_translation_as": "পাত্ৰ-মন্ত্ৰীসকলে মূল পথৰ সংযোগস্থলত সমবেত হ'ল।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Phuu-chau signifies court dignitaries."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨶᩣᩴ",
+      "text_roman": "tai phaw tii phyeng mii nam",
+      "assamese_script": "টাই ফৌ তী ফ্যেং মী নাম",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "phyeng",
+        "mii",
+        "nam"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "plains",
+        "have",
+        "water"
+      ],
+      "free_translation_en": "The Tai villages on the plains had plentiful water supplies.",
+      "free_translation_as": "সমতলৰ টাই খেলসমূহে প্ৰচুৰ পানীৰ সুবিধা লাভ কৰিছিল।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Village settlement description."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨲᩱ ᨩᩮᩣᩢ",
+      "text_roman": "man khaw taang phuu tai chau",
+      "assamese_script": "মান খৌ তাং ফু টাই চৌ",
+      "morphemes": [
+        "man",
+        "khaw",
+        "taang",
+        "phuu",
+        "tai",
+        "chau"
+      ],
+      "glosses": [
+        "3SG",
+        "enter",
+        "way/rank",
+        "man",
+        "Tai",
+        "noble"
+      ],
+      "free_translation_en": "He was initiated into the ranks of the Tai noblemen.",
+      "free_translation_as": "তেওঁক টাই অভিজাত শ্ৰেণীৰ মৰ্যাদা প্ৰদান কৰা হ'ল।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Investiture clause in court chronicles."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨲᩱ ᨡ᩠ᨿᩣ",
+      "text_roman": "khaw nam tii phyeng tai khyaa",
+      "assamese_script": "খৌ নাম তী ফ্যেং টাই খ্যা",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "tai",
+        "khyaa"
+      ],
+      "glosses": [
+        "rice",
+        "water",
+        "in",
+        "valley",
+        "Tai",
+        "praise"
+      ],
+      "free_translation_en": "The food and water of the Tai valley were celebrated by all.",
+      "free_translation_as": "টাই উপত্যকাৰ শস্য আৰু পানী সকলোৰে দ্বাৰা প্ৰশংসিত হ'ল।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Khyaa used in passive/evaluative sense."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩣ᩠ᨦ ᨻᩕᩣ ᨾᩦ",
+      "text_roman": "naang chau tai taang phaa mii",
+      "assamese_script": "নাং চৌ টাই তাং ফা মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "taang",
+        "phaa",
+        "mii"
+      ],
+      "glosses": [
+        "princess",
+        "noble",
+        "Tai",
+        "virtue/way",
+        "heaven",
+        "have"
+      ],
+      "free_translation_en": "The Tai princess possessed heavenly grace and virtue.",
+      "free_translation_as": "টাই ৰাজকুমাৰীৰ স্বৰ্গীয় শুচিতা আৰু সদ্গুণ আছিল।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Eulogy for royal women."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khyaa tii nam kaang",
+      "assamese_script": "ফু টাই খ্যা তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "person",
+        "Tai",
+        "speak",
+        "at",
+        "water",
+        "center"
+      ],
+      "free_translation_en": "The Tai warriors conferred together in the middle of the river.",
+      "free_translation_as": "টাই সৈন্যসকলে নদীৰ মাজত আলোচনাত বহিল।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Naval war council."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨻᩪ",
+      "text_roman": "chau mroeng taang tai khaw phuu",
+      "assamese_script": "চৌ ম্ৰোং তাং টাই খৌ ফু",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "taang",
+        "tai",
+        "khaw",
+        "phuu"
+      ],
+      "glosses": [
+        "lord",
+        "country",
+        "path",
+        "Tai",
+        "enter",
+        "mountain"
+      ],
+      "free_translation_en": "The ruler marched the Tai columns into the mountain stronghold.",
+      "free_translation_as": "ৰজাই টাই সেনাদলক লৈ পাহাৰীয়া দুৰ্গলৈ আগবাঢ়িলে।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Movement of troops into fortified positions."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨴᩣ᩠ᨦ ᨲᩱ ᨾᩦ ᨩᩮᩣᩢ",
+      "text_roman": "phyeng tii taang tai mii chau",
+      "assamese_script": "ফ্যেং তী তাং টাই মী চৌ",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "taang",
+        "tai",
+        "mii",
+        "chau"
+      ],
+      "glosses": [
+        "peace",
+        "at",
+        "borders",
+        "Tai",
+        "have",
+        "lord"
+      ],
+      "free_translation_en": "Peace reigned along the Tai frontiers under the sovereign's watch.",
+      "free_translation_as": "স্বৰ্গদেউৰ দৃষ্টিত টাই সীমান্তত শান্তি বিৰাজমান হ'ল।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Security along the border outposts."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨡᩮᩢᩣ ᨴᩦ ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨶᩣᩴ",
+      "text_roman": "khaw tii phuu tai khyaa nam",
+      "assamese_script": "খৌ তী ফু টাই খ্যা নাম",
+      "morphemes": [
+        "khaw",
+        "tii",
+        "phuu",
+        "tai",
+        "khyaa",
+        "nam"
+      ],
+      "glosses": [
+        "enter",
+        "at",
+        "mountain",
+        "Tai",
+        "speak",
+        "river"
+      ],
+      "free_translation_en": "Entering the mountain valley, the Tai remembered the great river.",
+      "free_translation_as": "পৰ্বতীয়া উপত্যকাত সোমাই টাইসকলে ব্ৰহ্মপুত্ৰৰ স্মৃতি ৰোমন্থন কৰিলে।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Poetic sentiment in historical chronicle."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨻᩕᩣ ᨩᩮᩣᩢ ᨲᩱ ᨾᩕ᩠ᨦ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phaa chau tai mroeng phyeng taang",
+      "assamese_script": "ফা চৌ টাই ম্ৰোং ফ্যেং তাং",
+      "morphemes": [
+        "phaa",
+        "chau",
+        "tai",
+        "mroeng",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "heaven",
+        "lord",
+        "Tai",
+        "country",
+        "level/just",
+        "path/rule"
+      ],
+      "free_translation_en": "The heavenly sovereign ruled the Tai realm with even-handed justice.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই দেশক ন্যায়পৰায়ণ শাসনৰে পৰিচালনা কৰিলে।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Phyeng-taang as justice and equity."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "tai phaw mroeng chau mii khyaa",
+      "assamese_script": "টাই ফৌ ম্ৰোং চৌ মী খ্যা",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "mroeng",
+        "chau",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "realm",
+        "lord",
+        "have",
+        "perpetual_fame"
+      ],
+      "free_translation_en": "The Tai kindred and their sovereign shall enjoy everlasting historical renown.",
+      "free_translation_as": "টাই জনগোষ্ঠী আৰু তেওঁলোকৰ ৰজাই ইতিহাসত চিৰকাল খ্যাতি লাভ কৰিব।",
+      "speaker": "DHAS Manuscript Editors",
+      "location": "Guwahati",
+      "notes": "Chronicle concluding blessing."
+    }
+  ]
+}

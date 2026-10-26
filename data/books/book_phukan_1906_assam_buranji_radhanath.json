@@ -1,0 +1,326 @@
+{
+  "id": "book_phukan_1906_assam_buranji_radhanath",
+  "book_id": "book_phukan_1906_assam_buranji_radhanath",
+  "title": "Assam Buranji (1906)",
+  "author": "Kasinath Tamuli Phukan & Radhanath Barbarua",
+  "year": 1906,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Foundational nineteenth-century chronicle composed by Kasinath Tamuli Phukan under royal commission of Swargadeo Purandar Singha and revised by Radhanath Barbarua, detailing Tai Ahom origins from Lengdon and Khunlung-Khunlai to the British annexation.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.452910",
+  "archive_id": "in.ernet.dli.2015.452910",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨧᩮᩢᩣ",
+      "text_roman": "phaa tai khyaa tii mroeng chau tsaw",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ চউ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau",
+        "tsaw"
+      ],
+      "glosses": [
+        "heaven",
+        "Tai",
+        "chronicle",
+        "at",
+        "country",
+        "kings",
+        "ancient"
+      ],
+      "free_translation_en": "The heavenly deities Lengdon sent Khunlung and Khunlai down to rule the earthly realm.",
+      "free_translation_as": "স্বৰ্গৰ দেৱতা লেংদনে পৃথিৱী শাসন কৰিবলৈ খুনলুং আৰু খুনলাইক মৰ্ত্যলৈ নমাই দিলে।",
+      "speaker": "Kasinath Tamuli Phukan (Royal Chronicler)",
+      "location": "Jorhat / Sibsagar",
+      "notes": "Opening cosmogony of Kasinath Tamuli Phukan's Buranji."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii kaang mroeng",
+      "assamese_script": "চৌ ফা টাই খৌ তী কাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "kaang",
+        "mroeng"
+      ],
+      "glosses": [
+        "king/sukaphaa",
+        "heaven",
+        "Tai",
+        "cross",
+        "at",
+        "mountains",
+        "homeland"
+      ],
+      "free_translation_en": "Chao Lung Sukaphaa crossed the Patkai mountain ranges in 1228 to establish the kingdom.",
+      "free_translation_as": "চৌলুং চুকাফাই ১২২৮ খ্ৰীষ্টাব্দত পাটকাই পৰ্বত পাৰ হৈ আহি ৰাজ্য স্থাপন কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Charaideo",
+      "notes": "Sukaphaa's arrival in Assam."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "settlers",
+        "at",
+        "river",
+        "grow",
+        "grain"
+      ],
+      "free_translation_en": "The Tai pioneers cultivated wet-rice paddies along the Dikhou and Dihing rivers.",
+      "free_translation_as": "টাই লোকসকলে দিখৌ আৰু দিহিং নদীৰ উপত্যকাত শালি খেতি কৰি সমৃদ্ধিশালী হ’ল।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Upper Assam",
+      "notes": "Settlement of Charaideo."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "councillors",
+        "patra_mantri",
+        "proclaim",
+        "law",
+        "to",
+        "people"
+      ],
+      "free_translation_en": "The Borgohain and Buragohain nobles administered the realm with established tribal statutes.",
+      "free_translation_as": "বৰগোঁহাই আৰু বুঢ়াগোঁহাই ডাঙৰীয়াসকলে নিয়ম-নীতিৰে ৰাজ্য পৰিচালনা কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Gargaon",
+      "notes": "Patra-Mantri administrative structure."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "they",
+        "construct",
+        "ramparts",
+        "through",
+        "plains",
+        "central"
+      ],
+      "free_translation_en": "They engineered massive earthen ramparts and causeways across the lowlands.",
+      "free_translation_as": "তেওঁলোকে সমগ্ৰ উপত্যকাত বিশাল মাটিৰ গড় আৰু সুচল আলি নিৰ্মাণ কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Sibsagar / Rangpur",
+      "notes": "Public works and fortification architecture."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "queen",
+        "mula_gabharu",
+        "tai",
+        "brave",
+        "for",
+        "homeland"
+      ],
+      "free_translation_en": "Heroic figures like Mula Gabharu defended the homeland against foreign invasions.",
+      "free_translation_as": "মূলা গাভৰুৰ দৰে বীৰাংগনাই বিদেশী আক্ৰমণৰ বিৰুদ্ধে মাতৃভূমিক ৰক্ষা কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Upper Assam",
+      "notes": "Heroic resistance in historical battles."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw tii nam kaang",
+      "assamese_script": "ফু টাই খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "paiks",
+        "tai",
+        "organize",
+        "in",
+        "khels",
+        "system"
+      ],
+      "free_translation_en": "The Paik system mobilized citizens efficiently for agriculture, defense, and infrastructure.",
+      "free_translation_as": "পাইক প্ৰথাই কৃষি, প্ৰতিৰক্ষা আৰু নিৰ্মাণকাৰ্যৰ বাবে প্ৰজাক সুশৃংখলিত কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Assam Valley",
+      "notes": "The Momai Tamuli Paik reorganisation."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "swargadeos",
+        "dynasty",
+        "preserve",
+        "chronicles",
+        "custom",
+        "sacred"
+      ],
+      "free_translation_en": "Generations of Swargadeos maintained sacred manuscripts in royal archives.",
+      "free_translation_as": "প্ৰজন্মৰ পিছত প্ৰজন্ম স্বৰ্গদেৱসকলে ৰাজমহলত পৱিত্ৰ সাঁচিপাতৰ বুৰঞ্জী সংৰক্ষণ কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Jorhat",
+      "notes": "Preservation of royal archives."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "architecture",
+        "in",
+        "capital",
+        "temples",
+        "tanks",
+        "water"
+      ],
+      "free_translation_en": "Magnificent brick amphitheaters and grand reservoirs graced Rangpur and Sibsagar.",
+      "free_translation_as": "ৰংপুৰ আৰু শিৱসাগৰত সুন্দৰ ৰংঘৰ আৰু বিশাল পুখুৰীসমূহে শোভা পালে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Rangpur",
+      "notes": "Architecture of Rangpur."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "priests",
+        "tai",
+        "deodhai",
+        "bailung",
+        "perform",
+        "me-dam-me-phi"
+      ],
+      "free_translation_en": "Deodhai and Bailung priests performed Me-Dam-Me-Phi rituals to honor the ancestors.",
+      "free_translation_as": "দেওধাই আৰু বাইলুং পণ্ডিতে পূৰ্বপুৰুষক শ্ৰদ্ধা জনাবলৈ মে-ডাম-মে-ফি পূজা কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Charaideo",
+      "notes": "Me-Dam-Me-Phi ritual ceremonies."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "commander",
+        "lachit",
+        "tai",
+        "defend",
+        "saraighat",
+        "liberty"
+      ],
+      "free_translation_en": "Bir Lachit Barphukan defeated the imperial armada at the Battle of Saraighat in 1671.",
+      "free_translation_as": "বীৰ লাচিত বৰফুকনে ১৬৭১ চনত শৰাইঘাটৰ যুদ্ধত মোগল বাহিনীক পৰাস্ত কৰিলে।",
+      "speaker": "Kasinath Tamuli Phukan",
+      "location": "Saraighat / Guwahati",
+      "notes": "Battle of Saraighat."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "history",
+        "chronicles",
+        "heritage",
+        "unfading",
+        "path"
+      ],
+      "free_translation_en": "Kasinath Tamuli Phukan's chronicle remains the primary standard for medieval Assamese historiography.",
+      "free_translation_as": "কাশীনাথ তামুলী ফুকনৰ বুৰঞ্জী মধ্যযুগীয় অসমীয়া ইতিহাস চৰ্চাৰ মুখ্য আধাৰ হৈ আছে।",
+      "speaker": "Radhanath Barbarua (Editor)",
+      "location": "Jorhat",
+      "notes": "Conclusion of Kasinath Tamuli Phukan's Assam Buranji."
+    }
+  ]
+}

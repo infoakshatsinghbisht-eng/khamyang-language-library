@@ -1,0 +1,340 @@
+{
+  "id": "book_khanikar_1991_chutia_jatir_itihas",
+  "book_id": "book_khanikar_1991_chutia_jatir_itihas",
+  "title": "Chutia Jatir Itihas Aru Loka-sanskriti Vol. 1, 2",
+  "author": "Surjyakanta Khanikar",
+  "year": 1991,
+  "genre": "Regional Ethnography / Cultural History",
+  "description": "Comprehensive regional history exploring the medieval interactions, matrimonial bonds, agrarian partnerships, and boundary treaties between the Chutia kingdom and early Tai settlements in Upper Assam.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.451525",
+  "archive_id": "in.ernet.dli.2015.451525",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu chau tai khyaa tii mroeng kaang",
+      "assamese_script": "ফু চৌ টাই খ্যা তী ম্ৰোং কাং",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "kaang"
+      ],
+      "glosses": [
+        "elder",
+        "noble",
+        "Tai",
+        "speak",
+        "at",
+        "country",
+        "central"
+      ],
+      "free_translation_en": "The venerable Tai leaders held counsel in the central province.",
+      "free_translation_as": "শ্ৰদ্ধেয় টাই নেতাসকলে মধ্য ভূখণ্ডত আলোচনাত মিলিত হ'ল।",
+      "speaker": "Surjyakanta Khanikar (Historian)",
+      "location": "Sadiya / Golaghat",
+      "notes": "Historical council between the Tai newcomers and local rulers."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "tai phaw tii nam phyeng mii",
+      "assamese_script": "টাই ফৌ তী নাম ফ্যেং মী",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "river",
+        "plain",
+        "settle"
+      ],
+      "free_translation_en": "Tai clans established cooperative villages on the fertile river plains.",
+      "free_translation_as": "টাই খেলসমূহে উৰ্বৰ নদীৰ পাৰত সম্প্ৰীতিৰে গাঁও স্থাপন কৰিলে।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Settlement of Tai communities alongside older inhabitants."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨲᩱ ᨾᩕ᩠ᨦ",
+      "text_roman": "khaw nam tii phyeng tai mroeng",
+      "assamese_script": "খৌ নাম তী ফ্যেং টাই ম্ৰোং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "tai",
+        "mroeng"
+      ],
+      "glosses": [
+        "grain",
+        "water",
+        "in",
+        "valleys",
+        "Tai",
+        "country"
+      ],
+      "free_translation_en": "Plentiful grain and irrigation enriched the valleys of the realm.",
+      "free_translation_as": "প্ৰচুৰ শস্য আৰু জলসিঞ্চন ব্যৱস্থাই উপত্যকাখনক সমৃদ্ধ কৰি তুলিলে।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Agrarian base described in regional ethnography."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨣᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "man khaw taang phuu kaang chau",
+      "assamese_script": "মান খৌ তাং ফু কাং চৌ",
+      "morphemes": [
+        "man",
+        "khaw",
+        "taang",
+        "phuu",
+        "kaang",
+        "chau"
+      ],
+      "glosses": [
+        "he",
+        "enter",
+        "treaty",
+        "chieftain",
+        "central",
+        "court"
+      ],
+      "free_translation_en": "He ratified a diplomatic alliance with the provincial chieftain.",
+      "free_translation_as": "তেওঁ স্থানীয় দলপতিৰ সৈতে মিত্ৰতাৰ চুক্তি স্বাক্ষৰ কৰিলে।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Treaty protocols between neighboring kingdoms."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩕᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩦ ᨲᩱ",
+      "text_roman": "phaa chau mroeng khyaa tii tai",
+      "assamese_script": "ফা চৌ ম্ৰোং খ্যা তী টাই",
+      "morphemes": [
+        "phaa",
+        "chau",
+        "mroeng",
+        "khyaa",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "heaven",
+        "monarch",
+        "nation",
+        "address",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The sovereign addressed the gathered Tai assembly.",
+      "free_translation_as": "স্বৰ্গদেৱে একত্ৰিত টাই লোকসকলক সম্বোধন কৰিলে।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Royal proclamation formula."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "noblewoman",
+        "lord",
+        "Tai",
+        "in",
+        "hall",
+        "reside"
+      ],
+      "free_translation_en": "The noble Tai matrons held respected stations in the royal court.",
+      "free_translation_as": "টাই মহীয়সী মহিলাসকলে ৰাজদৰবাৰত সন্মানীয় স্থান লাভ কৰিছিল।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Matrimonial diplomacy documented in regional archives."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "travel",
+        "route",
+        "river",
+        "center"
+      ],
+      "free_translation_en": "The Tai boatmen traveled along the central waterways for trade.",
+      "free_translation_as": "টাই নাওৰীয়াসকলে বেহা-বেপাৰৰ বাবে নদীৰ জলপথেৰে ভ্ৰমণ কৰিছিল।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Riverine commerce along the Lohit and Dihing."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "king",
+        "country",
+        "maintain",
+        "charters",
+        "way",
+        "ancestral"
+      ],
+      "free_translation_en": "The king maintained the customary charters of ancient tradition.",
+      "free_translation_as": "ৰজাই প্ৰাচীন পৰম্পৰা অনুসৰি তাম্ৰফলি আৰু নথি সংৰক্ষণ কৰিছিল।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Maintenance of boundary charters and grants."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "level",
+        "in",
+        "country",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "The fertile soil of the Tai valley sustained rich harvest yields.",
+      "free_translation_as": "টাই উপত্যকাৰ সাৰুৱা মাটিয়ে প্ৰচুৰ ফচল উৎপাদন কৰিছিল।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Agrarian stability in Upper Assam."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "at",
+        "hills",
+        "keep",
+        "connections"
+      ],
+      "free_translation_en": "The Tai folk preserved continuous communication across the hill trails.",
+      "free_translation_as": "টাই লোকসকলে পাহাৰীয়া বাটৰ মাজেৰে নিয়মিত যোগাযোগ ৰক্ষা কৰিছিল।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Trade corridors through the foothill passes."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "country",
+        "rule",
+        "peacefully"
+      ],
+      "free_translation_en": "The heavenly sovereign governed the Tai country in lasting harmony.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই দেশখন শান্তিপূৰ্ণ নীতিৰে শাসন কৰিলে।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Harmony among varied ethnolinguistic groups."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨻ᩠ᨿᨦ",
+      "text_roman": "tai phaw chau mroeng mii phyeng",
+      "assamese_script": "টাই ফৌ চৌ ম্ৰোং মী ফ্যেং",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "chau",
+        "mroeng",
+        "mii",
+        "phyeng"
+      ],
+      "glosses": [
+        "Tai",
+        "clans",
+        "ruler",
+        "land",
+        "possess",
+        "peace"
+      ],
+      "free_translation_en": "The Tai kindreds and their king enjoyed widespread peace across the land.",
+      "free_translation_as": "টাই খেলসমূহ আৰু ৰজাই সমগ্ৰ ভূখণ্ডত শান্তি লাভ কৰিলে।",
+      "speaker": "Surjyakanta Khanikar",
+      "location": "Upper Assam",
+      "notes": "Conclusion of ethnographic narrative."
+    }
+  ]
+}

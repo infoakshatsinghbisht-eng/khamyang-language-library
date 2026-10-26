@@ -1,0 +1,375 @@
+{
+  "id": "book_shan_reader_2000_grade_2",
+  "book_id": "book_shan_reader_2000_grade_2",
+  "title": "Shan Reader Grade 2 (ပပ်ႉလူႁဵၼ်း မၢႆ 2)",
+  "author": "Tai Literature and Culture Association",
+  "year": 2000,
+  "genre": "Intermediate Primary Tai Reader & Folktales",
+  "description": "Second-grade reading textbook published by the Tai Literature and Culture Association, advancing students from simple syllables to consonant clusters, diphthongs, tone inflections, traditional stories, animal fables, and community festivals matching Southwestern Tai oral narrative structures.",
+  "source": "Internet Archive (shan-reader-no-2)",
+  "archive_id": "shan-reader-no-2",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_shan_reader_2000_grade_2_001",
+      "lik_tai": "ပပ်ႉ လူႁဵၼ်း မၢႆ သွင် ပုၼ်ႈတႃႇ လုၵ်ႈႁဵၼ်း ၸၼ်ႉ သွင်",
+      "text_roman": "pap lu hen mai sawng pun ta luk hen can sawng",
+      "assamese_script": "পাপ লু-হেন মাই ছঙ পুন তা লুক-হেন চান ছঙ",
+      "morphemes": [
+        "pap",
+        "lu-hen",
+        "mai",
+        "sawng",
+        "pun-ta",
+        "luk-hen",
+        "can",
+        "sawng"
+      ],
+      "glosses": [
+        "book",
+        "reading/study",
+        "number",
+        "two",
+        "for",
+        "pupil",
+        "grade",
+        "two"
+      ],
+      "free_translation_en": "Reading study book number two for second-grade students.",
+      "free_translation_as": "দ্বিতীয় শ্ৰেণীৰ শিক্ষার্থীসকলৰ বাবে টাই ভাষাৰ দ্বিতীয় ভাগ পাঠ্যপুথি।",
+      "speaker": "Tai Educational Editor",
+      "location": "Taunggyi",
+      "notes": "Title heading of Grade 2 reader."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_002",
+      "lik_tai": "ၶုၼ် ၼူ တိုၵ်း ပႄႉ တူဝ် မႅဝ်း ၼႂ်း ပုင်း",
+      "text_roman": "khun nu tük pe tu mew nai pung",
+      "assamese_script": "সাধুকথাত নিগনিৰ ৰজাই মেকুৰীক পৰাভূত কৰিলে",
+      "morphemes": [
+        "khun",
+        "nu",
+        "tük",
+        "pe",
+        "tu",
+        "mew",
+        "nai",
+        "pung"
+      ],
+      "glosses": [
+        "king/chief",
+        "mouse/rat",
+        "fight",
+        "defeat",
+        "CLF",
+        "cat",
+        "in",
+        "folktale"
+      ],
+      "free_translation_en": "In the traditional folktale, the clever king of mice outwitted the cat.",
+      "free_translation_as": "লোককথাত চতুৰ নিগনিৰ ৰজাই ধূৰ্ত মেকুৰীক পৰাস্ত কৰিলে।",
+      "speaker": "Tai Storyteller",
+      "location": "Taunggyi",
+      "notes": "Lesson 3: Animal folktale."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_003",
+      "lik_tai": "ဝူဝ်း ထိုၵ်း ထႆ ၼႃး ၶၢဝ်း မႆႈ လႄႈ ၶၢဝ်း ၽူၼ်",
+      "text_roman": "wo thik thai na khao mai le khao phun",
+      "assamese_script": "বলধ গৰুৱে গৰম আৰু বাৰিষাৰ দিনত পথাৰত হাল বায়",
+      "morphemes": [
+        "wo-thik",
+        "thai",
+        "na",
+        "khao-mai",
+        "le",
+        "khao-phun"
+      ],
+      "glosses": [
+        "ox/bull",
+        "plow",
+        "paddy-field",
+        "hot-season",
+        "and",
+        "rainy-season"
+      ],
+      "free_translation_en": "The strong oxen plow the fertile fields during the dry and rainy seasons.",
+      "free_translation_as": "বলধ গৰুৱে খেতিৰ বতৰত পথাৰত শ্ৰম কৰি হাল বায়।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Lesson 5: Agricultural livelihood."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_004",
+      "lik_tai": "လုၵ်ႈဢွၼ်ႇ ၸွႆႈ ဢူႈ မႄႈ ၵဵပ်း ၽၵ်း ၼႂ်း သူၼ်",
+      "text_roman": "luk awn cway u me kep phak nai sun",
+      "assamese_script": "ল’ৰা-ছোৱালীয়ে মা-দেউতাক বাৰীৰ শাক-পাচলি চপাত সহায় কৰে",
+      "morphemes": [
+        "luk-awn",
+        "cway",
+        "u",
+        "me",
+        "kep",
+        "phak",
+        "nai",
+        "sun"
+      ],
+      "glosses": [
+        "children",
+        "help",
+        "father",
+        "mother",
+        "gather/harvest",
+        "vegetable",
+        "in",
+        "garden"
+      ],
+      "free_translation_en": "The children assist their parents in gathering fresh vegetables from the kitchen garden.",
+      "free_translation_as": "সন্তানসকলে ঘৰৰ বাৰীৰ পৰা শাক-পাচলি তুলিবলৈ মা-দেউতাক সহায় কৰে।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Family duty and cooperation."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_005",
+      "lik_tai": "ပွႆး သၢင်းၵျၢၼ်ႇ ၶိုၼ်ႈ မႃး ၵူႈ ပီ ၼႂ်း လိူၼ် ႁႃႈ",
+      "text_roman": "pway sang kyan khün ma ku pi nai lün ha",
+      "assamese_script": "প্ৰতি বছৰে বহাগ মাহত পৱিত্ৰ চাংকেন উৎসৱ অনুষ্ঠিত হয়",
+      "morphemes": [
+        "pway",
+        "sang-kyan",
+        "khün",
+        "ma",
+        "ku",
+        "pi",
+        "nai",
+        "lün-ha"
+      ],
+      "glosses": [
+        "festival",
+        "Songkran/Sangken",
+        "arrive",
+        "come",
+        "every",
+        "year",
+        "in",
+        "fifth-month/April"
+      ],
+      "free_translation_en": "The sacred Sangken water festival arrives every year during the fifth lunar month.",
+      "free_translation_as": "প্ৰতি বছৰে পঞ্চম মাহত (বহাগত) পৱিত্ৰ চাংকেন জল মহোৎসৱ পালন কৰা হয়।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Lesson 8: Traditional festive calendar."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_006",
+      "lik_tai": "ပီႈၼွင်ႉ တႆး ဢဝ် ၼမ်ႉ ႁွမ် သွၵ်ႉ ၽြႃး ပုတ်ႉထ",
+      "text_roman": "pi nawng tai ao nam hawm sawk phra put tha",
+      "assamese_script": "টাই জ্ঞাতিসকলে সুগন্ধি পানীৰে বুদ্ধ বিগ্ৰহ স্নান কৰায়",
+      "morphemes": [
+        "pi-nawng",
+        "tai",
+        "ao",
+        "nam-hawm",
+        "sawk",
+        "phra",
+        "put-tha"
+      ],
+      "glosses": [
+        "brethren",
+        "Tai",
+        "take",
+        "scented-water",
+        "sprinkle/bathe",
+        "lord",
+        "Buddha"
+      ],
+      "free_translation_en": "Tai people bathe the holy image of the Buddha with sweet scented water.",
+      "free_translation_as": "সকলো টাই ভাই-ভনীয়ে সুগন্ধি পুষ্প-জলেৰে তথাগত বুদ্ধক স্নান কৰায়।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Bathing of Buddha statues during Poy Sangken."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_007",
+      "lik_tai": "တူၼ်ႈ မႆႉ သုင် ႁႄႉ ႁၢမ်ႈ လူမ်း လႅင်ႉ ၼႂ်း ဝၢၼ်ႈ",
+      "text_roman": "tun mai sung he ham lum leng nai wan",
+      "assamese_script": "ওখ গছ-গছনিয়ে গাঁওখনক ধুমুহা-বতাহৰ পৰা ৰক্ষা কৰে",
+      "morphemes": [
+        "tun-mai",
+        "sung",
+        "he-ham",
+        "lum-leng",
+        "nai",
+        "wan"
+      ],
+      "glosses": [
+        "tree",
+        "tall/high",
+        "protect/shield",
+        "storm/strong-wind",
+        "in",
+        "village"
+      ],
+      "free_translation_en": "Tall trees shield and protect the village from fierce storm winds.",
+      "free_translation_as": "ওখ বৃক্ষৰাজিয়ে গাঁওখনক প্ৰচণ্ড ধুমুহা আৰু ধূলিৰ পৰা সুৰক্ষা দিয়ে।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Environmental lessons."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_008",
+      "lik_tai": "ၵူၼ်း ၸိုဝ်ႈသတ်ႉၸႃႇ တေ လႆႈ တၢင်း ၼပ်ႉယမ် တႃႇသေႇ",
+      "text_roman": "kun cü sat ca te lai tang nap yam ta se",
+      "assamese_script": "সত্যবাদী মানুহে সমাজত সদায় আদৰ আৰু শ্ৰদ্ধা লাভ কৰে",
+      "morphemes": [
+        "kun",
+        "cü-sat-ca",
+        "te",
+        "lai",
+        "tang-nap-yam",
+        "ta-se"
+      ],
+      "glosses": [
+        "person",
+        "truthful/honest",
+        "FUT",
+        "receive",
+        "respect/honor",
+        "always"
+      ],
+      "free_translation_en": "Honest and truthful individuals always earn lasting respect from society.",
+      "free_translation_as": "সঁচা আৰু ন্যায়পৰায়ণ ব্যক্তিয়ে সমাজত সদায় সন্মান লাভ কৰে।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Lesson 10: Moral character."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_009",
+      "lik_tai": "ပႃ ၼႂ်း ၼွင် ၵိၼ် တၢင်း ၵိၼ် လီ လီ ၼႂ်း ၵၢင်ဝၼ်း",
+      "text_roman": "pa nai nawng kin tang kin li li nai kang wan",
+      "assamese_script": "বিলৰ মাছবোৰে দুপৰীয়া পানীত খাদ্য বিচাৰি ফুৰে",
+      "morphemes": [
+        "pa",
+        "nai",
+        "nawng",
+        "kin",
+        "tang-kin",
+        "li",
+        "li",
+        "nai",
+        "kang-wan"
+      ],
+      "glosses": [
+        "fish",
+        "in",
+        "lake/pond",
+        "eat",
+        "food",
+        "well",
+        "well",
+        "in",
+        "midday"
+      ],
+      "free_translation_en": "Fishes in the pond forage peacefully for food during the warm afternoon.",
+      "free_translation_as": "পুখুৰীৰ মাছবোৰে দিনৰ ভাগত শান্তভাৱে আহাৰ বিচাৰি ফুৰে।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Nature study."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_010",
+      "lik_tai": "ၵျွင်း ဝတ်ႉ မီး သဵင် လိၵ်ႈ ထမ်း သႃးၼႃႇ လီ ထွမ်ႇ",
+      "text_roman": "kyawng wat mi syeŋ lik tham sa na li thwam",
+      "assamese_script": "বৌদ্ধ বিহাৰত ধৰ্মপুথি পাঠৰ পৱিত্ৰ ধ্বনি শুনিবলৈ অতি মধুৰ",
+      "morphemes": [
+        "kyawng-wat",
+        "mi",
+        "syeŋ",
+        "lik-tham",
+        "sa-na",
+        "li-thwam"
+      ],
+      "glosses": [
+        "monastery/vihara",
+        "have",
+        "sound",
+        "scriptural-dharma",
+        "pleasant-to-hear"
+      ],
+      "free_translation_en": "The monastic chanting of sacred Dharma verses sounds serene and beautiful.",
+      "free_translation_as": "বৌদ্ধ বিহাৰত গুঞ্জৰিত হোৱা পৱিত্ৰ সূত্ৰপাঠৰ ধ্বনি অতি মনোৰম।",
+      "speaker": "Tai Educator",
+      "location": "Taunggyi",
+      "notes": "Monastic chants."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_011",
+      "lik_tai": "လုၵ်ႈႁဵၼ်း ၵူႈ ၵေႃႉ တေ ႁၵ်ႉသႃ လိၵ်ႈ တႆး လႄႈ ၵႂၢမ်း တႆး",
+      "text_roman": "luk hen ku kaw te hak sa lik tai le kwam tai",
+      "assamese_script": "প্ৰতিজন ছাত্ৰই নিজৰ টাই ভাষা আৰু লিপি সংৰক্ষণ কৰিব লাগিব",
+      "morphemes": [
+        "luk-hen",
+        "ku",
+        "kaw",
+        "te",
+        "hak-sa",
+        "lik",
+        "tai",
+        "le",
+        "kwam",
+        "tai"
+      ],
+      "glosses": [
+        "student",
+        "every",
+        "CLF",
+        "FUT",
+        "protect/preserve",
+        "script",
+        "Tai",
+        "and",
+        "language",
+        "Tai"
+      ],
+      "free_translation_en": "Every young student shall faithfully preserve our Tai speech and written script.",
+      "free_translation_as": "প্ৰতিজন শিক্ষার্থীয়ে নিজৰ মাতৃভাষা আৰু লিপি সংৰক্ষণ কৰিবলৈ প্ৰতিশ্ৰুতিবদ্ধ।",
+      "speaker": "Tai Literature & Culture Association",
+      "location": "Taunggyi",
+      "notes": "Preservation pledge."
+    },
+    {
+      "id": "book_shan_reader_2000_grade_2_012",
+      "lik_tai": "ႁႂ်ႈ သႃႇသၼႃႇ လႄႈ လိၵ်ႈ တႆး ယူႇ ယိုၼ်းယၢဝ်း ၼႂ်း မိူင်း",
+      "text_roman": "hai sa sa na le lik tai yu yün yao nai möng",
+      "assamese_script": "বৌদ্ধ শাসন আৰু টাই লিপি দেশত চিৰকাল জীয়াই থাকক",
+      "morphemes": [
+        "hai",
+        "sa-sa-na",
+        "le",
+        "lik",
+        "tai",
+        "yu",
+        "yün-yao",
+        "nai",
+        "möng"
+      ],
+      "glosses": [
+        "may",
+        "Sasana/dispensation",
+        "and",
+        "script",
+        "Tai",
+        "endure",
+        "forever",
+        "in",
+        "country"
+      ],
+      "free_translation_en": "May the Buddhist Sasana and the Tai script endure throughout the land for all ages.",
+      "free_translation_as": "পৱিত্ৰ বৌদ্ধ শাসন আৰু টাই ভাষা-লিপি দেশত চিৰকালৰ বাবে জ্যোতিষ্মান হৈ ৰওক।",
+      "speaker": "Tai Literature & Culture Association",
+      "location": "Taunggyi",
+      "notes": "Benedictory conclusion."
+    }
+  ]
+}

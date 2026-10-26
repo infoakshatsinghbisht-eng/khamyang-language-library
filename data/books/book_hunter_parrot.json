@@ -1,0 +1,637 @@
+{
+  "id": "book_hunter_parrot",
+  "title_khamyang": "Lik4 Pung1: Nok4 Tyt1 Muk4 Sə2",
+  "title_english": "The Hunter's Parrot",
+  "genre": "folktale",
+  "informant": "Chaw Deben Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Moral folktale recounting how a parrot raised by a hunter and a parrot raised in the palace display different conduct, showing that good company brings good words and speech.",
+  "audio_file": "3-1-2-3.mp3",
+  "full_translation": "Once upon a time there was a king. The king was raising a parrot. Furthermore, there was a hunter, who was also raising a parrot.\r\rOne day the king went roaming. He went and reached the house of the hunter. The hunter's parrot scolded the king.\r\rThe King said: 'Catch and kill and get rid of this parrot'.\r\rThen the king thought: 'Do I have a parrot at my house that speaks like this?' And he said to the parrot, 'Come and sit here! Ah, come and eat!' he said. \r\rThen he asked, 'Where do you come from?'\r\r'I am the hunter's bird. I have come. You ordered me to be caught and killed'\r\rSo we say like this:\r\rGood people learn good words and good speech. As for bad people, they will get caught and hit and will learn cursing and scolding only. Therefore, whoever raises children should teach them good language.\r\rIt is finished.",
+  "sentences": [
+    {
+      "id": "book_hunter_parrot_s001",
+      "text_roman": "mɛn4 tsau3 phaa4 kng4 mang5 bai4",
+      "lik_tai": "ႄမၼ်း ၸဝ်ႈ ၽႃး ၵင်း မင်ႉ ဢး",
+      "assamese_script": "মেন⁴ চাও³ ফা⁴ কঙ⁴ মাঙ⁵ অ⁴",
+      "morphemes": [
+        "mɛn4",
+        "tsau3",
+        "phaa4",
+        "kng4",
+        "mang5",
+        "bai4"
+      ],
+      "glosses": [
+        "at that time",
+        "king",
+        "king",
+        "CLF.one",
+        "have",
+        "KEEP"
+      ],
+      "free_translation_en": "At that time there was a king.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": "* Both of these words are combinations of two morphemes, and in each case the 4th tone (high falling glottalised) subsumes the low falling 5th tone and becomes the tone of the whole utterance."
+    },
+    {
+      "id": "book_hunter_parrot_s002",
+      "text_roman": "mɯn2 uu1 j1",
+      "lik_tai": "မိုၼ်ႇ ဢ ဢ",
+      "assamese_script": "মুন² অ¹ অ¹",
+      "morphemes": [
+        "mɯn2",
+        "uu1",
+        "j1"
+      ],
+      "glosses": [
+        "3Sg",
+        "stay",
+        "PRT"
+      ],
+      "free_translation_en": "He lived at ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s003",
+      "text_roman": "tsau3 phaa4 leng4 lok4 tjt1",
+      "lik_tai": "ၸဝ်ႈ ၽႃး ေလင်း လူၵ်း တတ်",
+      "assamese_script": "চাও³ ফা⁴ লেঙ⁴ লোক্‌⁴ তত্‌¹",
+      "morphemes": [
+        "tsau3",
+        "phaa4",
+        "leng4",
+        "lok4",
+        "tjt1"
+      ],
+      "glosses": [
+        "king",
+        "king",
+        "feed",
+        "parrot",
+        "parrot"
+      ],
+      "free_translation_en": "The king was raising a parrot.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s004",
+      "text_roman": "ban2 kha1 naau1 tɛ5 hɛn2 muk4 sɛ2",
+      "lik_tai": "ဢၼ်ႇ ၶႃ ၼႃဝ် ႄတႉ ႄႁၼ်ႇ မုၵ်း ႄꩢႇ",
+      "assamese_script": "অন² খা¹ নাও¹ তে⁵ হেন² মুক্‌⁴ সে²",
+      "morphemes": [
+        "ban2",
+        "kha1",
+        "naau1",
+        "tɛ5",
+        "hɛn2",
+        "muk4",
+        "sɛ2"
+      ],
+      "glosses": [
+        "day.one",
+        "again",
+        "again",
+        "at",
+        "house",
+        "hunter",
+        "hunter"
+      ],
+      "free_translation_en": "One day, at the house of a hunter, a hunter who was also raising a parrot, ",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s005",
+      "text_roman": "ban2 tsau3 phaa4 kaa1 lj1 mɛng2 kaang1",
+      "lik_tai": "ဢၼ်ႇ ၸဝ်ႈ ၽႃး ၵႃ လ ႄမင်ႇ ၵႃင်",
+      "assamese_script": "অন² চাও³ ফা⁴ কা¹ ল¹ মেঙ² কাঙ¹",
+      "morphemes": [
+        "ban2",
+        "tsau3",
+        "phaa4",
+        "kaa1",
+        "lj1",
+        "mɛng2",
+        "kaang1"
+      ],
+      "glosses": [
+        "day.one",
+        "king",
+        "king",
+        "go",
+        "roam",
+        "country",
+        "GO-?"
+      ],
+      "free_translation_en": "One day the king went roaming.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": "* Deben Chowlik stated that \"the meaning was the same whether we say ban2 or ban2 l*N5.\" Probably his pronunciation of [ban2] in (5) is a"
+    },
+    {
+      "id": "book_hunter_parrot_s006",
+      "text_roman": "kaa1 j1 hɛn2 muk4 sɛ2 kaa1 thɯng6 aa1",
+      "lik_tai": "ၵႃ ဢ ႄႁၼ်ႇ မုၵ်း ႄꩢႇ ၵႃ ထိုင်ႊ ဢႃ",
+      "assamese_script": "কা¹ অ¹ হেন² মুক্‌⁴ সে² কা¹ থুঙ⁶ আ¹",
+      "morphemes": [
+        "kaa1",
+        "j1",
+        "hɛn2",
+        "muk4",
+        "sɛ2",
+        "kaa1",
+        "thɯng6",
+        "aa1"
+      ],
+      "glosses": [
+        "go",
+        "PRT",
+        "house",
+        "hunter",
+        "hunter",
+        "go",
+        "reach",
+        "PRT.GO"
+      ],
+      "free_translation_en": "He went and reached the house of the hunter.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": "* This particle marks past time, exactly as kA1 'GO' in postverbal position in Phake. It is probably derived from kA1, and is therefore marked as PRT.GO."
+    },
+    {
+      "id": "book_hunter_parrot_s007",
+      "text_roman": "hɛn2 muk4 sɛ2 kaa1 thɯng6 j1",
+      "lik_tai": "ႄႁၼ်ႇ မုၵ်း ႄꩢႇ ၵႃ ထိုင်ႊ ဢ",
+      "assamese_script": "হেন² মুক্‌⁴ সে² কা¹ থুঙ⁶ অ¹",
+      "morphemes": [
+        "hɛn2",
+        "muk4",
+        "sɛ2",
+        "kaa1",
+        "thɯng6",
+        "j1"
+      ],
+      "glosses": [
+        "house",
+        "hunter",
+        "hunter",
+        "go",
+        "reach",
+        "PRT"
+      ],
+      "free_translation_en": "He reached the house of the hunter",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s008",
+      "text_roman": "nok4 muk4 sɛng2 lok4 tjt1 muk4 sɛng2 hang2 tsau3 phaang4",
+      "lik_tai": "ၼူၵ်း မုၵ်း ႄꩢင်ႇ လူၵ်း တတ် မုၵ်း ႄꩢင်ႇ ႁင်ႇ ၸဝ်ႈ ၽႃင်း",
+      "assamese_script": "নোক্‌⁴ মুক্‌⁴ সেঙ² লোক্‌⁴ তত্‌¹ মুক্‌⁴ সেঙ² হাঙ² চাও³ ফাঙ⁴",
+      "morphemes": [
+        "nok4",
+        "muk4",
+        "sɛng2",
+        "lok4",
+        "tjt1",
+        "muk4",
+        "sɛng2",
+        "hang2",
+        "tsau3",
+        "phaang4"
+      ],
+      "glosses": [
+        "bird",
+        "hunter-?",
+        "hunter-?",
+        "parrot",
+        "parrot",
+        "hunter-?",
+        "hunter-?",
+        "to",
+        "king-?",
+        "king-?"
+      ],
+      "free_translation_en": "The hunter's parrot scolded the king.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s009",
+      "text_roman": "aa1",
+      "lik_tai": "ဢႃ",
+      "assamese_script": "আ¹",
+      "morphemes": [
+        "aa1"
+      ],
+      "glosses": [
+        "HESIT"
+      ],
+      "free_translation_en": "Sentence 9 from book_hunter_parrot.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s010",
+      "text_roman": "hang2 nai3 sju3 aa1 top1 aa1 mang5 aa1",
+      "lik_tai": "ႁင်ႇ ၼႆႈ ꩢႈ ဢႃ တူပ် ဢႃ မင်ႉ ဢႃ",
+      "assamese_script": "হাঙ² নাই³ স³ আ¹ তোপ্‌¹ আ¹ মাঙ⁵ আ¹",
+      "morphemes": [
+        "hang2",
+        "nai3",
+        "sju3",
+        "aa1",
+        "top1",
+        "aa1",
+        "mang5",
+        "aa1"
+      ],
+      "glosses": [
+        "to",
+        "this",
+        "catch",
+        "PRT.GO",
+        "kill",
+        "PRT.GO",
+        "hit",
+        "PRT.GO"
+      ],
+      "free_translation_en": "(The King) said \"Catch and kill and get rid of this parrot\".",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s011",
+      "text_roman": "mɛ5 nan4 tsau3 phaa4 khaaɯ1 3 tsaɯ5 aa1",
+      "lik_tai": "ႄမႉ ၼၼ်း ၸဝ်ႈ ၽႃး ၶ 3 ၸႉ ဢႃ",
+      "assamese_script": "মে⁵ নান⁴ চাও³ ফা⁴ খ¹ 3 চ⁵ আ¹",
+      "morphemes": [
+        "mɛ5",
+        "nan4",
+        "tsau3",
+        "phaa4",
+        "khaaɯ1",
+        "3",
+        "tsaɯ5",
+        "aa1"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "king",
+        "king",
+        "think",
+        "think",
+        "think",
+        "PRT.GO"
+      ],
+      "free_translation_en": "Then the king thought:",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s012",
+      "text_roman": "tii5 hɛn2 kau5 mang6",
+      "lik_tai": "တႉ ႄႁၼ်ႇ ၵဝ်ႉ မင်ႊ",
+      "assamese_script": "ত⁵ হেন² কাও⁵ মাঙ⁶",
+      "morphemes": [
+        "tii5",
+        "hɛn2",
+        "kau5",
+        "mang6"
+      ],
+      "glosses": [
+        "at",
+        "house",
+        "1Sg",
+        "have"
+      ],
+      "free_translation_en": "Do I have a parrot at my house that speaks like this\"?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s013",
+      "text_roman": "maɯ2 tsau3 maang2 maa2 nang5 naa4",
+      "lik_tai": "မႇ ၸဝ်ႈ မႃင်ႇ မႃႇ ၼင်ႉ ၼႃး",
+      "assamese_script": "ম² চাও³ মাঙ² মা² নাঙ⁵ না⁴",
+      "morphemes": [
+        "maɯ2",
+        "tsau3",
+        "maang2",
+        "maa2",
+        "nang5",
+        "naa4"
+      ],
+      "glosses": [
+        "2Sg",
+        "RESP",
+        "come-?",
+        "come",
+        "sit",
+        "PRT-HORT"
+      ],
+      "free_translation_en": "(The Kings said to the parrot), \"Come and sit here!\".",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s014",
+      "text_roman": "aa1 maa2 kin5 aa4",
+      "lik_tai": "ဢႃ မႃႇ ၵိၼ်ႉ ဢႃး",
+      "assamese_script": "আ¹ মা² কিন⁵ আ⁴",
+      "morphemes": [
+        "aa1",
+        "maa2",
+        "kin5",
+        "aa4"
+      ],
+      "glosses": [
+        "EXCL",
+        "come",
+        "eat",
+        "PRT-HORT"
+      ],
+      "free_translation_en": "Ah, come and eat\"!, he said.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s015",
+      "text_roman": "lɯk4 thaa6 maang2 baa5 j1 thaam6",
+      "lik_tai": "လိုၵ်း ထႃႊ မႃင်ႇ ဢႉ ဢ ထႃမ်ႊ",
+      "assamese_script": "লুক্‌⁴ থা⁶ মাঙ² অ⁵ অ¹ থাম⁶",
+      "morphemes": [
+        "lɯk4",
+        "thaa6",
+        "maang2",
+        "baa5",
+        "j1",
+        "thaam6"
+      ],
+      "glosses": [
+        "from",
+        "where",
+        "come-?",
+        "say",
+        "PRT",
+        "ask"
+      ],
+      "free_translation_en": "Where do you come from\"?, (the King) asked.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s016",
+      "text_roman": "lok4 muk4 sɛ2 nai4 kau2 maa2 j1",
+      "lik_tai": "လူၵ်း မုၵ်း ႄꩢႇ ၼႆး ၵဝ်ႇ မႃႇ ဢ",
+      "assamese_script": "লোক্‌⁴ মুক্‌⁴ সে² নাই⁴ কাও² মা² অ¹",
+      "morphemes": [
+        "lok4",
+        "muk4",
+        "sɛ2",
+        "nai4",
+        "kau2",
+        "maa2",
+        "j1"
+      ],
+      "glosses": [
+        "bird",
+        "hunter",
+        "hunter",
+        "DEF",
+        "1Sg",
+        "come",
+        "PRT"
+      ],
+      "free_translation_en": "I am the hunter's bird, I have come.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s017",
+      "text_roman": "hang2 kau5 kha1 naau1 top1 aa1 h2 aa1",
+      "lik_tai": "ႁင်ႇ ၵဝ်ႉ ၶႃ ၼႃဝ် တူပ် ဢႃ ႁႇ ဢႃ",
+      "assamese_script": "হাঙ² কাও⁵ খা¹ নাও¹ তোপ্‌¹ আ¹ হ² আ¹",
+      "morphemes": [
+        "hang2",
+        "kau5",
+        "kha1",
+        "naau1",
+        "top1",
+        "aa1",
+        "h2",
+        "aa1"
+      ],
+      "glosses": [
+        "to",
+        "1Sg",
+        "again",
+        "again",
+        "hit",
+        "PRT.GO",
+        "get out",
+        "PRT.GO"
+      ],
+      "free_translation_en": "(You ordered) me to be caught and killed\" ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": "When translating this into English, Deben Chowlik stated that this meant that \"the bird is saying to the King that the king should be caught.\""
+    },
+    {
+      "id": "book_hunter_parrot_s018",
+      "text_roman": "waa5 j1 n1 waang5 2",
+      "lik_tai": "ဝႃႉ ဢ ၼ ဝႃင်ႉ 2",
+      "assamese_script": "ৱা⁵ অ¹ ন¹ ৱাঙ⁵ 2",
+      "morphemes": [
+        "waa5",
+        "j1",
+        "n1",
+        "waang5",
+        "2"
+      ],
+      "glosses": [
+        "say",
+        "PRT",
+        "PRT",
+        "say-?",
+        "EXCL"
+      ],
+      "free_translation_en": "So we say like this.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s019",
+      "text_roman": "lo3 kon5 lii5 loi3 j1 khaam2 lii5 sop1 lii5 sn6",
+      "lik_tai": "လူႈ ၵူၼ်ႉ လႉ လူႆႈ ဢ ၶႃမ်ႇ လႉ ꩢူပ် လႉ ꩢၼ်ႊ",
+      "assamese_script": "লো³ কোন⁵ ল⁵ লওই³ অ¹ খাম² ল⁵ সোপ্‌¹ ল⁵ সন⁶",
+      "morphemes": [
+        "lo3",
+        "kon5",
+        "lii5",
+        "loi3",
+        "j1",
+        "khaam2",
+        "lii5",
+        "sop1",
+        "lii5",
+        "sn6"
+      ],
+      "glosses": [
+        "with",
+        "person",
+        "good",
+        "with",
+        "PRT",
+        "word",
+        "good",
+        "mouth",
+        "good",
+        "teach"
+      ],
+      "free_translation_en": "Good people learn good words and good speech.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s020",
+      "text_roman": "lo3 kon5 ma1 nii2 loi3 yj4",
+      "lik_tai": "လူႈ ၵူၼ်ႉ မႃ ၼႇ လူႆႈ ယး",
+      "assamese_script": "লো³ কোন⁵ মা¹ ন² লওই³ য⁴",
+      "morphemes": [
+        "lo3",
+        "kon5",
+        "ma1",
+        "nii2",
+        "loi3",
+        "yj4"
+      ],
+      "glosses": [
+        "with",
+        "person",
+        "NEG",
+        "good",
+        "with",
+        "PRT"
+      ],
+      "free_translation_en": "Sentence 20 from book_hunter_parrot.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s021",
+      "text_roman": "lɛ4 pɛ5 nan4 phaaɯ1 6 1 yaa5",
+      "lik_tai": "ႄလး ႄပႉ ၼၼ်း ၽ 6 1 ယႃႉ",
+      "assamese_script": "লে⁴ পে⁵ নান⁴ ফ¹ 6 1 যা⁵",
+      "morphemes": [
+        "lɛ4",
+        "pɛ5",
+        "nan4",
+        "phaaɯ1",
+        "6",
+        "1",
+        "yaa5"
+      ],
+      "glosses": [
+        "therefore",
+        "therefore",
+        "therefore",
+        "who",
+        "who",
+        "LINK",
+        "be"
+      ],
+      "free_translation_en": "Sentence 21 from book_hunter_parrot.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_hunter_parrot_s022",
+      "text_roman": "yau4 aa1",
+      "lik_tai": "ယဝ်း ဢႃ",
+      "assamese_script": "যাও⁴ আ¹",
+      "morphemes": [
+        "yau4",
+        "aa1"
+      ],
+      "glosses": [
+        "FINISHED",
+        "PRT.GO"
+      ],
+      "free_translation_en": "It is finished.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-2-3.mp3",
+      "notes": ""
+    }
+  ],
+  "book_id": "book_hunter_parrot",
+  "title": "The Hunter's Parrot",
+  "title_tai": "Lik4 Pung1: Nok4 Tyt1 Muk4 Sə2",
+  "title_as": ""
+}

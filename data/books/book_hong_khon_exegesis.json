@@ -1,0 +1,1659 @@
+{
+  "id": "book_hong_khon_exegesis",
+  "title_khamyang": "Lik4 Pvn1 An1 Hong1 Khwan1",
+  "title_english": "The Comprehensive Exegesis of the Hong Khon Ritual",
+  "genre": "sacred_ritual_liturgy",
+  "informant": "Village Elders & Priests",
+  "village": "Ban Lung, Assam",
+  "audio_ref": "2-5-2-2.mp3",
+  "description": "In-depth liturgical manual explaining the spiritual anatomy of the 32 Khon life-spirits, altar preparation, and soul-retrieval formulas.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 60,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "waa2 khaam2 thung2 tai2 hng3 khn1",
+      "lik_tai": "ဝႃႇ ၶႃမ်ႇ ထုင်ႇ တႆႇ ႁင်ႈ ၶၼ်",
+      "assamese_script": "ৱা² খাম² থুঙ² তাই² হঙ³ খন¹",
+      "ipa": "[waː˥˦] [kʰaːm˥˦] [tʰuŋ˥˦] [tai˥˦] [hŋ˨˩̰] [kʰn˧˧]",
+      "morphemes": [
+        "waa2",
+        "khaam2",
+        "thung2",
+        "tai2",
+        "hng3",
+        "khn1"
+      ],
+      "glosses": [
+        "say",
+        "word",
+        "custom",
+        "Tai",
+        "call",
+        "spirit"
+      ],
+      "translation": "Words about the Tai customs of calling the khon, as we Tais call it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Words about the Tai customs of calling the khon, as we Tais call it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "yum1 khaam2 khn1 yang2 kun2",
+      "lik_tai": "ယုမ် ၶႃမ်ႇ ၶၼ် ယင်ႇ ၵုၼ်ႇ",
+      "assamese_script": "যুম¹ খাম² খন¹ যাঙ² কুন²",
+      "ipa": "[jum˧˧] [kʰaːm˥˦] [kʰn˧˧] [jaŋ˥˦] [kun˥˦]",
+      "morphemes": [
+        "yum1",
+        "khaam2",
+        "khn1",
+        "yang2",
+        "kun2"
+      ],
+      "glosses": [
+        "believe",
+        "word",
+        "khon",
+        "have",
+        "person"
+      ],
+      "translation": "We believe that people have a khon.",
+      "translation_assamese": "অসমীয়া অৰ্থ: We believe that people have a khon.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "sang1 kun2 taai2 yau3 waa2 kun2 khai3 naat3",
+      "lik_tai": "ꩢင် ၵုၼ်ႇ တႃႆႇ ယဝ်ႈ ဝႃႇ ၵုၼ်ႇ ၶႆႈ ၼႃတ်ႈ",
+      "assamese_script": "সাঙ¹ কুন² তাই² যাও³ ৱা² কুন² খাই³ নাত্‌³",
+      "ipa": "[saŋ˧˧] [kun˥˦] [taːi˥˦] [jau˨˩̰] [waː˥˦] [kun˥˦] [kʰai˨˩̰] [naːt˨˩̰]",
+      "morphemes": [
+        "sang1",
+        "kun2",
+        "taai2",
+        "yau3",
+        "waa2",
+        "kun2",
+        "khai3",
+        "naat3"
+      ],
+      "glosses": [
+        "if",
+        "person",
+        "dead",
+        "FINISHED",
+        "say",
+        "person",
+        "ill",
+        "too much, heavy.'"
+      ],
+      "translation": "If a person has died, we say that the person is too ill.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If a person has died, we say that the person is too ill.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "an2 nan3 khau1 sang1 pin2 maa1 j1 ai3",
+      "lik_tai": "ဢၼ်ႇ ၼၼ်ႈ ၶဝ် ꩢင် ပိၼ်ႇ မႃ ဢ ဢႆႈ",
+      "assamese_script": "অন² নান³ খাও¹ সাঙ¹ পিন² মা¹ অ¹ ঐ³",
+      "ipa": "[an˥˦] [nan˨˩̰] [kʰau˧˧] [saŋ˧˧] [pin˥˦] [maː˧˧] [j˧˧] [ai˨˩̰]",
+      "morphemes": [
+        "an2",
+        "nan3",
+        "khau1",
+        "sang1",
+        "pin2",
+        "maa1",
+        "j1",
+        "ai3"
+      ],
+      "glosses": [
+        "CLF",
+        "that",
+        "3Pl",
+        "if",
+        "be",
+        "COME",
+        "HESIT",
+        "PRT"
+      ],
+      "translation": "If it happens that the khon goes away.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If it happens that the khon goes away.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "waa2 hng3 pk3 maa2",
+      "lik_tai": "ဝႃႇ ႁင်ႈ ပၵ်ႈ မႃႇ",
+      "assamese_script": "ৱা² হঙ³ পক্‌³ মা²",
+      "ipa": "[waː˥˦] [hŋ˨˩̰] [pk˨˩̰] [maː˥˦]",
+      "morphemes": [
+        "waa2",
+        "hng3",
+        "pk3",
+        "maa2"
+      ],
+      "glosses": [
+        "say",
+        "call",
+        "return",
+        "come"
+      ],
+      "translation": "We need to call it back.",
+      "translation_assamese": "অসমীয়া অৰ্থ: We need to call it back.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "sang1 khn1 pk3 maa2 ai3 khai3 k3 nii2 1",
+      "lik_tai": "ꩢင် ၶၼ် ပၵ်ႈ မႃႇ ဢႆႈ ၶႆႈ ၵႈ ၼႇ 1",
+      "assamese_script": "সাঙ¹ খন¹ পক্‌³ মা² ঐ³ খাই³ ক³ ন² 1",
+      "ipa": "[saŋ˧˧] [kʰn˧˧] [pk˨˩̰] [maː˥˦] [ai˨˩̰] [kʰai˨˩̰] [k˨˩̰] [nii˥˦] [˧˧]",
+      "morphemes": [
+        "sang1",
+        "khn1",
+        "pk3",
+        "maa2",
+        "ai3",
+        "khai3",
+        "k3",
+        "nii2",
+        "1"
+      ],
+      "glosses": [
+        "if",
+        "khon",
+        "return",
+        "come",
+        "PRT",
+        "illness",
+        "LINK",
+        "good",
+        "STAY"
+      ],
+      "translation": "If the khon returns, the illness will get better.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If the khon returns, the illness will get better.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "nang1 nat3 k3 yang2",
+      "lik_tai": "ၼင် ၼတ်ႈ ၵႈ ယင်ႇ",
+      "assamese_script": "নাঙ¹ নাত্‌³ ক³ যাঙ²",
+      "ipa": "[naŋ˧˧] [nat˨˩̰] [k˨˩̰] [jaŋ˥˦]",
+      "morphemes": [
+        "nang1",
+        "nat3",
+        "k3",
+        "yang2"
+      ],
+      "glosses": [
+        "like",
+        "that",
+        "LINK",
+        "have"
+      ],
+      "translation": "It is like that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: It is like that.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "an2 nan3 mɯ2 hng3 ma1 j1 ma1",
+      "lik_tai": "ဢၼ်ႇ ၼၼ်ႈ မိုႇ ႁင်ႈ မႃ ဢ မႃ",
+      "assamese_script": "অন² নান³ মু² হঙ³ মা¹ অ¹ মা¹",
+      "ipa": "[an˥˦] [nan˨˩̰] [mɯ˥˦] [hŋ˨˩̰] [ma˧˧] [j˧˧] [ma˧˧]",
+      "morphemes": [
+        "an2",
+        "nan3",
+        "mɯ2",
+        "hng3",
+        "ma1",
+        "j1",
+        "ma1"
+      ],
+      "glosses": [
+        "CLF",
+        "that",
+        "when",
+        "call",
+        "HESIT",
+        "HESIT",
+        "HESIT"
+      ],
+      "translation": "It is what we call a custom.",
+      "translation_assamese": "অসমীয়া অৰ্থ: It is what we call a custom.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "wan2 nan3 wan2 nuu2 wan2 dii2 wan2 ngaam2 sj1",
+      "lik_tai": "ဝၼ်ႇ ၼၼ်ႈ ဝၼ်ႇ ၼႇ ဝၼ်ႇ ဢႇ ဝၼ်ႇ ငႃမ်ႇ ꩢ",
+      "assamese_script": "ৱান² নান³ ৱান² ন² ৱান² অ² ৱান² ঙাম² স¹",
+      "ipa": "[wan˥˦] [nan˨˩̰] [wan˥˦] [nuu˥˦] [wan˥˦] [dii˥˦] [wan˥˦] [ŋaːm˥˦] [sj˧˧]",
+      "morphemes": [
+        "wan2",
+        "nan3",
+        "wan2",
+        "nuu2",
+        "wan2",
+        "dii2",
+        "wan2",
+        "ngaam2",
+        "sj1"
+      ],
+      "glosses": [
+        "day",
+        "that",
+        "day",
+        "look",
+        "day",
+        "good",
+        "day",
+        "beautiful",
+        "PRT"
+      ],
+      "translation": "On a beautiful day.",
+      "translation_assamese": "অসমীয়া অৰ্থ: On a beautiful day.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "luk3 nan3 khn1 man2 waa2 paai2 kaa1 waa2 sii1",
+      "lik_tai": "လုၵ်ႈ ၼၼ်ႈ ၶၼ် မၼ်ႇ ဝႃႇ ပႃႆႇ ၵႃ ဝႃႇ ꩢ",
+      "assamese_script": "লুক্‌³ নান³ খন¹ মান² ৱা² পাই² কা¹ ৱা² স¹",
+      "ipa": "[luk˨˩̰] [nan˨˩̰] [kʰn˧˧] [man˥˦] [waː˥˦] [paːi˥˦] [kaː˧˧] [waː˥˦] [sii˧˧]",
+      "morphemes": [
+        "luk3",
+        "nan3",
+        "khn1",
+        "man2",
+        "waa2",
+        "paai2",
+        "kaa1",
+        "waa2",
+        "sii1"
+      ],
+      "glosses": [
+        "child",
+        "that",
+        "khon",
+        "3Sg",
+        "say",
+        "flee",
+        "GO",
+        "say",
+        "PRT"
+      ],
+      "translation": "The khon of that child escapes, it is said.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The khon of that child escapes, it is said.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "sang1 nan3 hit1 j1 nan3 hit1 tii2",
+      "lik_tai": "ꩢင် ၼၼ်ႈ ႁိတ် ဢ ၼၼ်ႈ ႁိတ် တႇ",
+      "assamese_script": "সাঙ¹ নান³ হিত্‌¹ অ¹ নান³ হিত্‌¹ ত²",
+      "ipa": "[saŋ˧˧] [nan˨˩̰] [hit˧˧] [j˧˧] [nan˨˩̰] [hit˧˧] [tii˥˦]",
+      "morphemes": [
+        "sang1",
+        "nan3",
+        "hit1",
+        "j1",
+        "nan3",
+        "hit1",
+        "tii2"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "do",
+        "HESIT",
+        "that",
+        "do",
+        "place"
+      ],
+      "translation": "If that happens, we make a certain place where we puts things into a basket.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If that happens, we make a certain place where we puts things into a basket.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "dung3 ka1",
+      "lik_tai": "ဢင်ႈ ၵႃ",
+      "assamese_script": "অঙ³ কা¹",
+      "ipa": "[duŋ˨˩̰] [ka˧˧]",
+      "morphemes": [
+        "dung3",
+        "ka1"
+      ],
+      "glosses": [
+        "winnowing basket",
+        "what"
+      ],
+      "translation": "What is a duN3?",
+      "translation_assamese": "অসমীয়া অৰ্থ: What is a duN3?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "dung3 nj3 an2 phat1 khau3 nj3",
+      "lik_tai": "ဢင်ႈ ၼႈ ဢၼ်ႇ ၽတ် ၶဝ်ႈ ၼႈ",
+      "assamese_script": "অঙ³ ন³ অন² ফাত্‌¹ খাও³ ন³",
+      "ipa": "[duŋ˨˩̰] [nj˨˩̰] [an˥˦] [pʰat˧˧] [kʰau˨˩̰] [nj˨˩̰]",
+      "morphemes": [
+        "dung3",
+        "nj3",
+        "an2",
+        "phat1",
+        "khau3",
+        "nj3"
+      ],
+      "glosses": [
+        "winnowing basket",
+        "DEF",
+        "CLF",
+        "winnow",
+        "rice",
+        "DEF"
+      ],
+      "translation": "A duN3 is something we use for winnowing rice.",
+      "translation_assamese": "অসমীয়া অৰ্থ: A duN3 is something we use for winnowing rice.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "an2 phat1 khau3 nj3 waa2 dung3",
+      "lik_tai": "ဢၼ်ႇ ၽတ် ၶဝ်ႈ ၼႈ ဝႃႇ ဢင်ႈ",
+      "assamese_script": "অন² ফাত্‌¹ খাও³ ন³ ৱা² অঙ³",
+      "ipa": "[an˥˦] [pʰat˧˧] [kʰau˨˩̰] [nj˨˩̰] [waː˥˦] [duŋ˨˩̰]",
+      "morphemes": [
+        "an2",
+        "phat1",
+        "khau3",
+        "nj3",
+        "waa2",
+        "dung3"
+      ],
+      "glosses": [
+        "CLF",
+        "winnow",
+        "rice",
+        "DEF",
+        "say",
+        "winnowing basket"
+      ],
+      "translation": "The thing we use for winnowing rice is called duN3.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The thing we use for winnowing rice is called duN3.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "naɯ2 dung3 nj3 saɯ1 sii1",
+      "lik_tai": "ၼႇ ဢင်ႈ ၼႈ ꩢ ꩢ",
+      "assamese_script": "ন² অঙ³ ন³ স¹ স¹",
+      "ipa": "[naɯ˥˦] [duŋ˨˩̰] [nj˨˩̰] [saɯ˧˧] [sii˧˧]",
+      "morphemes": [
+        "naɯ2",
+        "dung3",
+        "nj3",
+        "saɯ1",
+        "sii1"
+      ],
+      "glosses": [
+        "in",
+        "winnowing basket",
+        "DEF",
+        "put in",
+        "PRT"
+      ],
+      "translation": "Into this winnowing basket we put all types of things.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Into this winnowing basket we put all types of things.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "njw1 pa1 xw1 xw1 suk1 xj1 kj1 pun1 es1 nn1 nɯ3 paa2 khau3 khau3 suk1 khai1 kai1 pun3 sj1 nan3",
+      "lik_tai": "ၼဝ် ပႃ ဢဝ် ဢဝ် ꩢုၵ် ဢ ၵ ပုၼ် ဢ ၼၼ် ၼိုႈ ပႃႇ ၶဝ်ႈ ၶဝ်ႈ ꩢုၵ် ၶႆ ၵႆ ပုၼ်ႈ ꩢ ၼၼ်ႈ",
+      "assamese_script": "নৱ¹ পা¹ অৱ¹ অৱ¹ সুক্‌¹ অ¹ ক¹ পুন¹ অ¹ নন¹ নু³ পা² খাও³ খাও³ সুক্‌¹ খাই¹ কাই¹ পুন³ স¹ নান³",
+      "ipa": "[njw˧˧] [pa˧˧] [xw˧˧] [xw˧˧] [suk˧˧] [xj˧˧] [kj˧˧] [pun˧˧] [es˧˧] [nn˧˧] [nɯ˨˩̰] [paː˥˦] [kʰau˨˩̰] [kʰau˨˩̰] [suk˧˧] [kʰai˧˧] [kai˧˧] [pun˨˩̰] [sj˧˧] [nan˨˩̰]",
+      "morphemes": [
+        "njw1",
+        "pa1",
+        "xw1",
+        "xw1",
+        "suk1",
+        "xj1",
+        "kj1",
+        "pun1",
+        "es1",
+        "nn1",
+        "nɯ3",
+        "paa2",
+        "khau3",
+        "khau3",
+        "suk1",
+        "khai1",
+        "kai1",
+        "pun3",
+        "sj1",
+        "nan3"
+      ],
+      "glosses": [
+        "meat",
+        "fish",
+        "rice",
+        "rice",
+        "fresh",
+        "egg",
+        "chicken",
+        "yonder",
+        "PRT",
+        "that"
+      ],
+      "translation": "Meat, fish, rice, fresh rice, egg, chicken, and some others.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Meat, fish, rice, fresh rice, egg, chicken, and some others.",
+      "audio_file": null,
+      "notes": "Nabin stated that pun3 should be translated as 'others'."
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "khɯng2 an2",
+      "lik_tai": "ၶိုင်ႇ ဢၼ်ႇ",
+      "assamese_script": "খুঙ² অন²",
+      "ipa": "[kʰɯŋ˥˦] [an˥˦]",
+      "morphemes": [
+        "khɯng2",
+        "an2"
+      ],
+      "glosses": [
+        "thing",
+        "CLF"
+      ],
+      "translation": "These things ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: These things ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "aa1 ta1 hng3 khn1 nai3",
+      "lik_tai": "ဢႃ တႃ ႁင်ႈ ၶၼ် ၼႆႈ",
+      "assamese_script": "আ¹ তা¹ হঙ³ খন¹ নাই³",
+      "ipa": "[aː˧˧] [ta˧˧] [hŋ˨˩̰] [kʰn˧˧] [nai˨˩̰]",
+      "morphemes": [
+        "aa1",
+        "ta1",
+        "hng3",
+        "khn1",
+        "nai3"
+      ],
+      "glosses": [
+        "work",
+        "will",
+        "call",
+        "khon",
+        "this"
+      ],
+      "translation": "We will do the work of calling the khon (with them).",
+      "translation_assamese": "অসমীয়া অৰ্থ: We will do the work of calling the khon (with them).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "an2 hng3 mɯn2 nj3",
+      "lik_tai": "ဢၼ်ႇ ႁင်ႈ မိုၼ်ႇ ၼႈ",
+      "assamese_script": "অন² হঙ³ মুন² ন³",
+      "ipa": "[an˥˦] [hŋ˨˩̰] [mɯn˥˦] [nj˨˩̰]",
+      "morphemes": [
+        "an2",
+        "hng3",
+        "mɯn2",
+        "nj3"
+      ],
+      "glosses": [
+        "CLF",
+        "call",
+        "2Sg",
+        "DEF"
+      ],
+      "translation": "In calling it we use the hoe, the axe, the sword and sticks.",
+      "translation_assamese": "অসমীয়া অৰ্থ: In calling it we use the hoe, the axe, the sword and sticks.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "j1 ljm3 kung2 nang1 tang1 waa2 wai3 kum1",
+      "lik_tai": "ဢ လမ်ႈ ၵုင်ႇ ၼင် တင် ဝႃႇ ဝႆႈ ၵုမ်",
+      "assamese_script": "অ¹ লম³ কুঙ² নাঙ¹ তাঙ¹ ৱা² ৱাই³ কুম¹",
+      "ipa": "[j˧˧] [ljm˨˩̰] [kuŋ˥˦] [naŋ˧˧] [taŋ˧˧] [waː˥˦] [wai˨˩̰] [kum˧˧]",
+      "morphemes": [
+        "j1",
+        "ljm3",
+        "kung2",
+        "nang1",
+        "tang1",
+        "waa2",
+        "wai3",
+        "kum1"
+      ],
+      "glosses": [
+        "HESIT",
+        "arrow",
+        "bow",
+        "also",
+        "all",
+        "say",
+        "keep",
+        "gather"
+      ],
+      "translation": "As well as bows and arrows, all gathered together.",
+      "translation_assamese": "অসমীয়া অৰ্থ: As well as bows and arrows, all gathered together.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "au2 wai3 kum1 sj1 waa2 tsau3 hng3 khn1 nj3",
+      "lik_tai": "ဢဝ်ႇ ဝႆႈ ၵုမ် ꩢ ဝႃႇ ၸဝ်ႈ ႁင်ႈ ၶၼ် ၼႈ",
+      "assamese_script": "ঔ² ৱাই³ কুম¹ স¹ ৱা² চাও³ হঙ³ খন¹ ন³",
+      "ipa": "[au˥˦] [wai˨˩̰] [kum˧˧] [sj˧˧] [waː˥˦] [tɕau˨˩̰] [hŋ˨˩̰] [kʰn˧˧] [nj˨˩̰]",
+      "morphemes": [
+        "au2",
+        "wai3",
+        "kum1",
+        "sj1",
+        "waa2",
+        "tsau3",
+        "hng3",
+        "khn1",
+        "nj3"
+      ],
+      "glosses": [
+        "take",
+        "KEEP",
+        "gather",
+        "PRT",
+        "say",
+        "RESP",
+        "call",
+        "khon",
+        "PRT"
+      ],
+      "translation": "All these are gathered together by the person we call the caller of the khon.",
+      "translation_assamese": "অসমীয়া অৰ্থ: All these are gathered together by the person we call the caller of the khon.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "sa1 an2 hng3 khn1 nj3 ta1 hng3 sj1",
+      "lik_tai": "ꩢႃ ဢၼ်ႇ ႁင်ႈ ၶၼ် ၼႈ တႃ ႁင်ႈ ꩢ",
+      "assamese_script": "সা¹ অন² হঙ³ খন¹ ন³ তা¹ হঙ³ স¹",
+      "ipa": "[sa˧˧] [an˥˦] [hŋ˨˩̰] [kʰn˧˧] [nj˨˩̰] [ta˧˧] [hŋ˨˩̰] [sj˧˧]",
+      "morphemes": [
+        "sa1",
+        "an2",
+        "hng3",
+        "khn1",
+        "nj3",
+        "ta1",
+        "hng3",
+        "sj1"
+      ],
+      "glosses": [
+        "teacher",
+        "CLF",
+        "call",
+        "khon",
+        "DEF",
+        "will",
+        "call",
+        "PRT"
+      ],
+      "translation": "The teacher who calls the khon, who will call it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The teacher who calls the khon, who will call it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "khn1 nj3 haɯ3 pk3 man2",
+      "lik_tai": "ၶၼ် ၼႈ ႁႈ ပၵ်ႈ မၼ်ႇ",
+      "assamese_script": "খন¹ ন³ হ³ পক্‌³ মান²",
+      "ipa": "[kʰn˧˧] [nj˨˩̰] [haɯ˨˩̰] [pk˨˩̰] [man˥˦]",
+      "morphemes": [
+        "khn1",
+        "nj3",
+        "haɯ3",
+        "pk3",
+        "man2"
+      ],
+      "glosses": [
+        "khon",
+        "DEF",
+        "GIVE",
+        "return",
+        "3Sg"
+      ],
+      "translation": "For the khon to return to him (i.e. the sick child).",
+      "translation_assamese": "অসমীয়া অৰ্থ: For the khon to return to him (i.e. the sick child).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "khn1 j1 waa2 mɯ2 kaa1 pai2 kaa1 pai2",
+      "lik_tai": "ၶၼ် ဢ ဝႃႇ မိုႇ ၵႃ ပႆႇ ၵႃ ပႆႇ",
+      "assamese_script": "খন¹ অ¹ ৱা² মু² কা¹ পাই² কা¹ পাই²",
+      "ipa": "[kʰn˧˧] [j˧˧] [waː˥˦] [mɯ˥˦] [kaː˧˧] [pai˥˦] [kaː˧˧] [pai˥˦]",
+      "morphemes": [
+        "khn1",
+        "j1",
+        "waa2",
+        "mɯ2",
+        "kaa1",
+        "pai2",
+        "kaa1",
+        "pai2"
+      ],
+      "glosses": [
+        "khon",
+        "PRT",
+        "say",
+        "when",
+        "GO",
+        "go",
+        "GO",
+        "go"
+      ],
+      "translation": "Wherever that khon has escaped to, (he) will get it to come back, to call it back.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Wherever that khon has escaped to, (he) will get it to come back, to call it back.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "sang1 waa2 kaa1 au2 j1 wai3 sang1 waa2 tii2 uu1",
+      "lik_tai": "ꩢင် ဝႃႇ ၵႃ ဢဝ်ႇ ဢ ဝႆႈ ꩢင် ဝႃႇ တႇ ဢ",
+      "assamese_script": "সাঙ¹ ৱা² কা¹ ঔ² অ¹ ৱাই³ সাঙ¹ ৱা² ত² অ¹",
+      "ipa": "[saŋ˧˧] [waː˥˦] [kaː˧˧] [au˥˦] [j˧˧] [wai˨˩̰] [saŋ˧˧] [waː˥˦] [tii˥˦] [uu˧˧]",
+      "morphemes": [
+        "sang1",
+        "waa2",
+        "kaa1",
+        "au2",
+        "j1",
+        "wai3",
+        "sang1",
+        "waa2",
+        "tii2",
+        "uu1"
+      ],
+      "glosses": [
+        "if",
+        "say",
+        "go",
+        "take",
+        "HESIT",
+        "keep",
+        "if",
+        "say",
+        "place",
+        "live"
+      ],
+      "translation": "If it has gone to live in a place where bad khons are,",
+      "translation_assamese": "অসমীয়া অৰ্থ: If it has gone to live in a place where bad khons are,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "tii2 saang2 nang1",
+      "lik_tai": "တႇ ꩢႃင်ႇ ၼင်",
+      "assamese_script": "ত² সাঙ² নাঙ¹",
+      "ipa": "[tii˥˦] [saːŋ˥˦] [naŋ˧˧]",
+      "morphemes": [
+        "tii2",
+        "saang2",
+        "nang1"
+      ],
+      "glosses": [
+        "to",
+        "burial place",
+        "again"
+      ],
+      "translation": "Like to a burial place.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Like to a burial place.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "au2 waai1 pai2 tuk3 maa2",
+      "lik_tai": "ဢဝ်ႇ ဝႃႆ ပႆႇ တုၵ်ႈ မႃႇ",
+      "assamese_script": "ঔ² ৱাই¹ পাই² তুক্‌³ মা²",
+      "ipa": "[au˥˦] [waːi˧˧] [pai˥˦] [tuk˨˩̰] [maː˥˦]",
+      "morphemes": [
+        "au2",
+        "waai1",
+        "pai2",
+        "tuk3",
+        "maa2"
+      ],
+      "glosses": [
+        "take",
+        "rattan",
+        "go",
+        "beat",
+        "COME"
+      ],
+      "translation": "Take rattan and beat it and get it to come back.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Take rattan and beat it and get it to come back.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "sang1 waa2 lj1 kaa1 uu1 kaa1 j1",
+      "lik_tai": "ꩢင် ဝႃႇ လ ၵႃ ဢ ၵႃ ဢ",
+      "assamese_script": "সাঙ¹ ৱা² ল¹ কা¹ অ¹ কা¹ অ¹",
+      "ipa": "[saŋ˧˧] [waː˥˦] [lj˧˧] [kaː˧˧] [uu˧˧] [kaː˧˧] [j˧˧]",
+      "morphemes": [
+        "sang1",
+        "waa2",
+        "lj1",
+        "kaa1",
+        "uu1",
+        "kaa1",
+        "j1"
+      ],
+      "glosses": [
+        "if",
+        "say",
+        "PRT",
+        "go",
+        "stay",
+        "go",
+        "HESIT"
+      ],
+      "translation": "If it goes to stay at, umm, then take an axe and beat it out from those bad spirits.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If it goes to stay at, umm, then take an axe and beat it out from those bad spirits.",
+      "audio_file": null,
+      "notes": "Nabin stated that he meant to say that the khon had gone to a forest (na*2 th*n1)"
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "tsaa2 phii1 phjt1 tsaa3 nan3 au2 khaan1 au2 daap1",
+      "lik_tai": "ၸႃႇ ၽ ၽတ် ၸႃႈ ၼၼ်ႈ ဢဝ်ႇ ၶႃၼ် ဢဝ်ႇ ဢပ်",
+      "assamese_script": "চা² ফ¹ ফত্‌¹ চা³ নান³ ঔ² খান¹ ঔ² অপ্‌¹",
+      "ipa": "[tɕaː˥˦] [pʰii˧˧] [pʰjt˧˧] [tɕaː˨˩̰] [nan˨˩̰] [au˥˦] [kʰaːn˧˧] [au˥˦] [daap˧˧]",
+      "morphemes": [
+        "tsaa2",
+        "phii1",
+        "phjt1",
+        "tsaa3",
+        "nan3",
+        "au2",
+        "khaan1",
+        "au2",
+        "daap1"
+      ],
+      "glosses": [
+        "to",
+        "ghost",
+        "spirit",
+        "bad",
+        "that",
+        "take",
+        "axe",
+        "take",
+        "sword"
+      ],
+      "translation": "Take an axe and a sword to those bad spirits and cut them.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Take an axe and a sword to those bad spirits and cut them.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "au2 pk3 maa2 hang2 khn1 nai3",
+      "lik_tai": "ဢဝ်ႇ ပၵ်ႈ မႃႇ ႁင်ႇ ၶၼ် ၼႆႈ",
+      "assamese_script": "ঔ² পক্‌³ মা² হাঙ² খন¹ নাই³",
+      "ipa": "[au˥˦] [pk˨˩̰] [maː˥˦] [haŋ˥˦] [kʰn˧˧] [nai˨˩̰]",
+      "morphemes": [
+        "au2",
+        "pk3",
+        "maa2",
+        "hang2",
+        "khn1",
+        "nai3"
+      ],
+      "glosses": [
+        "take",
+        "return",
+        "come",
+        "to",
+        "khon",
+        "this"
+      ],
+      "translation": "Make this khon return!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Make this khon return!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "waa2 hit1 nang1 nat3 tang3 mɯ2 mɯ2 tam3 tii2 j1 nai3",
+      "lik_tai": "ဝႃႇ ႁိတ် ၼင် ၼတ်ႈ တင်ႈ မိုႇ မိုႇ တမ်ႈ တႇ ဢ ၼႆႈ",
+      "assamese_script": "ৱা² হিত্‌¹ নাঙ¹ নাত্‌³ তাঙ³ মু² মু² তাম³ ত² অ¹ নাই³",
+      "ipa": "[waː˥˦] [hit˧˧] [naŋ˧˧] [nat˨˩̰] [taŋ˨˩̰] [mɯ˥˦] [mɯ˥˦] [tam˨˩̰] [tii˥˦] [j˧˧] [nai˨˩̰]",
+      "morphemes": [
+        "waa2",
+        "hit1",
+        "nang1",
+        "nat3",
+        "tang3",
+        "mɯ2",
+        "mɯ2",
+        "tam3",
+        "tii2",
+        "j1",
+        "nai3"
+      ],
+      "glosses": [
+        "say",
+        "do",
+        "like",
+        "that",
+        "set up",
+        "time",
+        "time",
+        "bow",
+        "at",
+        "HESIT",
+        "this"
+      ],
+      "translation": "It should be done like this, to bow before the spirits at the place where this is set up.",
+      "translation_assamese": "অসমীয়া অৰ্থ: It should be done like this, to bow before the spirits at the place where this is set up.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "ti1 hng3 khn1 nai3 khau3 suk1",
+      "lik_tai": "တိ ႁင်ႈ ၶၼ် ၼႆႈ ၶဝ်ႈ ꩢုၵ်",
+      "assamese_script": "তি¹ হঙ³ খন¹ নাই³ খাও³ সুক্‌¹",
+      "ipa": "[ti˧˧] [hŋ˨˩̰] [kʰn˧˧] [nai˨˩̰] [kʰau˨˩̰] [suk˧˧]",
+      "morphemes": [
+        "ti1",
+        "hng3",
+        "khn1",
+        "nai3",
+        "khau3",
+        "suk1"
+      ],
+      "glosses": [
+        "will",
+        "call",
+        "spirit",
+        "this",
+        "rice",
+        "ripe / cooked"
+      ],
+      "translation": "He will call the spirits with cooked rice and rice bound up in a leaf.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He will call the spirits with cooked rice and rice bound up in a leaf.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "kup1 tang1 khai1 kai1 kup1 tang1 nɯ3 tang1 paa2 tang1",
+      "lik_tai": "ၵုပ် တင် ၶႆ ၵႆ ၵုပ် တင် ၼိုႈ တင် ပႃႇ တင်",
+      "assamese_script": "কুপ্‌¹ তাঙ¹ খাই¹ কাই¹ কুপ্‌¹ তাঙ¹ নু³ তাঙ¹ পা² তাঙ¹",
+      "ipa": "[kup˧˧] [taŋ˧˧] [kʰai˧˧] [kai˧˧] [kup˧˧] [taŋ˧˧] [nɯ˨˩̰] [taŋ˧˧] [paː˥˦] [taŋ˧˧]",
+      "morphemes": [
+        "kup1",
+        "tang1",
+        "khai1",
+        "kai1",
+        "kup1",
+        "tang1",
+        "nɯ3",
+        "tang1",
+        "paa2",
+        "tang1"
+      ],
+      "glosses": [
+        "with",
+        "with",
+        "egg",
+        "chicken",
+        "with",
+        "with",
+        "meat",
+        "with",
+        "fish",
+        "with"
+      ],
+      "translation": "With all types of (food), namely egg, chicken, meat and fish.",
+      "translation_assamese": "অসমীয়া অৰ্থ: With all types of (food), namely egg, chicken, meat and fish.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "nang1 nai3 waa2",
+      "lik_tai": "ၼင် ၼႆႈ ဝႃႇ",
+      "assamese_script": "নাঙ¹ নাই³ ৱা²",
+      "ipa": "[naŋ˧˧] [nai˨˩̰] [waː˥˦]",
+      "morphemes": [
+        "nang1",
+        "nai3",
+        "waa2"
+      ],
+      "glosses": [
+        "like",
+        "that",
+        "say"
+      ],
+      "translation": "We say like that",
+      "translation_assamese": "অসমীয়া অৰ্থ: We say like that",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "mɯ2 khn1 j1 ta1 thin1 kaa1 hang2 kun2",
+      "lik_tai": "မိုႇ ၶၼ် ဢ တႃ ထိၼ် ၵႃ ႁင်ႇ ၵုၼ်ႇ",
+      "assamese_script": "মু² খন¹ অ¹ তা¹ থিন¹ কা¹ হাঙ² কুন²",
+      "ipa": "[mɯ˥˦] [kʰn˧˧] [j˧˧] [ta˧˧] [tʰin˧˧] [kaː˧˧] [haŋ˥˦] [kun˥˦]",
+      "morphemes": [
+        "mɯ2",
+        "khn1",
+        "j1",
+        "ta1",
+        "thin1",
+        "kaa1",
+        "hang2",
+        "kun2"
+      ],
+      "glosses": [
+        "then",
+        "khon",
+        "PRT",
+        "will",
+        "send",
+        "GO",
+        "to",
+        "person"
+      ],
+      "translation": "Then the khon will be sent to the person.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the khon will be sent to the person.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "kaa1 sn3 maa2",
+      "lik_tai": "ၵႃ ꩢၼ်ႈ မႃႇ",
+      "assamese_script": "কা¹ সন³ মা²",
+      "ipa": "[kaː˧˧] [sn˨˩̰] [maː˥˦]",
+      "morphemes": [
+        "kaa1",
+        "sn3",
+        "maa2"
+      ],
+      "glosses": [
+        "go",
+        "catch fish",
+        "come"
+      ],
+      "translation": "Going to catch (it) by catching fish.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Going to catch (it) by catching fish.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "an2 nan3 waa2 sn3 khn1 waa2",
+      "lik_tai": "ဢၼ်ႇ ၼၼ်ႈ ဝႃႇ ꩢၼ်ႈ ၶၼ် ဝႃႇ",
+      "assamese_script": "অন² নান³ ৱা² সন³ খন¹ ৱা²",
+      "ipa": "[an˥˦] [nan˨˩̰] [waː˥˦] [sn˨˩̰] [kʰn˧˧] [waː˥˦]",
+      "morphemes": [
+        "an2",
+        "nan3",
+        "waa2",
+        "sn3",
+        "khn1",
+        "waa2"
+      ],
+      "glosses": [
+        "CLF",
+        "that",
+        "say",
+        "catch fish",
+        "khon",
+        "say"
+      ],
+      "translation": "This is called sqn3 khqn1.",
+      "translation_assamese": "অসমীয়া অৰ্থ: This is called sqn3 khqn1.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "au2 khɯk1 nj3 kaa1 sn3 mɯ2 nan3 dai3 sang1 maa2",
+      "lik_tai": "ဢဝ်ႇ ၶိုၵ် ၼႈ ၵႃ ꩢၼ်ႈ မိုႇ ၼၼ်ႈ ဢႈ ꩢင် မႃႇ",
+      "assamese_script": "ঔ² খুক্‌¹ ন³ কা¹ সন³ মু² নান³ অ³ সাঙ¹ মা²",
+      "ipa": "[au˥˦] [kʰɯk˧˧] [nj˨˩̰] [kaː˧˧] [sn˨˩̰] [mɯ˥˦] [nan˨˩̰] [dai˨˩̰] [saŋ˧˧] [maː˥˦]",
+      "morphemes": [
+        "au2",
+        "khɯk1",
+        "nj3",
+        "kaa1",
+        "sn3",
+        "mɯ2",
+        "nan3",
+        "dai3",
+        "sang1",
+        "maa2"
+      ],
+      "glosses": [
+        "take",
+        "fishing implement",
+        "PRT",
+        "go",
+        "catch fish",
+        "time",
+        "that",
+        "GET",
+        "what",
+        "come"
+      ],
+      "translation": "Take a fishing implement and go and catch it like a fish, and if you get anything, bring it back and keep it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Take a fishing implement and go and catch it like a fish, and if you get anything, bring it back and keep it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "ta1 maa2 wai3 tii2 tsj2 mɯ2",
+      "lik_tai": "တႃ မႃႇ ဝႆႈ တႇ ၸႇ မိုႇ",
+      "assamese_script": "তা¹ মা² ৱাই³ ত² চ² মু²",
+      "ipa": "[ta˧˧] [maː˥˦] [wai˨˩̰] [tii˥˦] [tɕj˥˦] [mɯ˥˦]",
+      "morphemes": [
+        "ta1",
+        "maa2",
+        "wai3",
+        "tii2",
+        "tsj2",
+        "mɯ2"
+      ],
+      "glosses": [
+        "will",
+        "come",
+        "keep",
+        "there",
+        "now",
+        "then"
+      ],
+      "translation": "And it will be done by that caller (of the khon).",
+      "translation_assamese": "অসমীয়া অৰ্থ: And it will be done by that caller (of the khon).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "tsau3 hng3 man2 khaam2 mɯn2 nai3 ta1 waa2",
+      "lik_tai": "ၸဝ်ႈ ႁင်ႈ မၼ်ႇ ၶႃမ်ႇ မိုၼ်ႇ ၼႆႈ တႃ ဝႃႇ",
+      "assamese_script": "চাও³ হঙ³ মান² খাম² মুন² নাই³ তা¹ ৱা²",
+      "ipa": "[tɕau˨˩̰] [hŋ˨˩̰] [man˥˦] [kʰaːm˥˦] [mɯn˥˦] [nai˨˩̰] [ta˧˧] [waː˥˦]",
+      "morphemes": [
+        "tsau3",
+        "hng3",
+        "man2",
+        "khaam2",
+        "mɯn2",
+        "nai3",
+        "ta1",
+        "waa2"
+      ],
+      "glosses": [
+        "RESP",
+        "call",
+        "3Sg",
+        "word",
+        "3sG",
+        "this",
+        "will",
+        "say"
+      ],
+      "translation": "The caller of the khon says these words, and these words reach the khon in this manner.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The caller of the khon says these words, and these words reach the khon in this manner.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "thɯng1 maa2 tii2 daɯ1 k3 ta1 waa2 kaa1",
+      "lik_tai": "ထိုင် မႃႇ တႇ ဢ ၵႈ တႃ ဝႃႇ ၵႃ",
+      "assamese_script": "থুঙ¹ মা² ত² অ¹ ক³ তা¹ ৱা² কা¹",
+      "ipa": "[tʰɯŋ˧˧] [maː˥˦] [tii˥˦] [daɯ˧˧] [k˨˩̰] [ta˧˧] [waː˥˦] [kaː˧˧]",
+      "morphemes": [
+        "thɯng1",
+        "maa2",
+        "tii2",
+        "daɯ1",
+        "k3",
+        "ta1",
+        "waa2",
+        "kaa1"
+      ],
+      "glosses": [
+        "reach",
+        "come",
+        "at",
+        "where",
+        "LINK",
+        "will",
+        "say",
+        "GO"
+      ],
+      "translation": "Where it comes to, will be said.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Where it comes to, will be said.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_042",
+      "text_roman": "an2 ti1 tɯ2 au2 mit3 au2 phaa3",
+      "lik_tai": "ဢၼ်ႇ တိ တိုႇ ဢဝ်ႇ မိတ်ႈ ဢဝ်ႇ ၽႃႈ",
+      "assamese_script": "অন² তি¹ তু² ঔ² মিত্‌³ ঔ² ফা³",
+      "ipa": "[an˥˦] [ti˧˧] [tɯ˥˦] [au˥˦] [mit˨˩̰] [au˥˦] [pʰaː˨˩̰]",
+      "morphemes": [
+        "an2",
+        "ti1",
+        "tɯ2",
+        "au2",
+        "mit3",
+        "au2",
+        "phaa3"
+      ],
+      "glosses": [
+        "CLF",
+        "will",
+        "use / hold",
+        "take",
+        "knife",
+        "take",
+        "cleaver"
+      ],
+      "translation": "Taking those utensils, the knife, cleaver, sword and stick, will call it to come.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Taking those utensils, the knife, cleaver, sword and stick, will call it to come.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_043",
+      "text_roman": "ta1 hng3 maa2 nang1 nat3 yau3",
+      "lik_tai": "တႃ ႁင်ႈ မႃႇ ၼင် ၼတ်ႈ ယဝ်ႈ",
+      "assamese_script": "তা¹ হঙ³ মা² নাঙ¹ নাত্‌³ যাও³",
+      "ipa": "[ta˧˧] [hŋ˨˩̰] [maː˥˦] [naŋ˧˧] [nat˨˩̰] [jau˨˩̰]",
+      "morphemes": [
+        "ta1",
+        "hng3",
+        "maa2",
+        "nang1",
+        "nat3",
+        "yau3"
+      ],
+      "glosses": [
+        "will",
+        "call",
+        "come",
+        "like",
+        "that",
+        "FINISHED"
+      ],
+      "translation": "It will be called like that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: It will be called like that.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_044",
+      "text_roman": "sang1 waa3 dai3 maa2 an2 j1 au2",
+      "lik_tai": "ꩢင် ဝႃႈ ဢႈ မႃႇ ဢၼ်ႇ ဢ ဢဝ်ႇ",
+      "assamese_script": "সাঙ¹ ৱা³ অ³ মা² অন² অ¹ ঔ²",
+      "ipa": "[saŋ˧˧] [waː˨˩̰] [dai˨˩̰] [maː˥˦] [an˥˦] [j˧˧] [au˥˦]",
+      "morphemes": [
+        "sang1",
+        "waa3",
+        "dai3",
+        "maa2",
+        "an2",
+        "j1",
+        "au2"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "get",
+        "come",
+        "CLF",
+        "HESIT",
+        "take"
+      ],
+      "translation": "If they get eggs, the yolk of eggs, ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: If they get eggs, the yolk of eggs, ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_045",
+      "text_roman": "khai1 kai1 nan3",
+      "lik_tai": "ၶႆ ၵႆ ၼၼ်ႈ",
+      "assamese_script": "খাই¹ কাই¹ নান³",
+      "ipa": "[kʰai˧˧] [kai˧˧] [nan˨˩̰]",
+      "morphemes": [
+        "khai1",
+        "kai1",
+        "nan3"
+      ],
+      "glosses": [
+        "egg",
+        "chicken",
+        "that"
+      ],
+      "translation": "Those chicken eggs",
+      "translation_assamese": "অসমীয়া অৰ্থ: Those chicken eggs",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_046",
+      "text_roman": "tii2 kun2 khai3 luk3 nan3",
+      "lik_tai": "တႇ ၵုၼ်ႇ ၶႆႈ လုၵ်ႈ ၼၼ်ႈ",
+      "assamese_script": "ত² কুন² খাই³ লুক্‌³ নান³",
+      "ipa": "[tii˥˦] [kun˥˦] [kʰai˨˩̰] [luk˨˩̰] [nan˨˩̰]",
+      "morphemes": [
+        "tii2",
+        "kun2",
+        "khai3",
+        "luk3",
+        "nan3"
+      ],
+      "glosses": [
+        "that",
+        "person",
+        "ill",
+        "child",
+        "that"
+      ],
+      "translation": "For that sick child.",
+      "translation_assamese": "অসমীয়া অৰ্থ: For that sick child.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_047",
+      "text_roman": "tii2 khai3 nan3",
+      "lik_tai": "တႇ ၶႆႈ ၼၼ်ႈ",
+      "assamese_script": "ত² খাই³ নান³",
+      "ipa": "[tii˥˦] [kʰai˨˩̰] [nan˨˩̰]",
+      "morphemes": [
+        "tii2",
+        "khai3",
+        "nan3"
+      ],
+      "glosses": [
+        "place",
+        "sick",
+        "that"
+      ],
+      "translation": "The one who is ill.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The one who is ill.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_048",
+      "text_roman": "tii2 kun2 khai3 ta1 kaa1 tsik1 tii2 khn1",
+      "lik_tai": "တႇ ၵုၼ်ႇ ၶႆႈ တႃ ၵႃ ၸိၵ် တႇ ၶၼ်",
+      "assamese_script": "ত² কুন² খাই³ তা¹ কা¹ চিক্‌¹ ত² খন¹",
+      "ipa": "[tii˥˦] [kun˥˦] [kʰai˨˩̰] [ta˧˧] [kaː˧˧] [tɕik˧˧] [tii˥˦] [kʰn˧˧]",
+      "morphemes": [
+        "tii2",
+        "kun2",
+        "khai3",
+        "ta1",
+        "kaa1",
+        "tsik1",
+        "tii2",
+        "khn1"
+      ],
+      "glosses": [
+        "that",
+        "person",
+        "sick",
+        "will",
+        "go",
+        "highest part",
+        "to",
+        "khon"
+      ],
+      "translation": "The khon will go to the tip of the head of that sick child, there are khons there.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The khon will go to the tip of the head of that sick child, there are khons there.",
+      "audio_file": null,
+      "notes": "* realised as [khwan1]"
+    },
+    {
+      "id": "unit_049",
+      "text_roman": "khn1 uu1",
+      "lik_tai": "ၶၼ် ဢ",
+      "assamese_script": "খন¹ অ¹",
+      "ipa": "[kʰn˧˧] [uu˧˧]",
+      "morphemes": [
+        "khn1",
+        "uu1"
+      ],
+      "glosses": [
+        "khon",
+        "stay"
+      ],
+      "translation": "Where is the khon ...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Where is the khon ...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_050",
+      "text_roman": "khn1 uu1 nɯ1 tsik1 huu1",
+      "lik_tai": "ၶၼ် ဢ ၼို ၸိၵ် ႁ",
+      "assamese_script": "খন¹ অ¹ নু¹ চিক্‌¹ হ¹",
+      "ipa": "[kʰn˧˧] [uu˧˧] [nɯ˧˧] [tɕik˧˧] [huu˧˧]",
+      "morphemes": [
+        "khn1",
+        "uu1",
+        "nɯ1",
+        "tsik1",
+        "huu1"
+      ],
+      "glosses": [
+        "khon",
+        "stay",
+        "above",
+        "top",
+        "head"
+      ],
+      "translation": "The khon is at the top of the head.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The khon is at the top of the head.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_051",
+      "text_roman": "uu1 nɯ1 ho1",
+      "lik_tai": "ဢ ၼို ႁူ",
+      "assamese_script": "অ¹ নু¹ হো¹",
+      "ipa": "[uu˧˧] [nɯ˧˧] [ho˧˧]",
+      "morphemes": [
+        "uu1",
+        "nɯ1",
+        "ho1"
+      ],
+      "glosses": [
+        "stay",
+        "above",
+        "head"
+      ],
+      "translation": "It is above the head.",
+      "translation_assamese": "অসমীয়া অৰ্থ: It is above the head.",
+      "audio_file": null,
+      "notes": "SM pronounces in the Phake way [ho6]"
+    },
+    {
+      "id": "unit_052",
+      "text_roman": "uu1 nɯ1 ho1 nan3 au2 khai1 kai1",
+      "lik_tai": "ဢ ၼို ႁူ ၼၼ်ႈ ဢဝ်ႇ ၶႆ ၵႆ",
+      "assamese_script": "অ¹ নু¹ হো¹ নান³ ঔ² খাই¹ কাই¹",
+      "ipa": "[uu˧˧] [nɯ˧˧] [ho˧˧] [nan˨˩̰] [au˥˦] [kʰai˧˧] [kai˧˧]",
+      "morphemes": [
+        "uu1",
+        "nɯ1",
+        "ho1",
+        "nan3",
+        "au2",
+        "khai1",
+        "kai1"
+      ],
+      "glosses": [
+        "stay",
+        "above",
+        "head",
+        "that",
+        "take",
+        "egg",
+        "chicken"
+      ],
+      "translation": "Bring the chicken eggs, the yolk of the eggs, to the top of the head, he will wipe it saying Ci Cup Ci Cup Ci Cup.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Bring the chicken eggs, the yolk of the eggs, to the top of the head, he will wipe it saying Ci Cup Ci Cup Ci Cup.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_053",
+      "text_roman": "ɯ2 ta1 waa2 tsiitsup",
+      "lik_tai": "ဢိုႇ တႃ ဝႃႇ ၸပ်",
+      "assamese_script": "উ² তা¹ ৱা² চপ্‌¹",
+      "ipa": "[ɯ˥˦] [ta˧˧] [waː˥˦] [tɕiitsup˧˧]",
+      "morphemes": [
+        "ɯ2",
+        "ta1",
+        "waa2",
+        "tsiitsup"
+      ],
+      "glosses": [
+        "Yes",
+        "will",
+        "say",
+        "Ci Cup"
+      ],
+      "translation": "Yes, he will say Ci Cup.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Yes, he will say Ci Cup.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_054",
+      "text_roman": "tsiitsup ta1 waa2 nang1 nat3",
+      "lik_tai": "ၸပ် တႃ ဝႃႇ ၼင် ၼတ်ႈ",
+      "assamese_script": "চপ্‌¹ তা¹ ৱা² নাঙ¹ নাত্‌³",
+      "ipa": "[tɕiitsup˧˧] [ta˧˧] [waː˥˦] [naŋ˧˧] [nat˨˩̰]",
+      "morphemes": [
+        "tsiitsup",
+        "ta1",
+        "waa2",
+        "nang1",
+        "nat3"
+      ],
+      "glosses": [
+        "Ci Cup",
+        "will",
+        "say",
+        "like",
+        "that"
+      ],
+      "translation": "Ci Cup, we say like that...",
+      "translation_assamese": "অসমীয়া অৰ্থ: Ci Cup, we say like that...",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_055",
+      "text_roman": "nɯ1 huu1 nan3",
+      "lik_tai": "ၼို ႁ ၼၼ်ႈ",
+      "assamese_script": "নু¹ হ¹ নান³",
+      "ipa": "[nɯ˧˧] [huu˧˧] [nan˨˩̰]",
+      "morphemes": [
+        "nɯ1",
+        "huu1",
+        "nan3"
+      ],
+      "glosses": [
+        "above",
+        "head",
+        "that"
+      ],
+      "translation": "Above the head?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Above the head?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_056",
+      "text_roman": "ɯ2 nɯ1 huu1 nan3",
+      "lik_tai": "ဢိုႇ ၼို ႁ ၼၼ်ႈ",
+      "assamese_script": "উ² নু¹ হ¹ নান³",
+      "ipa": "[ɯ˥˦] [nɯ˧˧] [huu˧˧] [nan˨˩̰]",
+      "morphemes": [
+        "ɯ2",
+        "nɯ1",
+        "huu1",
+        "nan3"
+      ],
+      "glosses": [
+        "yes",
+        "up",
+        "head",
+        "that"
+      ],
+      "translation": "Yes, above the head.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Yes, above the head.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_057",
+      "text_roman": "ta1 taa3 haɯ3 khn1 an2 lɯng2 nan3",
+      "lik_tai": "တႃ တႃႈ ႁႈ ၶၼ် ဢၼ်ႇ လိုင်ႇ ၼၼ်ႈ",
+      "assamese_script": "তা¹ তা³ হ³ খন¹ অন² লুঙ² নান³",
+      "ipa": "[ta˧˧] [taː˨˩̰] [haɯ˨˩̰] [kʰn˧˧] [an˥˦] [lɯŋ˥˦] [nan˨˩̰]",
+      "morphemes": [
+        "ta1",
+        "taa3",
+        "haɯ3",
+        "khn1",
+        "an2",
+        "lɯng2",
+        "nan3"
+      ],
+      "glosses": [
+        "will",
+        "wipe",
+        "GIVE",
+        "khon",
+        "CLF",
+        "one",
+        "that"
+      ],
+      "translation": "Will wipe (it) for that one khon.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Will wipe (it) for that one khon.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_058",
+      "text_roman": "an2 lɯng2 naa1",
+      "lik_tai": "ဢၼ်ႇ လိုင်ႇ ၼႃ",
+      "assamese_script": "অন² লুঙ² না¹",
+      "ipa": "[an˥˦] [lɯŋ˥˦] [naː˧˧]",
+      "morphemes": [
+        "an2",
+        "lɯng2",
+        "naa1"
+      ],
+      "glosses": [
+        "CLF",
+        "one",
+        "PRTQN"
+      ],
+      "translation": "One?",
+      "translation_assamese": "অসমীয়া অৰ্থ: One?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_059",
+      "text_roman": "khai1 kai1 an2 lɯng2 nan3",
+      "lik_tai": "ၶႆ ၵႆ ဢၼ်ႇ လိုင်ႇ ၼၼ်ႈ",
+      "assamese_script": "খাই¹ কাই¹ অন² লুঙ² নান³",
+      "ipa": "[kʰai˧˧] [kai˧˧] [an˥˦] [lɯŋ˥˦] [nan˨˩̰]",
+      "morphemes": [
+        "khai1",
+        "kai1",
+        "an2",
+        "lɯng2",
+        "nan3"
+      ],
+      "glosses": [
+        "egg",
+        "chicken",
+        "CLF",
+        "one",
+        "that"
+      ],
+      "translation": "That one egg",
+      "translation_assamese": "অসমীয়া অৰ্থ: That one egg",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_060",
+      "text_roman": "khai1 kai1 an2 lɯng2 nan3",
+      "lik_tai": "ၶႆ ၵႆ ဢၼ်ႇ လိုင်ႇ ၼၼ်ႈ",
+      "assamese_script": "খাই¹ কাই¹ অন² লুঙ² নান³",
+      "ipa": "[kʰai˧˧] [kai˧˧] [an˥˦] [lɯŋ˥˦] [nan˨˩̰]",
+      "morphemes": [
+        "khai1",
+        "kai1",
+        "an2",
+        "lɯng2",
+        "nan3"
+      ],
+      "glosses": [
+        "egg",
+        "chicken",
+        "CLF",
+        "one",
+        "that"
+      ],
+      "translation": "That one egg",
+      "translation_assamese": "অসমীয়া অৰ্থ: That one egg",
+      "audio_file": null,
+      "notes": ""
+    }
+  ],
+  "full_translation": "Words about the Tai customs of calling the khon, as we Tais call it. We believe that people have a khon. If a person has died, we say that the person is too ill. If it happens that the khon goes away. We need to call it back. If the khon returns, the illness will get better. It is like that. It is what we call a custom. On a beautiful day. The khon of that child escapes, it is said. If that happens, we make a certain place where we puts things into a basket. What is a duN3? A duN3 is something we use for winnowing rice. The thing we use for winnowing rice is called duN3. Into this winnowing basket we put all types of things. Meat, fish, rice, fresh rice, egg, chicken, and some others. These things ... We will do the work of calling the khon (with them). In calling it we use the hoe, the axe, the sword and sticks. As well as bows and arrows, all gathered together. All these are gathered together by the person we call the caller of the khon. The teacher who calls the khon, who will call it. For the khon to return to him (i.e. the sick child). Wherever that khon has escaped to, (he) will get it to come back, to call it back. If it has gone to live in a place where bad khons are, Like to a burial place. Take rattan and beat it and get it to come back. If it goes to stay at, umm, then take an axe and beat it out from those bad spirits. Take an axe and a sword to those bad spirits and cut them. Make this khon return! It should be done like this, to bow before the spirits at the place where this is set up. He will call the spirits with cooked rice and rice bound up in a leaf. With all types of (food), namely egg, chicken, meat and fish. We say like that Then the khon will be sent to the person. Going to catch (it) by catching fish. This is called sqn3 khqn1. Take a fishing implement and go and catch it like a fish, and if you get anything, bring it back and keep it. And it will be done by that caller (of the khon). The caller of the khon says these words, and these words reach the khon in this manner. Where it comes to, will be said. Taking those utensils, the knife, cleaver, sword and stick, will call it to come. It will be called like that. If they get eggs, the yolk of eggs, ... Those chicken eggs For that sick child. The one who is ill. The khon will go to the tip of the head of that sick child, there are khons there. Where is the khon ... The khon is at the top of the head. It is above the head. Bring the chicken eggs, the yolk of the eggs, to the top of the head, he will wipe it saying Ci Cup Ci Cup Ci Cup. Yes, he will say Ci Cup. Ci Cup, we say like that... Above the head? Yes, above the head. Will wipe (it) for that one khon. One? That one egg That one egg",
+  "book_id": "book_hong_khon_exegesis",
+  "title": "The Comprehensive Exegesis of the Hong Khon Ritual",
+  "title_tai": "Lik4 Pvn1 An1 Hong1 Khwan1",
+  "title_as": ""
+}

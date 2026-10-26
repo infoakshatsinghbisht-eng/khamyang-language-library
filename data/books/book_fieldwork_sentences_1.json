@@ -1,0 +1,3171 @@
+{
+  "id": "book_fieldwork_sentences_1",
+  "title_khamyang": "Kham1 Son1 Elicitation 1",
+  "title_english": "Tai Khamyang Fieldwork Sentences & Expressions (Part 1)",
+  "genre": "grammar_and_sentences",
+  "informant": "Chaw Deben Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Systematic grammatical elicitations documenting case markers, tense-aspect particles, numeral classifiers, and daily conversational patterns.",
+  "audio_file": "3-10-2-6.mp3",
+  "full_translation": "Systematic grammatical elicitations documenting case markers, tense-aspect particles, numeral classifiers, and daily conversational patterns.",
+  "sentences": [
+    {
+      "id": "book_fieldwork_sentences_1_s001",
+      "text_roman": "ɯm1 an2 khaam2 kham2 yang2 nai4 lai4 k4 pz5 kau2",
+      "lik_tai": "ဢိုမ် ဢၼ်ႇ ၶႃမ်ႇ ၶမ်ႇ ယင်ႇ ၼႆး လႆး ၵး ပႉ ၵဝ်ႇ",
+      "assamese_script": "উম¹ অন² খাম² খাম² যাঙ² নাই⁴ লাই⁴ ক⁴ প⁵ কাও²",
+      "morphemes": [
+        "ɯm1",
+        "an2",
+        "khaam2",
+        "kham2",
+        "yang2",
+        "nai4",
+        "lai4",
+        "k4",
+        "pz5",
+        "kau2"
+      ],
+      "glosses": [
+        "HESIT",
+        "CLF",
+        "word",
+        "Khamyang",
+        "Khamyang",
+        "PRT",
+        "because",
+        "because",
+        "because",
+        "1Sg"
+      ],
+      "free_translation_en": "Um (let's talk) about Tai Khamyang, because I don't know Tai Khamyang.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s002",
+      "text_roman": "ɯm1",
+      "lik_tai": "ဢိုမ်",
+      "assamese_script": "উম¹",
+      "morphemes": [
+        "ɯm1"
+      ],
+      "glosses": [
+        "HESIT"
+      ],
+      "free_translation_en": "Um",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s003",
+      "text_roman": "phaa4 ke5 tsn2 nvng5 tsaang5 kham2 yang2 ma1 tsaang5",
+      "lik_tai": "ၽႃး ေၵႉ ၸၼ်ႇ ၼင်ႉ ၸႃင်ႉ ၶမ်ႇ ယင်ႇ မႃ ၸႃင်ႉ",
+      "assamese_script": "ফা⁴ কে⁵ চন² নঙ⁵ চাঙ⁵ খাম² যাঙ² মা¹ চাঙ⁵",
+      "morphemes": [
+        "phaa4",
+        "ke5",
+        "tsn2",
+        "nvng5",
+        "tsaang5",
+        "kham2",
+        "yang2",
+        "ma1",
+        "tsaang5"
+      ],
+      "glosses": [
+        "Phake",
+        "Phake",
+        "little",
+        "one",
+        "know",
+        "Khamyang",
+        "Khamyang",
+        "NEG",
+        "know"
+      ],
+      "free_translation_en": "I know a little Phake, but no Khamyang.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s004",
+      "text_roman": "phaa4 ke5 ta1 waa5 aa1 kaa1 tii5 thav6",
+      "lik_tai": "ၽႃး ေၵႉ တႃ ဝႃႉ ဢႃ ၵႃ တႉ ထႊ",
+      "assamese_script": "ফা⁴ কে⁵ তা¹ ৱা⁵ আ¹ কা¹ ত⁵ থ⁶",
+      "morphemes": [
+        "phaa4",
+        "ke5",
+        "ta1",
+        "waa5",
+        "aa1",
+        "kaa1",
+        "tii5",
+        "thav6"
+      ],
+      "glosses": [
+        "Phake",
+        "Phake",
+        "will",
+        "say",
+        "HESIT",
+        "go",
+        "to",
+        "where"
+      ],
+      "free_translation_en": "When in Phake they say kA1 tI5 tha*6, what do you say in Khamyang?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s005",
+      "text_roman": "kaa1 tii5 thaɯ6",
+      "lik_tai": "ၵႃ တႉ ထႊ",
+      "assamese_script": "কা¹ ত⁵ থ⁶",
+      "morphemes": [
+        "kaa1",
+        "tii5",
+        "thaɯ6"
+      ],
+      "glosses": [
+        "go",
+        "to",
+        "where"
+      ],
+      "free_translation_en": "Where are you going?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": "* realised as [thaa* 6]. Deben repeatedly indicated that this was different from the Phake which he pronounced as [tha*6]. There is however a very slight final [*]."
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s006",
+      "text_roman": "phaa4 ke5 ta1 waa5 mz5 nav6 maa2 maa2",
+      "lik_tai": "ၽႃး ေၵႉ တႃ ဝႃႉ မႉ ၼႊ မႃႇ မႃႇ",
+      "assamese_script": "ফা⁴ কে⁵ তা¹ ৱা⁵ ম⁵ ন⁶ মা² মা²",
+      "morphemes": [
+        "phaa4",
+        "ke5",
+        "ta1",
+        "waa5",
+        "mz5",
+        "nav6",
+        "maa2",
+        "maa2"
+      ],
+      "glosses": [
+        "Phake",
+        "Phake",
+        "will",
+        "say",
+        "when",
+        "when",
+        "come",
+        "COME"
+      ],
+      "free_translation_en": "The Phakes say mz5 nav6 mA2 mA2 ?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s007",
+      "text_roman": "mɛ5 laɯ6 maa2 maa2",
+      "lik_tai": "ႄမႉ လႊ မႃႇ မႃႇ",
+      "assamese_script": "মে⁵ ল⁶ মা² মা²",
+      "morphemes": [
+        "mɛ5",
+        "laɯ6",
+        "maa2",
+        "maa2"
+      ],
+      "glosses": [
+        "when",
+        "when",
+        "come",
+        "COME"
+      ],
+      "free_translation_en": "When did (you) come?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s008",
+      "text_roman": "mɛ5 laɯ6 maa2 maa2",
+      "lik_tai": "ႄမႉ လႊ မႃႇ မႃႇ",
+      "assamese_script": "মে⁵ ল⁶ মা² মা²",
+      "morphemes": [
+        "mɛ5",
+        "laɯ6",
+        "maa2",
+        "maa2"
+      ],
+      "glosses": [
+        "when",
+        "when",
+        "come",
+        "COME"
+      ],
+      "free_translation_en": "When did (you) come?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s009",
+      "text_roman": "an2 tii5 mav2 waa5 maang1 nai4 maang1 haa1 nai4",
+      "lik_tai": "ဢၼ်ႇ တႉ မႇ ဝႃႉ မႃင် ၼႆး မႃင် ႁႃ ၼႆး",
+      "assamese_script": "অন² ত⁵ ম² ৱা⁵ মাঙ¹ নাই⁴ মাঙ¹ হা¹ নাই⁴",
+      "morphemes": [
+        "an2",
+        "tii5",
+        "mav2",
+        "waa5",
+        "maang1",
+        "nai4",
+        "maang1",
+        "haa1",
+        "nai4"
+      ],
+      "glosses": [
+        "CLF",
+        "place",
+        "2Sg",
+        "say",
+        "come.?",
+        "PRT",
+        "come.?",
+        "come",
+        "PRT"
+      ],
+      "free_translation_en": "When you say maaN, that is 'to come', ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s010",
+      "text_roman": "kham10",
+      "lik_tai": "kham10",
+      "assamese_script": "kham10",
+      "morphemes": [
+        "kham10"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Come",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s011",
+      "text_roman": "ka1 sang1 svng1 waa5 kau2 ta1 waa5 ma1 phuk1",
+      "lik_tai": "ၵႃ ꩢင် ꩢင် ဝႃႉ ၵဝ်ႇ တႃ ဝႃႉ မႃ ၽုၵ်",
+      "assamese_script": "কা¹ সাঙ¹ সঙ¹ ৱা⁵ কাও² তা¹ ৱা⁵ মা¹ ফুক্‌¹",
+      "morphemes": [
+        "ka1",
+        "sang1",
+        "svng1",
+        "waa5",
+        "kau2",
+        "ta1",
+        "waa5",
+        "ma1",
+        "phuk1"
+      ],
+      "glosses": [
+        "what",
+        "what",
+        "if",
+        "say",
+        "1Sg",
+        "WILL",
+        "say",
+        "tomorrow",
+        "tomorrow"
+      ],
+      "free_translation_en": "Suppose I were to say, tomorrow I will go to Margherita, how would I say it in Khamyang?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s012",
+      "text_roman": "ma1 huk1 kau2 ta1 kaa1 ma1 ke1 re1 taa1 tuu1 tuu1",
+      "lik_tai": "မႃ ႁုၵ် ၵဝ်ႇ တႃ ၵႃ မႃ ေၵ ေရ တႃ တ တ",
+      "assamese_script": "মা¹ হুক্‌¹ কাও² তা¹ কা¹ মা¹ কে¹ ৰে¹ তা¹ ত¹ ত¹",
+      "morphemes": [
+        "ma1",
+        "huk1",
+        "kau2",
+        "ta1",
+        "kaa1",
+        "ma1",
+        "ke1",
+        "re1",
+        "taa1",
+        "tuu1",
+        "tuu1"
+      ],
+      "glosses": [
+        "tomorrow",
+        "tomorrow",
+        "1Sg",
+        "will",
+        "go",
+        "Marghertia",
+        "Marghertia",
+        "Marghertia",
+        "Marghertia",
+        "same same",
+        "same same"
+      ],
+      "free_translation_en": "Tomorrow I will go to Margherita, its the same.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s013",
+      "text_roman": "tuu1 tuu1 uu1 sj1 ma1 ke1 re1 taa1 ta1 kaa1",
+      "lik_tai": "တ တ ဢ ꩢ မႃ ေၵ ေရ တႃ တႃ ၵႃ",
+      "assamese_script": "ত¹ ত¹ অ¹ স¹ মা¹ কে¹ ৰে¹ তা¹ তা¹ কা¹",
+      "morphemes": [
+        "tuu1",
+        "tuu1",
+        "uu1",
+        "sj1",
+        "ma1",
+        "ke1",
+        "re1",
+        "taa1",
+        "ta1",
+        "kaa1"
+      ],
+      "glosses": [
+        "same",
+        "same",
+        "stay",
+        "from",
+        "Marghertia",
+        "Marghertia",
+        "Marghertia",
+        "Marghertia",
+        "will",
+        "go"
+      ],
+      "free_translation_en": "Same .. From Margherita I will go to Dibrugarh?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s014",
+      "text_roman": "ma1 huk1 kau2 ta1 kaa1 ma1 ke1 re1 taa1",
+      "lik_tai": "မႃ ႁုၵ် ၵဝ်ႇ တႃ ၵႃ မႃ ေၵ ေရ တႃ",
+      "assamese_script": "মা¹ হুক্‌¹ কাও² তা¹ কা¹ মা¹ কে¹ ৰে¹ তা¹",
+      "morphemes": [
+        "ma1",
+        "huk1",
+        "kau2",
+        "ta1",
+        "kaa1",
+        "ma1",
+        "ke1",
+        "re1",
+        "taa1"
+      ],
+      "glosses": [
+        "tomorrow",
+        "tomorrow",
+        "1Pl",
+        "WILL",
+        "go",
+        "Margherita",
+        "Margherita",
+        "Margherita",
+        "Margherita"
+      ],
+      "free_translation_en": "Tomorrow I will go to Margherita",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s015",
+      "text_roman": "lɛk4 ma1 ke1 re1 ta1 ma1 huk1 kau2 ta1 kaa1",
+      "lik_tai": "ႄလၵ်း မႃ ေၵ ေရ တႃ မႃ ႁုၵ် ၵဝ်ႇ တႃ ၵႃ",
+      "assamese_script": "লেক্‌⁴ মা¹ কে¹ ৰে¹ তা¹ মা¹ হুক্‌¹ কাও² তা¹ কা¹",
+      "morphemes": [
+        "lɛk4",
+        "ma1",
+        "ke1",
+        "re1",
+        "ta1",
+        "ma1",
+        "huk1",
+        "kau2",
+        "ta1",
+        "kaa1"
+      ],
+      "glosses": [
+        "from",
+        "Margherita",
+        "Margherita",
+        "Margherita",
+        "Margherita",
+        "tomorrow",
+        "tomorrow",
+        "1Sg",
+        "WILL",
+        "go"
+      ],
+      "free_translation_en": "From Margherita I will go tomorrow to Dibrugarh..",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s016",
+      "text_roman": "lɛk4 ma1 ke1 re1 ta1",
+      "lik_tai": "ႄလၵ်း မႃ ေၵ ေရ တႃ",
+      "assamese_script": "লেক্‌⁴ মা¹ কে¹ ৰে¹ তা¹",
+      "morphemes": [
+        "lɛk4",
+        "ma1",
+        "ke1",
+        "re1",
+        "ta1"
+      ],
+      "glosses": [
+        "from",
+        "Margherita",
+        "Margherita",
+        "Margherita",
+        "Margherita"
+      ],
+      "free_translation_en": "From Margherita ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s017",
+      "text_roman": "kau2 ta1 kaa1",
+      "lik_tai": "ၵဝ်ႇ တႃ ၵႃ",
+      "assamese_script": "কাও² তা¹ কা¹",
+      "morphemes": [
+        "kau2",
+        "ta1",
+        "kaa1"
+      ],
+      "glosses": [
+        "1Sg",
+        "WILL",
+        "go"
+      ],
+      "free_translation_en": "I will go to Dibrugarh.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s018",
+      "text_roman": "kau2 ta1 kaa1",
+      "lik_tai": "ၵဝ်ႇ တႃ ၵႃ",
+      "assamese_script": "কাও² তা¹ কা¹",
+      "morphemes": [
+        "kau2",
+        "ta1",
+        "kaa1"
+      ],
+      "glosses": [
+        "1Sg",
+        "WILL",
+        "go"
+      ],
+      "free_translation_en": "I will go to Dibrugarh.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s019",
+      "text_roman": "aa1",
+      "lik_tai": "ဢႃ",
+      "assamese_script": "আ¹",
+      "morphemes": [
+        "aa1"
+      ],
+      "glosses": [
+        "HESIT"
+      ],
+      "free_translation_en": "Um",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s020",
+      "text_roman": "luk4 tii5 thav6 maa2",
+      "lik_tai": "လုၵ်း တႉ ထႊ မႃႇ",
+      "assamese_script": "লুক্‌⁴ ত⁵ থ⁶ মা²",
+      "morphemes": [
+        "luk4",
+        "tii5",
+        "thav6",
+        "maa2"
+      ],
+      "glosses": [
+        "from",
+        "place",
+        "where",
+        "come"
+      ],
+      "free_translation_en": "Where did (you) come from?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s021",
+      "text_roman": "lɛk4 thaɯ6 maang2",
+      "lik_tai": "ႄလၵ်း ထႊ မႃင်ႇ",
+      "assamese_script": "লেক্‌⁴ থ⁶ মাঙ²",
+      "morphemes": [
+        "lɛk4",
+        "thaɯ6",
+        "maang2"
+      ],
+      "glosses": [
+        "from",
+        "where",
+        "come.?"
+      ],
+      "free_translation_en": "Where did (you) come from?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": "* Very weak final [*]"
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s022",
+      "text_roman": "nvng1",
+      "lik_tai": "ၼင်",
+      "assamese_script": "নঙ¹",
+      "morphemes": [
+        "nvng1"
+      ],
+      "glosses": [
+        "aga...."
+      ],
+      "free_translation_en": "Aga....",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s023",
+      "text_roman": "lɛk4 thaɯ6 maang2",
+      "lik_tai": "ႄလၵ်း ထႊ မႃင်ႇ",
+      "assamese_script": "লেক্‌⁴ থ⁶ মাঙ²",
+      "morphemes": [
+        "lɛk4",
+        "thaɯ6",
+        "maang2"
+      ],
+      "glosses": [
+        "from",
+        "where",
+        "come.?"
+      ],
+      "free_translation_en": "Where did (you) come from?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": "* Very weak final [*]"
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s024",
+      "text_roman": "lɛk4 thaɯ6 maang2",
+      "lik_tai": "ႄလၵ်း ထႊ မႃင်ႇ",
+      "assamese_script": "লেক্‌⁴ থ⁶ মাঙ²",
+      "morphemes": [
+        "lɛk4",
+        "thaɯ6",
+        "maang2"
+      ],
+      "glosses": [
+        "from",
+        "where",
+        "come.?"
+      ],
+      "free_translation_en": "Where did (you) come from?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": "* Very weak final [*]"
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s025",
+      "text_roman": "maang2",
+      "lik_tai": "မႃင်ႇ",
+      "assamese_script": "মাঙ²",
+      "morphemes": [
+        "maang2"
+      ],
+      "glosses": [
+        "come-?"
+      ],
+      "free_translation_en": "Come ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s026",
+      "text_roman": "maang2",
+      "lik_tai": "မႃင်ႇ",
+      "assamese_script": "মাঙ²",
+      "morphemes": [
+        "maang2"
+      ],
+      "glosses": [
+        "come-?"
+      ],
+      "free_translation_en": "Come ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s027",
+      "text_roman": "an2 nai4 an2 ta1 waa5 mav2 waa5",
+      "lik_tai": "ဢၼ်ႇ ၼႆး ဢၼ်ႇ တႃ ဝႃႉ မႇ ဝႃႉ",
+      "assamese_script": "অন² নাই⁴ অন² তা¹ ৱা⁵ ম² ৱা⁵",
+      "morphemes": [
+        "an2",
+        "nai4",
+        "an2",
+        "ta1",
+        "waa5",
+        "mav2",
+        "waa5"
+      ],
+      "glosses": [
+        "CLF",
+        "DEF",
+        "CLF",
+        "will",
+        "say",
+        "2Sg",
+        "say"
+      ],
+      "free_translation_en": "That, which you will say, ... which you say, l&k4 tha*6 maaN21,",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s028",
+      "text_roman": "maang2",
+      "lik_tai": "မႃင်ႇ",
+      "assamese_script": "মাঙ²",
+      "morphemes": [
+        "maang2"
+      ],
+      "glosses": [
+        "come"
+      ],
+      "free_translation_en": "Yes, come ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s029",
+      "text_roman": "nga1 yang2",
+      "lik_tai": "ငႃ ယင်ႇ",
+      "assamese_script": "ঙা¹ যাঙ²",
+      "morphemes": [
+        "nga1",
+        "yang2"
+      ],
+      "glosses": [
+        "/N/",
+        "have"
+      ],
+      "free_translation_en": "There is 'nga' sound.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s030",
+      "text_roman": "maang2",
+      "lik_tai": "မႃင်ႇ",
+      "assamese_script": "মাঙ²",
+      "morphemes": [
+        "maang2"
+      ],
+      "glosses": [
+        "come-?"
+      ],
+      "free_translation_en": "Come ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s031",
+      "text_roman": "maang2",
+      "lik_tai": "မႃင်ႇ",
+      "assamese_script": "মাঙ²",
+      "morphemes": [
+        "maang2"
+      ],
+      "glosses": [
+        "come-?"
+      ],
+      "free_translation_en": "Come ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s032",
+      "text_roman": "lɛk4 thaɯ6 maang2",
+      "lik_tai": "ႄလၵ်း ထႊ မႃင်ႇ",
+      "assamese_script": "লেক্‌⁴ থ⁶ মাঙ²",
+      "morphemes": [
+        "lɛk4",
+        "thaɯ6",
+        "maang2"
+      ],
+      "glosses": [
+        "from",
+        "where",
+        "come"
+      ],
+      "free_translation_en": "Where have you come from?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s033",
+      "text_roman": "an2 kham2 yang2 nai4 xmiyaa1 din1 ta1 waa5 sang6",
+      "lik_tai": "ဢၼ်ႇ ၶမ်ႇ ယင်ႇ ၼႆး ဢ ဢၼ် တႃ ဝႃႉ ꩢင်ႊ",
+      "assamese_script": "অন² খাম² যাঙ² নাই⁴ অ¹ অন¹ তা¹ ৱা⁵ সাঙ⁶",
+      "morphemes": [
+        "an2",
+        "kham2",
+        "yang2",
+        "nai4",
+        "xmiyaa1",
+        "din1",
+        "ta1",
+        "waa5",
+        "sang6"
+      ],
+      "glosses": [
+        "CLF",
+        "Khamyang",
+        "Khamyang",
+        "PRT",
+        "Assamese",
+        "day",
+        "will",
+        "say",
+        "what"
+      ],
+      "free_translation_en": "What do you say for the Assamese word din ('day')?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s034",
+      "text_roman": "tin2 bhri1",
+      "lik_tai": "တိၼ်ႇ ဢ",
+      "assamese_script": "তিন² অ¹",
+      "morphemes": [
+        "tin2",
+        "bhri1"
+      ],
+      "glosses": [
+        "foot",
+        "foot"
+      ],
+      "free_translation_en": "Foot is bhqri in Assamese.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s035",
+      "text_roman": "din1 xmiya1 din1 ta1 waa5 sang6",
+      "lik_tai": "ဢၼ် ဢ ဢၼ် တႃ ဝႃႉ ꩢင်ႊ",
+      "assamese_script": "অন¹ অ¹ অন¹ তা¹ ৱা⁵ সাঙ⁶",
+      "morphemes": [
+        "din1",
+        "xmiya1",
+        "din1",
+        "ta1",
+        "waa5",
+        "sang6"
+      ],
+      "glosses": [
+        "say",
+        "Assamese",
+        "day",
+        "will",
+        "say",
+        "what"
+      ],
+      "free_translation_en": "(No, no) for Assamese din, what do you say?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s036",
+      "text_roman": "kham36",
+      "lik_tai": "kham36",
+      "assamese_script": "kham36",
+      "morphemes": [
+        "kham36"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Day?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s037",
+      "text_roman": "ta1 waa5 sang6",
+      "lik_tai": "တႃ ဝႃႉ ꩢင်ႊ",
+      "assamese_script": "তা¹ ৱা⁵ সাঙ⁶",
+      "morphemes": [
+        "ta1",
+        "waa5",
+        "sang6"
+      ],
+      "glosses": [
+        "WILL",
+        "say",
+        "what"
+      ],
+      "free_translation_en": "What do you say?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s038",
+      "text_roman": "ban2 an2 luk4 ban2",
+      "lik_tai": "ဢၼ်ႇ ဢၼ်ႇ လုၵ်း ဢၼ်ႇ",
+      "assamese_script": "অন² অন² লুক্‌⁴ অন²",
+      "morphemes": [
+        "ban2",
+        "an2",
+        "luk4",
+        "ban2"
+      ],
+      "glosses": [
+        "day",
+        "CLF",
+        "child",
+        "day"
+      ],
+      "free_translation_en": "Day, the sun.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s039",
+      "text_roman": "nvng1 kau1",
+      "lik_tai": "ၼင် ၵဝ်",
+      "assamese_script": "নঙ¹ কাও¹",
+      "morphemes": [
+        "nvng1",
+        "kau1"
+      ],
+      "glosses": [
+        "again",
+        "again"
+      ],
+      "free_translation_en": "Again.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s040",
+      "text_roman": "luk4 ban2 luk4 ban2",
+      "lik_tai": "လုၵ်း ဢၼ်ႇ လုၵ်း ဢၼ်ႇ",
+      "assamese_script": "লুক্‌⁴ অন² লুক্‌⁴ অন²",
+      "morphemes": [
+        "luk4",
+        "ban2",
+        "luk4",
+        "ban2"
+      ],
+      "glosses": [
+        "child",
+        "day",
+        "child",
+        "day"
+      ],
+      "free_translation_en": "Sun, sun.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s041",
+      "text_roman": "an2 nai4 ta1 pen2",
+      "lik_tai": "ဢၼ်ႇ ၼႆး တႃ ေပၼ်ႇ",
+      "assamese_script": "অন² নাই⁴ তা¹ পেন²",
+      "morphemes": [
+        "an2",
+        "nai4",
+        "ta1",
+        "pen2"
+      ],
+      "glosses": [
+        "CLF",
+        "PRT",
+        "will",
+        "be"
+      ],
+      "free_translation_en": "This, which would be a comb...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s042",
+      "text_roman": "nai4 bii6 ho6 bii6",
+      "lik_tai": "ၼႆး ဢႊ ႁူႊ ဢႊ",
+      "assamese_script": "নাই⁴ অ⁶ হো⁶ অ⁶",
+      "morphemes": [
+        "nai4",
+        "bii6",
+        "ho6",
+        "bii6"
+      ],
+      "glosses": [
+        "this",
+        "comb",
+        "head",
+        "comb"
+      ],
+      "free_translation_en": "A comb for the head - bii6.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s043",
+      "text_roman": "bii6 ho6 j1 1",
+      "lik_tai": "ဢႊ ႁူႊ ဢ 1",
+      "assamese_script": "অ⁶ হো⁶ অ¹ 1",
+      "morphemes": [
+        "bii6",
+        "ho6",
+        "j1",
+        "1"
+      ],
+      "glosses": [
+        "comb",
+        "head",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "A comb.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s044",
+      "text_roman": "kau5 baa5 ɯng1 tsaɯ5 bii6 ho6 j1 bii6",
+      "lik_tai": "ၵဝ်ႉ ဢႉ ဢိုင် ၸႉ ဢႊ ႁူႊ ဢ ဢႊ",
+      "assamese_script": "কাও⁵ অ⁵ উঙ¹ চ⁵ অ⁶ হো⁶ অ¹ অ⁶",
+      "morphemes": [
+        "kau5",
+        "baa5",
+        "ɯng1",
+        "tsaɯ5",
+        "bii6",
+        "ho6",
+        "j1",
+        "bii6"
+      ],
+      "glosses": [
+        "1Sg",
+        "say",
+        "NEG",
+        "be",
+        "comb",
+        "head",
+        "PRT",
+        "comb"
+      ],
+      "free_translation_en": "Didn't I say it to you?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": "* The words *N1 ca*5 are barely audible, but Deben Chowlik assured me that they would have been spoken. He compared the Phake and Khamyang languages as follows:"
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s045",
+      "text_roman": "kham45",
+      "lik_tai": "kham45",
+      "assamese_script": "kham45",
+      "morphemes": [
+        "kham45"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "That's a comb.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s046",
+      "text_roman": "an2 nai4",
+      "lik_tai": "ဢၼ်ႇ ၼႆး",
+      "assamese_script": "অন² নাই⁴",
+      "morphemes": [
+        "an2",
+        "nai4"
+      ],
+      "glosses": [
+        "CLF",
+        "this"
+      ],
+      "free_translation_en": "This?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s047",
+      "text_roman": "bii2",
+      "lik_tai": "ဢႇ",
+      "assamese_script": "অ²",
+      "morphemes": [
+        "bii2"
+      ],
+      "glosses": [
+        "fan"
+      ],
+      "free_translation_en": "A fan",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s048",
+      "text_roman": "kham48",
+      "lik_tai": "kham48",
+      "assamese_script": "kham48",
+      "morphemes": [
+        "kham48"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Sentence 48 from book_fieldwork_sentences_1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s049",
+      "text_roman": "bii2 bii2",
+      "lik_tai": "ဢႇ ဢႇ",
+      "assamese_script": "অ² অ²",
+      "morphemes": [
+        "bii2",
+        "bii2"
+      ],
+      "glosses": [
+        "fan",
+        "fan"
+      ],
+      "free_translation_en": "A fan, bii2.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s050",
+      "text_roman": "ka1 sang6 pen2 wat1",
+      "lik_tai": "ၵႃ ꩢင်ႊ ေပၼ်ႇ ဝတ်",
+      "assamese_script": "কা¹ সাঙ⁶ পেন² ৱাত্‌¹",
+      "morphemes": [
+        "ka1",
+        "sang6",
+        "pen2",
+        "wat1"
+      ],
+      "glosses": [
+        "what",
+        "what",
+        "be",
+        "cold"
+      ],
+      "free_translation_en": "What about a cold?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s051",
+      "text_roman": "pen5 bat1 pen5 bat1",
+      "lik_tai": "ေပၼ်ႉ ဢတ် ေပၼ်ႉ ဢတ်",
+      "assamese_script": "পেন⁵ অত্‌¹ পেন⁵ অত্‌¹",
+      "morphemes": [
+        "pen5",
+        "bat1",
+        "pen5",
+        "bat1"
+      ],
+      "glosses": [
+        "be",
+        "cold",
+        "be",
+        "cold"
+      ],
+      "free_translation_en": "To have a cold, pen5 bat1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s052",
+      "text_roman": "hau2 j1 waa5 pen5 bat1",
+      "lik_tai": "ႁဝ်ႇ ဢ ဝႃႉ ေပၼ်ႉ ဢတ်",
+      "assamese_script": "হাও² অ¹ ৱা⁵ পেন⁵ অত্‌¹",
+      "morphemes": [
+        "hau2",
+        "j1",
+        "waa5",
+        "pen5",
+        "bat1"
+      ],
+      "glosses": [
+        "1Pl",
+        "PRT",
+        "say",
+        "be",
+        "cold"
+      ],
+      "free_translation_en": "We say pen5 bat1, whereas the Tai Phake say khai5 bat1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s053",
+      "text_roman": "pen5 bat1 pen5 bat1",
+      "lik_tai": "ေပၼ်ႉ ဢတ် ေပၼ်ႉ ဢတ်",
+      "assamese_script": "পেন⁵ অত্‌¹ পেন⁵ অত্‌¹",
+      "morphemes": [
+        "pen5",
+        "bat1",
+        "pen5",
+        "bat1"
+      ],
+      "glosses": [
+        "be",
+        "cold",
+        "be",
+        "cold"
+      ],
+      "free_translation_en": "To have a cold, pen5 bat1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s054",
+      "text_roman": "an2 nai4 ta1 waa5 khaam2 woi1 nan4",
+      "lik_tai": "ဢၼ်ႇ ၼႆး တႃ ဝႃႉ ၶႃမ်ႇ ဝူႆ ၼၼ်း",
+      "assamese_script": "অন² নাই⁴ তা¹ ৱা⁵ খাম² ৱওই¹ নান⁴",
+      "morphemes": [
+        "an2",
+        "nai4",
+        "ta1",
+        "waa5",
+        "khaam2",
+        "woi1",
+        "nan4"
+      ],
+      "glosses": [
+        "CLF",
+        "PRT",
+        "will",
+        "say",
+        "word",
+        "bless",
+        "that"
+      ],
+      "free_translation_en": "What about the word for blessing? When you bless Buddha, what do you say?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s055",
+      "text_roman": "khaam2 boi1 phraa2 nai4",
+      "lik_tai": "ၶႃမ်ႇ ဢ ၽႇ ၼႆး",
+      "assamese_script": "খাম² অ¹ ফ² নাই⁴",
+      "morphemes": [
+        "khaam2",
+        "boi1",
+        "phraa2",
+        "nai4"
+      ],
+      "glosses": [
+        "word",
+        "bless",
+        "Buddha",
+        "this"
+      ],
+      "free_translation_en": "Blessings of Buddha.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s056",
+      "text_roman": "khaam2 boi1 phraa2 tuu1 tuu1 khaam2 nɯng5",
+      "lik_tai": "ၶႃမ်ႇ ဢ ၽႇ တ တ ၶႃမ်ႇ ၼိုင်ႉ",
+      "assamese_script": "খাম² অ¹ ফ² ত¹ ত¹ খাম² নুঙ⁵",
+      "morphemes": [
+        "khaam2",
+        "boi1",
+        "phraa2",
+        "tuu1",
+        "tuu1",
+        "khaam2",
+        "nɯng5"
+      ],
+      "glosses": [
+        "word",
+        "bless",
+        "Buddha",
+        "same",
+        "same",
+        "word",
+        "one"
+      ],
+      "free_translation_en": "The words of blessing the Buddha are the same, although ours is short and theirs is long.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s057",
+      "text_roman": "z2 z2",
+      "lik_tai": "ဢႇ ဢႇ",
+      "assamese_script": "অ² অ²",
+      "morphemes": [
+        "z2",
+        "z2"
+      ],
+      "glosses": [
+        "yes yes",
+        "yes yes"
+      ],
+      "free_translation_en": "Yes.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s058",
+      "text_roman": "an2 phaa4 ke5 ta1 waa5 an2 nai4 nang2",
+      "lik_tai": "ဢၼ်ႇ ၽႃး ေၵႉ တႃ ဝႃႉ ဢၼ်ႇ ၼႆး ၼင်ႇ",
+      "assamese_script": "অন² ফা⁴ কে⁵ তা¹ ৱা⁵ অন² নাই⁴ নাঙ²",
+      "morphemes": [
+        "an2",
+        "phaa4",
+        "ke5",
+        "ta1",
+        "waa5",
+        "an2",
+        "nai4",
+        "nang2"
+      ],
+      "glosses": [
+        "CLF",
+        "Phake",
+        "Phake",
+        "will",
+        "say",
+        "CLF",
+        "this",
+        "nose"
+      ],
+      "free_translation_en": "This, which the Phakes call naN2 'the nose'?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s059",
+      "text_roman": "nang5",
+      "lik_tai": "ၼင်ႉ",
+      "assamese_script": "নাঙ⁵",
+      "morphemes": [
+        "nang5"
+      ],
+      "glosses": [
+        "nose"
+      ],
+      "free_translation_en": "nose",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s060",
+      "text_roman": "kham2 yang2 ta1 waa5 sang6",
+      "lik_tai": "ၶမ်ႇ ယင်ႇ တႃ ဝႃႉ ꩢင်ႊ",
+      "assamese_script": "খাম² যাঙ² তা¹ ৱা⁵ সাঙ⁶",
+      "morphemes": [
+        "kham2",
+        "yang2",
+        "ta1",
+        "waa5",
+        "sang6"
+      ],
+      "glosses": [
+        "Khamyang",
+        "Khamyang",
+        "WILL",
+        "say",
+        "what"
+      ],
+      "free_translation_en": "What do the Khamyang's say?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s061",
+      "text_roman": "hau2 k4 baa5 nang5",
+      "lik_tai": "ႁဝ်ႇ ၵး ဢႉ ၼင်ႉ",
+      "assamese_script": "হাও² ক⁴ অ⁵ নাঙ⁵",
+      "morphemes": [
+        "hau2",
+        "k4",
+        "baa5",
+        "nang5"
+      ],
+      "glosses": [
+        "2Pl",
+        "LINK",
+        "say",
+        "nose"
+      ],
+      "free_translation_en": "We also say naN5.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s062",
+      "text_roman": "nang5 tuu1 tuu1",
+      "lik_tai": "ၼင်ႉ တ တ",
+      "assamese_script": "নাঙ⁵ ত¹ ত¹",
+      "morphemes": [
+        "nang5",
+        "tuu1",
+        "tuu1"
+      ],
+      "glosses": [
+        "nose",
+        "same same",
+        "same same"
+      ],
+      "free_translation_en": "It's the same, naN5.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s063",
+      "text_roman": "k4 waa5 nang2 tuu1 kan2 naa1",
+      "lik_tai": "ၵး ဝႃႉ ၼင်ႇ တ ၵၼ်ႇ ၼႃ",
+      "assamese_script": "ক⁴ ৱা⁵ নাঙ² ত¹ কান² না¹",
+      "morphemes": [
+        "k4",
+        "waa5",
+        "nang2",
+        "tuu1",
+        "kan2",
+        "naa1"
+      ],
+      "glosses": [
+        "LINK",
+        "say",
+        "nose",
+        "same",
+        "RECIP",
+        "PRTQN"
+      ],
+      "free_translation_en": "So you say naN2, in the same way?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s064",
+      "text_roman": "tuu1 kan2",
+      "lik_tai": "တ ၵၼ်ႇ",
+      "assamese_script": "ত¹ কান²",
+      "morphemes": [
+        "tuu1",
+        "kan2"
+      ],
+      "glosses": [
+        "same",
+        "RECIP"
+      ],
+      "free_translation_en": "The same.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s065",
+      "text_roman": "an2 bhal1 xmiya1 bhal1",
+      "lik_tai": "ဢၼ်ႇ ဢ ဢ ဢ",
+      "assamese_script": "অন² অ¹ অ¹ অ¹",
+      "morphemes": [
+        "an2",
+        "bhal1",
+        "xmiya1",
+        "bhal1"
+      ],
+      "glosses": [
+        "CLF",
+        "good",
+        "Assamese",
+        "good"
+      ],
+      "free_translation_en": "The word for good, bhal in Assamese?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s066",
+      "text_roman": "kham66",
+      "lik_tai": "kham66",
+      "assamese_script": "kham66",
+      "morphemes": [
+        "kham66"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Good",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s067",
+      "text_roman": "waa5 lii5",
+      "lik_tai": "ဝႃႉ လႉ",
+      "assamese_script": "ৱা⁵ ল⁵",
+      "morphemes": [
+        "waa5",
+        "lii5"
+      ],
+      "glosses": [
+        "say",
+        "good"
+      ],
+      "free_translation_en": "You say lii5 ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s068",
+      "text_roman": "lii5 uu1 liing5 uu1 liing5",
+      "lik_tai": "လႉ ဢ လင်ႉ ဢ လင်ႉ",
+      "assamese_script": "ল⁵ অ¹ লঙ⁵ অ¹ লঙ⁵",
+      "morphemes": [
+        "lii5",
+        "uu1",
+        "liing5",
+        "uu1",
+        "liing5"
+      ],
+      "glosses": [
+        "good",
+        "stay",
+        "good.?",
+        "stay",
+        "good.?"
+      ],
+      "free_translation_en": "Good, be well, be well.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s069",
+      "text_roman": "liing5",
+      "lik_tai": "လင်ႉ",
+      "assamese_script": "লঙ⁵",
+      "morphemes": [
+        "liing5"
+      ],
+      "glosses": [
+        "good.?"
+      ],
+      "free_translation_en": "Good ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s070",
+      "text_roman": "uu1 liing5",
+      "lik_tai": "ဢ လင်ႉ",
+      "assamese_script": "অ¹ লঙ⁵",
+      "morphemes": [
+        "uu1",
+        "liing5"
+      ],
+      "glosses": [
+        "have you good",
+        "stay"
+      ],
+      "free_translation_en": "Are you well, we say uu1 liiN.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s071",
+      "text_roman": "uu1 liing5 ɯ2",
+      "lik_tai": "ဢ လင်ႉ ဢိုႇ",
+      "assamese_script": "অ¹ লঙ⁵ উ²",
+      "morphemes": [
+        "uu1",
+        "liing5",
+        "ɯ2"
+      ],
+      "glosses": [
+        "stay",
+        "good.?",
+        "YES"
+      ],
+      "free_translation_en": "Are you good, yes.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s072",
+      "text_roman": "kham72",
+      "lik_tai": "kham72",
+      "assamese_script": "kham72",
+      "morphemes": [
+        "kham72"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Ah the Na is a questioning thing.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s073",
+      "text_roman": "uu1 liing5",
+      "lik_tai": "ဢ လင်ႉ",
+      "assamese_script": "অ¹ লঙ⁵",
+      "morphemes": [
+        "uu1",
+        "liing5"
+      ],
+      "glosses": [
+        "stay",
+        "good.?"
+      ],
+      "free_translation_en": "Are you well ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s075",
+      "text_roman": "aa1 ka1 sang6 ta1 waa5 mz5 nai4 ta1 uu1 tii5 thaɯ6",
+      "lik_tai": "ဢႃ ၵႃ ꩢင်ႊ တႃ ဝႃႉ မႉ ၼႆး တႃ ဢ တႉ ထႊ",
+      "assamese_script": "আ¹ কা¹ সাঙ⁶ তা¹ ৱা⁵ ম⁵ নাই⁴ তা¹ অ¹ ত⁵ থ⁶",
+      "morphemes": [
+        "aa1",
+        "ka1",
+        "sang6",
+        "ta1",
+        "waa5",
+        "mz5",
+        "nai4",
+        "ta1",
+        "uu1",
+        "tii5",
+        "thaɯ6"
+      ],
+      "glosses": [
+        "HESIT",
+        "what",
+        "what",
+        "will",
+        "say",
+        "time",
+        "this",
+        "WILL",
+        "stay",
+        "at",
+        "where"
+      ],
+      "free_translation_en": "If you want to say 'Today where will you stay?', as the Phakes would say, how will the Khamyangs say it?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s076",
+      "text_roman": "mɛ5 lai6 ta1 uu1 thaa6",
+      "lik_tai": "ႄမႉ လႆႊ တႃ ဢ ထႃႊ",
+      "assamese_script": "মে⁵ লাই⁶ তা¹ অ¹ থা⁶",
+      "morphemes": [
+        "mɛ5",
+        "lai6",
+        "ta1",
+        "uu1",
+        "thaa6"
+      ],
+      "glosses": [
+        "today",
+        "today",
+        "WILL",
+        "stay",
+        "where"
+      ],
+      "free_translation_en": "Where will you stay today?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s077",
+      "text_roman": "mɛ5 lai6 ta1 uu1 thaa6",
+      "lik_tai": "ႄမႉ လႆႊ တႃ ဢ ထႃႊ",
+      "assamese_script": "মে⁵ লাই⁶ তা¹ অ¹ থা⁶",
+      "morphemes": [
+        "mɛ5",
+        "lai6",
+        "ta1",
+        "uu1",
+        "thaa6"
+      ],
+      "glosses": [
+        "today",
+        "today",
+        "WILL",
+        "stay",
+        "where"
+      ],
+      "free_translation_en": "Where will you stay today?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s078",
+      "text_roman": "ta1 uu1 kii1 wan2 kii1 wan2 ta1 uu1",
+      "lik_tai": "တႃ ဢ ၵ ဝၼ်ႇ ၵ ဝၼ်ႇ တႃ ဢ",
+      "assamese_script": "তা¹ অ¹ ক¹ ৱান² ক¹ ৱান² তা¹ অ¹",
+      "morphemes": [
+        "ta1",
+        "uu1",
+        "kii1",
+        "wan2",
+        "kii1",
+        "wan2",
+        "ta1",
+        "uu1"
+      ],
+      "glosses": [
+        "WILL",
+        "stay",
+        "how many",
+        "day",
+        "how many",
+        "day",
+        "WILL",
+        "stay"
+      ],
+      "free_translation_en": "How many days will you stay?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s079",
+      "text_roman": "kii1 ban2 ta1 uu1",
+      "lik_tai": "ၵ ဢၼ်ႇ တႃ ဢ",
+      "assamese_script": "ক¹ অন² তা¹ অ¹",
+      "morphemes": [
+        "kii1",
+        "ban2",
+        "ta1",
+        "uu1"
+      ],
+      "glosses": [
+        "how many",
+        "day",
+        "will",
+        "stay"
+      ],
+      "free_translation_en": "How many days will you stay, its the same.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s080",
+      "text_roman": "kii1 ban2 ta1 uu1",
+      "lik_tai": "ၵ ဢၼ်ႇ တႃ ဢ",
+      "assamese_script": "ক¹ অন² তা¹ অ¹",
+      "morphemes": [
+        "kii1",
+        "ban2",
+        "ta1",
+        "uu1"
+      ],
+      "glosses": [
+        "how many",
+        "day",
+        "will",
+        "stay"
+      ],
+      "free_translation_en": "How many days will you stay.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s081",
+      "text_roman": "aa1 uu1 luk4 uu1 sj6",
+      "lik_tai": "ဢႃ ဢ လုၵ်း ဢ ꩢႊ",
+      "assamese_script": "আ¹ অ¹ লুক্‌⁴ অ¹ স⁶",
+      "morphemes": [
+        "aa1",
+        "uu1",
+        "luk4",
+        "uu1",
+        "sj6"
+      ],
+      "glosses": [
+        "f",
+        "from    ...",
+        "from    ...",
+        "from",
+        "from"
+      ],
+      "free_translation_en": "Um, from,  from ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s082",
+      "text_roman": "uu1 sj6 s1 trj1 lii1 yaa1 mz5 naɯ6 maa2 maa2",
+      "lik_tai": "ဢ ꩢႊ ꩢ တ လ ယႃ မႉ ၼႊ မႃႇ မႃႇ",
+      "assamese_script": "অ¹ স⁶ স¹ ত¹ ল¹ যা¹ ম⁵ ন⁶ মা² মা²",
+      "morphemes": [
+        "uu1",
+        "sj6",
+        "s1",
+        "trj1",
+        "lii1",
+        "yaa1",
+        "mz5",
+        "naɯ6",
+        "maa2",
+        "maa2"
+      ],
+      "glosses": [
+        "from",
+        "from",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "when",
+        "when",
+        "come",
+        "COME"
+      ],
+      "free_translation_en": "When did you arrive from Australia?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s083",
+      "text_roman": "lɛk4 s1 tre1 lii1 yaa1 mɛ5 laɯ6 maa2",
+      "lik_tai": "ႄလၵ်း ꩢ တ လ ယႃ ႄမႉ လႊ မႃႇ",
+      "assamese_script": "লেক্‌⁴ স¹ ত¹ ল¹ যা¹ মে⁵ ল⁶ মা²",
+      "morphemes": [
+        "lɛk4",
+        "s1",
+        "tre1",
+        "lii1",
+        "yaa1",
+        "mɛ5",
+        "laɯ6",
+        "maa2"
+      ],
+      "glosses": [
+        "from",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "when",
+        "when",
+        "come"
+      ],
+      "free_translation_en": "When did you arrive from Australia?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": "* Phonetically [mz5 laa*6]"
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s085",
+      "text_roman": "uu1 nii2 n6 uu1 liing2",
+      "lik_tai": "ဢ ၼႇ ၼႊ ဢ လင်ႇ",
+      "assamese_script": "অ¹ ন² ন⁶ অ¹ লঙ²",
+      "morphemes": [
+        "uu1",
+        "nii2",
+        "n6",
+        "uu1",
+        "liing2"
+      ],
+      "glosses": [
+        "stay",
+        "good",
+        "QN",
+        "stay",
+        "good"
+      ],
+      "free_translation_en": "Are you well is uu1 liiN.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s086",
+      "text_roman": "uu1 liing5",
+      "lik_tai": "ဢ လင်ႉ",
+      "assamese_script": "অ¹ লঙ⁵",
+      "morphemes": [
+        "uu1",
+        "liing5"
+      ],
+      "glosses": [
+        "stay",
+        "good.?"
+      ],
+      "free_translation_en": "Are you well ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s087",
+      "text_roman": "ka1 sang6 ta1 t",
+      "lik_tai": "ၵႃ ꩢင်ႊ တႃ တ",
+      "assamese_script": "কা¹ সাঙ⁶ তা¹ ত¹",
+      "morphemes": [
+        "ka1",
+        "sang6",
+        "ta1",
+        "t"
+      ],
+      "glosses": [
+        "what",
+        "what",
+        "will",
+        "reply?"
+      ],
+      "free_translation_en": "And how would you respond ..",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s088",
+      "text_roman": "ɛ2 uu1 liing5 ɛ2 kau2 uu1 liing5",
+      "lik_tai": "ႄဢႇ ဢ လင်ႉ ႄဢႇ ၵဝ်ႇ ဢ လင်ႉ",
+      "assamese_script": "অে² অ¹ লঙ⁵ অে² কাও² অ¹ লঙ⁵",
+      "morphemes": [
+        "ɛ2",
+        "uu1",
+        "liing5",
+        "ɛ2",
+        "kau2",
+        "uu1",
+        "liing5"
+      ],
+      "glosses": [
+        "YES",
+        "stay",
+        "well.?",
+        "Yes",
+        "1Sg",
+        "stay",
+        "well.?"
+      ],
+      "free_translation_en": "Yes, I am well, Yes, I am well.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s089",
+      "text_roman": "to5 tang1 long6 1 uu1 liing1",
+      "lik_tai": "တူႉ တင် လူင်ႊ 1 ဢ လင်",
+      "assamese_script": "তো⁵ তাঙ¹ লোঙ⁶ 1 অ¹ লঙ¹",
+      "morphemes": [
+        "to5",
+        "tang1",
+        "long6",
+        "1",
+        "uu1",
+        "liing1"
+      ],
+      "glosses": [
+        "body",
+        "all",
+        "all",
+        "PRT",
+        "stay",
+        "well"
+      ],
+      "free_translation_en": "We are all well.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s090",
+      "text_roman": "maan3 nai4 kii1 k4 kii1 hzn2 yang2",
+      "lik_tai": "မႃၼ်ႈ ၼႆး ၵ ၵး ၵ ႁၼ်ႇ ယင်ႇ",
+      "assamese_script": "মান³ নাই⁴ ক¹ ক⁴ ক¹ হন² যাঙ²",
+      "morphemes": [
+        "maan3",
+        "nai4",
+        "kii1",
+        "k4",
+        "kii1",
+        "hzn2",
+        "yang2"
+      ],
+      "glosses": [
+        "village",
+        "DEF",
+        "how many",
+        "CLF",
+        "how many",
+        "person",
+        "have"
+      ],
+      "free_translation_en": "How many people, how many houses are there in this village?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s091",
+      "text_roman": "maan3 nai4 kii1 hɛn2 mang6",
+      "lik_tai": "မႃၼ်ႈ ၼႆး ၵ ႄႁၼ်ႇ မင်ႊ",
+      "assamese_script": "মান³ নাই⁴ ক¹ হেন² মাঙ⁶",
+      "morphemes": [
+        "maan3",
+        "nai4",
+        "kii1",
+        "hɛn2",
+        "mang6"
+      ],
+      "glosses": [
+        "village",
+        "this",
+        "how many",
+        "house",
+        "have"
+      ],
+      "free_translation_en": "How many houses are there in this village?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s092",
+      "text_roman": "maan3 nai4 kii1 hɛn2 mang6 waa5 kii1 lang6 mang6",
+      "lik_tai": "မႃၼ်ႈ ၼႆး ၵ ႄႁၼ်ႇ မင်ႊ ဝႃႉ ၵ လင်ႊ မင်ႊ",
+      "assamese_script": "মান³ নাই⁴ ক¹ হেন² মাঙ⁶ ৱা⁵ ক¹ লাঙ⁶ মাঙ⁶",
+      "morphemes": [
+        "maan3",
+        "nai4",
+        "kii1",
+        "hɛn2",
+        "mang6",
+        "waa5",
+        "kii1",
+        "lang6",
+        "mang6"
+      ],
+      "glosses": [
+        "village",
+        "this",
+        "how many",
+        "house",
+        "have",
+        "say",
+        "how many",
+        "CLF",
+        "have"
+      ],
+      "free_translation_en": "When we say how many houses are there in this village, we say kii1 h&n2.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": "The meaning of this sentence was made clear when Deben stated that it was the Phakials (Phakes) who said kI1 laN6 and the Khamyangs would say kI1 h&n2."
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s093",
+      "text_roman": "kii1 lang6 mang6",
+      "lik_tai": "ၵ လင်ႊ မင်ႊ",
+      "assamese_script": "ক¹ লাঙ⁶ মাঙ⁶",
+      "morphemes": [
+        "kii1",
+        "lang6",
+        "mang6"
+      ],
+      "glosses": [
+        "how many",
+        "CLF",
+        "have"
+      ],
+      "free_translation_en": "How many houses?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s094",
+      "text_roman": "hɛn2 nai4 hau2",
+      "lik_tai": "ႄႁၼ်ႇ ၼႆး ႁဝ်ႇ",
+      "assamese_script": "হেন² নাই⁴ হাও²",
+      "morphemes": [
+        "hɛn2",
+        "nai4",
+        "hau2"
+      ],
+      "glosses": [
+        "house",
+        "CLF-this",
+        "1Pl"
+      ],
+      "free_translation_en": "Our houses ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s095",
+      "text_roman": "ta1 waa5 maan3 lai4 maan3 nai4 ta1 waa5",
+      "lik_tai": "တႃ ဝႃႉ မႃၼ်ႈ လႆး မႃၼ်ႈ ၼႆး တႃ ဝႃႉ",
+      "assamese_script": "তা¹ ৱা⁵ মান³ লাই⁴ মান³ নাই⁴ তা¹ ৱা⁵",
+      "morphemes": [
+        "ta1",
+        "waa5",
+        "maan3",
+        "lai4",
+        "maan3",
+        "nai4",
+        "ta1",
+        "waa5"
+      ],
+      "glosses": [
+        "will",
+        "say",
+        "village",
+        "this",
+        "village",
+        "this",
+        "will",
+        "say"
+      ],
+      "free_translation_en": "Do you say mAn3 lai4 or mAn3 nai4?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s096",
+      "text_roman": "maan3 nai4 maan3 nai4",
+      "lik_tai": "မႃၼ်ႈ ၼႆး မႃၼ်ႈ ၼႆး",
+      "assamese_script": "মান³ নাই⁴ মান³ নাই⁴",
+      "morphemes": [
+        "maan3",
+        "nai4",
+        "maan3",
+        "nai4"
+      ],
+      "glosses": [
+        "village",
+        "this",
+        "village",
+        "this"
+      ],
+      "free_translation_en": "This village, maan3 nai4.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s097",
+      "text_roman": "maan3 nai4 lai4 ɛng1 waa5",
+      "lik_tai": "မႃၼ်ႈ ၼႆး လႆး ႄဢင် ဝႃႉ",
+      "assamese_script": "মান³ নাই⁴ লাই⁴ অেঙ¹ ৱা⁵",
+      "morphemes": [
+        "maan3",
+        "nai4",
+        "lai4",
+        "ɛng1",
+        "waa5"
+      ],
+      "glosses": [
+        "village",
+        "this",
+        "this-L",
+        "NEG",
+        "say"
+      ],
+      "free_translation_en": "So you say maan3 nai4, you don't say lai4.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s098",
+      "text_roman": "maan3 nai4",
+      "lik_tai": "မႃၼ်ႈ ၼႆး",
+      "assamese_script": "মান³ নাই⁴",
+      "morphemes": [
+        "maan3",
+        "nai4"
+      ],
+      "glosses": [
+        "village",
+        "this"
+      ],
+      "free_translation_en": "This village",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s099",
+      "text_roman": "kii1 hɛn2 kii1 hɛn2 baa5 kii1 lang6",
+      "lik_tai": "ၵ ႄႁၼ်ႇ ၵ ႄႁၼ်ႇ ဢႉ ၵ လင်ႊ",
+      "assamese_script": "ক¹ হেন² ক¹ হেন² অ⁵ ক¹ লাঙ⁶",
+      "morphemes": [
+        "kii1",
+        "hɛn2",
+        "kii1",
+        "hɛn2",
+        "baa5",
+        "kii1",
+        "lang6"
+      ],
+      "glosses": [
+        "how many",
+        "house",
+        "how many",
+        "house",
+        "say",
+        "how many",
+        "CLF"
+      ],
+      "free_translation_en": "How many houses, how many houses.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s100",
+      "text_roman": "kii1 lang6",
+      "lik_tai": "ၵ လင်ႊ",
+      "assamese_script": "ক¹ লাঙ⁶",
+      "morphemes": [
+        "kii1",
+        "lang6"
+      ],
+      "glosses": [
+        "how many",
+        "CLF"
+      ],
+      "free_translation_en": "How many?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s101",
+      "text_roman": "kii1 lang6 hau2 j1 baa5",
+      "lik_tai": "ၵ လင်ႊ ႁဝ်ႇ ဢ ဢႉ",
+      "assamese_script": "ক¹ লাঙ⁶ হাও² অ¹ অ⁵",
+      "morphemes": [
+        "kii1",
+        "lang6",
+        "hau2",
+        "j1",
+        "baa5"
+      ],
+      "glosses": [
+        "how many",
+        "CLF",
+        "1Pl",
+        "PRT",
+        "say"
+      ],
+      "free_translation_en": "We say kii1 laN6.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s102",
+      "text_roman": "hau2 baa5 hɛn2 sa1 nai4",
+      "lik_tai": "ႁဝ်ႇ ဢႉ ႄႁၼ်ႇ ꩢႃ ၼႆး",
+      "assamese_script": "হাও² অ⁵ হেন² সা¹ নাই⁴",
+      "morphemes": [
+        "hau2",
+        "baa5",
+        "hɛn2",
+        "sa1",
+        "nai4"
+      ],
+      "glosses": [
+        "1Pl",
+        "say",
+        "house",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "We say ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s103",
+      "text_roman": "kham103",
+      "lik_tai": "kham103",
+      "assamese_script": "kham103",
+      "morphemes": [
+        "kham103"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Sentence 103 from book_fieldwork_sentences_1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s104",
+      "text_roman": "lang6 nai4 waa5 sa1 nai4 kii1 lang6 suu6 mang5",
+      "lik_tai": "လင်ႊ ၼႆး ဝႃႉ ꩢႃ ၼႆး ၵ လင်ႊ ꩢႊ မင်ႉ",
+      "assamese_script": "লাঙ⁶ নাই⁴ ৱা⁵ সা¹ নাই⁴ ক¹ লাঙ⁶ স⁶ মাঙ⁵",
+      "morphemes": [
+        "lang6",
+        "nai4",
+        "waa5",
+        "sa1",
+        "nai4",
+        "kii1",
+        "lang6",
+        "suu6",
+        "mang5"
+      ],
+      "glosses": [
+        "CLF",
+        "this",
+        "say",
+        "PRT",
+        "PRT",
+        "how many",
+        "CLF",
+        "2Pl",
+        "have"
+      ],
+      "free_translation_en": "For houses, if we want to say, how many houses do you have, we say kii1 h&n2 MaN6(2)?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s105",
+      "text_roman": "kham105",
+      "lik_tai": "kham105",
+      "assamese_script": "kham105",
+      "morphemes": [
+        "kham105"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "And the answer is? Can you tell me how many?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s106",
+      "text_roman": "kii1 lang6",
+      "lik_tai": "ၵ လင်ႊ",
+      "assamese_script": "ক¹ লাঙ⁶",
+      "morphemes": [
+        "kii1",
+        "lang6"
+      ],
+      "glosses": [
+        "how many",
+        "how many"
+      ],
+      "free_translation_en": "How many.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s107",
+      "text_roman": "kii1 hɛn2",
+      "lik_tai": "ၵ ႄႁၼ်ႇ",
+      "assamese_script": "ক¹ হেন²",
+      "morphemes": [
+        "kii1",
+        "hɛn2"
+      ],
+      "glosses": [
+        "how many",
+        "house"
+      ],
+      "free_translation_en": "How many houses?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s108",
+      "text_roman": "kham108",
+      "lik_tai": "kham108",
+      "assamese_script": "kham108",
+      "morphemes": [
+        "kham108"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "And what is the answer?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s109",
+      "text_roman": "saam6 paak1 saa",
+      "lik_tai": "ꩢႃမ်ႊ ပႃၵ် ꩢႃ",
+      "assamese_script": "সাম⁶ পাক্‌¹ সা¹",
+      "morphemes": [
+        "saam6",
+        "paak1",
+        "saa"
+      ],
+      "glosses": [
+        "3",
+        "100",
+        "term"
+      ],
+      "free_translation_en": "300?' ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s110",
+      "text_roman": "hɛn2 hɛn2 hɛn2",
+      "lik_tai": "ႄႁၼ်ႇ ႄႁၼ်ႇ ႄႁၼ်ႇ",
+      "assamese_script": "হেন² হেন² হেন²",
+      "morphemes": [
+        "hɛn2",
+        "hɛn2",
+        "hɛn2"
+      ],
+      "glosses": [
+        "house",
+        "house",
+        "house"
+      ],
+      "free_translation_en": "H&n2 is a home.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s111",
+      "text_roman": "kham111",
+      "lik_tai": "kham111",
+      "assamese_script": "kham111",
+      "morphemes": [
+        "kham111"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "How many homes has here",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s113",
+      "text_roman": "kham113",
+      "lik_tai": "kham113",
+      "assamese_script": "kham113",
+      "morphemes": [
+        "kham113"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Ah, answer.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s114",
+      "text_roman": "to5 sip1 hɛn2 mang5",
+      "lik_tai": "တူႉ ꩢိပ် ႄႁၼ်ႇ မင်ႉ",
+      "assamese_script": "তো⁵ সিপ্‌¹ হেন² মাঙ⁵",
+      "morphemes": [
+        "to5",
+        "sip1",
+        "hɛn2",
+        "mang5"
+      ],
+      "glosses": [
+        "body",
+        "ten",
+        "house",
+        "have"
+      ],
+      "free_translation_en": "We have ten houses.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s115",
+      "text_roman": "kham115",
+      "lik_tai": "kham115",
+      "assamese_script": "kham115",
+      "morphemes": [
+        "kham115"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Then we are ten home heads from here.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s116",
+      "text_roman": "kham116",
+      "lik_tai": "kham116",
+      "assamese_script": "kham116",
+      "morphemes": [
+        "kham116"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "But there is more than ten, no?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s117",
+      "text_roman": "maan3 nai4",
+      "lik_tai": "မႃၼ်ႈ ၼႆး",
+      "assamese_script": "মান³ নাই⁴",
+      "morphemes": [
+        "maan3",
+        "nai4"
+      ],
+      "glosses": [
+        "village",
+        "DEF"
+      ],
+      "free_translation_en": "In this village ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s118",
+      "text_roman": "maan3 nai4 sii1 sip1 hɛn2 mang5",
+      "lik_tai": "မႃၼ်ႈ ၼႆး ꩢ ꩢိပ် ႄႁၼ်ႇ မင်ႉ",
+      "assamese_script": "মান³ নাই⁴ স¹ সিপ্‌¹ হেন² মাঙ⁵",
+      "morphemes": [
+        "maan3",
+        "nai4",
+        "sii1",
+        "sip1",
+        "hɛn2",
+        "mang5"
+      ],
+      "glosses": [
+        "village",
+        "DEF",
+        "four",
+        "ten",
+        "house",
+        "have"
+      ],
+      "free_translation_en": "In this village, forty houses ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s119",
+      "text_roman": "sii1 sip1 hɛn2",
+      "lik_tai": "ꩢ ꩢိပ် ႄႁၼ်ႇ",
+      "assamese_script": "স¹ সিপ্‌¹ হেন²",
+      "morphemes": [
+        "sii1",
+        "sip1",
+        "hɛn2"
+      ],
+      "glosses": [
+        "four",
+        "ten",
+        "house"
+      ],
+      "free_translation_en": "Forty houses.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s120",
+      "text_roman": "waa5 sii1 sip1 lang6 mang5",
+      "lik_tai": "ဝႃႉ ꩢ ꩢိပ် လင်ႊ မင်ႉ",
+      "assamese_script": "ৱা⁵ স¹ সিপ্‌¹ লাঙ⁶ মাঙ⁵",
+      "morphemes": [
+        "waa5",
+        "sii1",
+        "sip1",
+        "lang6",
+        "mang5"
+      ],
+      "glosses": [
+        "say",
+        "6",
+        "10",
+        "CLF",
+        "have"
+      ],
+      "free_translation_en": "We can say we have forty households.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s121",
+      "text_roman": "kham121",
+      "lik_tai": "kham121",
+      "assamese_script": "kham121",
+      "morphemes": [
+        "kham121"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Sentence 121 from book_fieldwork_sentences_1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s122",
+      "text_roman": "sii1 sip1 lang6 mang5",
+      "lik_tai": "ꩢ ꩢိပ် လင်ႊ မင်ႉ",
+      "assamese_script": "স¹ সিপ্‌¹ লাঙ⁶ মাঙ⁵",
+      "morphemes": [
+        "sii1",
+        "sip1",
+        "lang6",
+        "mang5"
+      ],
+      "glosses": [
+        "6",
+        "10",
+        "CLF",
+        "have"
+      ],
+      "free_translation_en": "Forty houses.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s123",
+      "text_roman": "sii1 sip1 lang6 mang5 05 waa5 sii1 sip1 hɛn2 mang5",
+      "lik_tai": "ꩢ ꩢိပ် လင်ႊ မင်ႉ 05 ဝႃႉ ꩢ ꩢိပ် ႄႁၼ်ႇ မင်ႉ",
+      "assamese_script": "স¹ সিপ্‌¹ লাঙ⁶ মাঙ⁵ 05 ৱা⁵ স¹ সিপ্‌¹ হেন² মাঙ⁵",
+      "morphemes": [
+        "sii1",
+        "sip1",
+        "lang6",
+        "mang5",
+        "05",
+        "waa5",
+        "sii1",
+        "sip1",
+        "hɛn2",
+        "mang5"
+      ],
+      "glosses": [
+        "four",
+        "ten",
+        "house",
+        "have",
+        "say",
+        "four",
+        "ten",
+        "house",
+        "have",
+        "term"
+      ],
+      "free_translation_en": "We have forty houses, we say sii1 sip1 laN6 MaN5.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s124",
+      "text_roman": "sii1 sip1 lang6 mang5 mang5",
+      "lik_tai": "ꩢ ꩢိပ် လင်ႊ မင်ႉ မင်ႉ",
+      "assamese_script": "স¹ সিপ্‌¹ লাঙ⁶ মাঙ⁵ মাঙ⁵",
+      "morphemes": [
+        "sii1",
+        "sip1",
+        "lang6",
+        "mang5",
+        "mang5"
+      ],
+      "glosses": [
+        "four",
+        "ten",
+        "CLF",
+        "have",
+        "have"
+      ],
+      "free_translation_en": "There are forty houses.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s125",
+      "text_roman": "mang5 mang6 mang6",
+      "lik_tai": "မင်ႉ မင်ႊ မင်ႊ",
+      "assamese_script": "মাঙ⁵ মাঙ⁶ মাঙ⁶",
+      "morphemes": [
+        "mang5",
+        "mang6",
+        "mang6"
+      ],
+      "glosses": [
+        "have",
+        "have",
+        "have"
+      ],
+      "free_translation_en": "Have, have have.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s126",
+      "text_roman": "mang5 1",
+      "lik_tai": "မင်ႉ 1",
+      "assamese_script": "মাঙ⁵ 1",
+      "morphemes": [
+        "mang5",
+        "1"
+      ],
+      "glosses": [
+        "have",
+        "PRT"
+      ],
+      "free_translation_en": "There are.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s127",
+      "text_roman": "ɯng1 mang5",
+      "lik_tai": "ဢိုင် မင်ႉ",
+      "assamese_script": "উঙ¹ মাঙ⁵",
+      "morphemes": [
+        "ɯng1",
+        "mang5"
+      ],
+      "glosses": [
+        "NEG",
+        "have"
+      ],
+      "free_translation_en": "There are none",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s128",
+      "text_roman": "mang6",
+      "lik_tai": "မင်ႊ",
+      "assamese_script": "মাঙ⁶",
+      "morphemes": [
+        "mang6"
+      ],
+      "glosses": [
+        "haveQN"
+      ],
+      "free_translation_en": "Are there any?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s129",
+      "text_roman": "ka1 sang6 ta1 waa5 yang6",
+      "lik_tai": "ၵႃ ꩢင်ႊ တႃ ဝႃႉ ယင်ႊ",
+      "assamese_script": "কা¹ সাঙ⁶ তা¹ ৱা⁵ যাঙ⁶",
+      "morphemes": [
+        "ka1",
+        "sang6",
+        "ta1",
+        "waa5",
+        "yang6"
+      ],
+      "glosses": [
+        "what",
+        "what",
+        "will",
+        "say",
+        "haveQN"
+      ],
+      "free_translation_en": "How do you say it is question words - yaN62?",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s130",
+      "text_roman": "kham130",
+      "lik_tai": "kham130",
+      "assamese_script": "kham130",
+      "morphemes": [
+        "kham130"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Sentence 130 from book_fieldwork_sentences_1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s131",
+      "text_roman": "yang5 has1",
+      "lik_tai": "ယင်ႉ ႁ",
+      "assamese_script": "যাঙ⁵ হ¹",
+      "morphemes": [
+        "yang5",
+        "has1"
+      ],
+      "glosses": [
+        "have",
+        "has"
+      ],
+      "free_translation_en": "Have",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s132",
+      "text_roman": "ɯng1 mang5",
+      "lik_tai": "ဢိုင် မင်ႉ",
+      "assamese_script": "উঙ¹ মাঙ⁵",
+      "morphemes": [
+        "ɯng1",
+        "mang5"
+      ],
+      "glosses": [
+        "NEG",
+        "have"
+      ],
+      "free_translation_en": "*N1 MaN5 means nothing",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s133",
+      "text_roman": "kham133",
+      "lik_tai": "kham133",
+      "assamese_script": "kham133",
+      "morphemes": [
+        "kham133"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "Sentence 133 from book_fieldwork_sentences_1.",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_fieldwork_sentences_1_s134",
+      "text_roman": "kham134",
+      "lik_tai": "kham134",
+      "assamese_script": "kham134",
+      "morphemes": [
+        "kham134"
+      ],
+      "glosses": [
+        "expression"
+      ],
+      "free_translation_en": "So there is some tone change due to negatives, I think",
+      "free_translation_as": "",
+      "speaker": "Chaw Deben Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-10-2-6.mp3",
+      "notes": ""
+    }
+  ],
+  "book_id": "book_fieldwork_sentences_1",
+  "title": "Tai Khamyang Fieldwork Sentences & Expressions (Part 1)",
+  "title_tai": "Kham1 Son1 Elicitation 1",
+  "title_as": ""
+}

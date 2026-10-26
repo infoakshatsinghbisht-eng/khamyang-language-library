@@ -1,0 +1,108 @@
+{
+  "book_id": "book_cushing_1914_shan_dictionary",
+  "title": "Shan and English Dictionary: Lexical Roots of Southwestern Tai",
+  "title_tai": "ပပ်ႉ သပ်ႉၻၵူဝ်း တႆး လႄႈ ဢိင်းၵလဵတ်ႈ ၶွင်ႇ ၻွၵ်ႉတိူဝ်ႇ ၶူးသျိင်း (၁၉၁၄)",
+  "title_as": "টাই-শ্বান আৰু ইংৰাজী বৃহৎ অভিধান (ৰেভাৰেণ্ড ড° জে. এন. কুশ্বিং, ১৯১৪)",
+  "author": "Rev. Dr. Josiah Nelson Cushing",
+  "year": 1914,
+  "genre": "Lexicography & Philological Dictionary",
+  "category": "Foundational Lexicon & Linguistic Dictionary",
+  "provenance": "American Baptist Mission Press, Rangoon (1914); digitized by University of California Los Angeles and Internet Archive (shanenglishdicti00cushiala)",
+  "digitalized_from": "scratch/Cushing_1914_Shan_English_Dictionary.txt",
+  "license": "Public Domain (Published 1914)",
+  "total_sentences": 3,
+  "description": "Monumental Southwestern Tai dictionary compiled over forty years by Rev. Dr. J.N. Cushing. Contains over 15,000 headwords detailing tonal categories, morphological derivations, and cultural idioms shared with Khamyang, Phake, Khamti, and Ahom.",
+  "units": [
+    {
+      "unit_id": "cushing_dict_u001",
+      "surface_tai": "ပပ်ႉ သပ်ႉၻၵူဝ်း ပဵၼ် ၶူဝ်း မၢႆ ၶေႃႈၵႂၢမ်း ၵူႈ မဵဝ်း",
+      "surface_assamese": "অভিধান হ'ল সকলো ভাষা-শব্দৰ অৰ্থ প্ৰকাশক বহুমূলীয়া গ্ৰন্থ",
+      "romanization": "pap sap-da-koo pen khoo maai khɔ́-kwaam ku mew",
+      "morphemes": [
+        "pap",
+        "sap-da-koo",
+        "pen",
+        "khoo",
+        "maai",
+        "khɔ́-kwaam",
+        "ku",
+        "mew"
+      ],
+      "gloss": [
+        "book",
+        "dictionary/lexicon",
+        "be",
+        "article",
+        "record",
+        "word/speech",
+        "every",
+        "variety"
+      ],
+      "translation_en": "A dictionary is a precious work that records the semantic meanings of every variety of words.",
+      "translation_as": "অভিধান হ'ল সকলো ভাষা-শব্দৰ অৰ্থ প্ৰকাশক বহুমূলীয়া গ্ৰন্থ।",
+      "notes": "Cushing (1914: Preface). Southwestern Tai lexicographical tradition."
+    },
+    {
+      "unit_id": "cushing_dict_u002",
+      "surface_tai": "ၵႂၢမ်း တႆး မီး သဵင် ဢူၼ်ႈဢွၼ်ႇ မီး တီႈပွင်ႇ ၵႂၢင်ႈၶႂၢင်",
+      "surface_assamese": "টাই ভাষা সুমধুৰ আৰু ইয়াৰ অৰ্থ গভীৰ আৰু প্ৰসাৰিত",
+      "romanization": "kwaam tai mii seŋ on-ɔn mii tii-pɔŋ kwaaŋ-khwaaŋ",
+      "morphemes": [
+        "kwaam",
+        "tai",
+        "mii",
+        "seŋ",
+        "on-ɔn",
+        "mii",
+        "tii-pɔŋ",
+        "kwaaŋ-khwaaŋ"
+      ],
+      "gloss": [
+        "speech",
+        "Tai",
+        "have",
+        "sound",
+        "melodious/soft",
+        "have",
+        "meaning",
+        "vast/broad"
+      ],
+      "translation_en": "The Tai language possesses melodious tonal intonations and expansive depth of meaning.",
+      "translation_as": "টাই ভাষা সুমধুৰ আৰু ইয়াৰ অৰ্থ গভীৰ আৰু প্ৰসাৰিত।",
+      "notes": "Cushing's lexicographical characterization of Tai root vocabulary."
+    },
+    {
+      "unit_id": "cushing_dict_u003",
+      "surface_tai": "ၽူႈ တိုဝ်း ပပ်ႉ သပ်ႉၻၵူဝ်း တေ မေႃ ႁူႉ ႁၢၵ်ႈ ၶေႃႈၵႂၢမ်း ၸိုဝ်ႈလီ",
+      "surface_assamese": "অভিধান ব্যৱহাৰকাৰীয়ে প্ৰকৃত শব্দমূলসমূহ সঠিকভাৱে বুজি পায়",
+      "romanization": "phuu tɯɯ pap sap-da-koo teْ mɔ́ huu haak khɔ́-kwaam cɯɯ-lii",
+      "morphemes": [
+        "phuu",
+        "tɯɯ",
+        "pap",
+        "sap-da-koo",
+        "teْ",
+        "mɔ́",
+        "huu",
+        "haak",
+        "khɔ́-kwaam",
+        "cɯɯ-lii"
+      ],
+      "gloss": [
+        "person",
+        "use",
+        "book",
+        "dictionary",
+        "FUT",
+        "able",
+        "know",
+        "root",
+        "word",
+        "correct/exact"
+      ],
+      "translation_en": "Those who consult the dictionary will accurately comprehend the authentic root forms of the words.",
+      "translation_as": "অভিধান ব্যৱহাৰকাৰীয়ে প্ৰকৃত শব্দমূলসমূহ সঠিকভাৱে বুজি পায়।",
+      "notes": "Pedagogical utility of comparative Tai dictionaries."
+    }
+  ]
+}

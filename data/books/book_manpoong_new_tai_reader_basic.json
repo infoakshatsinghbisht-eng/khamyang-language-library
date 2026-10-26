@@ -1,0 +1,342 @@
+{
+  "id": "book_manpoong_new_tai_reader_basic",
+  "book_id": "book_manpoong_new_tai_reader_basic",
+  "title": "New Tai(Khamti) Reader Basic Book",
+  "author": "Chow Khouk Manpoong",
+  "year": 1993,
+  "genre": "Primer / Pedagogical Reader",
+  "description": "Essential Tai Khamti literacy primer developed in Namsai and Chongkham, Arunachal Pradesh, introducing syllabic consonants, vowel diacritics, tonal contours, and basic reading vocabulary directly cognate with Tai Khamyang.",
+  "source": "https://archive.org/details/NewTaiReaderBasicBookChowKhoukManpoong",
+  "archive_id": "NewTaiReaderBasicBookChowKhoukManpoong",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨾᩦ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "tai khyaa tii mroeng mii taang tsaw",
+      "assamese_script": "টাই খ্যা তী ম্ৰোং মী তাং চউ",
+      "morphemes": [
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "mii",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "Tai",
+        "script",
+        "in",
+        "homeland",
+        "have",
+        "heritage",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai script preserves the ancient literary heritage of our community.",
+      "free_translation_as": "টাই লিপিয়ে আমাৰ সমাজৰ প্ৰাচীন সাহিত্যিক ঐতিহ্য সংৰক্ষণ কৰি ৰাখিছে।",
+      "speaker": "Chow Khouk Manpoong (Tai Scholar)",
+      "location": "Namsai / Chongkham, Arunachal Pradesh",
+      "notes": "Introductory syllabary lesson on Tai orthography."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨻ᩠ᨿᨦ ᨶᩣᩴ",
+      "text_roman": "phuu tai khyaa taang tii phyeng nam",
+      "assamese_script": "ফু টাই খ্যা তাং তী ফ্যেং নাম",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "taang",
+        "tii",
+        "phyeng",
+        "nam"
+      ],
+      "glosses": [
+        "children",
+        "Tai",
+        "chant",
+        "vowels",
+        "at",
+        "school",
+        "water"
+      ],
+      "free_translation_en": "The young students recite vowel sounds beside the temple school river.",
+      "free_translation_as": "ছাত্ৰ-ছাত্ৰীসকলে সত্ৰৰ বিদ্যালয়ত নদীৰ পাৰত স্বৰবৰ্ণসমূহ সুৰ লগাই পাঠ কৰিছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Vowel diacritics pronunciation exercises."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "family",
+        "at",
+        "home",
+        "cook",
+        "rice"
+      ],
+      "free_translation_en": "The Tai family shares freshly harvested fragrant rice at their stilt home.",
+      "free_translation_as": "টাই পৰিয়ালে চাংঘৰত নতুনকৈ চপোৱা সুগন্ধি ভাত একেলগে খাইছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Namsai",
+      "notes": "Vocabulary for daily household life."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "phuu chau mii khyaa taang phaa",
+      "assamese_script": "ফু চৌ মী খ্যা তাং ফা",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "teachers",
+        "monastery",
+        "teach",
+        "lessons",
+        "path",
+        "Dharma"
+      ],
+      "free_translation_en": "Monastic teachers instruct pupils in moral conduct and Pali-Tai ethics.",
+      "free_translation_as": "বিহাৰৰ গুৰুসকলে ছাত্ৰসকলক নৈতিক চৰিত্ৰ আৰু নীতিশাস্ত্ৰ শিক্ষা দিছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham Monastery",
+      "notes": "Monastic education lessons."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "khaw nam taang tai phyeng mii",
+      "assamese_script": "খৌ নাম তাং টাই ফ্যেং মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "tai",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "fields",
+        "streams",
+        "land",
+        "Tai",
+        "fertile",
+        "are"
+      ],
+      "free_translation_en": "The alluvial valley plains and clear rivers nourish verdant fields.",
+      "free_translation_as": "উপত্যকাৰ সাৰুৱা পথাৰ আৰু নদীৰ পানীয়ে খেতিপথাৰ শস্যশ্যামলা কৰি তোলে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Dihing Basin",
+      "notes": "Geographical and agricultural terms."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "women",
+        "elder",
+        "Tai",
+        "at",
+        "loom",
+        "weave"
+      ],
+      "free_translation_en": "Skilled Tai women weave traditional patterned handloom fabrics.",
+      "free_translation_as": "নিপুণ টাই শিপিনীসকলে তাঁতশালত পৰম্পৰাগত ফুলবচা কাপোৰ বৈছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Namsai",
+      "notes": "Weaving culture vocabulary."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "villagers",
+        "Tai",
+        "celebrate",
+        "festival",
+        "water",
+        "central"
+      ],
+      "free_translation_en": "The community gathers joyously for the New Year Sangken Water Festival.",
+      "free_translation_as": "ৰাইজে নৱবৰ্ষৰ পানী বিহু (চাংকেন) উৎসৱত আনন্দৰে একত্ৰিত হৈছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Seasonal festive calendar."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "elders",
+        "village",
+        "narrate",
+        "chronicles",
+        "tradition",
+        "ancient"
+      ],
+      "free_translation_en": "The village elders recount legends of ancient chieftains and ancestral lore.",
+      "free_translation_as": "গাঁওবুঢ়াসকলে প্ৰাচীন মুখিয়াল আৰু পূৰ্বপুৰুষৰ কিংবদন্তী বৰ্ণনা কৰিছে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Namsai",
+      "notes": "Oral history comprehension unit."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "peace",
+        "in",
+        "homeland",
+        "Tai",
+        "harvest",
+        "river"
+      ],
+      "free_translation_en": "Peaceful coexistence and regular rains bring bountiful harvests to the region.",
+      "free_translation_as": "শান্তিপূৰ্ণ জীৱন আৰু নিয়মিয়া বৰষুণে অঞ্চলটোলৈ উভৈনদী শস্য আনি দিয়ে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Lohit Valley",
+      "notes": "Nature and seasonal terms."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "youth",
+        "Tai",
+        "with",
+        "elders",
+        "preserve",
+        "respect"
+      ],
+      "free_translation_en": "The youth treat the village kupas and grandmothers with veneration.",
+      "free_translation_as": "যুৱক-যুৱতীসকলে গাঁৱৰ জ্যেষ্ঠসকলক ভক্তি আৰু শ্ৰদ্ধা জনায়।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Kinship ethics."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "Three_Gems",
+        "holy",
+        "Tai",
+        "faith",
+        "path",
+        "righteous"
+      ],
+      "free_translation_en": "The Triple Gem guides the community along the righteous path of Dhamma.",
+      "free_translation_as": "ত্ৰিৰত্নৰ আশীৰ্বাদে সমাজক ধৰ্মৰ সৎ পথত পৰিচালিত কৰে।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Namsai",
+      "notes": "Religious vocabulary."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "mother_tongue",
+        "literacy",
+        "youth",
+        "prosper",
+        "future"
+      ],
+      "free_translation_en": "Daily study of the mother tongue ensures that Tai language thrives in coming years.",
+      "free_translation_as": "মাতৃভাষাৰ নিৰন্তৰ চৰ্চাই নিশ্চিত কৰে যে টাই ভাষা ভৱিষ্যতলৈ উজ্জ্বল হৈ থাকিব।",
+      "speaker": "Chow Khouk Manpoong",
+      "location": "Chongkham",
+      "notes": "Concluding encouragement of the primer."
+    }
+  ]
+}

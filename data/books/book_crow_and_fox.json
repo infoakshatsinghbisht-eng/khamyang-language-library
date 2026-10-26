@@ -1,0 +1,1481 @@
+{
+  "id": "book_crow_and_fox",
+  "title_khamyang": "Pung1 Nok4 Kaa1 Kap4 Ma1 Nai1",
+  "title_english": "The Clever Crow and the Forest Fox",
+  "genre": "folktale",
+  "informant": "Chaw Bidya Shyam",
+  "village": "Borpathar / Ban Lung",
+  "audio_ref": "2-1-3-2.mp3",
+  "description": "Moral animal fable on flattery, wit, and learning vigilance against deceivers.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 50,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "an2 lɯng2 pung1 an2 lɯng2",
+      "lik_tai": "ဢၼ်ႇ လိုင်ႇ ပုင် ဢၼ်ႇ လိုင်ႇ",
+      "assamese_script": "অন² লুঙ² পুঙ¹ অন² লুঙ²",
+      "ipa": "[an˥˦] [lɯŋ˥˦] [puŋ˧˧] [an˥˦] [lɯŋ˥˦]",
+      "morphemes": [
+        "an2",
+        "lɯng2",
+        "pung1",
+        "an2",
+        "lɯng2"
+      ],
+      "glosses": [
+        "CLF",
+        "one",
+        "story",
+        "CLF",
+        "one"
+      ],
+      "translation": "A Story",
+      "translation_assamese": "অসমীয়া অৰ্থ: A Story",
+      "audio_file": null,
+      "notes": "*originally transcribed as wnq wan2 'day'. The beginning of the tape is damaged."
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "ta1 khai2 khaam2 aai3 tai2 aai3 pung1 aai3",
+      "lik_tai": "တႃ ၶႆႇ ၶႃမ်ႇ ဢႃႆႈ တႆႇ ဢႃႆႈ ပုင် ဢႃႆႈ",
+      "assamese_script": "তা¹ খাই² খাম² অাই³ তাই² অাই³ পুঙ¹ অাই³",
+      "ipa": "[ta˧˧] [kʰai˥˦] [kʰaːm˥˦] [aːi˨˩̰] [tai˥˦] [aːi˨˩̰] [puŋ˧˧] [aːi˨˩̰]",
+      "morphemes": [
+        "ta1",
+        "khai2",
+        "khaam2",
+        "aai3",
+        "tai2",
+        "aai3",
+        "pung1",
+        "aai3"
+      ],
+      "glosses": [
+        "will",
+        "tell",
+        "language",
+        "Aiton",
+        "Tai",
+        "Aiton",
+        "story",
+        "Aiton"
+      ],
+      "translation": "I will tell an Aiton story.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will tell an Aiton story.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "kaa2 tuu2 lɯng2 yang2 uu1 tii2 thɯn1 an2",
+      "lik_tai": "ၵႃႇ တႇ လိုင်ႇ ယင်ႇ ဢ တႇ ထိုၼ် ဢၼ်ႇ",
+      "assamese_script": "কা² ত² লুঙ² যাঙ² অ¹ ত² থুন¹ অন²",
+      "ipa": "[kaː˥˦] [tuu˥˦] [lɯŋ˥˦] [jaŋ˥˦] [uu˧˧] [tii˥˦] [tʰɯn˧˧] [an˥˦]",
+      "morphemes": [
+        "kaa2",
+        "tuu2",
+        "lɯng2",
+        "yang2",
+        "uu1",
+        "tii2",
+        "thɯn1",
+        "an2"
+      ],
+      "glosses": [
+        "crow",
+        "CLF",
+        "one",
+        "to be",
+        "live",
+        "at",
+        "forest",
+        "CLF"
+      ],
+      "translation": "There was a crow living in the forest.",
+      "translation_assamese": "অসমীয়া অৰ্থ: There was a crow living in the forest.",
+      "audio_file": null,
+      "notes": "* This is probably a merging of a final unstressed nan3 'that' with an2 'CLF'."
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "wan2 nan3 mɯn2 tng3 ka1 k3 ɯm1 dai3 kin2",
+      "lik_tai": "ဝၼ်ႇ ၼၼ်ႈ မိုၼ်ႇ တင်ႈ ၵႃ ၵႈ ဢိုမ် ဢႈ ၵိၼ်ႇ",
+      "assamese_script": "ৱান² নান³ মুন² তঙ³ কা¹ ক³ উম¹ অ³ কিন²",
+      "ipa": "[wan˥˦] [nan˨˩̰] [mɯn˥˦] [tŋ˨˩̰] [ka˧˧] [k˨˩̰] [ɯm˧˧] [dai˨˩̰] [kin˥˦]",
+      "morphemes": [
+        "wan2",
+        "nan3",
+        "mɯn2",
+        "tng3",
+        "ka1",
+        "k3",
+        "ɯm1",
+        "dai3",
+        "kin2"
+      ],
+      "glosses": [
+        "day",
+        "that",
+        "3Sg",
+        "hungry",
+        "what",
+        "LINK",
+        "NEG",
+        "get",
+        "eat"
+      ],
+      "translation": "One day she was hungry, and she didn't get to eat anything.",
+      "translation_assamese": "অসমীয়া অৰ্থ: One day she was hungry, and she didn't get to eat anything.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "mɯ2 yaam2 nan3 kaa2 an2 uu1 luk3 tii2 tun3",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ ၵႃႇ ဢၼ်ႇ ဢ လုၵ်ႈ တႇ တုၼ်ႈ",
+      "assamese_script": "মু² যাম² নান³ কা² অন² অ¹ লুক্‌³ ত² তুন³",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [kaː˥˦] [an˥˦] [uu˧˧] [luk˨˩̰] [tii˥˦] [tun˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "kaa2",
+        "an2",
+        "uu1",
+        "luk3",
+        "tii2",
+        "tun3"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "that",
+        "crow",
+        "CLF",
+        "live",
+        "from",
+        "at",
+        "tree"
+      ],
+      "translation": "At that time the crow was living in a tree,",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time the crow was living in a tree,",
+      "audio_file": null,
+      "notes": "* These two words are spoken so quickly together that it sounds like [kaan2]."
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "mɯn2 pai2 kaa1 pai2 han1 khn2 phai2",
+      "lik_tai": "မိုၼ်ႇ ပႆႇ ၵႃ ပႆႇ ႁၼ် ၶၼ်ႇ ၽႆႇ",
+      "assamese_script": "মুন² পাই² কা¹ পাই² হান¹ খন² ফাই²",
+      "ipa": "[mɯn˥˦] [pai˥˦] [kaː˧˧] [pai˥˦] [han˧˧] [kʰn˥˦] [pʰai˥˦]",
+      "morphemes": [
+        "mɯn2",
+        "pai2",
+        "kaa1",
+        "pai2",
+        "han1",
+        "khn2",
+        "phai2"
+      ],
+      "glosses": [
+        "3Sg",
+        "go",
+        "GO",
+        "go",
+        "see",
+        "smoke",
+        "fire"
+      ],
+      "translation": "She went out and saw some smoke.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She went out and saw some smoke.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "pɯn2 pau1 phai2",
+      "lik_tai": "ပိုၼ်ႇ ပဝ် ၽႆႇ",
+      "assamese_script": "পুন² পাও¹ ফাই²",
+      "ipa": "[pɯn˥˦] [pau˧˧] [pʰai˥˦]",
+      "morphemes": [
+        "pɯn2",
+        "pau1",
+        "phai2"
+      ],
+      "glosses": [
+        "other",
+        "burn/blow",
+        "fire"
+      ],
+      "translation": "Someone was making a fire.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Someone was making a fire.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "mɯ2 yaam2 nan3 pai2 kaɯ3 kaa1 tii2 khn2 phai2",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ ပႆႇ ၵႈ ၵႃ တႇ ၶၼ်ႇ ၽႆႇ",
+      "assamese_script": "মু² যাম² নান³ পাই² ক³ কা¹ ত² খন² ফাই²",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [pai˥˦] [kaɯ˨˩̰] [kaː˧˧] [tii˥˦] [kʰn˥˦] [pʰai˥˦]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "pai2",
+        "kaɯ3",
+        "kaa1",
+        "tii2",
+        "khn2",
+        "phai2"
+      ],
+      "glosses": [
+        "at",
+        "that",
+        "time",
+        "go",
+        "near",
+        "GO",
+        "at",
+        "smoke",
+        "fire"
+      ],
+      "translation": "Then she went near to the fire.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then she went near to the fire.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "pai2 han1 muk3 khau1 dai3 phaan2 tuu2 lɯng2",
+      "lik_tai": "ပႆႇ ႁၼ် မုၵ်ႈ ၶဝ် ဢႈ ၽႃၼ်ႇ တႇ လိုင်ႇ",
+      "assamese_script": "পাই² হান¹ মুক্‌³ খাও¹ অ³ ফান² ত² লুঙ²",
+      "ipa": "[pai˥˦] [han˧˧] [muk˨˩̰] [kʰau˧˧] [dai˨˩̰] [pʰaːn˥˦] [tuu˥˦] [lɯŋ˥˦]",
+      "morphemes": [
+        "pai2",
+        "han1",
+        "muk3",
+        "khau1",
+        "dai3",
+        "phaan2",
+        "tuu2",
+        "lɯng2"
+      ],
+      "glosses": [
+        "go",
+        "see",
+        "hunter",
+        "3Pl",
+        "get",
+        "deer",
+        "CLF",
+        "one"
+      ],
+      "translation": "She saw that the hunters had got a deer, and were slicing it up.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She saw that the hunters had got a deer, and were slicing it up.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "mɯn2 pai2 han1 nɯ3 an2",
+      "lik_tai": "မိုၼ်ႇ ပႆႇ ႁၼ် ၼိုႈ ဢၼ်ႇ",
+      "assamese_script": "মুন² পাই² হান¹ নু³ অন²",
+      "ipa": "[mɯn˥˦] [pai˥˦] [han˧˧] [nɯ˨˩̰] [an˥˦]",
+      "morphemes": [
+        "mɯn2",
+        "pai2",
+        "han1",
+        "nɯ3",
+        "an2"
+      ],
+      "glosses": [
+        "3Sg",
+        "go",
+        "see",
+        "meat",
+        "CLF"
+      ],
+      "translation": "She went to look at that meat!",
+      "translation_assamese": "অসমীয়া অৰ্থ: She went to look at that meat!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "mɯn2 khaɯ2 kin2 nam3 mɯn2 tsi3",
+      "lik_tai": "မိုၼ်ႇ ၶႇ ၵိၼ်ႇ ၼမ်ႈ မိုၼ်ႇ ၸိႈ",
+      "assamese_script": "মুন² খ² কিন² নাম³ মুন² চি³",
+      "ipa": "[mɯn˥˦] [kʰaɯ˥˦] [kin˥˦] [nam˨˩̰] [mɯn˥˦] [tɕi˨˩̰]",
+      "morphemes": [
+        "mɯn2",
+        "khaɯ2",
+        "kin2",
+        "nam3",
+        "mɯn2",
+        "tsi3"
+      ],
+      "glosses": [
+        "3Sg",
+        "want",
+        "eat",
+        "saliva",
+        "3Sg",
+        "come out"
+      ],
+      "translation": "She wanted to eat and her saliva was running.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She wanted to eat and her saliva was running.",
+      "audio_file": null,
+      "notes": "* When Chow En Lai helped with the translation of this, he said that it should be coj&tukD cqi3 tuk1 cqi3 tuk1. See below No. 26."
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "mɯ2 yaam2 nan3 mɯn2 pai2 thɯng1 kaa1 him2 muk3 khau1",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ မိုၼ်ႇ ပႆႇ ထိုင် ၵႃ ႁိမ်ႇ မုၵ်ႈ ၶဝ်",
+      "assamese_script": "মু² যাম² নান³ মুন² পাই² থুঙ¹ কা¹ হিম² মুক্‌³ খাও¹",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [mɯn˥˦] [pai˥˦] [tʰɯŋ˧˧] [kaː˧˧] [him˥˦] [muk˨˩̰] [kʰau˧˧]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "mɯn2",
+        "pai2",
+        "thɯng1",
+        "kaa1",
+        "him2",
+        "muk3",
+        "khau1"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "that",
+        "3Sg",
+        "go",
+        "reach",
+        "go",
+        "near",
+        "hunter",
+        "3Pl"
+      ],
+      "translation": "Then, she approached close to the hunters.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then, she approached close to the hunters.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "muk3 khau1 si2 nɯ3 kan2 bjng1 kan2 pan2 kan2",
+      "lik_tai": "မုၵ်ႈ ၶဝ် ꩢိႇ ၼိုႈ ၵၼ်ႇ ဢင် ၵၼ်ႇ ပၼ်ႇ ၵၼ်ႇ",
+      "assamese_script": "মুক্‌³ খাও¹ সি² নু³ কান² অঙ¹ কান² পান² কান²",
+      "ipa": "[muk˨˩̰] [kʰau˧˧] [si˥˦] [nɯ˨˩̰] [kan˥˦] [bjŋ˧˧] [kan˥˦] [pan˥˦] [kan˥˦]",
+      "morphemes": [
+        "muk3",
+        "khau1",
+        "si2",
+        "nɯ3",
+        "kan2",
+        "bjng1",
+        "kan2",
+        "pan2",
+        "kan2"
+      ],
+      "glosses": [
+        "hunter",
+        "3Pl",
+        "cut up",
+        "meat",
+        "RECIP",
+        "divide",
+        "RECIP",
+        "give",
+        "RECIP"
+      ],
+      "translation": "The hunters were cutting up the meat and dividing it amongst themselves.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The hunters were cutting up the meat and dividing it amongst themselves.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "mɯ2 yaam2 nan3 mɯn2 pai2 kaa1 him2 nan3",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ မိုၼ်ႇ ပႆႇ ၵႃ ႁိမ်ႇ ၼၼ်ႈ",
+      "assamese_script": "মু² যাম² নান³ মুন² পাই² কা¹ হিম² নান³",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [mɯn˥˦] [pai˥˦] [kaː˧˧] [him˥˦] [nan˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "mɯn2",
+        "pai2",
+        "kaa1",
+        "him2",
+        "nan3"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "that",
+        "3Sg",
+        "go",
+        "GO",
+        "near",
+        "there"
+      ],
+      "translation": "She went near to the hunters.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She went near to the hunters.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "nɯ3 kn3 lɯng2 mɯn2 pai2 yaat3 au2 pai2 maa2",
+      "lik_tai": "ၼိုႈ ၵၼ်ႈ လိုင်ႇ မိုၼ်ႇ ပႆႇ ယႃတ်ႈ ဢဝ်ႇ ပႆႇ မႃႇ",
+      "assamese_script": "নু³ কন³ লুঙ² মুন² পাই² যাত্‌³ ঔ² পাই² মা²",
+      "ipa": "[nɯ˨˩̰] [kn˨˩̰] [lɯŋ˥˦] [mɯn˥˦] [pai˥˦] [jaːt˨˩̰] [au˥˦] [pai˥˦] [maː˥˦]",
+      "morphemes": [
+        "nɯ3",
+        "kn3",
+        "lɯng2",
+        "mɯn2",
+        "pai2",
+        "yaat3",
+        "au2",
+        "pai2",
+        "maa2"
+      ],
+      "glosses": [
+        "meat",
+        "lump",
+        "one",
+        "3Sg",
+        "go",
+        "pick up stealthily",
+        "take",
+        "go",
+        "COME"
+      ],
+      "translation": "She grabbed a piece of that meat and ate it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She grabbed a piece of that meat and ate it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "mɯn2 maa2 tii2 tun3 lung1 nan3",
+      "lik_tai": "မိုၼ်ႇ မႃႇ တႇ တုၼ်ႈ လုင် ၼၼ်ႈ",
+      "assamese_script": "মুন² মা² ত² তুন³ লুঙ¹ নান³",
+      "ipa": "[mɯn˥˦] [maː˥˦] [tii˥˦] [tun˨˩̰] [luŋ˧˧] [nan˨˩̰]",
+      "morphemes": [
+        "mɯn2",
+        "maa2",
+        "tii2",
+        "tun3",
+        "lung1",
+        "nan3"
+      ],
+      "glosses": [
+        "3Sg",
+        "come",
+        "to",
+        "tree",
+        "large",
+        "that"
+      ],
+      "translation": "She went to the large tree.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She went to the large tree.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "maa2 tsap1 tii2 tun3",
+      "lik_tai": "မႃႇ ၸပ် တႇ တုၼ်ႈ",
+      "assamese_script": "মা² চাপ্‌¹ ত² তুন³",
+      "ipa": "[maː˥˦] [tɕap˧˧] [tii˥˦] [tun˨˩̰]",
+      "morphemes": [
+        "maa2",
+        "tsap1",
+        "tii2",
+        "tun3"
+      ],
+      "glosses": [
+        "come",
+        "perch",
+        "on",
+        "tree"
+      ],
+      "translation": "She came and perched on that tree.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She came and perched on that tree.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "mɯn2 lau2 pa1 phaɯ1 k3 mau1 pj3 him1 1",
+      "lik_tai": "မိုၼ်ႇ လဝ်ႇ ပႃ ၽ ၵႈ မဝ် ပႈ ႁိမ် 1",
+      "assamese_script": "মুন² লাও² পা¹ ফ¹ ক³ মাও¹ প³ হিম¹ 1",
+      "ipa": "[mɯn˥˦] [lau˥˦] [pa˧˧] [pʰaɯ˧˧] [k˨˩̰] [mau˧˧] [pj˨˩̰] [him˧˧] [˧˧]",
+      "morphemes": [
+        "mɯn2",
+        "lau2",
+        "pa1",
+        "phaɯ1",
+        "k3",
+        "mau1",
+        "pj3",
+        "him1",
+        "1"
+      ],
+      "glosses": [
+        "3Sg",
+        "say",
+        "here",
+        "who",
+        "LINK",
+        "NEG",
+        "can",
+        "take away",
+        "PRT"
+      ],
+      "translation": "She said, \"No one can take it away from me\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: She said, \"No one can take it away from me\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "kau1 ta1 kin2",
+      "lik_tai": "ၵဝ် တႃ ၵိၼ်ႇ",
+      "assamese_script": "কাও¹ তা¹ কিন²",
+      "ipa": "[kau˧˧] [ta˧˧] [kin˥˦]",
+      "morphemes": [
+        "kau1",
+        "ta1",
+        "kin2"
+      ],
+      "glosses": [
+        "1Sg",
+        "will",
+        "eat"
+      ],
+      "translation": "I am going to eat it.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I am going to eat it.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "mɯn2 uu1 phan2 nang1 nan3",
+      "lik_tai": "မိုၼ်ႇ ဢ ၽၼ်ႇ ၼင် ၼၼ်ႈ",
+      "assamese_script": "মুন² অ¹ ফান² নাঙ¹ নান³",
+      "ipa": "[mɯn˥˦] [uu˧˧] [pʰan˥˦] [naŋ˧˧] [nan˨˩̰]",
+      "morphemes": [
+        "mɯn2",
+        "uu1",
+        "phan2",
+        "nang1",
+        "nan3"
+      ],
+      "glosses": [
+        "3Sg",
+        "stay",
+        "type",
+        "like",
+        "that"
+      ],
+      "translation": "She stayed there in that way.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She stayed there in that way.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "mɯ2 yaam2 nan3 luk3 huu1 yum2 maa1 an2 tng3 ni3",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ လုၵ်ႈ ႁ ယုမ်ႇ မႃ ဢၼ်ႇ တင်ႈ ၼိႈ",
+      "assamese_script": "মু² যাম² নান³ লুক্‌³ হ¹ যুম² মা¹ অন² তঙ³ নি³",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [luk˨˩̰] [huu˧˧] [jum˥˦] [maː˧˧] [an˥˦] [tŋ˨˩̰] [ni˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "luk3",
+        "huu1",
+        "yum2",
+        "maa1",
+        "an2",
+        "tng3",
+        "ni3"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "that",
+        "from",
+        "inside",
+        "small bush",
+        "fox",
+        "CLF",
+        "hungry",
+        "PRT"
+      ],
+      "translation": "Narrative passage 21.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Narrative passage 21.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "lj1 maa2 khaɯ2 kin2",
+      "lik_tai": "လ မႃႇ ၶႇ ၵိၼ်ႇ",
+      "assamese_script": "ল¹ মা² খ² কিন²",
+      "ipa": "[lj˧˧] [maː˥˦] [kʰaɯ˥˦] [kin˥˦]",
+      "morphemes": [
+        "lj1",
+        "maa2",
+        "khaɯ2",
+        "kin2"
+      ],
+      "glosses": [
+        "search",
+        "come",
+        "want",
+        "eat"
+      ],
+      "translation": "Narrative passage 22.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Narrative passage 22.",
+      "audio_file": null,
+      "notes": "* originally written mapU, but this is an error."
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "khɯng2 khaɯ2 kin2 mɯn2 ni1 maa2 han1 kaa2 an2",
+      "lik_tai": "ၶိုင်ႇ ၶႇ ၵိၼ်ႇ မိုၼ်ႇ ၼိ မႃႇ ႁၼ် ၵႃႇ ဢၼ်ႇ",
+      "assamese_script": "খুঙ² খ² কিন² মুন² নি¹ মা² হান¹ কা² অন²",
+      "ipa": "[kʰɯŋ˥˦] [kʰaɯ˥˦] [kin˥˦] [mɯn˥˦] [ni˧˧] [maː˥˦] [han˧˧] [kaː˥˦] [an˥˦]",
+      "morphemes": [
+        "khɯng2",
+        "khaɯ2",
+        "kin2",
+        "mɯn2",
+        "ni1",
+        "maa2",
+        "han1",
+        "kaa2",
+        "an2"
+      ],
+      "glosses": [
+        "thing",
+        "want",
+        "eat",
+        "3Sg",
+        "PRT",
+        "come",
+        "see",
+        "crow",
+        "CLF"
+      ],
+      "translation": "Wanting to eat something, he came and saw the crow eating that piece of meat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Wanting to eat something, he came and saw the crow eating that piece of meat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "mɯ2 yaam2 nan3 maa1 an2 han1 kn3 nɯ3 an2",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ မႃ ဢၼ်ႇ ႁၼ် ၵၼ်ႈ ၼိုႈ ဢၼ်ႇ",
+      "assamese_script": "মু² যাম² নান³ মা¹ অন² হান¹ কন³ নু³ অন²",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [maː˧˧] [an˥˦] [han˧˧] [kn˨˩̰] [nɯ˨˩̰] [an˥˦]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "maa1",
+        "an2",
+        "han1",
+        "kn3",
+        "nɯ3",
+        "an2"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "that",
+        "fox",
+        "CLF",
+        "see",
+        "lump",
+        "meat",
+        "CLF"
+      ],
+      "translation": "Then the fox saw that piece of meat.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the fox saw that piece of meat.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "mɯn2 khaɯ2 kin2 ni1 nam3 mɯn2",
+      "lik_tai": "မိုၼ်ႇ ၶႇ ၵိၼ်ႇ ၼိ ၼမ်ႈ မိုၼ်ႇ",
+      "assamese_script": "মুন² খ² কিন² নি¹ নাম³ মুন²",
+      "ipa": "[mɯn˥˦] [kʰaɯ˥˦] [kin˥˦] [ni˧˧] [nam˨˩̰] [mɯn˥˦]",
+      "morphemes": [
+        "mɯn2",
+        "khaɯ2",
+        "kin2",
+        "ni1",
+        "nam3",
+        "mɯn2"
+      ],
+      "glosses": [
+        "3Sg",
+        "want",
+        "eat",
+        "PRT",
+        "saliva",
+        "3Sg"
+      ],
+      "translation": "He wanted to eat, and his saliva was running.",
+      "translation_assamese": "অসমীয়া অৰ্থ: He wanted to eat, and his saliva was running.",
+      "audio_file": null,
+      "notes": "* The couplet was translated as 'fall down again and again'."
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "kau2 tii2 hit1 nang1 haɯ3 dai3 kin2 kn3 nɯ3",
+      "lik_tai": "ၵဝ်ႇ တႇ ႁိတ် ၼင် ႁႈ ဢႈ ၵိၼ်ႇ ၵၼ်ႈ ၼိုႈ",
+      "assamese_script": "কাও² ত² হিত্‌¹ নাঙ¹ হ³ অ³ কিন² কন³ নু³",
+      "ipa": "[kau˥˦] [tii˥˦] [hit˧˧] [naŋ˧˧] [haɯ˨˩̰] [dai˨˩̰] [kin˥˦] [kn˨˩̰] [nɯ˨˩̰]",
+      "morphemes": [
+        "kau2",
+        "tii2",
+        "hit1",
+        "nang1",
+        "haɯ3",
+        "dai3",
+        "kin2",
+        "kn3",
+        "nɯ3"
+      ],
+      "glosses": [
+        "1Sg",
+        "will",
+        "do",
+        "what, how",
+        "give",
+        "receive",
+        "eat",
+        "lump",
+        "meat"
+      ],
+      "translation": "(He thought): \"What can I do to get this piece of meat\"?",
+      "translation_assamese": "অসমীয়া অৰ্থ: (He thought): \"What can I do to get this piece of meat\"?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "maa1 an2 mɯ2 yaam2 nan3 mɯn2 ngap3 lau2",
+      "lik_tai": "မႃ ဢၼ်ႇ မိုႇ ယႃမ်ႇ ၼၼ်ႈ မိုၼ်ႇ ငပ်ႈ လဝ်ႇ",
+      "assamese_script": "মা¹ অন² মু² যাম² নান³ মুন² ঙাপ্‌³ লাও²",
+      "ipa": "[maː˧˧] [an˥˦] [mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [mɯn˥˦] [ŋap˨˩̰] [lau˥˦]",
+      "morphemes": [
+        "maa1",
+        "an2",
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "mɯn2",
+        "ngap3",
+        "lau2"
+      ],
+      "glosses": [
+        "fox",
+        "CLF",
+        "time",
+        "time",
+        "that",
+        "3Sg",
+        "think",
+        "say"
+      ],
+      "translation": "At that time, the fox thought:",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time, the fox thought:",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "hi1 nai3 kau2 ta1 au2 ping1 mɯn2 ta1 dai3 laau3",
+      "lik_tai": "ႁိ ၼႆႈ ၵဝ်ႇ တႃ ဢဝ်ႇ ပိင် မိုၼ်ႇ တႃ ဢႈ လႃဝ်ႈ",
+      "assamese_script": "হি¹ নাই³ কাও² তা¹ ঔ² পিঙ¹ মুন² তা¹ অ³ লাও³",
+      "ipa": "[hi˧˧] [nai˨˩̰] [kau˥˦] [ta˧˧] [au˥˦] [piŋ˧˧] [mɯn˥˦] [ta˧˧] [dai˨˩̰] [laːu˨˩̰]",
+      "morphemes": [
+        "hi1",
+        "nai3",
+        "kau2",
+        "ta1",
+        "au2",
+        "ping1",
+        "mɯn2",
+        "ta1",
+        "dai3",
+        "laau3"
+      ],
+      "glosses": [
+        "time",
+        "this",
+        "1Sg",
+        "will",
+        "take",
+        "wisdom",
+        "3Sg",
+        "will",
+        "get",
+        "draw aside"
+      ],
+      "translation": "Now I will use my intelligence to draw her aside\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: Now I will use my intelligence to draw her aside\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "mɯ2 yaam2 nan3 mɯn2 hjn1 kaang2 hang2 kaa2",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ မိုၼ်ႇ ႁၼ် ၵႃင်ႇ ႁင်ႇ ၵႃႇ",
+      "assamese_script": "মু² যাম² নান³ মুন² হন¹ কাঙ² হাঙ² কা²",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [mɯn˥˦] [hjn˧˧] [kaːŋ˥˦] [haŋ˥˦] [kaː˥˦]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "mɯn2",
+        "hjn1",
+        "kaang2",
+        "hang2",
+        "kaa2"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "that",
+        "3Sg",
+        "look upward",
+        "sky",
+        "to",
+        "crow"
+      ],
+      "translation": "The he looked up in the sky at the crow.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The he looked up in the sky at the crow.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "mɯn1 lau2 naang2 kaa2 ɯi2 kaa2 kham2",
+      "lik_tai": "မိုၼ် လဝ်ႇ ၼႃင်ႇ ၵႃႇ ဢိုႆႇ ၵႃႇ ၶမ်ႇ",
+      "assamese_script": "মুন¹ লাও² নাঙ² কা² অুই² কা² খাম²",
+      "ipa": "[mɯn˧˧] [lau˥˦] [naːŋ˥˦] [kaː˥˦] [ɯi˥˦] [kaː˥˦] [kʰam˥˦]",
+      "morphemes": [
+        "mɯn1",
+        "lau2",
+        "naang2",
+        "kaa2",
+        "ɯi2",
+        "kaa2",
+        "kham2"
+      ],
+      "glosses": [
+        "3Sg",
+        "say",
+        "Queen",
+        "crow",
+        "(Voc)",
+        "crow",
+        "gold"
+      ],
+      "translation": "He said: \"Oh Queen crow, golden crow\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: He said: \"Oh Queen crow, golden crow\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "maɯ2 sjn3 1",
+      "lik_tai": "မႇ ꩢၼ်ႈ 1",
+      "assamese_script": "ম² সন³ 1",
+      "ipa": "[maɯ˥˦] [sjn˨˩̰] [˧˧]",
+      "morphemes": [
+        "maɯ2",
+        "sjn3",
+        "1"
+      ],
+      "glosses": [
+        "2Sg",
+        "beautiful",
+        "PRT"
+      ],
+      "translation": "You are very beautiful\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: You are very beautiful\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "pjng1 maɯ2 sjn3 j1 mɯng2 ɯm1 yang2",
+      "lik_tai": "ပင် မႇ ꩢၼ်ႈ ဢ မိုင်ႇ ဢိုမ် ယင်ႇ",
+      "assamese_script": "পঙ¹ ম² সন³ অ¹ মুঙ² উম¹ যাঙ²",
+      "ipa": "[pjŋ˧˧] [maɯ˥˦] [sjn˨˩̰] [j˧˧] [mɯŋ˥˦] [ɯm˧˧] [jaŋ˥˦]",
+      "morphemes": [
+        "pjng1",
+        "maɯ2",
+        "sjn3",
+        "j1",
+        "mɯng2",
+        "ɯm1",
+        "yang2"
+      ],
+      "glosses": [
+        "comparison",
+        "2Sg",
+        "beautiful",
+        "PRT",
+        "world",
+        "NEG",
+        "is"
+      ],
+      "translation": "There is none in the world as beautiful as you\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: There is none in the world as beautiful as you\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "tu2 maɯ2 j1 sjn3 nang1 kham2",
+      "lik_tai": "တုႇ မႇ ဢ ꩢၼ်ႈ ၼင် ၶမ်ႇ",
+      "assamese_script": "তু² ম² অ¹ সন³ নাঙ¹ খাম²",
+      "ipa": "[tu˥˦] [maɯ˥˦] [j˧˧] [sjn˨˩̰] [naŋ˧˧] [kʰam˥˦]",
+      "morphemes": [
+        "tu2",
+        "maɯ2",
+        "j1",
+        "sjn3",
+        "nang1",
+        "kham2"
+      ],
+      "glosses": [
+        "body",
+        "2Sg",
+        "PRT",
+        "beautiful",
+        "as",
+        "gold"
+      ],
+      "translation": "Your body is as beautiful as gold.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Your body is as beautiful as gold.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "tsj2 nai3 sing1 maɯ2 an2 k3 ta1 thm1 sjn3",
+      "lik_tai": "ၸႇ ၼႆႈ ꩢိင် မႇ ဢၼ်ႇ ၵႈ တႃ ထမ် ꩢၼ်ႈ",
+      "assamese_script": "চ² নাই³ সিঙ¹ ম² অন² ক³ তা¹ থম¹ সন³",
+      "ipa": "[tɕj˥˦] [nai˨˩̰] [siŋ˧˧] [maɯ˥˦] [an˥˦] [k˨˩̰] [ta˧˧] [tʰm˧˧] [sjn˨˩̰]",
+      "morphemes": [
+        "tsj2",
+        "nai3",
+        "sing1",
+        "maɯ2",
+        "an2",
+        "k3",
+        "ta1",
+        "thm1",
+        "sjn3"
+      ],
+      "glosses": [
+        "now",
+        "this",
+        "sound",
+        "2Sg",
+        "CLF",
+        "LINK",
+        "will",
+        "hear",
+        "beautiful"
+      ],
+      "translation": "Now the song which you sing is also beautiful, so beautiful\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: Now the song which you sing is also beautiful, so beautiful\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "tsuu2 puu1 tsuu2 p2 k3 mau1 pai2 hn1 dai3 ngin2 kn1",
+      "lik_tai": "ၸႇ ပ ၸႇ ပႇ ၵႈ မဝ် ပႆႇ ႁၼ် ဢႈ ငိၼ်ႇ ၵၼ်",
+      "assamese_script": "চ² প¹ চ² প² ক³ মাও¹ পাই² হন¹ অ³ ঙিন² কন¹",
+      "ipa": "[tɕuu˥˦] [puu˧˧] [tɕuu˥˦] [p˥˦] [k˨˩̰] [mau˧˧] [pai˥˦] [hn˧˧] [dai˨˩̰] [ŋin˥˦] [kn˧˧]",
+      "morphemes": [
+        "tsuu2",
+        "puu1",
+        "tsuu2",
+        "p2",
+        "k3",
+        "mau1",
+        "pai2",
+        "hn1",
+        "dai3",
+        "ngin2",
+        "kn1"
+      ],
+      "glosses": [
+        "life",
+        "grandfather",
+        "life",
+        "father",
+        "LINK",
+        "NEG",
+        "go",
+        "ever",
+        "receive",
+        "hear",
+        "before"
+      ],
+      "translation": "(Such beauty) was never before heard in our forefather's time\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: (Such beauty) was never before heard in our forefather's time\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "an2 maɯ2 naang2 kaa2 m1 khaam2 an2",
+      "lik_tai": "ဢၼ်ႇ မႇ ၼႃင်ႇ ၵႃႇ မ ၶႃမ်ႇ ဢၼ်ႇ",
+      "assamese_script": "অন² ম² নাঙ² কা² ম¹ খাম² অন²",
+      "ipa": "[an˥˦] [maɯ˥˦] [naːŋ˥˦] [kaː˥˦] [m˧˧] [kʰaːm˥˦] [an˥˦]",
+      "morphemes": [
+        "an2",
+        "maɯ2",
+        "naang2",
+        "kaa2",
+        "m1",
+        "khaam2",
+        "an2"
+      ],
+      "glosses": [
+        "CLF",
+        "2Sg",
+        "queen",
+        "crow",
+        "sing",
+        "word",
+        "CLF"
+      ],
+      "translation": "Oh Queen crow, sing\"!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh Queen crow, sing\"!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "kau2 khaɯ2 thm1 sing1 maɯ2 an2",
+      "lik_tai": "ၵဝ်ႇ ၶႇ ထမ် ꩢိင် မႇ ဢၼ်ႇ",
+      "assamese_script": "কাও² খ² থম¹ সিঙ¹ ম² অন²",
+      "ipa": "[kau˥˦] [kʰaɯ˥˦] [tʰm˧˧] [siŋ˧˧] [maɯ˥˦] [an˥˦]",
+      "morphemes": [
+        "kau2",
+        "khaɯ2",
+        "thm1",
+        "sing1",
+        "maɯ2",
+        "an2"
+      ],
+      "glosses": [
+        "1Sg",
+        "want",
+        "listen",
+        "sound",
+        "2Sg",
+        "CLF"
+      ],
+      "translation": "I want to listen to your song\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: I want to listen to your song\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "tsaɯ2 k1 sang1 dai3 ngin2 kaa1 khaam2 maɯ2 an2",
+      "lik_tai": "ၸႇ ၵ ꩢင် ဢႈ ငိၼ်ႇ ၵႃ ၶႃမ်ႇ မႇ ဢၼ်ႇ",
+      "assamese_script": "চ² ক¹ সাঙ¹ অ³ ঙিন² কা¹ খাম² ম² অন²",
+      "ipa": "[tɕaɯ˥˦] [k˧˧] [saŋ˧˧] [dai˨˩̰] [ŋin˥˦] [kaː˧˧] [kʰaːm˥˦] [maɯ˥˦] [an˥˦]",
+      "morphemes": [
+        "tsaɯ2",
+        "k1",
+        "sang1",
+        "dai3",
+        "ngin2",
+        "kaa1",
+        "khaam2",
+        "maɯ2",
+        "an2"
+      ],
+      "glosses": [
+        "heart",
+        "come out",
+        "if",
+        "get",
+        "hear",
+        "GO",
+        "song",
+        "2Sg",
+        "CLF"
+      ],
+      "translation": "Narrative passage 38.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Narrative passage 38.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "kau2 tsuu2 kau2 pj3 kau2 tak1 khai2",
+      "lik_tai": "ၵဝ်ႇ ၸႇ ၵဝ်ႇ ပႈ ၵဝ်ႇ တၵ် ၶႆႇ",
+      "assamese_script": "কাও² চ² কাও² প³ কাও² তাক্‌¹ খাই²",
+      "ipa": "[kau˥˦] [tɕuu˥˦] [kau˥˦] [pj˨˩̰] [kau˥˦] [tak˧˧] [kʰai˥˦]",
+      "morphemes": [
+        "kau2",
+        "tsuu2",
+        "kau2",
+        "pj3",
+        "kau2",
+        "tak1",
+        "khai2"
+      ],
+      "glosses": [
+        "1Sg",
+        "life",
+        "1Sg",
+        "can",
+        "1Sg",
+        "will",
+        "tell"
+      ],
+      "translation": "Narrative passage 39.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Narrative passage 39.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "tak1 yng3 lung1 1",
+      "lik_tai": "တၵ် ယင်ႈ လုင် 1",
+      "assamese_script": "তাক্‌¹ যঙ³ লুঙ¹ 1",
+      "ipa": "[tak˧˧] [jŋ˨˩̰] [luŋ˧˧] [˧˧]",
+      "morphemes": [
+        "tak1",
+        "yng3",
+        "lung1",
+        "1"
+      ],
+      "glosses": [
+        "will",
+        "praise",
+        "much",
+        "very"
+      ],
+      "translation": "I will praise you very highly\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will praise you very highly\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "pha1 j1 y2 kaa2 khaam2 j1",
+      "lik_tai": "ၽႃ ဢ ယႇ ၵႃႇ ၶႃမ်ႇ ဢ",
+      "assamese_script": "ফা¹ অ¹ য² কা² খাম² অ¹",
+      "ipa": "[pʰa˧˧] [j˧˧] [j˥˦] [kaː˥˦] [kʰaːm˥˦] [j˧˧]",
+      "morphemes": [
+        "pha1",
+        "j1",
+        "y2",
+        "kaa2",
+        "khaam2",
+        "j1"
+      ],
+      "glosses": [
+        "the whole universe",
+        "as",
+        "praise",
+        "crow",
+        "word",
+        "PRT"
+      ],
+      "translation": "The whole universe will praise the words of the crow\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: The whole universe will praise the words of the crow\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_042",
+      "text_roman": "sing1 mɯn2 thm1 dii2",
+      "lik_tai": "ꩢိင် မိုၼ်ႇ ထမ် ဢႇ",
+      "assamese_script": "সিঙ¹ মুন² থম¹ অ²",
+      "ipa": "[siŋ˧˧] [mɯn˥˦] [tʰm˧˧] [dii˥˦]",
+      "morphemes": [
+        "sing1",
+        "mɯn2",
+        "thm1",
+        "dii2"
+      ],
+      "glosses": [
+        "sound",
+        "3Sg",
+        "listen",
+        "good"
+      ],
+      "translation": "And will say 'Her song is beautiful\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: And will say 'Her song is beautiful\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_043",
+      "text_roman": "lai3 kau2 khaɯ2 thm1 1",
+      "lik_tai": "လႆႈ ၵဝ်ႇ ၶႇ ထမ် 1",
+      "assamese_script": "লাই³ কাও² খ² থম¹ 1",
+      "ipa": "[lai˨˩̰] [kau˥˦] [kʰaɯ˥˦] [tʰm˧˧] [˧˧]",
+      "morphemes": [
+        "lai3",
+        "kau2",
+        "khaɯ2",
+        "thm1",
+        "1"
+      ],
+      "glosses": [
+        "therefore",
+        "1Sg",
+        "want",
+        "listen",
+        "PRT"
+      ],
+      "translation": "Therefore I want to listen to you very much\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: Therefore I want to listen to you very much\".",
+      "audio_file": null,
+      "notes": "* Given as 'very much'."
+    },
+    {
+      "id": "unit_044",
+      "text_roman": "maa1 an2 y2 kaa2 hang2 naang2 kaa2 kham2 an2",
+      "lik_tai": "မႃ ဢၼ်ႇ ယႇ ၵႃႇ ႁင်ႇ ၼႃင်ႇ ၵႃႇ ၶမ်ႇ ဢၼ်ႇ",
+      "assamese_script": "মা¹ অন² য² কা² হাঙ² নাঙ² কা² খাম² অন²",
+      "ipa": "[maː˧˧] [an˥˦] [j˥˦] [kaː˥˦] [haŋ˥˦] [naːŋ˥˦] [kaː˥˦] [kʰam˥˦] [an˥˦]",
+      "morphemes": [
+        "maa1",
+        "an2",
+        "y2",
+        "kaa2",
+        "hang2",
+        "naang2",
+        "kaa2",
+        "kham2",
+        "an2"
+      ],
+      "glosses": [
+        "fox",
+        "CLF",
+        "praise",
+        "crow",
+        "to",
+        "queen",
+        "crow",
+        "gold",
+        "CLF"
+      ],
+      "translation": "The fox praised the crow as the Golden Queen Crow.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The fox praised the crow as the Golden Queen Crow.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_045",
+      "text_roman": "kaa2 kham2 an2 dai3 ngin2 kaa1 ɯi2",
+      "lik_tai": "ၵႃႇ ၶမ်ႇ ဢၼ်ႇ ဢႈ ငိၼ်ႇ ၵႃ ဢိုႆႇ",
+      "assamese_script": "কা² খাম² অন² অ³ ঙিন² কা¹ অুই²",
+      "ipa": "[kaː˥˦] [kʰam˥˦] [an˥˦] [dai˨˩̰] [ŋin˥˦] [kaː˧˧] [ɯi˥˦]",
+      "morphemes": [
+        "kaa2",
+        "kham2",
+        "an2",
+        "dai3",
+        "ngin2",
+        "kaa1",
+        "ɯi2"
+      ],
+      "glosses": [
+        "crow",
+        "gold",
+        "CLF",
+        "receive",
+        "hear",
+        "GO",
+        "PRT"
+      ],
+      "translation": "As for the golden crow, when she heard this, (she thought):",
+      "translation_assamese": "অসমীয়া অৰ্থ: As for the golden crow, when she heard this, (she thought):",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_046",
+      "text_roman": "pjng1 kau2 sjn3 ɯng1 yang2 mɯng2",
+      "lik_tai": "ပင် ၵဝ်ႇ ꩢၼ်ႈ ဢိုင် ယင်ႇ မိုင်ႇ",
+      "assamese_script": "পঙ¹ কাও² সন³ উঙ¹ যাঙ² মুঙ²",
+      "ipa": "[pjŋ˧˧] [kau˥˦] [sjn˨˩̰] [ɯŋ˧˧] [jaŋ˥˦] [mɯŋ˥˦]",
+      "morphemes": [
+        "pjng1",
+        "kau2",
+        "sjn3",
+        "ɯng1",
+        "yang2",
+        "mɯng2"
+      ],
+      "glosses": [
+        "COMPARATIVE",
+        "1Sg",
+        "beautiful",
+        "NEG",
+        "is",
+        "world"
+      ],
+      "translation": "No other is more beautiful than me in this world\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: No other is more beautiful than me in this world\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_047",
+      "text_roman": "sing2 kau2 an2 mɯn2 khaɯ2 thm1",
+      "lik_tai": "ꩢိင်ႇ ၵဝ်ႇ ဢၼ်ႇ မိုၼ်ႇ ၶႇ ထမ်",
+      "assamese_script": "সিঙ² কাও² অন² মুন² খ² থম¹",
+      "ipa": "[siŋ˥˦] [kau˥˦] [an˥˦] [mɯn˥˦] [kʰaɯ˥˦] [tʰm˧˧]",
+      "morphemes": [
+        "sing2",
+        "kau2",
+        "an2",
+        "mɯn2",
+        "khaɯ2",
+        "thm1"
+      ],
+      "glosses": [
+        "sound",
+        "1Sg",
+        "CLF",
+        "3Sg",
+        "want",
+        "listen"
+      ],
+      "translation": "Mine is the sound he wants to hear\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: Mine is the sound he wants to hear\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_048",
+      "text_roman": "mɯn2 tak1 pai2 khai2 kaa2 kuu2 tii2",
+      "lik_tai": "မိုၼ်ႇ တၵ် ပႆႇ ၶႆႇ ၵႃႇ ၵႇ တႇ",
+      "assamese_script": "মুন² তাক্‌¹ পাই² খাই² কা² ক² ত²",
+      "ipa": "[mɯn˥˦] [tak˧˧] [pai˥˦] [kʰai˥˦] [kaː˥˦] [kuu˥˦] [tii˥˦]",
+      "morphemes": [
+        "mɯn2",
+        "tak1",
+        "pai2",
+        "khai2",
+        "kaa2",
+        "kuu2",
+        "tii2"
+      ],
+      "glosses": [
+        "3Sg",
+        "will",
+        "go",
+        "tell",
+        "GO",
+        "every",
+        "place"
+      ],
+      "translation": "He will go and tell about this everywhere, to the whole universe\".",
+      "translation_assamese": "অসমীয়া অৰ্থ: He will go and tell about this everywhere, to the whole universe\".",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_049",
+      "text_roman": "tsɯ2 kau2 tak1 yaɯ1 kau2 tak1 pin2 tsɯ2 yaɯ1",
+      "lik_tai": "ၸိုႇ ၵဝ်ႇ တၵ် ယ ၵဝ်ႇ တၵ် ပိၼ်ႇ ၸိုႇ ယ",
+      "assamese_script": "চু² কাও² তাক্‌¹ য¹ কাও² তাক্‌¹ পিন² চু² য¹",
+      "ipa": "[tɕɯ˥˦] [kau˥˦] [tak˧˧] [jaɯ˧˧] [kau˥˦] [tak˧˧] [pin˥˦] [tɕɯ˥˦] [jaɯ˧˧]",
+      "morphemes": [
+        "tsɯ2",
+        "kau2",
+        "tak1",
+        "yaɯ1",
+        "kau2",
+        "tak1",
+        "pin2",
+        "tsɯ2",
+        "yaɯ1"
+      ],
+      "glosses": [
+        "name",
+        "1Sg",
+        "will",
+        "big/famous",
+        "1Sg",
+        "will",
+        "be",
+        "name",
+        "famous"
+      ],
+      "translation": "My name will be famous. I will be famous\"!",
+      "translation_assamese": "অসমীয়া অৰ্থ: My name will be famous. I will be famous\"!",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_050",
+      "text_roman": "mɯ2 yaam2 nan3 mɯn2 tsum2 an2 nan3 ni3",
+      "lik_tai": "မိုႇ ယႃမ်ႇ ၼၼ်ႈ မိုၼ်ႇ ၸုမ်ႇ ဢၼ်ႇ ၼၼ်ႈ ၼိႈ",
+      "assamese_script": "মু² যাম² নান³ মুন² চুম² অন² নান³ নি³",
+      "ipa": "[mɯ˥˦] [jaːm˥˦] [nan˨˩̰] [mɯn˥˦] [tɕum˥˦] [an˥˦] [nan˨˩̰] [ni˨˩̰]",
+      "morphemes": [
+        "mɯ2",
+        "yaam2",
+        "nan3",
+        "mɯn2",
+        "tsum2",
+        "an2",
+        "nan3",
+        "ni3"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "that",
+        "3Sg",
+        "joyful",
+        "CLF",
+        "that",
+        "PRT"
+      ],
+      "translation": "At that time, she felt happy for that.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time, she felt happy for that.",
+      "audio_file": null,
+      "notes": "* an2 nan3 was translated as 'for that'."
+    }
+  ],
+  "full_translation": "A Story I will tell an Aiton story. There was a crow living in the forest. One day she was hungry, and she didn't get to eat anything. At that time the crow was living in a tree, She went out and saw some smoke. Someone was making a fire. Then she went near to the fire. She saw that the hunters had got a deer, and were slicing it up. She went to look at that meat! She wanted to eat and her saliva was running. Then, she approached close to the hunters. The hunters were cutting up the meat and dividing it amongst themselves. She went near to the hunters. She grabbed a piece of that meat and ate it. She went to the large tree. She came and perched on that tree. She said, \"No one can take it away from me\". I am going to eat it. She stayed there in that way. Narrative passage 21. Narrative passage 22. Wanting to eat something, he came and saw the crow eating that piece of meat. Then the fox saw that piece of meat. He wanted to eat, and his saliva was running. (He thought): \"What can I do to get this piece of meat\"? At that time, the fox thought: Now I will use my intelligence to draw her aside\". The he looked up in the sky at the crow. He said: \"Oh Queen crow, golden crow\". You are very beautiful\". There is none in the world as beautiful as you\". Your body is as beautiful as gold. Now the song which you sing is also beautiful, so beautiful\". (Such beauty) was never before heard in our forefather's time\". Oh Queen crow, sing\"! I want to listen to your song\". Narrative passage 38. Narrative passage 39. I will praise you very highly\". The whole universe will praise the words of the crow\". And will say 'Her song is beautiful\". Therefore I want to listen to you very much\". The fox praised the crow as the Golden Queen Crow. As for the golden crow, when she heard this, (she thought): No other is more beautiful than me in this world\". Mine is the sound he wants to hear\". He will go and tell about this everywhere, to the whole universe\". My name will be famous. I will be famous\"! At that time, she felt happy for that.",
+  "book_id": "book_crow_and_fox",
+  "title": "The Clever Crow and the Forest Fox",
+  "title_tai": "Pung1 Nok4 Kaa1 Kap4 Ma1 Nai1",
+  "title_as": ""
+}

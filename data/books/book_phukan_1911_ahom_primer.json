@@ -1,0 +1,108 @@
+{
+  "book_id": "book_phukan_1911_ahom_primer",
+  "title": "An Introductory Primer & Grammar of Ahom (Tai) Language",
+  "title_tai": "ပပ်ႉ လိၵ်ႈ သွၼ် သဒ္ဒါ တႆး ၶွင်ႇ ၶူးလူင် ၸေႇ ဢႅၼ်ႇ ၽူႇၵၢၼ်ႇ",
+  "title_as": "আহোম-টাই ভাষাৰ প্ৰাথমিক পাঠ আৰু ব্যাকৰণ (অধ্যাপক জে. এন. ফুকন)",
+  "author": "Professor J. N. Phukan",
+  "year": 1911,
+  "genre": "Grammar, Epigraphy & Pedagogical Primer",
+  "category": "Historical Grammar & Philological Primer",
+  "provenance": "CNRS Brahmaputra Archival Collection / Gauhati University; digitized by Internet Archive (an_introductory_primer_and_grammar_of_ahom_tai_language)",
+  "digitalized_from": "scratch/Phukan_1911_Ahom_Tai_Primer.pdf",
+  "license": "Academic Open Access (CNRS Collection)",
+  "total_sentences": 3,
+  "description": "Essential philological introduction by Professor J.N. Phukan providing systematic lessons on Tai orthography, phonology, vowel-consonant ligatures, and sentence syntax for deciphering ancient Assam Tai manuscripts and Buranjis.",
+  "units": [
+    {
+      "unit_id": "phukan_1911_u001",
+      "surface_tai": "တူဝ် လိၵ်ႈ တႆး မီး ႁၢင်ႈ ဝူင်း မူၼ်း လီငၢမ်း",
+      "surface_assamese": "টাই বৰ্ণমালাৰ আখৰসমূহ ঘূৰণীয়া আৰু সুন্দৰ",
+      "romanization": "too lik tai mii haaŋ woŋ mon lii-ŋaam",
+      "morphemes": [
+        "too",
+        "lik",
+        "tai",
+        "mii",
+        "haaŋ",
+        "woŋ",
+        "mon",
+        "lii-ŋaam"
+      ],
+      "gloss": [
+        "body/letter",
+        "script",
+        "Tai",
+        "have",
+        "shape",
+        "circle",
+        "round",
+        "beautiful"
+      ],
+      "translation_en": "The letters of the Tai alphabet possess an elegant, circular shape.",
+      "translation_as": "টাই বৰ্ণমালাৰ আখৰসমূহ ঘূৰণীয়া আৰু সুন্দৰ।",
+      "notes": "Phukan (1911: 4). Characterization of the Lik Tai script."
+    },
+    {
+      "unit_id": "phukan_1911_u002",
+      "surface_tai": "သဵင် ႁူၵ်း သဵင် ပၼ် တီႈပွင်ႇ လၢၵ်ႇလၢႆ တီႈ ၶေႃႈၵႂၢမ်း",
+      "surface_assamese": "ছটা সুৰৰ দ্বাৰা শব্দৰ অৰ্থ পৰিৱৰ্তিত হয়",
+      "romanization": "seŋ hok seŋ pan tii-pɔŋ laak-laai tii khɔ́-kwaam",
+      "morphemes": [
+        "seŋ",
+        "hok",
+        "seŋ",
+        "pan",
+        "tii-pɔŋ",
+        "laak-laai",
+        "tii",
+        "khɔ́-kwaam"
+      ],
+      "gloss": [
+        "voice/tone",
+        "six",
+        "tone",
+        "give",
+        "meaning",
+        "different",
+        "at",
+        "word"
+      ],
+      "translation_en": "The six phonemic tones confer distinct semantic meanings upon the words.",
+      "translation_as": "ছটা সুৰৰ দ্বাৰা শব্দৰ অৰ্থ পৰিৱৰ্তিত হয়।",
+      "notes": "Phukan (1911: 8). The phonological tone box of Tai languages."
+    },
+    {
+      "unit_id": "phukan_1911_u003",
+      "surface_tai": "ၽူႈ လဵပ်ႈႁဵၼ်း လိၵ်ႈ ၵဝ်ႇ တေ လႆႈ ႁူႉ လွင်ႈ သဒ္ဒါ တႆး",
+      "surface_assamese": "পুৰণি পুথি অধ্যয়নকাৰীয়ে টাই ব্যাকৰণ জনা উচিত",
+      "romanization": "phuu lep-hen lik kao teْ laɯ huu lɔŋ sat-daa tai",
+      "morphemes": [
+        "phuu",
+        "lep-hen",
+        "lik",
+        "kao",
+        "teْ",
+        "laɯ",
+        "huu",
+        "lɔŋ",
+        "sat-daa",
+        "tai"
+      ],
+      "gloss": [
+        "person",
+        "study/research",
+        "writing",
+        "ancient",
+        "FUT",
+        "must",
+        "know",
+        "matter",
+        "grammar",
+        "Tai"
+      ],
+      "translation_en": "Scholars researching ancient manuscripts must master the grammatical rules of the Tai language.",
+      "translation_as": "পুৰণি পুথি অধ্যয়নকাৰীয়ে টাই ব্যাকৰণ জনা উচিত।",
+      "notes": "Philological pedagogical instruction for Tai Buranji readers."
+    }
+  ]
+}

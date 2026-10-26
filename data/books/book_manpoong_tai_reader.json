@@ -1,0 +1,160 @@
+{
+  "book_id": "book_manpoong_tai_reader",
+  "title": "New Tai Reader Basic Book (Tai Lik Primer & Monastic Reader)",
+  "title_tai": "ပပ်ႉ လိၵ်ႈ သွၼ် တႆး မႂ်ႇ ၶွင်ႇ ၸဝ်ႈၶွၵ်ႉ မၢၼ်းပူင်ႇ",
+  "title_as": "নতুন টাই পাঠমালা (চৌ খৌক মানপুং)",
+  "author": "Chau Khouk Manpoong, M.A.",
+  "year": 1988,
+  "genre": "Educational Primer & Reader",
+  "category": "Pedagogical Primer & Monastic Reading Text",
+  "provenance": "Approved by Tai Literature Committee, Chongkham, Arunachal Pradesh & Assam (Resolutions 2 & 3, 5 April 1988); printed for schools and traditional monastic institutions; digitized by Internet Archive (NewTaiReaderBasicBookChowKhoukManpoong)",
+  "digitalized_from": "scratch/Manpoong_New_Tai_Reader.pdf",
+  "license": "Open Educational Resource (Tai Literature Committee)",
+  "total_sentences": 5,
+  "description": "Standard pedagogical primer published by the Tai Literature Committee for teaching the Lik Tai alphabet, tone markers, syllable structures, and basic village reading stories across Tai communities in Assam and Arunachal Pradesh.",
+  "units": [
+    {
+      "unit_id": "manpoong_u001",
+      "surface_tai": "မႄႈ လိၵ်ႈ တႆး မီး သိပ်း ၸဵတ်း တူဝ်",
+      "surface_assamese": "টাই বৰ্ণমালাত সোতৰটা মূল ব্যঞ্জনবৰ্ণ আছে",
+      "romanization": "mɛ́ lik tai mii sip cet too",
+      "morphemes": [
+        "mɛ́",
+        "lik",
+        "tai",
+        "mii",
+        "sip",
+        "cet",
+        "too"
+      ],
+      "gloss": [
+        "mother",
+        "letter/script",
+        "Tai",
+        "have",
+        "ten",
+        "seven",
+        "body/CLF"
+      ],
+      "translation_en": "The Tai alphabet consists of seventeen base consonants.",
+      "translation_as": "টাই বৰ্ণমালাত সোতৰটা মূল ব্যঞ্জনবৰ্ণ আছে।",
+      "notes": "Lesson 1 on the Tai script (ka, kha, nga, ca, sa, nya, ta, tha, na, pa, pha, ma, ya, ra, la, wa, ha, a)."
+    },
+    {
+      "unit_id": "manpoong_u002",
+      "surface_tai": "လုၵ်ႈ ဢွၼ်ႇ တင်းလၢႆ လူဝ်ႇ မေႃ ဢၢၼ်ႇ လိၵ်ႈ ၸဝ်ႈၵဝ်ႇ",
+      "surface_assamese": "সকলো শিশুৱে নিজৰ ভাষা-লিপি পঢ়িবলৈ শিকা উচিত",
+      "romanization": "luk ɔn taŋ-laai loo mɔ́ aan lik cao-kao",
+      "morphemes": [
+        "luk",
+        "ɔn",
+        "taŋ-laai",
+        "loo",
+        "mɔ́",
+        "aan",
+        "lik",
+        "cao-kao"
+      ],
+      "gloss": [
+        "child",
+        "little/young",
+        "all",
+        "must",
+        "know/skill",
+        "read",
+        "writing",
+        "oneself"
+      ],
+      "translation_en": "All children ought to learn to read their own native script.",
+      "translation_as": "সকলো শিশুৱে নিজৰ ভাষা-লিপি পঢ়িবলৈ শিকা উচিত।",
+      "notes": "Lesson 3 pedagogical injunction for traditional monastic and village schools."
+    },
+    {
+      "unit_id": "manpoong_u003",
+      "surface_tai": "ၼူၵ်ႉ ယူႇ တီႈ ၵိင်ႇ မႆႉ ႁွင်ႉ သဵင် မူၼ်ႈ",
+      "surface_assamese": "গছৰ ডালত চৰায়ে সুমধুৰ গান গাইছে",
+      "romanization": "nok yuu tii kiŋ maɯ hɔŋ seŋ mon",
+      "morphemes": [
+        "nok",
+        "yuu",
+        "tii",
+        "kiŋ",
+        "maɯ",
+        "hɔŋ",
+        "seŋ",
+        "mon"
+      ],
+      "gloss": [
+        "bird",
+        "stay/be",
+        "place",
+        "branch",
+        "tree/wood",
+        "call/sing",
+        "voice/tone",
+        "pleasant/sweet"
+      ],
+      "translation_en": "The bird perches on the tree branch and sings sweetly.",
+      "translation_as": "গছৰ ডালত চৰায়ে সুমধুৰ গান গাইছে।",
+      "notes": "Reading passage for vowel combinations and tone sandhi."
+    },
+    {
+      "unit_id": "manpoong_u004",
+      "surface_tai": "ၸၢင်ႉ ယႂ်ႇ လုၵ်ႉ ၼႂ်း တူင်ႇ ပႃႇ မႃး ၵိၼ် ဢွႆႈ",
+      "surface_assamese": "ডাঙৰ হাতীটো হাবিয়েদি কুঁহিয়াৰ খাবলৈ ওলাই আহিছে",
+      "romanization": "caaŋ yaɯ luk naɯ toŋ paa maa kin ɔi",
+      "morphemes": [
+        "caaŋ",
+        "yaɯ",
+        "luk",
+        "naɯ",
+        "toŋ",
+        "paa",
+        "maa",
+        "kin",
+        "ɔi"
+      ],
+      "gloss": [
+        "elephant",
+        "big",
+        "emerge",
+        "inside",
+        "wild",
+        "forest",
+        "come",
+        "eat",
+        "sugarcane"
+      ],
+      "translation_en": "The great elephant emerges from the forest to eat sugarcane.",
+      "translation_as": "ডাঙৰ হাতীটো হাবিয়েদি কুঁহিয়াৰ খাবলৈ ওলাই আহিছে।",
+      "notes": "Fauna reader: 'caaŋ' (elephant) and village agriculture interactions."
+    },
+    {
+      "unit_id": "manpoong_u005",
+      "surface_tai": "ႁဝ်း ပဵၼ် တႆး ႁၵ်ႉ ၽႃႇသႃႇ လႄႈ လိၵ်ႈလၢႆး",
+      "surface_assamese": "আমি টাই, আমি আমাৰ ভাষা আৰু সাহিত্যক ভাল পাওঁ",
+      "romanization": "hao pen tai hak phaa-saa lɛ lik-laai",
+      "morphemes": [
+        "hao",
+        "pen",
+        "tai",
+        "hak",
+        "phaa-saa",
+        "lɛ",
+        "lik-laai"
+      ],
+      "gloss": [
+        "1PL",
+        "be",
+        "Tai",
+        "love",
+        "language",
+        "and",
+        "literature/script"
+      ],
+      "translation_en": "We are Tai; we cherish our mother tongue and written literature.",
+      "translation_as": "আমি টাই, আমি আমাৰ ভাষা আৰু সাহিত্যক ভাল পাওঁ।",
+      "notes": "Closing anthem sentence of the New Tai Reader."
+    }
+  ]
+}

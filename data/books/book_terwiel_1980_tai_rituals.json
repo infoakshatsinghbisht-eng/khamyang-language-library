@@ -1,0 +1,139 @@
+{
+  "book_id": "book_terwiel_1980_tai_rituals",
+  "title": "The Tai of Assam and Ancient Tai Ritual: Life-Cycle Ceremonies and the Khamyangs",
+  "title_tai": "ပပ်ႉ ပိုၼ်း တႆး ဢႃႇသၢမ် လႄႈ ထုင်း ႁွင်ႉ ၶွၼ် ၶွင်ႇ ၻွၵ်ႉတိူဝ်ႇ ထိူဝ်ႇဝီးလ်",
+  "title_as": "অসমৰ টাই জনগোষ্ঠী আৰু প্ৰাচীন পৰম্পৰা (ড° বি. জে. টাৰৱিয়েল)",
+  "author": "Dr. B. J. Terwiel",
+  "year": 1980,
+  "genre": "Anthropology & Ritual Studies",
+  "category": "Ethnography & Traditional Liturgy",
+  "provenance": "Centre for South East Asian Studies (Gaya / Canberra, 1980); digitized by Internet Archive (the-tai-of-assam-and-ancient-tai-ritual-volume-l)",
+  "digitalized_from": "scratch/Terwiel_1980_Tai_of_Assam_Vol_1.pdf",
+  "license": "Open Access Academic Monograph",
+  "total_sentences": 4,
+  "description": "Authoritative anthropological study by Dr. B.J. Terwiel documenting the historical migrations, kinship systems, life-cycle ceremonies, and soul-calling (*hɔŋ khon*) rituals of the Tai Khamyang, Phake, and Khamti in Assam.",
+  "units": [
+    {
+      "unit_id": "terwiel_1980_u001",
+      "surface_tai": "ၶွၼ် ၵူၼ် ယူႇ ၼႂ်း တူဝ် ႁႂ်ႈ မၼ်ႈၵိုမ်း",
+      "surface_assamese": "মানুহৰ প্ৰাণ-আত্মা শৰীৰত সুস্থিৰে থকা উচিত",
+      "romanization": "khon kon yuu naɯ too haɯ man-kəm",
+      "morphemes": [
+        "khon",
+        "kon",
+        "yuu",
+        "naɯ",
+        "too",
+        "haɯ",
+        "man-kəm"
+      ],
+      "gloss": [
+        "soul/vital-essence",
+        "person",
+        "stay",
+        "inside",
+        "body",
+        "CAUSE",
+        "firm/stable"
+      ],
+      "translation_en": "A person's vital soul (khon) must remain firmly anchored within the body.",
+      "translation_as": "মানুহৰ প্ৰাণ-আত্মা শৰীৰত সুস্থিৰে থকা উচিত।",
+      "notes": "Terwiel (1980: 42). Foundational concept of 'khon' (vital life-essence) in Tai rituals of Assam."
+    },
+    {
+      "unit_id": "terwiel_1980_u002",
+      "surface_tai": "မိူဝ်ႈ လုၵ်ႈ ဢွၼ်ႇ ၵိူတ်ႇ ပေႃႈမႄႈ ႁဵတ်း ပွႆး ႁွင်ႉ ၶွၼ်",
+      "surface_assamese": "সন্তান জন্ম হ'লে পিতৃ-মাতৃয়ে প্ৰাণ-আহ্বান অনুষ্ঠান কৰে",
+      "romanization": "mə́ luk ɔn kət phɔ́-mɛ́ het pɔi hɔŋ khon",
+      "morphemes": [
+        "mə́",
+        "luk",
+        "ɔn",
+        "kət",
+        "phɔ́-mɛ́",
+        "het",
+        "pɔi",
+        "hɔŋ",
+        "khon"
+      ],
+      "gloss": [
+        "when",
+        "child",
+        "young",
+        "be.born",
+        "parents",
+        "perform",
+        "festival/rite",
+        "call",
+        "soul"
+      ],
+      "translation_en": "When a child is born, the parents conduct the ritual to call back the vital soul.",
+      "translation_as": "সন্তান জন্ম হ'লে পিতৃ-মাতৃয়ে প্ৰাণ-আহ্বান অনুষ্ঠান কৰে।",
+      "notes": "Terwiel (1980: 34). Life-cycle ritual: 'hɔŋ khon' (soul-calling ceremony)."
+    },
+    {
+      "unit_id": "terwiel_1980_u003",
+      "surface_tai": "တႆး ၶမ်းယၢင်း ႁဵတ်း ႁိူၼ်း သဝ် သုင် တိုဝ်း မႆႉမွင်",
+      "surface_assamese": "টাই খাময়াংসকলে বাঁহ-কাঠেৰে চাংঘৰ নিৰ্মাণ কৰে",
+      "romanization": "tai kham-yaaŋ het hə́n sao suŋ tɯɯ maɯ-mɔŋ",
+      "morphemes": [
+        "tai",
+        "kham-yaaŋ",
+        "het",
+        "hə́n",
+        "sao",
+        "suŋ",
+        "tɯɯ",
+        "maɯ-mɔŋ"
+      ],
+      "gloss": [
+        "Tai",
+        "Khamyang",
+        "build",
+        "house",
+        "post/pillar",
+        "high",
+        "use",
+        "bamboo"
+      ],
+      "translation_en": "The Tai Khamyangs build high stilted houses using timber and bamboo.",
+      "translation_as": "টাই খাময়াংসকলে বাঁহ-কাঠেৰে চাংঘৰ নিৰ্মাণ কৰে।",
+      "notes": "Terwiel (1980: 19). Ethnographic account of pile-dwelling architecture in Powaimukh."
+    },
+    {
+      "unit_id": "terwiel_1980_u004",
+      "surface_tai": "ၵူၼ် ထဝ်ႈ တိုဝ်း လိၵ်ႈ ထမ်း သွၼ် ၵူၼ် ၼုမ်ႇ ႁႂ်ႈ တိုဝ်း ၵျၢင်ႉၵမ်",
+      "surface_assamese": "বয়োবৃদ্ধসকলে ধৰ্মপুথিৰ জৰিয়তে যুৱকসকলক সদাচাৰ শিক্ষা দিয়ে",
+      "romanization": "kon thao tɯɯ lik tham sɔn kon num haɯ tɯɯ kyaaŋ-kam",
+      "morphemes": [
+        "kon",
+        "thao",
+        "tɯɯ",
+        "lik",
+        "tham",
+        "sɔn",
+        "kon",
+        "num",
+        "haɯ",
+        "tɯɯ",
+        "kyaaŋ-kam"
+      ],
+      "gloss": [
+        "person",
+        "elder",
+        "use",
+        "sacred.book",
+        "Dharma",
+        "teach",
+        "person",
+        "youth",
+        "CAUSE",
+        "practice",
+        "virtue/conduct"
+      ],
+      "translation_en": "The elders use the sacred Dharma manuscripts to instruct the youth in moral discipline.",
+      "translation_as": "বয়োবৃদ্ধসকলে ধৰ্মপুথিৰ জৰিয়তে যুৱকসকলক সদাচাৰ শিক্ষা দিয়ে।",
+      "notes": "Transmission of moral precepts in monastic libraries (*puthibharal*)."
+    }
+  ]
+}

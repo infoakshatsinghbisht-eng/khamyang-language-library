@@ -1,0 +1,1791 @@
+{
+  "id": "book_lik_mahosatha",
+  "title_khamyang": "Lik4 Mahosatha1: Chaw3 Mahosatha1 Kap4 Nang1 Amaraa1",
+  "title_english": "Lik Mahosatha: The Wisdom of Great Mahosadha and Lady Amara",
+  "genre": "buddhist_jataka_chronicle",
+  "informant": "Ee Nyan Khet & Namphakey Monks",
+  "village": "Namphakey / Powaimukh corridor",
+  "audio_ref": "1-4-3-1.mp3",
+  "description": "Classical Tai Buddhist wisdom narrative from the Mahosadha Jataka recounting the intellectual riddles, ethical trials, and profound wisdom of Bodhisatta Mahosadha.",
+  "source_archive": "SEAlang Library / Stephen Morey Archive (Tai Manuscripts of Assam)",
+  "sentence_count": 60,
+  "units": [
+    {
+      "id": "unit_001",
+      "text_roman": "tsau3 yang2 haang3 nvng1 kuu5 sam1 nav2 tsav2",
+      "lik_tai": "ၸဝ်ႈ ယင်ႇ ႁႃင်ႈ ၼင် ၵႉ ꩢမ် ၼႇ ၸႇ",
+      "assamese_script": "চাও³ যাঙ² হাঙ³ নঙ¹ ক⁵ সাম¹ ন² চ²",
+      "ipa": "[tɕau˨˩̰] [jaŋ˥˦] [haːŋ˨˩̰] [nvŋ˧˧] [kuu˧˩] [sam˧˧] [nav˥˦] [tɕav˥˦]",
+      "morphemes": [
+        "tsau3",
+        "yang2",
+        "haang3",
+        "nvng1",
+        "kuu5",
+        "sam1",
+        "nav2",
+        "tsav2"
+      ],
+      "glosses": [
+        "RESP",
+        "be",
+        "arrange",
+        "like this",
+        "every",
+        "sort",
+        "in",
+        "heart"
+      ],
+      "translation": "He thought like this in his heart,",
+      "translation_assamese": "অসমীয়া অৰ্থ: He thought like this in his heart,",
+      "audio_file": null,
+      "notes": "* It was stated that kUsM kU5 sam1 had the same meaning as kUfnq kU5 phan2 'every sort'"
+    },
+    {
+      "id": "unit_002",
+      "text_roman": "mn2 tak1 waa5 thaam6 pzn5 naang2 ngaam2",
+      "lik_tai": "မၼ်ႇ တၵ် ဝႃႉ ထႃမ်ႊ ပၼ်ႉ ၼႃင်ႇ ငႃမ်ႇ",
+      "assamese_script": "মন² তাক্‌¹ ৱা⁵ থাম⁶ পন⁵ নাঙ² ঙাম²",
+      "ipa": "[mn˥˦] [tak˧˧] [waː˧˩] [tʰaːm˧˥] [pzn˧˩] [naːŋ˥˦] [ŋaːm˥˦]",
+      "morphemes": [
+        "mn2",
+        "tak1",
+        "waa5",
+        "thaam6",
+        "pzn5",
+        "naang2",
+        "ngaam2"
+      ],
+      "glosses": [
+        "Buddha",
+        "will",
+        "say",
+        "ask",
+        "other",
+        "lady",
+        "beautiful"
+      ],
+      "translation": "I will ask this beautiful lady by means of hidden words.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will ask this beautiful lady by means of hidden words.",
+      "audio_file": null,
+      "notes": "* Ngi Kheng pointed out that this should be translated into the 1st person pronoun in this context, but it refers to the Buddha"
+    },
+    {
+      "id": "unit_003",
+      "text_roman": "maang2 tsvng1 pi2 kam2 mv2 yvn5 mn2",
+      "lik_tai": "မႃင်ႇ ၸင် ပိႇ ၵမ်ႇ မႇ ယၼ်ႉ မၼ်ႇ",
+      "assamese_script": "মাঙ² চঙ¹ পি² কাম² ম² যন⁵ মন²",
+      "ipa": "[maːŋ˥˦] [tɕvŋ˧˧] [pi˥˦] [kam˥˦] [mv˥˦] [jvn˧˩] [mn˥˦]",
+      "morphemes": [
+        "maang2",
+        "tsvng1",
+        "pi2",
+        "kam2",
+        "mv2",
+        "yvn5",
+        "mn2"
+      ],
+      "glosses": [
+        "Bodhisatva",
+        "then",
+        "after",
+        "grasp",
+        "hand",
+        "offer",
+        "excellent woman"
+      ],
+      "translation": "The Bodhisatva then made a fist and offered it to this excellent woman in front of him.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The Bodhisatva then made a fist and offered it to this excellent woman in front of him.",
+      "audio_file": null,
+      "notes": "* Ngi Kheng stated that cgqpoj cvN1 pqi2 was similar in meaning to cgqnj cvN1 nai4 'now'."
+    },
+    {
+      "id": "unit_004",
+      "text_roman": "yang6 mii2 waa5 auk1 kh3 saa1 sak1 kam2",
+      "lik_tai": "ယင်ႊ မႇ ဝႃႉ ဢဝ်ၵ် ၶႈ ꩢႃ ꩢၵ် ၵမ်ႇ",
+      "assamese_script": "যাঙ⁶ ম² ৱা⁵ ঔক্‌¹ খ³ সা¹ সাক্‌¹ কাম²",
+      "ipa": "[jaŋ˧˥] [mii˥˦] [waː˧˩] [auk˧˧] [kʰ˨˩̰] [saː˧˧] [sak˧˧] [kam˥˦]",
+      "morphemes": [
+        "yang6",
+        "mii2",
+        "waa5",
+        "auk1",
+        "kh3",
+        "saa1",
+        "sak1",
+        "kam2"
+      ],
+      "glosses": [
+        "NEG-have",
+        "have",
+        "say",
+        "come out",
+        "words",
+        "good",
+        "clear",
+        "word"
+      ],
+      "translation": "No clear words came out.",
+      "translation_assamese": "অসমীয়া অৰ্থ: No clear words came out.",
+      "audio_file": null,
+      "notes": "* When reading this, Ee Nyan Khet pronounced this word as [yaN2]. When revising this section, she stated that the word was [yzN5], a bookish way of saying mau1 mI2 'NEG-have'."
+    },
+    {
+      "id": "unit_005",
+      "text_roman": "yaam2 nan4 mi5 tsi3 hun1 phaa4 tsav2 sjn3",
+      "lik_tai": "ယႃမ်ႇ ၼၼ်း မိႉ ၸိႈ ႁုၼ် ၽႃး ၸႇ ꩢၼ်ႈ",
+      "assamese_script": "যাম² নান⁴ মি⁵ চি³ হুন¹ ফা⁴ চ² সন³",
+      "ipa": "[jaːm˥˦] [nan˥˦ʔ] [mi˧˩] [tɕi˨˩̰] [hun˧˧] [pʰaː˥˦ʔ] [tɕav˥˦] [sjn˨˩̰]",
+      "morphemes": [
+        "yaam2",
+        "nan4",
+        "mi5",
+        "tsi3",
+        "hun1",
+        "phaa4",
+        "tsav2",
+        "sjn3"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "pleasant face",
+        "lady",
+        "golden",
+        "sky",
+        "mind",
+        "beautiful"
+      ],
+      "translation": "At that time, the lady with the pleasant face, she of the beautiful mind, (thought), ",
+      "translation_assamese": "অসমীয়া অৰ্থ: At that time, the lady with the pleasant face, she of the beautiful mind, (thought), ",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_006",
+      "text_roman": "tsaan2 pjn2 mv2 yok4 khjn6 khaa6 hav3 tsaing5",
+      "lik_tai": "ၸႃၼ်ႇ ပၼ်ႇ မႇ ယူၵ်း ၶၼ်ႊ ၶႃႊ ႁႈ ၸႆင်ႉ",
+      "assamese_script": "চান² পন² ম² যোক্‌⁴ খন⁶ খা⁶ হ³ চাইঙ⁵",
+      "ipa": "[tɕaːn˥˦] [pjn˥˦] [mv˥˦] [jok˥˦ʔ] [kʰjn˧˥] [kʰaː˧˥] [hav˨˩̰] [tɕaiŋ˧˩]",
+      "morphemes": [
+        "tsaan2",
+        "pjn2",
+        "mv2",
+        "yok4",
+        "khjn6",
+        "khaa6",
+        "hav3",
+        "tsaing5"
+      ],
+      "glosses": [
+        "now",
+        "to project",
+        "hand",
+        "raise",
+        "arm",
+        "right",
+        "GIVE",
+        "know"
+      ],
+      "translation": "Then she raised her right hand so that (he) would know.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then she raised her right hand so that (he) would know.",
+      "audio_file": null,
+      "notes": "* Ngi Kheng stated that this should be cvn5 (clear)."
+    },
+    {
+      "id": "unit_007",
+      "text_roman": "saing6 naau2 phaa4 a1 k4",
+      "lik_tai": "ꩢႆင်ႊ ၼႃဝ်ႇ ၽႃး ဢႃ ၵး",
+      "assamese_script": "সাইঙ⁶ নাও² ফা⁴ অ¹ ক⁴",
+      "ipa": "[saiŋ˧˥] [naːu˥˦] [pʰaː˥˦ʔ] [a˧˧] [k˥˦ʔ]",
+      "morphemes": [
+        "saing6",
+        "naau2",
+        "phaa4",
+        "a1",
+        "k4"
+      ],
+      "glosses": [
+        "diamond",
+        "star",
+        "RESP",
+        "Bodhisatva",
+        "LINK"
+      ],
+      "translation": "(With a mind) Like a diamond star, the Bodhisatva.",
+      "translation_assamese": "অসমীয়া অৰ্থ: (With a mind) Like a diamond star, the Bodhisatva.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_008",
+      "text_roman": "tsvng1 tak1 huu4 khing2 naang2 yuu1 lt4",
+      "lik_tai": "ၸင် တၵ် ႁး ၶိင်ႇ ၼႃင်ႇ ယ လတ်း",
+      "assamese_script": "চঙ¹ তাক্‌¹ হ⁴ খিঙ² নাঙ² য¹ লত্‌⁴",
+      "ipa": "[tɕvŋ˧˧] [tak˧˧] [huu˥˦ʔ] [kʰiŋ˥˦] [naːŋ˥˦] [juu˧˧] [lt˥˦ʔ]",
+      "morphemes": [
+        "tsvng1",
+        "tak1",
+        "huu4",
+        "khing2",
+        "naang2",
+        "yuu1",
+        "lt4"
+      ],
+      "glosses": [
+        "so",
+        "will",
+        "know",
+        "body",
+        "lady",
+        "be at",
+        "free"
+      ],
+      "translation": "Knew that the girl was free (unmarried).",
+      "translation_assamese": "অসমীয়া অৰ্থ: Knew that the girl was free (unmarried).",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_009",
+      "text_roman": "mz5 nan4 tsau3 tsvng1 si5 taan3 seng6 waan6 thaam6 kam2",
+      "lik_tai": "မႉ ၼၼ်း ၸဝ်ႈ ၸင် ꩢိႉ တႃၼ်ႈ ေꩢင်ႊ ဝႃၼ်ႊ ထႃမ်ႊ ၵမ်ႇ",
+      "assamese_script": "ম⁵ নান⁴ চাও³ চঙ¹ সি⁵ তান³ সেঙ⁶ ৱান⁶ থাম⁶ কাম²",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [tɕau˨˩̰] [tɕvŋ˧˧] [si˧˩] [taːn˨˩̰] [seŋ˧˥] [waːn˧˥] [tʰaːm˧˥] [kam˥˦]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "tsau3",
+        "tsvng1",
+        "si5",
+        "taan3",
+        "seng6",
+        "waan6",
+        "thaam6",
+        "kam2"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "RESP",
+        "then",
+        "repeat",
+        "speak",
+        "sound",
+        "sweet",
+        "ask",
+        "word"
+      ],
+      "translation": "Then the respected lord again asked with sweet words.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the respected lord again asked with sweet words.",
+      "audio_file": null,
+      "notes": "Ngi Kheng stated that this meant tnqxoMAonq taan3 khaam2 qn2 'repeat again.' (Literally 'say word before')"
+    },
+    {
+      "id": "unit_010",
+      "text_roman": "waa5 khaam2 phuu3 yzng5 nvng1 phaa4 tsen5 hun2 tsn2",
+      "lik_tai": "ဝႃႉ ၶႃမ်ႇ ၽႈ ယင်ႉ ၼင် ၽႃး ေၸၼ်ႉ ႁုၼ်ႇ ၸၼ်ႇ",
+      "assamese_script": "ৱা⁵ খাম² ফ³ যঙ⁵ নঙ¹ ফা⁴ চেন⁵ হুন² চন²",
+      "ipa": "[waː˧˩] [kʰaːm˥˦] [pʰuu˨˩̰] [jzŋ˧˩] [nvŋ˧˧] [pʰaː˥˦ʔ] [tɕen˧˩] [hun˥˦] [tɕn˥˦]",
+      "morphemes": [
+        "waa5",
+        "khaam2",
+        "phuu3",
+        "yzng5",
+        "nvng1",
+        "phaa4",
+        "tsen5",
+        "hun2",
+        "tsn2"
+      ],
+      "glosses": [
+        "Oh",
+        "word",
+        "person",
+        "like",
+        "like",
+        "God",
+        "decorate",
+        "gold",
+        "very pure"
+      ],
+      "translation": "Oh!, the words of this person were like the purest gold of God.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh!, the words of this person were like the purest gold of God.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_011",
+      "text_roman": "ngau2 thn2 hz5 ngaam2 to2 mau1 tzk3",
+      "lik_tai": "ငဝ်ႇ ထၼ်ႇ ႁႉ ငႃမ်ႇ တူႇ မဝ် တၵ်ႈ",
+      "assamese_script": "ঙাও² থন² হ⁵ ঙাম² তো² মাও¹ তক্‌³",
+      "ipa": "[ŋau˥˦] [tʰn˥˦] [hz˧˩] [ŋaːm˥˦] [to˥˦] [mau˧˧] [tzk˨˩̰]",
+      "morphemes": [
+        "ngau2",
+        "thn2",
+        "hz5",
+        "ngaam2",
+        "to2",
+        "mau1",
+        "tzk3"
+      ],
+      "glosses": [
+        "shadow",
+        "shine",
+        "glitter",
+        "beautiful",
+        "body",
+        "NEG",
+        "finish"
+      ],
+      "translation": "which (cover) his glittering, shining body without finishing.",
+      "translation_assamese": "অসমীয়া অৰ্থ: which (cover) his glittering, shining body without finishing.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_012",
+      "text_roman": "tsav2 phaai6 yzng5 pun2 saing6 nat1 sv5",
+      "lik_tai": "ၸႇ ၽႃႆႊ ယင်ႉ ပုၼ်ႇ ꩢႆင်ႊ ၼတ် ꩢႉ",
+      "assamese_script": "চ² ফাই⁶ যঙ⁵ পুন² সাইঙ⁶ নাত্‌¹ স⁵",
+      "ipa": "[tɕav˥˦] [pʰaːi˧˥] [jzŋ˧˩] [pun˥˦] [saiŋ˧˥] [nat˧˧] [sv˧˩]",
+      "morphemes": [
+        "tsav2",
+        "phaai6",
+        "yzng5",
+        "pun2",
+        "saing6",
+        "nat1",
+        "sv5"
+      ],
+      "glosses": [
+        "mind",
+        "sharp",
+        "like",
+        "arrow",
+        "diamond",
+        "straight",
+        "straight"
+      ],
+      "translation": "(With a) mind sharp as a straight diamond arrow,",
+      "translation_assamese": "অসমীয়া অৰ্থ: (With a) mind sharp as a straight diamond arrow,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_013",
+      "text_roman": "sii1 pen2 kjn2 tsv2 tj4 waa5 hv6 nan4 ki3",
+      "lik_tai": "ꩢ ေပၼ်ႇ ၵၼ်ႇ ၸႇ တး ဝႃႉ ႁႊ ၼၼ်း ၵိႈ",
+      "assamese_script": "স¹ পেন² কন² চ² ত⁴ ৱা⁵ হ⁶ নান⁴ কি³",
+      "ipa": "[sii˧˧] [pen˥˦] [kjn˥˦] [tɕv˥˦] [tj˥˦ʔ] [waː˧˩] [hv˧˥] [nan˥˦ʔ] [ki˨˩̰]",
+      "morphemes": [
+        "sii1",
+        "pen2",
+        "kjn2",
+        "tsv2",
+        "tj4",
+        "waa5",
+        "hv6",
+        "nan4",
+        "ki3"
+      ],
+      "glosses": [
+        "PRT",
+        "be",
+        "certain",
+        "name",
+        "true",
+        "say",
+        "what",
+        "that",
+        "PRT"
+      ],
+      "translation": "Tell (me) what your true name is.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Tell (me) what your true name is.",
+      "audio_file": null,
+      "notes": "* Ngi Kheng stated that this should be kjn2, and stated that the meaning was lkqpin lak1 pen2 or kiNqpin kjn2 pen2."
+    },
+    {
+      "id": "unit_014",
+      "text_roman": "nai3 tst4 yt4 phaa4 laat4",
+      "lik_tai": "ၼႆႈ ၸတ်း ယတ်း ၽႃး လႃတ်း",
+      "assamese_script": "নাই³ চত্‌⁴ যত্‌⁴ ফা⁴ লাত্‌⁴",
+      "ipa": "[nai˨˩̰] [tɕt˥˦ʔ] [jt˥˦ʔ] [pʰaː˥˦ʔ] [laːt˥˦ʔ]",
+      "morphemes": [
+        "nai3",
+        "tst4",
+        "yt4",
+        "phaa4",
+        "laat4"
+      ],
+      "glosses": [
+        "hear",
+        "PRT",
+        "youngest part",
+        "RESP",
+        "speak"
+      ],
+      "translation": "The excellent young shoot again repeated the sweet words.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The excellent young shoot again repeated the sweet words.",
+      "audio_file": null,
+      "notes": "* Note Shan cotqHcotqH 'murmuringly, with a low tone', and cotq:cotq: 'very inspidly.'"
+    },
+    {
+      "id": "unit_015",
+      "text_roman": "naang2 nii2 khaan6 seng6 tp1 lam2 ki3 ke3",
+      "lik_tai": "ၼႃင်ႇ ၼႇ ၶႃၼ်ႊ ေꩢင်ႊ တပ် လမ်ႇ ၵိႈ ေၵႈ",
+      "assamese_script": "নাঙ² ন² খান⁶ সেঙ⁶ তপ্‌¹ লাম² কি³ কে³",
+      "ipa": "[naːŋ˥˦] [nii˥˦] [kʰaːn˧˥] [seŋ˧˥] [tp˧˧] [lam˥˦] [ki˨˩̰] [ke˨˩̰]",
+      "morphemes": [
+        "naang2",
+        "nii2",
+        "khaan6",
+        "seng6",
+        "tp1",
+        "lam2",
+        "ki3",
+        "ke3"
+      ],
+      "glosses": [
+        "lady",
+        "good",
+        "answer",
+        "sound",
+        "reply",
+        "repeat",
+        "PRT",
+        "answer"
+      ],
+      "translation": "Then the good lady answered in response to him.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the good lady answered in response to him.",
+      "audio_file": null,
+      "notes": "* kqi3 kj3 was translated as 'begin to answer'.Ngi Kheng did not give an analysis for the phrase kojek. It may be based on Shan WkH 'untie, find a solution'."
+    },
+    {
+      "id": "unit_016",
+      "text_roman": "tsem2 kaa1 paan2 n2 ik1 tsuu5 nai4",
+      "lik_tai": "ေၸမ်ႇ ၵႃ ပႃၼ်ႇ ၼႇ ဢိၵ် ၸႉ ၼႆး",
+      "assamese_script": "চেম² কা¹ পান² ন² ইক্‌¹ চ⁵ নাই⁴",
+      "ipa": "[tɕem˥˦] [kaː˧˧] [paːn˥˦] [n˥˦] [ik˧˧] [tɕuu˧˩] [nai˥˦ʔ]",
+      "morphemes": [
+        "tsem2",
+        "kaa1",
+        "paan2",
+        "n2",
+        "ik1",
+        "tsuu5",
+        "nai4"
+      ],
+      "glosses": [
+        "since",
+        "GO",
+        "life",
+        "before",
+        "again",
+        "time",
+        "this"
+      ],
+      "translation": "From the past time, from the present time,",
+      "translation_assamese": "অসমীয়া অৰ্থ: From the past time, from the present time,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_017",
+      "text_roman": "khat1 tsuu5 hvng6 hii2",
+      "lik_tai": "ၶတ် ၸႉ ႁင်ႊ ႁႇ",
+      "assamese_script": "খাত্‌¹ চ⁵ হঙ⁶ হ²",
+      "ipa": "[kʰat˧˧] [tɕuu˧˩] [hvŋ˧˥] [hii˥˦]",
+      "morphemes": [
+        "khat1",
+        "tsuu5",
+        "hvng6",
+        "hii2"
+      ],
+      "glosses": [
+        "up until",
+        "time",
+        "long time",
+        "long"
+      ],
+      "translation": "From the time long, long ago,",
+      "translation_assamese": "অসমীয়া অৰ্থ: From the time long, long ago,",
+      "audio_file": null,
+      "notes": "Chaichuen Khamdaengyodthai stated that this was xtq:xjH 'search, trace, from this day to the present' in Shan, from xtq: 'press apart' and xjH 'follow closely'."
+    },
+    {
+      "id": "unit_018",
+      "text_roman": "han4 kaa1 naa3 tak1 maa2",
+      "lik_tai": "ႁၼ်း ၵႃ ၼႃႈ တၵ် မႃႇ",
+      "assamese_script": "হান⁴ কা¹ না³ তাক্‌¹ মা²",
+      "ipa": "[han˥˦ʔ] [kaː˧˧] [naː˨˩̰] [tak˧˧] [maː˥˦]",
+      "morphemes": [
+        "han4",
+        "kaa1",
+        "naa3",
+        "tak1",
+        "maa2"
+      ],
+      "glosses": [
+        "then",
+        "GO",
+        "future",
+        "will",
+        "come"
+      ],
+      "translation": "From then on until the future.",
+      "translation_assamese": "অসমীয়া অৰ্থ: From then on until the future.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_019",
+      "text_roman": "naang2 mau1 laa1 saa1 mk1 khun2 ngin2",
+      "lik_tai": "ၼႃင်ႇ မဝ် လႃ ꩢႃ မၵ် ၶုၼ်ႇ ငိၼ်ႇ",
+      "assamese_script": "নাঙ² মাও¹ লা¹ সা¹ মক্‌¹ খুন² ঙিন²",
+      "ipa": "[naːŋ˥˦] [mau˧˧] [laː˧˧] [saː˧˧] [mk˧˧] [kʰun˥˦] [ŋin˥˦]",
+      "morphemes": [
+        "naang2",
+        "mau1",
+        "laa1",
+        "saa1",
+        "mk1",
+        "khun2",
+        "ngin2"
+      ],
+      "glosses": [
+        "lady",
+        "NEG",
+        "",
+        "",
+        "tell",
+        "prince",
+        "hear"
+      ],
+      "translation": "Then he went up to her and asked her name. She said 'My name is that which neither is, nor was, nor ever shall be.' 'Madam, there is nothing in the world immortal, and your name must be Amar¿, the Immortal.' 'Even so, master.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then he went up to her and asked her name. She said 'My name is that which neither is, nor was, nor ever shall be.' 'Madam, there is nothing in the world immortal, and your name must be Amar¿, the Immortal.' 'Even so, master.",
+      "audio_file": null,
+      "notes": "Cowell (1990:182) gives the following translation of this whole passage:"
+    },
+    {
+      "id": "unit_020",
+      "text_roman": "saing6 naau2 kham2 k4 huu4 yaam2 neu2 kh3 sv5",
+      "lik_tai": "ꩢႆင်ႊ ၼႃဝ်ႇ ၶမ်ႇ ၵး ႁး ယႃမ်ႇ ၼိုႇ ၶႈ ꩢႉ",
+      "assamese_script": "সাইঙ⁶ নাও² খাম² ক⁴ হ⁴ যাম² নু² খ³ স⁵",
+      "ipa": "[saiŋ˧˥] [naːu˥˦] [kʰam˥˦] [k˥˦ʔ] [huu˥˦ʔ] [jaːm˥˦] [nɯ˥˦] [kʰ˨˩̰] [sv˧˩]",
+      "morphemes": [
+        "saing6",
+        "naau2",
+        "kham2",
+        "k4",
+        "huu4",
+        "yaam2",
+        "neu2",
+        "kh3",
+        "sv5"
+      ],
+      "glosses": [
+        "diamond",
+        "star",
+        "gold",
+        "LINK",
+        "know",
+        "time",
+        "single",
+        "word",
+        "straight"
+      ],
+      "translation": "The golden diamond star knew the correct meaning of her words.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The golden diamond star knew the correct meaning of her words.",
+      "audio_file": null,
+      "notes": "* This refers to Mahosatha."
+    },
+    {
+      "id": "unit_021",
+      "text_roman": "kaa5 tsv5 lum5 l1 pzng1 kon2",
+      "lik_tai": "ၵႃႉ ၸႉ လုမ်ႉ လ ပင် ၵူၼ်ႇ",
+      "assamese_script": "কা⁵ চ⁵ লুম⁵ ল¹ পঙ¹ কোন²",
+      "ipa": "[kaː˧˩] [tɕv˧˩] [lum˧˩] [l˧˧] [pzŋ˧˧] [kon˥˦]",
+      "morphemes": [
+        "kaa5",
+        "tsv5",
+        "lum5",
+        "l1",
+        "pzng1",
+        "kon2"
+      ],
+      "glosses": [
+        "all",
+        "name",
+        "universe",
+        "law of nature",
+        "rule",
+        "person"
+      ],
+      "translation": "Among all things, among the law of nature and humans,",
+      "translation_assamese": "অসমীয়া অৰ্থ: Among all things, among the law of nature and humans,",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_022",
+      "text_roman": "phav6 yang6 wj5 taang2 pzng2 hv6",
+      "lik_tai": "ၽႊ ယင်ႊ ဝႉ တႃင်ႇ ပင်ႇ ႁႊ",
+      "assamese_script": "ফ⁶ যাঙ⁶ ৱ⁵ তাঙ² পঙ² হ⁶",
+      "ipa": "[pʰav˧˥] [jaŋ˧˥] [wj˧˩] [taːŋ˥˦] [pzŋ˥˦] [hv˧˥]",
+      "morphemes": [
+        "phav6",
+        "yang6",
+        "wj5",
+        "taang2",
+        "pzng2",
+        "hv6"
+      ],
+      "glosses": [
+        "who",
+        "have.NEG",
+        "avoid",
+        "death",
+        "way",
+        "how"
+      ],
+      "translation": "There is no way for anybody to avoid death.",
+      "translation_assamese": "অসমীয়া অৰ্থ: There is no way for anybody to avoid death.",
+      "audio_file": null,
+      "notes": "*When a verb is to be nominalised, the word tgq (tAN2 'way')is prefixed."
+    },
+    {
+      "id": "unit_023",
+      "text_roman": "svng6 nan4 saai6 hung5 hik4 tsv5 am1 phuu3 saa5",
+      "lik_tai": "ꩢင်ႊ ၼၼ်း ꩢႃႆႊ ႁုင်ႉ ႁိၵ်း ၸႉ ဢမ် ၽႈ ꩢႃႉ",
+      "assamese_script": "সঙ⁶ নান⁴ সাই⁶ হুঙ⁵ হিক্‌⁴ চ⁵ অম¹ ফ³ সা⁵",
+      "ipa": "[svŋ˧˥] [nan˥˦ʔ] [saːi˧˥] [huŋ˧˩] [hik˥˦ʔ] [tɕv˧˩] [am˧˧] [pʰuu˨˩̰] [saː˧˩]",
+      "morphemes": [
+        "svng6",
+        "nan4",
+        "saai6",
+        "hung5",
+        "hik4",
+        "tsv5",
+        "am1",
+        "phuu3",
+        "saa5"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "lineage",
+        "bright",
+        "call",
+        "name",
+        "Ampala",
+        "person",
+        "famous"
+      ],
+      "translation": "Like that he of the bright lineage called her the famous lady Ampala.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Like that he of the bright lineage called her the famous lady Ampala.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_024",
+      "text_roman": "naang2 nii2 z2 kam2 mauk1 kaa5 sv5",
+      "lik_tai": "ၼႃင်ႇ ၼႇ ဢႇ ၵမ်ႇ မဝ်ၵ် ၵႃႉ ꩢႉ",
+      "assamese_script": "নাঙ² ন² অ² কাম² মাওক্‌¹ কা⁵ স⁵",
+      "ipa": "[naːŋ˥˦] [nii˥˦] [z˥˦] [kam˥˦] [mauk˧˧] [kaː˧˩] [sv˧˩]",
+      "morphemes": [
+        "naang2",
+        "nii2",
+        "z2",
+        "kam2",
+        "mauk1",
+        "kaa5",
+        "sv5"
+      ],
+      "glosses": [
+        "lady",
+        "good",
+        "YES",
+        "word",
+        "tell",
+        "at",
+        "straight"
+      ],
+      "translation": "That good lady spoke clearly and at once.",
+      "translation_assamese": "অসমীয়া অৰ্থ: That good lady spoke clearly and at once.",
+      "audio_file": null,
+      "notes": "* AJwqkM z2 kam2  means 'to answer \"Yes\"'. Here z2 is behaving like a verb."
+    },
+    {
+      "id": "unit_025",
+      "text_roman": "tsav2 hung5 phaa4 ma1 laai2 thaam6",
+      "lik_tai": "ၸႇ ႁုင်ႉ ၽႃး မႃ လႃႆႇ ထႃမ်ႊ",
+      "assamese_script": "চ² হুঙ⁵ ফা⁴ মা¹ লাই² থাম⁶",
+      "ipa": "[tɕav˥˦] [huŋ˧˩] [pʰaː˥˦ʔ] [ma˧˧] [laːi˥˦] [tʰaːm˧˥]",
+      "morphemes": [
+        "tsav2",
+        "hung5",
+        "phaa4",
+        "ma1",
+        "laai2",
+        "thaam6"
+      ],
+      "glosses": [
+        "mind",
+        "bright",
+        "king",
+        "Mahosatha",
+        "manner",
+        "ask"
+      ],
+      "translation": "The bright mind, our Lord Mahosatha, asked her (again):",
+      "translation_assamese": "অসমীয়া অৰ্থ: The bright mind, our Lord Mahosatha, asked her (again):",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_026",
+      "text_roman": "t5 tsi4 tak1 phaai3 kaa1 naa3 tsm2 phav6",
+      "lik_tai": "တႉ ၸိး တၵ် ၽႃႆႈ ၵႃ ၼႃႈ ၸမ်ႇ ၽႊ",
+      "assamese_script": "ত⁵ চি⁴ তাক্‌¹ ফাই³ কা¹ না³ চম² ফ⁶",
+      "ipa": "[t˧˩] [tɕi˥˦ʔ] [tak˧˧] [pʰaːi˨˩̰] [kaː˧˧] [naː˨˩̰] [tɕm˥˦] [pʰav˧˥]",
+      "morphemes": [
+        "t5",
+        "tsi4",
+        "tak1",
+        "phaai3",
+        "kaa1",
+        "naa3",
+        "tsm2",
+        "phav6"
+      ],
+      "glosses": [
+        "now",
+        "lady",
+        "will",
+        "walk",
+        "GO",
+        "front",
+        "follow",
+        "who"
+      ],
+      "translation": "Now, Oh lady, who are following?",
+      "translation_assamese": "অসমীয়া অৰ্থ: Now, Oh lady, who are following?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_027",
+      "text_roman": "pzng2 nav6 mauk1 khun6 ngin2 hav3 tsaing5 nuu2 lj4",
+      "lik_tai": "ပင်ႇ ၼႊ မဝ်ၵ် ၶုၼ်ႊ ငိၼ်ႇ ႁႈ ၸႆင်ႉ ၼႇ လး",
+      "assamese_script": "পঙ² ন⁶ মাওক্‌¹ খুন⁶ ঙিন² হ³ চাইঙ⁵ ন² ল⁴",
+      "ipa": "[pzŋ˥˦] [nav˧˥] [mauk˧˧] [kʰun˧˥] [ŋin˥˦] [hav˨˩̰] [tɕaiŋ˧˩] [nuu˥˦] [lj˥˦ʔ]",
+      "morphemes": [
+        "pzng2",
+        "nav6",
+        "mauk1",
+        "khun6",
+        "ngin2",
+        "hav3",
+        "tsaing5",
+        "nuu2",
+        "lj4"
+      ],
+      "glosses": [
+        "way",
+        "what",
+        "tell",
+        "prince",
+        "hear",
+        "GIVE",
+        "know clearly",
+        "(look)",
+        "PRT"
+      ],
+      "translation": "Tell me so that I may clearly know.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Tell me so that I may clearly know.",
+      "audio_file": null,
+      "notes": "Chaichuen stated that mokqnUel mauk1 nU2 lj4 should be translated as  'please tell me.'"
+    },
+    {
+      "id": "unit_028",
+      "text_roman": "naang2 k4 khe2 seng6 tp1 khaam2 tsau3",
+      "lik_tai": "ၼႃင်ႇ ၵး ေၶႇ ေꩢင်ႊ တပ် ၶႃမ်ႇ ၸဝ်ႈ",
+      "assamese_script": "নাঙ² ক⁴ খে² সেঙ⁶ তপ্‌¹ খাম² চাও³",
+      "ipa": "[naːŋ˥˦] [k˥˦ʔ] [kʰe˥˦] [seŋ˧˥] [tp˧˧] [kʰaːm˥˦] [tɕau˨˩̰]",
+      "morphemes": [
+        "naang2",
+        "k4",
+        "khe2",
+        "seng6",
+        "tp1",
+        "khaam2",
+        "tsau3"
+      ],
+      "glosses": [
+        "lady",
+        "LINK",
+        "pleasant sound",
+        "sound",
+        "answer",
+        "word",
+        "RESP"
+      ],
+      "translation": "The lady pleasantly answered the Lord's words.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The lady pleasantly answered the Lord's words.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_029",
+      "text_roman": "tsi4 tak1 phaai3 song1 khau3 phii6 hzn2 tj4 yau4",
+      "lik_tai": "ၸိး တၵ် ၽႃႆႈ ꩢူင် ၶဝ်ႈ ၽႊ ႁၼ်ႇ တး ယဝ်း",
+      "assamese_script": "চি⁴ তাক্‌¹ ফাই³ সোঙ¹ খাও³ ফ⁶ হন² ত⁴ যাও⁴",
+      "ipa": "[tɕi˥˦ʔ] [tak˧˧] [pʰaːi˨˩̰] [soŋ˧˧] [kʰau˨˩̰] [pʰii˧˥] [hzn˥˦] [tj˥˦ʔ] [jau˥˦ʔ]",
+      "morphemes": [
+        "tsi4",
+        "tak1",
+        "phaai3",
+        "song1",
+        "khau3",
+        "phii6",
+        "hzn2",
+        "tj4",
+        "yau4"
+      ],
+      "glosses": [
+        "girl",
+        "WILL",
+        "walk",
+        "send",
+        "rice",
+        "spirit",
+        "house",
+        "PRT",
+        "FINISHED"
+      ],
+      "translation": "I am taking food to the house spirits.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I am taking food to the house spirits.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_030",
+      "text_roman": "yt4 khai1 paak1 waa5 khaan6 kam2",
+      "lik_tai": "ယတ်း ၶႆ ပႃၵ် ဝႃႉ ၶႃၼ်ႊ ၵမ်ႇ",
+      "assamese_script": "যত্‌⁴ খাই¹ পাক্‌¹ ৱা⁵ খান⁶ কাম²",
+      "ipa": "[jt˥˦ʔ] [kʰai˧˧] [paːk˧˧] [waː˧˩] [kʰaːn˧˥] [kam˥˦]",
+      "morphemes": [
+        "yt4",
+        "khai1",
+        "paak1",
+        "waa5",
+        "khaan6",
+        "kam2"
+      ],
+      "glosses": [
+        "top",
+        "king",
+        "mouth",
+        "speak",
+        "speak",
+        "word"
+      ],
+      "translation": "The Lord, the Egg of the Sky, spoke further.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The Lord, the Egg of the Sky, spoke further.",
+      "audio_file": null,
+      "notes": "* Literally 'the egg of the sky'."
+    },
+    {
+      "id": "unit_031",
+      "text_roman": "svng6 nan4 hi2 pai2 tsm2 tsau3 laa2",
+      "lik_tai": "ꩢင်ႊ ၼၼ်း ႁိႇ ပႆႇ ၸမ်ႇ ၸဝ်ႈ လႃႇ",
+      "assamese_script": "সঙ⁶ নান⁴ হি² পাই² চম² চাও³ লা²",
+      "ipa": "[svŋ˧˥] [nan˥˦ʔ] [hi˥˦] [pai˥˦] [tɕm˥˦] [tɕau˨˩̰] [laː˥˦]",
+      "morphemes": [
+        "svng6",
+        "nan4",
+        "hi2",
+        "pai2",
+        "tsm2",
+        "tsau3",
+        "laa2"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "nevertheless",
+        "go",
+        "follow",
+        "RESP",
+        "parent"
+      ],
+      "translation": "She was, nevertheless, going to follow her father.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She was, nevertheless, going to follow her father.",
+      "audio_file": null,
+      "notes": "* svN6 nan4 means 'like that'."
+    },
+    {
+      "id": "unit_032",
+      "text_roman": "t5 laa2 phaai3 pai2 nav6 taang1 tii5",
+      "lik_tai": "တႉ လႃႇ ၽႃႆႈ ပႆႇ ၼႊ တႃင် တႉ",
+      "assamese_script": "ত⁵ লা² ফাই³ পাই² ন⁶ তাঙ¹ ত⁵",
+      "ipa": "[t˧˩] [laː˥˦] [pʰaːi˨˩̰] [pai˥˦] [nav˧˥] [taːŋ˧˧] [tii˧˩]",
+      "morphemes": [
+        "t5",
+        "laa2",
+        "phaai3",
+        "pai2",
+        "nav6",
+        "taang1",
+        "tii5"
+      ],
+      "glosses": [
+        "now",
+        "parent",
+        "walk",
+        "go",
+        "where",
+        "other",
+        "place"
+      ],
+      "translation": "Now your parent has gone to what other place.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Now your parent has gone to what other place.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_033",
+      "text_roman": "p2 yaap1 tsav2 tsi4 sii1",
+      "lik_tai": "ပႇ ယႃပ် ၸႇ ၸိး ꩢ",
+      "assamese_script": "প² যাপ্‌¹ চ² চি⁴ স¹",
+      "ipa": "[p˥˦] [jaːp˧˧] [tɕav˥˦] [tɕi˥˦ʔ] [sii˧˧]",
+      "morphemes": [
+        "p2",
+        "yaap1",
+        "tsav2",
+        "tsi4",
+        "sii1"
+      ],
+      "glosses": [
+        "until",
+        "difficult",
+        "mind",
+        "lady",
+        "adolescent girl"
+      ],
+      "translation": "The mind of this young lady was difficult to overcome.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The mind of this young lady was difficult to overcome.",
+      "audio_file": null,
+      "notes": "* Chaichuen stated that this was literally 'prepare-gold', and refers to the one who prepares gold for you, i.e. parent. It usually means 'mother'."
+    },
+    {
+      "id": "unit_034",
+      "text_roman": "nvng1 nai4 si1 phaa4 laung2 tsjt4 sau2 thaam6",
+      "lik_tai": "ၼင် ၼႆး ꩢိ ၽႃး လဝ်င်ႇ ၸတ်း ꩢဝ်ႇ ထႃမ်ႊ",
+      "assamese_script": "নঙ¹ নাই⁴ সি¹ ফা⁴ লাওঙ² চত্‌⁴ সাও² থাম⁶",
+      "ipa": "[nvŋ˧˧] [nai˥˦ʔ] [si˧˧] [pʰaː˥˦ʔ] [lauŋ˥˦] [tɕjt˥˦ʔ] [sau˥˦] [tʰaːm˧˥]",
+      "morphemes": [
+        "nvng1",
+        "nai4",
+        "si1",
+        "phaa4",
+        "laung2",
+        "tsjt4",
+        "sau2",
+        "thaam6"
+      ],
+      "glosses": [
+        "like",
+        "this",
+        "",
+        "sky",
+        "Bodhisattva",
+        "pure",
+        "stop",
+        "ask"
+      ],
+      "translation": "Then the great Lord, the Bodhisattva stopped to ask her.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Then the great Lord, the Bodhisattva stopped to ask her.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_035",
+      "text_roman": "seng6 waan6 naang2 ngaam2 taan3 khe2 mauk1 tsau3",
+      "lik_tai": "ေꩢင်ႊ ဝႃၼ်ႊ ၼႃင်ႇ ငႃမ်ႇ တႃၼ်ႈ ေၶႇ မဝ်ၵ် ၸဝ်ႈ",
+      "assamese_script": "সেঙ⁶ ৱান⁶ নাঙ² ঙাম² তান³ খে² মাওক্‌¹ চাও³",
+      "ipa": "[seŋ˧˥] [waːn˧˥] [naːŋ˥˦] [ŋaːm˥˦] [taːn˨˩̰] [kʰe˥˦] [mauk˧˧] [tɕau˨˩̰]",
+      "morphemes": [
+        "seng6",
+        "waan6",
+        "naang2",
+        "ngaam2",
+        "taan3",
+        "khe2",
+        "mauk1",
+        "tsau3"
+      ],
+      "glosses": [
+        "sound",
+        "sweet",
+        "lady",
+        "beautiful",
+        "speak",
+        "agreeable",
+        "speak",
+        "RESP"
+      ],
+      "translation": "The beautiful lady spoke agreeable and sweet words to the Lord.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The beautiful lady spoke agreeable and sweet words to the Lord.",
+      "audio_file": null,
+      "notes": "* Chaichuen stated that this was sojH 'inflorescence' and referred to Nang Pingya."
+    },
+    {
+      "id": "unit_036",
+      "text_roman": "pz5 saung6 an2 tv2 an2 nvng5",
+      "lik_tai": "ပႉ ꩢဝ်င်ႊ ဢၼ်ႇ တႇ ဢၼ်ႇ ၼင်ႉ",
+      "assamese_script": "প⁵ সাওঙ⁶ অন² ত² অন² নঙ⁵",
+      "ipa": "[pz˧˩] [sauŋ˧˥] [an˥˦] [tv˥˦] [an˥˦] [nvŋ˧˩]",
+      "morphemes": [
+        "pz5",
+        "saung6",
+        "an2",
+        "tv2",
+        "an2",
+        "nvng5"
+      ],
+      "glosses": [
+        "because",
+        "two",
+        "CLF",
+        "hold/use",
+        "CLF",
+        "one"
+      ],
+      "translation": "And so two are used as one.",
+      "translation_assamese": "অসমীয়া অৰ্থ: And so two are used as one.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_037",
+      "text_roman": "p5 uu3 pai2 suu1 mzng2 yang2 maa2 waa5 nai4",
+      "lik_tai": "ပႉ ဢႈ ပႆႇ ꩢ မင်ႇ ယင်ႇ မႃႇ ဝႃႉ ၼႆး",
+      "assamese_script": "প⁵ অ³ পাই² স¹ মঙ² যাঙ² মা² ৱা⁵ নাই⁴",
+      "ipa": "[p˧˩] [uu˨˩̰] [pai˥˦] [suu˧˧] [mzŋ˥˦] [jaŋ˥˦] [maː˥˦] [waː˧˩] [nai˥˦ʔ]",
+      "morphemes": [
+        "p5",
+        "uu3",
+        "pai2",
+        "suu1",
+        "mzng2",
+        "yang2",
+        "maa2",
+        "waa5",
+        "nai4"
+      ],
+      "glosses": [
+        "father",
+        "father",
+        "go",
+        "to",
+        "country",
+        "have",
+        "come",
+        "say",
+        "this"
+      ],
+      "translation": "Her father went into the country to do so, it is said.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Her father went into the country to do so, it is said.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_038",
+      "text_roman": "n1 phaa4 khat1 khi3 thoi3 tsav2 n1 aam2 nam6",
+      "lik_tai": "ၼ ၽႃး ၶတ် ၶိႈ ထူႆႈ ၸႇ ၼ ဢႃမ်ႇ ၼမ်ႊ",
+      "assamese_script": "ন¹ ফা⁴ খাত্‌¹ খি³ থওই³ চ² ন¹ আম² নাম⁶",
+      "ipa": "[n˧˧] [pʰaː˥˦ʔ] [kʰat˧˧] [kʰi˨˩̰] [tʰoi˨˩̰] [tɕav˥˦] [n˧˧] [aːm˥˦] [nam˧˥]",
+      "morphemes": [
+        "n1",
+        "phaa4",
+        "khat1",
+        "khi3",
+        "thoi3",
+        "tsav2",
+        "n1",
+        "aam2",
+        "nam6"
+      ],
+      "glosses": [
+        "shoot",
+        "sky",
+        "apart",
+        "die",
+        "extract",
+        "mind",
+        "small",
+        "surprise",
+        "much"
+      ],
+      "translation": "The shoot of the sky, much surprised, breathed with short breaths.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The shoot of the sky, much surprised, breathed with short breaths.",
+      "audio_file": null,
+      "notes": "* enafa nq1 phA4 refers to Chaw Mahosatha."
+    },
+    {
+      "id": "unit_039",
+      "text_roman": "kham2 naing2 tp1 saai6 hung5 kuu5 tsaung4",
+      "lik_tai": "ၶမ်ႇ ၼႆင်ႇ တပ် ꩢႃႆႊ ႁုင်ႉ ၵႉ ၸဝ်င်း",
+      "assamese_script": "খাম² নাইঙ² তপ্‌¹ সাই⁶ হুঙ⁵ ক⁵ চাওঙ⁴",
+      "ipa": "[kʰam˥˦] [naiŋ˥˦] [tp˧˧] [saːi˧˥] [huŋ˧˩] [kuu˧˩] [tɕauŋ˥˦ʔ]",
+      "morphemes": [
+        "kham2",
+        "naing2",
+        "tp1",
+        "saai6",
+        "hung5",
+        "kuu5",
+        "tsaung4"
+      ],
+      "glosses": [
+        "gold",
+        "red",
+        "reply",
+        "line",
+        "bright",
+        "every",
+        "CLF"
+      ],
+      "translation": "The red golden bright thread replied to every question.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The red golden bright thread replied to every question.",
+      "audio_file": null,
+      "notes": "sjhugq sAi6 huN5 refers to Nang Ampala."
+    },
+    {
+      "id": "unit_040",
+      "text_roman": "hi2 laa2 phaai3 phz6 naa2 khuu5 yaap1",
+      "lik_tai": "ႁိႇ လႃႇ ၽႃႆႈ ၽႊ ၼႃႇ ၶႉ ယႃပ်",
+      "assamese_script": "হি² লা² ফাই³ ফ⁶ না² খ⁵ যাপ্‌¹",
+      "ipa": "[hi˥˦] [laː˥˦] [pʰaːi˨˩̰] [pʰz˧˥] [naː˥˦] [kʰuu˧˩] [jaːp˧˧]",
+      "morphemes": [
+        "hi2",
+        "laa2",
+        "phaai3",
+        "phz6",
+        "naa2",
+        "khuu5",
+        "yaap1"
+      ],
+      "glosses": [
+        "but",
+        "father",
+        "walk",
+        "rake",
+        "field",
+        "prepare for cultivation",
+        "difficult"
+      ],
+      "translation": "But (he knew) that her father was raking the field and doing the hard work of preparing for cultivation.",
+      "translation_assamese": "অসমীয়া অৰ্থ: But (he knew) that her father was raking the field and doing the hard work of preparing for cultivation.",
+      "audio_file": null,
+      "notes": "Chaichuen explained that raking is the process which follows ploughing."
+    },
+    {
+      "id": "unit_041",
+      "text_roman": "hi2 p5 khaai2 kap1 phz6 naa2 k4 yau4",
+      "lik_tai": "ႁိႇ ပႉ ၶႃႆႇ ၵပ် ၽႊ ၼႃႇ ၵး ယဝ်း",
+      "assamese_script": "হি² প⁵ খাই² কাপ্‌¹ ফ⁶ না² ক⁴ যাও⁴",
+      "ipa": "[hi˥˦] [p˧˩] [kʰaːi˥˦] [kap˧˧] [pʰz˧˥] [naː˥˦] [k˥˦ʔ] [jau˥˦ʔ]",
+      "morphemes": [
+        "hi2",
+        "p5",
+        "khaai2",
+        "kap1",
+        "phz6",
+        "naa2",
+        "k4",
+        "yau4"
+      ],
+      "glosses": [
+        "EXCL",
+        "father",
+        "buffalo",
+        "join",
+        "rake",
+        "field",
+        "LINK",
+        "FINISHED"
+      ],
+      "translation": "Hoi!, (two) male buffaloes were yoked in order to rake the field.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Hoi!, (two) male buffaloes were yoked in order to rake the field.",
+      "audio_file": null,
+      "notes": "* Chaichuen stated that these are the words used to speak to the buffaloes - xoMsgqxj khAm2 saN1 khAi2."
+    },
+    {
+      "id": "unit_042",
+      "text_roman": "tii5 kaang3 pon4 naa2 khum4 heng2 nav6",
+      "lik_tai": "တႉ ၵႃင်ႈ ပူၼ်း ၼႃႇ ၶုမ်း ေႁင်ႇ ၼႊ",
+      "assamese_script": "ত⁵ কাঙ³ পোন⁴ না² খুম⁴ হেঙ² ন⁶",
+      "ipa": "[tii˧˩] [kaːŋ˨˩̰] [pon˥˦ʔ] [naː˥˦] [kʰum˥˦ʔ] [heŋ˥˦] [nav˧˥]",
+      "morphemes": [
+        "tii5",
+        "kaang3",
+        "pon4",
+        "naa2",
+        "khum4",
+        "heng2",
+        "nav6"
+      ],
+      "glosses": [
+        "at",
+        "wide",
+        "yonder",
+        "field",
+        "low land",
+        "place",
+        "where"
+      ],
+      "translation": "In which wide field yonder (is he)?",
+      "translation_assamese": "অসমীয়া অৰ্থ: In which wide field yonder (is he)?",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_043",
+      "text_roman": "ii1 mav2 naang2 phaai3 ki2 t1 tsm2 p5 nan4 naa4",
+      "lik_tai": "ဢ မႇ ၼႃင်ႇ ၽႃႆႈ ၵိႇ တ ၸမ်ႇ ပႉ ၼၼ်း ၼႃး",
+      "assamese_script": "অ¹ ম² নাঙ² ফাই³ কি² ত¹ চম² প⁵ নান⁴ না⁴",
+      "ipa": "[ii˧˧] [mav˥˦] [naːŋ˥˦] [pʰaːi˨˩̰] [ki˥˦] [t˧˧] [tɕm˥˦] [p˧˩] [nan˥˦ʔ] [naː˥˦ʔ]",
+      "morphemes": [
+        "ii1",
+        "mav2",
+        "naang2",
+        "phaai3",
+        "ki2",
+        "t1",
+        "tsm2",
+        "p5",
+        "nan4",
+        "naa4"
+      ],
+      "glosses": [
+        "pity",
+        "2Sg",
+        "lady",
+        "walk",
+        "only",
+        "until",
+        "follow",
+        "father",
+        "that",
+        "PRT"
+      ],
+      "translation": "I pity you, lady, for having to walk and follow your father.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I pity you, lady, for having to walk and follow your father.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_044",
+      "text_roman": "saai6 hung5 nj4 kam2 tp1 maang2 ki4 taan3",
+      "lik_tai": "ꩢႃႆႊ ႁုင်ႉ ၼး ၵမ်ႇ တပ် မႃင်ႇ ၵိး တႃၼ်ႈ",
+      "assamese_script": "সাই⁶ হুঙ⁵ ন⁴ কাম² তপ্‌¹ মাঙ² কি⁴ তান³",
+      "ipa": "[saːi˧˥] [huŋ˧˩] [nj˥˦ʔ] [kam˥˦] [tp˧˧] [maːŋ˥˦] [ki˥˦ʔ] [taːn˨˩̰]",
+      "morphemes": [
+        "saai6",
+        "hung5",
+        "nj4",
+        "kam2",
+        "tp1",
+        "maang2",
+        "ki4",
+        "taan3"
+      ],
+      "glosses": [
+        "line",
+        "bright",
+        "DEF",
+        "word",
+        "answer",
+        "Bodhisattva",
+        "PRT",
+        "speak"
+      ],
+      "translation": "The bright line, that Ampala, responded to the words of the Bodhisattva",
+      "translation_assamese": "অসমীয়া অৰ্থ: The bright line, that Ampala, responded to the words of the Bodhisattva",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_045",
+      "text_roman": "mii2 kav3 maan3 kaa1 yau4 mau1 hzn2",
+      "lik_tai": "မႇ ၵႈ မႃၼ်ႈ ၵႃ ယဝ်း မဝ် ႁၼ်ႇ",
+      "assamese_script": "ম² ক³ মান³ কা¹ যাও⁴ মাও¹ হন²",
+      "ipa": "[mii˥˦] [kav˨˩̰] [maːn˨˩̰] [kaː˧˧] [jau˥˦ʔ] [mau˧˧] [hzn˥˦]",
+      "morphemes": [
+        "mii2",
+        "kav3",
+        "maan3",
+        "kaa1",
+        "yau4",
+        "mau1",
+        "hzn2"
+      ],
+      "glosses": [
+        "have",
+        "near",
+        "village",
+        "GO",
+        "FINISHED",
+        "NEG",
+        "house"
+      ],
+      "translation": "There is a village, nearby, with no houses.",
+      "translation_assamese": "অসমীয়া অৰ্থ: There is a village, nearby, with no houses.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_046",
+      "text_roman": "n1 tsi4 waa5 nvng1 nan4 pen2 kam2",
+      "lik_tai": "ၼ ၸိး ဝႃႉ ၼင် ၼၼ်း ေပၼ်ႇ ၵမ်ႇ",
+      "assamese_script": "ন¹ চি⁴ ৱা⁵ নঙ¹ নান⁴ পেন² কাম²",
+      "ipa": "[n˧˧] [tɕi˥˦ʔ] [waː˧˩] [nvŋ˧˧] [nan˥˦ʔ] [pen˥˦] [kam˥˦]",
+      "morphemes": [
+        "n1",
+        "tsi4",
+        "waa5",
+        "nvng1",
+        "nan4",
+        "pen2",
+        "kam2"
+      ],
+      "glosses": [
+        "shoot",
+        "lady",
+        "say",
+        "like",
+        "that",
+        "be",
+        "word"
+      ],
+      "translation": "This lady said into words.",
+      "translation_assamese": "অসমীয়া অৰ্থ: This lady said into words.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_047",
+      "text_roman": "lamlam tsav2 sjn3 n1 a1 tsaing5 sing3",
+      "lik_tai": "လမ် ၸႇ ꩢၼ်ႈ ၼ ဢႃ ၸႆင်ႉ ꩢိင်ႈ",
+      "assamese_script": "লম¹ চ² সন³ ন¹ অ¹ চাইঙ⁵ সিঙ³",
+      "ipa": "[lamlam˧˧] [tɕav˥˦] [sjn˨˩̰] [n˧˧] [a˧˧] [tɕaiŋ˧˩] [siŋ˨˩̰]",
+      "morphemes": [
+        "lamlam",
+        "tsav2",
+        "sjn3",
+        "n1",
+        "a1",
+        "tsaing5",
+        "sing3"
+      ],
+      "glosses": [
+        "",
+        "heart",
+        "beautiful",
+        "shoot",
+        "Bodhisattva",
+        "know",
+        "end"
+      ],
+      "translation": "And the beautiful hearted shoot, the Bodhisattva who knows all,",
+      "translation_assamese": "অসমীয়া অৰ্থ: And the beautiful hearted shoot, the Bodhisattva who knows all,",
+      "audio_file": null,
+      "notes": "* meaning unknown."
+    },
+    {
+      "id": "unit_048",
+      "text_roman": "svng6 nan4 naa2 peng2 kav3 ngn2 nin2 paa1",
+      "lik_tai": "ꩢင်ႊ ၼၼ်း ၼႃႇ ေပင်ႇ ၵႈ ငၼ်ႇ ၼိၼ်ႇ ပႃ",
+      "assamese_script": "সঙ⁶ নান⁴ না² পেঙ² ক³ ঙন² নিন² পা¹",
+      "ipa": "[svŋ˧˥] [nan˥˦ʔ] [naː˥˦] [peŋ˥˦] [kav˨˩̰] [ŋn˥˦] [nin˥˦] [paː˧˧]",
+      "morphemes": [
+        "svng6",
+        "nan4",
+        "naa2",
+        "peng2",
+        "kav3",
+        "ngn2",
+        "nin2",
+        "paa1"
+      ],
+      "glosses": [
+        "if",
+        "that",
+        "field",
+        "level",
+        "near",
+        "mound",
+        "earth",
+        "cemetery"
+      ],
+      "translation": "That this level field was nearby to a cemetery.",
+      "translation_assamese": "অসমীয়া অৰ্থ: That this level field was nearby to a cemetery.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_049",
+      "text_roman": "mz5 nai4 p5 pai2 thzn1 pheu3 yau4",
+      "lik_tai": "မႉ ၼႆး ပႉ ပႆႇ ထၼ် ၽိုႈ ယဝ်း",
+      "assamese_script": "ম⁵ নাই⁴ প⁵ পাই² থন¹ ফু³ যাও⁴",
+      "ipa": "[mz˧˩] [nai˥˦ʔ] [p˧˩] [pai˥˦] [tʰzn˧˧] [pʰɯ˨˩̰] [jau˥˦ʔ]",
+      "morphemes": [
+        "mz5",
+        "nai4",
+        "p5",
+        "pai2",
+        "thzn1",
+        "pheu3",
+        "yau4"
+      ],
+      "glosses": [
+        "time",
+        "this",
+        "father",
+        "go",
+        "forest",
+        "clear",
+        "FINISHED"
+      ],
+      "translation": "At the time when her father has finished clearing the forest, he will return.",
+      "translation_assamese": "অসমীয়া অৰ্থ: At the time when her father has finished clearing the forest, he will return.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_050",
+      "text_roman": "naang2 n1 tsi4 nj6 kam2",
+      "lik_tai": "ၼႃင်ႇ ၼ ၸိး ၼႊ ၵမ်ႇ",
+      "assamese_script": "নাঙ² ন¹ চি⁴ ন⁶ কাম²",
+      "ipa": "[naːŋ˥˦] [n˧˧] [tɕi˥˦ʔ] [nj˧˥] [kam˥˦]",
+      "morphemes": [
+        "naang2",
+        "n1",
+        "tsi4",
+        "nj6",
+        "kam2"
+      ],
+      "glosses": [
+        "lady",
+        "shoot",
+        "lady",
+        "show",
+        "word"
+      ],
+      "translation": "The lady showed with her words.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The lady showed with her words.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_051",
+      "text_roman": "saai6 khaam2 waa5 lam2 li2 saung6 ngzn5",
+      "lik_tai": "ꩢႃႆႊ ၶႃမ်ႇ ဝႃႉ လမ်ႇ လိႇ ꩢဝ်င်ႊ ငၼ်ႉ",
+      "assamese_script": "সাই⁶ খাম² ৱা⁵ লাম² লি² সাওঙ⁶ ঙন⁵",
+      "ipa": "[saːi˧˥] [kʰaːm˥˦] [waː˧˩] [lam˥˦] [li˥˦] [sauŋ˧˥] [ŋzn˧˩]",
+      "morphemes": [
+        "saai6",
+        "khaam2",
+        "waa5",
+        "lam2",
+        "li2",
+        "saung6",
+        "ngzn5"
+      ],
+      "glosses": [
+        "line",
+        "word",
+        "say",
+        "CLF",
+        "mountain",
+        "two",
+        "range"
+      ],
+      "translation": "She responded with two types of words, like two ranges of mountains.",
+      "translation_assamese": "অসমীয়া অৰ্থ: She responded with two types of words, like two ranges of mountains.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_052",
+      "text_roman": "svng6 khaik1 maa2 tsam4 naang2 yzng5 pauk4",
+      "lik_tai": "ꩢင်ႊ ၶႆၵ် မႃႇ ၸမ်း ၼႃင်ႇ ယင်ႉ ပဝ်ၵ်း",
+      "assamese_script": "সঙ⁶ খাইক্‌¹ মা² চাম⁴ নাঙ² যঙ⁵ পাওক্‌⁴",
+      "ipa": "[svŋ˧˥] [kʰaik˧˧] [maː˥˦] [tɕam˥˦ʔ] [naːŋ˥˦] [jzŋ˧˩] [pauk˥˦ʔ]",
+      "morphemes": [
+        "svng6",
+        "khaik1",
+        "maa2",
+        "tsam4",
+        "naang2",
+        "yzng5",
+        "pauk4"
+      ],
+      "glosses": [
+        "if",
+        "visitor",
+        "come",
+        "PRT",
+        "lady",
+        "NEG",
+        "return"
+      ],
+      "translation": "If anybody comes, I will not return.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If anybody comes, I will not return.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_053",
+      "text_roman": "naang2 tak1 yuu1 hz5 naa3 wan2",
+      "lik_tai": "ၼႃင်ႇ တၵ် ယ ႁႉ ၼႃႈ ဝၼ်ႇ",
+      "assamese_script": "নাঙ² তাক্‌¹ য¹ হ⁵ না³ ৱান²",
+      "ipa": "[naːŋ˥˦] [tak˧˧] [juu˧˧] [hz˧˩] [naː˨˩̰] [wan˥˦]",
+      "morphemes": [
+        "naang2",
+        "tak1",
+        "yuu1",
+        "hz5",
+        "naa3",
+        "wan2"
+      ],
+      "glosses": [
+        "lady",
+        "WILL",
+        "stay",
+        "bright",
+        "face",
+        "east"
+      ],
+      "translation": "I will stay in the bright east on the other side of the river.",
+      "translation_assamese": "অসমীয়া অৰ্থ: I will stay in the bright east on the other side of the river.",
+      "audio_file": null,
+      "notes": "** Shan lBjGhunqO.  hunqO can also be written as punqO, and means 'yonder'."
+    },
+    {
+      "id": "unit_054",
+      "text_roman": "khun6 zi2",
+      "lik_tai": "ၶုၼ်ႊ ဢႇ",
+      "assamese_script": "খুন⁶ অ²",
+      "ipa": "[kʰun˧˥] [zi˥˦]",
+      "morphemes": [
+        "khun6",
+        "zi2"
+      ],
+      "glosses": [
+        "prince",
+        "EXCL"
+      ],
+      "translation": "Oh my prince!",
+      "translation_assamese": "অসমীয়া অৰ্থ: Oh my prince!",
+      "audio_file": null,
+      "notes": "When reading this, Ee Nyan Khet reads [khvn6 khun6 zi2]"
+    },
+    {
+      "id": "unit_055",
+      "text_roman": "svng6 pii5 naung4 mau1 tau3 tsam4 tak1 hjm3 maa2",
+      "lik_tai": "ꩢင်ႊ ပႉ ၼဝ်င်း မဝ် တဝ်ႈ ၸမ်း တၵ် ႁမ်ႈ မႃႇ",
+      "assamese_script": "সঙ⁶ প⁵ নাওঙ⁴ মাও¹ তাও³ চাম⁴ তাক্‌¹ হম³ মা²",
+      "ipa": "[svŋ˧˥] [pii˧˩] [nauŋ˥˦ʔ] [mau˧˧] [tau˨˩̰] [tɕam˥˦ʔ] [tak˧˧] [hjm˨˩̰] [maː˥˦]",
+      "morphemes": [
+        "svng6",
+        "pii5",
+        "naung4",
+        "mau1",
+        "tau3",
+        "tsam4",
+        "tak1",
+        "hjm3",
+        "maa2"
+      ],
+      "glosses": [
+        "if",
+        "elder",
+        "younger",
+        "NEG",
+        "reach",
+        "PRT",
+        "WILL",
+        "prepare",
+        "come"
+      ],
+      "translation": "If the relatives do not reach here, I will be prepared.",
+      "translation_assamese": "অসমীয়া অৰ্থ: If the relatives do not reach here, I will be prepared.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_056",
+      "text_roman": "kham2 mau3 khaan6 seng6 kh3 muu1 nai4",
+      "lik_tai": "ၶမ်ႇ မဝ်ႈ ၶႃၼ်ႊ ေꩢင်ႊ ၶႈ မ ၼႆး",
+      "assamese_script": "খাম² মাও³ খান⁶ সেঙ⁶ খ³ ম¹ নাই⁴",
+      "ipa": "[kʰam˥˦] [mau˨˩̰] [kʰaːn˧˥] [seŋ˧˥] [kʰ˨˩̰] [muu˧˧] [nai˥˦ʔ]",
+      "morphemes": [
+        "kham2",
+        "mau3",
+        "khaan6",
+        "seng6",
+        "kh3",
+        "muu1",
+        "nai4"
+      ],
+      "glosses": [
+        "gold",
+        "crucible",
+        "speak",
+        "sound",
+        "word",
+        "lie",
+        "this"
+      ],
+      "translation": "The golden crucible replied thus, with words of deception.",
+      "translation_assamese": "অসমীয়া অৰ্থ: The golden crucible replied thus, with words of deception.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_057",
+      "text_roman": "khaam2 nai4 khe2 tsi4 saai6 hung5 waa5 t1",
+      "lik_tai": "ၶႃမ်ႇ ၼႆး ေၶႇ ၸိး ꩢႃႆႊ ႁုင်ႉ ဝႃႉ တ",
+      "assamese_script": "খাম² নাই⁴ খে² চি⁴ সাই⁶ হুঙ⁵ ৱা⁵ ত¹",
+      "ipa": "[kʰaːm˥˦] [nai˥˦ʔ] [kʰe˥˦] [tɕi˥˦ʔ] [saːi˧˥] [huŋ˧˩] [waː˧˩] [t˧˧]",
+      "morphemes": [
+        "khaam2",
+        "nai4",
+        "khe2",
+        "tsi4",
+        "saai6",
+        "hung5",
+        "waa5",
+        "t1"
+      ],
+      "glosses": [
+        "word",
+        "this",
+        "agreeable sound",
+        "lady",
+        "line",
+        "bright",
+        "say",
+        "unitl/continue"
+      ],
+      "translation": "These agreeable words of the bright lady continued.",
+      "translation_assamese": "অসমীয়া অৰ্থ: These agreeable words of the bright lady continued.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_058",
+      "text_roman": "mz5 nan4 n1 phaa4 thoi3 kii5 ngin2 tsom2",
+      "lik_tai": "မႉ ၼၼ်း ၼ ၽႃး ထူႆႈ ၵႉ ငိၼ်ႇ ၸူမ်ႇ",
+      "assamese_script": "ম⁵ নান⁴ ন¹ ফা⁴ থওই³ ক⁵ ঙিন² চোম²",
+      "ipa": "[mz˧˩] [nan˥˦ʔ] [n˧˧] [pʰaː˥˦ʔ] [tʰoi˨˩̰] [kii˧˩] [ŋin˥˦] [tɕom˥˦]",
+      "morphemes": [
+        "mz5",
+        "nan4",
+        "n1",
+        "phaa4",
+        "thoi3",
+        "kii5",
+        "ngin2",
+        "tsom2"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "shoot",
+        "sky",
+        "breathe",
+        "blossom",
+        "feel",
+        "joy"
+      ],
+      "translation": "And then the shoot of the sky, breathed joyfully like an opening flower.",
+      "translation_assamese": "অসমীয়া অৰ্থ: And then the shoot of the sky, breathed joyfully like an opening flower.",
+      "audio_file": null,
+      "notes": ""
+    },
+    {
+      "id": "unit_059",
+      "text_roman": "nai4 tsam4 waa5 lang2 nam4 paa1 naa3 phaung2 khan6",
+      "lik_tai": "ၼႆး ၸမ်း ဝႃႉ လင်ႇ ၼမ်း ပႃ ၼႃႈ ၽဝ်င်ႇ ၶၼ်ႊ",
+      "assamese_script": "নাই⁴ চাম⁴ ৱা⁵ লাঙ² নাম⁴ পা¹ না³ ফাওঙ² খান⁶",
+      "ipa": "[nai˥˦ʔ] [tɕam˥˦ʔ] [waː˧˩] [laŋ˥˦] [nam˥˦ʔ] [paː˧˧] [naː˨˩̰] [pʰauŋ˥˦] [kʰan˧˥]",
+      "morphemes": [
+        "nai4",
+        "tsam4",
+        "waa5",
+        "lang2",
+        "nam4",
+        "paa1",
+        "naa3",
+        "phaung2",
+        "khan6"
+      ],
+      "glosses": [
+        "this",
+        "PRT",
+        "PRT",
+        "noisy",
+        "water",
+        "forest",
+        "season",
+        "water",
+        "quick"
+      ],
+      "translation": "Like the noisy waters rushing from the forests and mountains in the season of floods.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Like the noisy waters rushing from the forests and mountains in the season of floods.",
+      "audio_file": null,
+      "notes": "* This is the Shan spelling. Spoken Phake would be naN2."
+    },
+    {
+      "id": "unit_060",
+      "text_roman": "yeu2 phon6 long2 tv2 khj2 phaung2 thom3 taa5",
+      "lik_tai": "ယိုႇ ၽူၼ်ႊ လူင်ႇ တႇ ၶႇ ၽဝ်င်ႇ ထူမ်ႈ တႃႉ",
+      "assamese_script": "যু² ফোন⁶ লোঙ² ত² খ² ফাওঙ² থোম³ তা⁵",
+      "ipa": "[jɯ˥˦] [pʰon˧˥] [loŋ˥˦] [tv˥˦] [kʰj˥˦] [pʰauŋ˥˦] [tʰom˨˩̰] [taː˧˩]",
+      "morphemes": [
+        "yeu2",
+        "phon6",
+        "long2",
+        "tv2",
+        "khj2",
+        "phaung2",
+        "thom3",
+        "taa5"
+      ],
+      "glosses": [
+        "perhaps",
+        "rain",
+        "fall",
+        "touch",
+        "river",
+        "water",
+        "flood",
+        "port"
+      ],
+      "translation": "Just like the rain falling floods the river's edge.",
+      "translation_assamese": "অসমীয়া অৰ্থ: Just like the rain falling floods the river's edge.",
+      "audio_file": null,
+      "notes": ""
+    }
+  ],
+  "full_translation": "He thought like this in his heart, I will ask this beautiful lady by means of hidden words. The Bodhisatva then made a fist and offered it to this excellent woman in front of him. No clear words came out. At that time, the lady with the pleasant face, she of the beautiful mind, (thought),  Then she raised her right hand so that (he) would know. (With a mind) Like a diamond star, the Bodhisatva. Knew that the girl was free (unmarried). Then the respected lord again asked with sweet words. Oh!, the words of this person were like the purest gold of God. which (cover) his glittering, shining body without finishing. (With a) mind sharp as a straight diamond arrow, Tell (me) what your true name is. The excellent young shoot again repeated the sweet words. Then the good lady answered in response to him. From the past time, from the present time, From the time long, long ago, From then on until the future. Then he went up to her and asked her name. She said 'My name is that which neither is, nor was, nor ever shall be.' 'Madam, there is nothing in the world immortal, and your name must be Amar¿, the Immortal.' 'Even so, master. The golden diamond star knew the correct meaning of her words. Among all things, among the law of nature and humans, There is no way for anybody to avoid death. Like that he of the bright lineage called her the famous lady Ampala. That good lady spoke clearly and at once. The bright mind, our Lord Mahosatha, asked her (again): Now, Oh lady, who are following? Tell me so that I may clearly know. The lady pleasantly answered the Lord's words. I am taking food to the house spirits. The Lord, the Egg of the Sky, spoke further. She was, nevertheless, going to follow her father. Now your parent has gone to what other place. The mind of this young lady was difficult to overcome. Then the great Lord, the Bodhisattva stopped to ask her. The beautiful lady spoke agreeable and sweet words to the Lord. And so two are used as one. Her father went into the country to do so, it is said. The shoot of the sky, much surprised, breathed with short breaths. The red golden bright thread replied to every question. But (he knew) that her father was raking the field and doing the hard work of preparing for cultivation. Hoi!, (two) male buffaloes were yoked in order to rake the field. In which wide field yonder (is he)? I pity you, lady, for having to walk and follow your father. The bright line, that Ampala, responded to the words of the Bodhisattva There is a village, nearby, with no houses. This lady said into words. And the beautiful hearted shoot, the Bodhisattva who knows all, That this level field was nearby to a cemetery. At the time when her father has finished clearing the forest, he will return. The lady showed with her words. She responded with two types of words, like two ranges of mountains. If anybody comes, I will not return. I will stay in the bright east on the other side of the river. Oh my prince! If the relatives do not reach here, I will be prepared. The golden crucible replied thus, with words of deception. These agreeable words of the bright lady continued. And then the shoot of the sky, breathed joyfully like an opening flower. Like the noisy waters rushing from the forests and mountains in the season of floods. Just like the rain falling floods the river's edge.",
+  "book_id": "book_lik_mahosatha",
+  "title": "Lik Mahosatha: The Wisdom of Great Mahosadha and Lady Amara",
+  "title_tai": "Lik4 Mahosatha1: Chaw3 Mahosatha1 Kap4 Nang1 Amaraa1",
+  "title_as": ""
+}

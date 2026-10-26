@@ -1,0 +1,382 @@
+{
+  "id": "book_lik_pung_tai_khamyang_2014",
+  "book_id": "book_lik_pung_tai_khamyang_2014",
+  "title": "Lik Pung Tai Khamyang: Folktales and Cultural Stories of the Tai Khamyang",
+  "author": "Phung Lai Khamyang (Dr. Lakhyahira Shyam, Chow Ranjit Shyam, Chow Deben Chulik, Chow Chik-seng Mau-mowng)",
+  "year": 2014,
+  "genre": "Indigenous Folklore & Oral Literature",
+  "description": "Authentic collection of traditional folktales and narrative lore of the Tai Khamyang transcribed from village elders Chow Deben Chulik and Chow Chik-seng Mau-mowng at Pawaimukh village in both Tai script and Assamese translation.",
+  "source": "Internet Archive (lik-pung-tai-khamyang)",
+  "archive_id": "lik-pung-tai-khamyang",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_001",
+      "lik_tai": "လိၵ်ႈပုင်းတဲးၶမ်းယၢင် ပုၼ်ႈတႃႇပူၵ်းပွင်ၵႂၢမ်းလႄႈၾိင်ႈငႄႈ",
+      "text_roman": "lik pung tai kham yang pun ta pok pawng kwam le fing nge",
+      "assamese_script": "লিক পুঙ ত্তাই খাময়াং - ত্তাই খাময়াং গল্প পুথি",
+      "morphemes": [
+        "lik",
+        "pung",
+        "tai",
+        "kham",
+        "yang",
+        "pun-ta",
+        "pok-pawng",
+        "kwam",
+        "le",
+        "fing-nge"
+      ],
+      "glosses": [
+        "book",
+        "story/tale",
+        "Tai",
+        "gold",
+        "Khamyang",
+        "for",
+        "revitalize",
+        "language",
+        "and",
+        "culture"
+      ],
+      "free_translation_en": "Lik Pung Tai Khamyang: Folktale book for revitalizing the language and culture of the Tai Khamyang.",
+      "free_translation_as": "লিক পুঙ ত্তাই খাময়াং: ত্তাই খাময়াং ভাষা আৰু সংস্কৃতি পুনৰোজ্জীৱিতকৰণ গল্প পুথি।",
+      "speaker": "Chow Deben Chulik & Chow Chik-seng Mau-mowng",
+      "location": "Pawaimukh, Tinsukia, Assam",
+      "notes": "Title & mission statement of the Pawaimukh narrative project."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_002",
+      "lik_tai": "ပူႇထဝ်ႈ ၼႃႆးထဝ်ႈ သွင် ၵေႃႉ ယူႇ ဝၢၼ်ႈ ပႃႇဝႆးမုၵ်ႈ",
+      "text_roman": "pu thao nai thao sawng kaw yu wan pa wai mukh",
+      "assamese_script": "পু-থাও নাই-থাও ছঙ ক পাৱৈমুখ ৱান ত য়ু",
+      "morphemes": [
+        "pu-thao",
+        "nai-thao",
+        "sawng",
+        "kaw",
+        "yu",
+        "wan",
+        "pa-wai-mukh"
+      ],
+      "glosses": [
+        "old-man",
+        "old-woman",
+        "two",
+        "CLF:person",
+        "live/dwell",
+        "village",
+        "Pawaimukh"
+      ],
+      "free_translation_en": "An elderly couple lived together in the village of Pawaimukh.",
+      "free_translation_as": "এহাল বুঢ়া-বুঢ়ী পাৱৈমুখ গাঁৱত বাস কৰিছিল।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Opening formula of traditional Lik Pung stories."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_003",
+      "lik_tai": "မၼ်း သွင် ၵေႃႉ ၵႂႃႇ ပႃႇထိူၼ် ၽၼ်း ၽိုၼ်း ၵူႈ ဝၼ်း",
+      "text_roman": "man sawng kaw kwa pa thün phan phün ku wan",
+      "assamese_script": "মান ছঙ ক কা পা খুন ফান ফুন কু ৱান",
+      "morphemes": [
+        "man",
+        "sawng",
+        "kaw",
+        "kwa",
+        "pa-thün",
+        "phan",
+        "phün",
+        "ku",
+        "wan"
+      ],
+      "glosses": [
+        "3PL",
+        "two",
+        "CLF:person",
+        "go",
+        "forest/jungle",
+        "cut/chop",
+        "firewood",
+        "every",
+        "day"
+      ],
+      "free_translation_en": "The two of them went into the deep forest to chop firewood every day.",
+      "free_translation_as": "সিহঁতে সদায় হাবিত খৰি কাটিবলৈ গৈছিল।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "From the tale of 'Aman Jaman' (অমন জমন)."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_004",
+      "lik_tai": "ၼႂ်း ထိူၼ် မၼ်း လႆႈ လုၵ်ႈ မူ သွင် တူ",
+      "text_roman": "nai thün man lai luk mu sawng tu",
+      "assamese_script": "নাই খুন মান লাই লুক মু ছঙ তু",
+      "morphemes": [
+        "nai",
+        "thün",
+        "man",
+        "lai",
+        "luk",
+        "mu",
+        "sawng",
+        "tu"
+      ],
+      "glosses": [
+        "inside",
+        "forest",
+        "3PL",
+        "find/obtain",
+        "baby",
+        "pig",
+        "two",
+        "CLF:animal"
+      ],
+      "free_translation_en": "In the forest they found two abandoned piglets.",
+      "free_translation_as": "হাবিত সিহঁতে দুটা গাহৰি পোৱালি দেখা পালে।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Tale of the sacred boars Aman and Jaman."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_005",
+      "lik_tai": "တူ ၼိုင်ႈ ၸိုဝ်ႈ ဢႃႇမၢၼ်ႇ တူ ၼိုင်ႈ ၸိုဝ်ႈ ၸႃႇမၢၼ်ႇ",
+      "text_roman": "tu nüng cü a man tu nüng cü ca man",
+      "assamese_script": "তু নুঙ চ্যু আৰ্মান তু নুঙ চ্যু জামান",
+      "morphemes": [
+        "tu",
+        "nüng",
+        "cü",
+        "a-man",
+        "tu",
+        "nüng",
+        "cü",
+        "ca-man"
+      ],
+      "glosses": [
+        "CLF:animal",
+        "one",
+        "name",
+        "Aman",
+        "CLF:animal",
+        "one",
+        "name",
+        "Jaman"
+      ],
+      "free_translation_en": "One was named Aman and the other was named Jaman.",
+      "free_translation_as": "এটাৰ নাম ৰাখিলে অমন আৰু আনটোৰ নাম জমন।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Naming of the two piglets."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_006",
+      "lik_tai": "ၼႃႆးထဝ်ႈ ႁၵ်ႉ မၼ်း မိူၼ် လုၵ်ႈ ၸၢႆး ၸဝ်ႈၵဝ်ႇ",
+      "text_roman": "nai thao hak man mön luk cai caw kao",
+      "assamese_script": "নাই-থাও হাক মান মুন লুক চাই চাওকাও",
+      "morphemes": [
+        "nai-thao",
+        "hak",
+        "man",
+        "mön",
+        "luk",
+        "cai",
+        "caw-kao"
+      ],
+      "glosses": [
+        "old-woman",
+        "love",
+        "3PL",
+        "like/as",
+        "offspring",
+        "male",
+        "oneself"
+      ],
+      "free_translation_en": "The old woman loved them just like her own sons.",
+      "free_translation_as": "বুঢ়ীয়ে সিহঁতক নিজৰ ল’ৰাৰ দৰে মৰম কৰি ডাঙৰ-দীঘল কৰিছিল।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Narrative expression of foster love."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_007",
+      "lik_tai": "ၵူၼ်း ၵႃႉ မႃး ၶႂ်ႈ သိုဝ်ႉ မူ သွင် တူ ၼႆႉ",
+      "text_roman": "kun ka ma khwai sü mu sawng tu nai",
+      "assamese_script": "কুন কা মা খোৱাই চ্যু মু ছঙ তু নাই",
+      "morphemes": [
+        "kun-ka",
+        "ma",
+        "khwai",
+        "sü",
+        "mu",
+        "sawng",
+        "tu",
+        "nai"
+      ],
+      "glosses": [
+        "trader/merchant",
+        "come",
+        "want",
+        "buy",
+        "pig",
+        "two",
+        "CLF:animal",
+        "this"
+      ],
+      "free_translation_en": "Traders came wishing to purchase these two pigs.",
+      "free_translation_as": "বেপাৰী আহি গাহৰি দুটাক কিনিবলৈ বিচাৰিলে।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Arrival of merchants."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_008",
+      "lik_tai": "ၼႃႆးထဝ်ႈ ဝႃႈ ၵဝ် ပဵၼ် မႄႈ လုၵ်ႈ ဢမ်ႇ ၶၢႆ ႁႂ်ႈ",
+      "text_roman": "nai thao wa kao pen me luk am khai hai",
+      "assamese_script": "নাই-থাও ৱা কাও পেন মে লুক আম খাই হাই",
+      "morphemes": [
+        "nai-thao",
+        "wa",
+        "kao",
+        "pen",
+        "me",
+        "luk",
+        "am",
+        "khai",
+        "hai"
+      ],
+      "glosses": [
+        "old-woman",
+        "say",
+        "1SG",
+        "be",
+        "mother",
+        "offspring",
+        "NEG",
+        "sell",
+        "give"
+      ],
+      "free_translation_en": "The old woman said: 'I am their mother, I will never sell them!'",
+      "free_translation_as": "বুঢ়ীয়ে ক’লে: ‘মই ইহঁতৰ মাতৃস্বৰূপ, মই কেতিয়াও বিক্ৰী নকৰো!’",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Refusal to sell the foster animal children."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_009",
+      "lik_tai": "ဢႃႇမၢၼ်ႇ လႄႈ ၸႃႇမၢၼ်ႇ လၢတ်ႈ ထမ်း ပုတ်ႉထ လီ ငၢမ်း",
+      "text_roman": "a man le ca man lat tham put tha li ngam",
+      "assamese_script": "আৰ্মান লে জামান লাত থাম বুদ্ধ লী ঙাম",
+      "morphemes": [
+        "a-man",
+        "le",
+        "ca-man",
+        "lat",
+        "tham",
+        "put-tha",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "Aman",
+        "and",
+        "Jaman",
+        "speak/recite",
+        "Dharma",
+        "Buddha",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "Aman and Jaman recited the sublime Dharma of the Buddha.",
+      "free_translation_as": "অমন আৰু জমনে বুদ্ধৰ মহৎ ধৰ্মৰ কথা আলোচনা কৰিবলৈ ধৰিলে।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Buddhist discourse by animal bodhisattvas."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_010",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ယိၼ်း ၶၢဝ်ႇ ႁွင်ႉ မၼ်း ၶဝ်ႈ ဝၢင်း ႁေႃ",
+      "text_roman": "caw fa yin khao hawng man khao wang haw",
+      "assamese_script": "চাও ফা য়িন খাও হঙ মান খাও ৱাং হ",
+      "morphemes": [
+        "caw-fa",
+        "yin",
+        "khao",
+        "hawng",
+        "man",
+        "khao",
+        "wang-haw"
+      ],
+      "glosses": [
+        "king/ruler",
+        "hear",
+        "news",
+        "summon/call",
+        "3PL",
+        "enter",
+        "palace/court"
+      ],
+      "free_translation_en": "The king heard the miraculous news and summoned them into the royal court.",
+      "free_translation_as": "ৰজাই এই অদ্ভুত কথা শুনি সিহঁতক ৰাজদৰবাৰলৈ মাতি আনিলে।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Royal audience before the King (Chao Fa)."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_011",
+      "lik_tai": "ဢႃႇမၢၼ်ႇ လၢတ်ႈ ၵႂၢမ်း ဢၽိထမ်ႇမ ပၼ် ၸဝ်ႈ ၾႃႉ",
+      "text_roman": "a man lat kwam a phi tham pan caw fa",
+      "assamese_script": "আৰ্মান লাত ক্বাম অভিধম্ম পান চাও ফা",
+      "morphemes": [
+        "a-man",
+        "lat",
+        "kwam",
+        "a-phi-tham",
+        "pan",
+        "caw-fa"
+      ],
+      "glosses": [
+        "Aman",
+        "speak/recite",
+        "words/teaching",
+        "Abhidharma",
+        "give/to",
+        "king"
+      ],
+      "free_translation_en": "Aman expounded the sacred words of the Abhidharma to the king.",
+      "free_translation_as": "অমने ৰজাৰ আগত গভীৰ অভিধৰ্মৰ তত্ব ব্যাখ্যা কৰিলে।",
+      "speaker": "Chow Deben Chulik",
+      "location": "Pawaimukh, Assam",
+      "notes": "Abhidharma exposition."
+    },
+    {
+      "id": "book_lik_pung_tai_khamyang_2014_012",
+      "lik_tai": "ပီႈၼွင်ႉ တဲး ယူႇလီ မီးသုၵ်ႈ ၵူႈ ဝၼ်း တႃႇသေႇ",
+      "text_roman": "pi nawng tai yu li mi suk ku wan ta se",
+      "assamese_script": "পী-নঙ ত্তাই য়ু লী মী ছুক কু ৱান তা ছে",
+      "morphemes": [
+        "pi-nawng",
+        "tai",
+        "yu-li",
+        "mi-suk",
+        "ku",
+        "wan",
+        "ta-se"
+      ],
+      "glosses": [
+        "brethren",
+        "Tai",
+        "live-well",
+        "have-happiness",
+        "every",
+        "day",
+        "forever"
+      ],
+      "free_translation_en": "May all Tai brothers and sisters live in peace and happiness forever.",
+      "free_translation_as": "সকলো টাই ভাই-ভনী চিৰদিন শান্তি আৰু সুখেৰে জীৱন যাপন কৰক।",
+      "speaker": "Chow Chik-seng Mau-mowng",
+      "location": "Pawaimukh, Assam",
+      "notes": "Closing blessing of Lik Pung."
+    }
+  ]
+}

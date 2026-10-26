@@ -1,0 +1,1329 @@
+{
+  "id": "book_advice_children",
+  "title_khamyang": "Kham1 Son3 Luk4 On1",
+  "title_english": "Advice and Moral Guidance to Children",
+  "genre": "moral_instruction",
+  "informant": "Chaw Sa Myat Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Traditional counsel on diligence, virtue, respect for elders, and righteous living imparted by elder Chaw Sa Myat Chowlik.",
+  "audio_file": "3-1-3-2.mp3",
+  "full_translation": "You asked me to tell a story, but what story will I tell? A children's story. What type of children's story? He asked for a children's story.\r\t\rChildren, during childhood, they don't know how to speak. The adults, the parents will tell them what they should know. \r\r'Do not do what is not good.'\r\rThese children, we teach these children that they should do good, do like this! This is good, that is not good. The stories for teaching children are all that you tell them, from us to the grandchildren.\r\rWe may say, 'You all be good, when I go to Margherita, don't quarrel. Don't you fight each other. Don't fight and hit each other. Live peacefully, until I come home!'\r\r'If you are hungry, you have parents, ask them for food. Don't live in hunger at home. When it is time to go to school, eat and then go to school. Go and study at school. Eat your food after coming back!'\r\t\rThis is the story of teaching grandchildren, the extent of the words that children take to keep. \r\t\rThen, there is the story of us adults. In this village, if four or five of us sit together and make a festival, we may ask: 'What festival, what sermon, where the novice monk preaches?' We, the people of the village, discus",
+  "sentences": [
+    {
+      "id": "book_advice_children_s001",
+      "text_roman": "maɯ2 tsau3 thaam6 maa2 pung1 sang6 ta1 khai5",
+      "lik_tai": "မႇ ၸဝ်ႈ ထႃမ်ႊ မႃႇ ပုင် ꩢင်ႊ တႃ ၶႆႉ",
+      "assamese_script": "ম² চাও³ থাম⁶ মা² পুঙ¹ সাঙ⁶ তা¹ খাই⁵",
+      "morphemes": [
+        "maɯ2",
+        "tsau3",
+        "thaam6",
+        "maa2",
+        "pung1",
+        "sang6",
+        "ta1",
+        "khai5"
+      ],
+      "glosses": [
+        "2Sg",
+        "RESP",
+        "ask",
+        "COME",
+        "story",
+        "what",
+        "WILL",
+        "tell"
+      ],
+      "free_translation_en": "You asked me to tell a story, but what story will I tell?",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s002",
+      "text_roman": "1 pung1 luk4 n1 khau6",
+      "lik_tai": "1 ပုင် လုၵ်း ၼ ၶဝ်ႊ",
+      "assamese_script": "1 পুঙ¹ লুক্‌⁴ ন¹ খাও⁶",
+      "morphemes": [
+        "1",
+        "pung1",
+        "luk4",
+        "n1",
+        "khau6"
+      ],
+      "glosses": [
+        "HESIT",
+        "story",
+        "child",
+        "child",
+        "3Pl"
+      ],
+      "free_translation_en": "A children's story.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s003",
+      "text_roman": "pung1 luk4 n1 khau6 phan5 naɯ6 nai4",
+      "lik_tai": "ပုင် လုၵ်း ၼ ၶဝ်ႊ ၽၼ်ႉ ၼႊ ၼႆး",
+      "assamese_script": "পুঙ¹ লুক্‌⁴ ন¹ খাও⁶ ফান⁵ ন⁶ নাই⁴",
+      "morphemes": [
+        "pung1",
+        "luk4",
+        "n1",
+        "khau6",
+        "phan5",
+        "naɯ6",
+        "nai4"
+      ],
+      "glosses": [
+        "story",
+        "child",
+        "child",
+        "3PL",
+        "type",
+        "what",
+        "DEF"
+      ],
+      "free_translation_en": "What type of children's story?",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s004",
+      "text_roman": "pung1 luk4 n1 man5 tsau3 thaam6 maa2",
+      "lik_tai": "ပုင် လုၵ်း ၼ မၼ်ႉ ၸဝ်ႈ ထႃမ်ႊ မႃႇ",
+      "assamese_script": "পুঙ¹ লুক্‌⁴ ন¹ মান⁵ চাও³ থাম⁶ মা²",
+      "morphemes": [
+        "pung1",
+        "luk4",
+        "n1",
+        "man5",
+        "tsau3",
+        "thaam6",
+        "maa2"
+      ],
+      "glosses": [
+        "story",
+        "child",
+        "child",
+        "3 Sg",
+        "RESP",
+        "ask",
+        "come"
+      ],
+      "free_translation_en": "He asked for a children's story.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s005",
+      "text_roman": "luk4 n1 khau6 mɛ5 n1 nai4",
+      "lik_tai": "လုၵ်း ၼ ၶဝ်ႊ ႄမႉ ၼ ၼႆး",
+      "assamese_script": "লুক্‌⁴ ন¹ খাও⁶ মে⁵ ন¹ নাই⁴",
+      "morphemes": [
+        "luk4",
+        "n1",
+        "khau6",
+        "mɛ5",
+        "n1",
+        "nai4"
+      ],
+      "glosses": [
+        "child",
+        "child",
+        "3Sg",
+        "time",
+        "young",
+        "DEF"
+      ],
+      "free_translation_en": "Children, during childhood, They don't know how to speak.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s006",
+      "text_roman": "kon5 thau3 p5 mj5 lau5 haɯ3 sang6 man2 ta1 tsaang5",
+      "lik_tai": "ၵူၼ်ႉ ထဝ်ႈ ပႉ မႉ လဝ်ႉ ႁႈ ꩢင်ႊ မၼ်ႇ တႃ ၸႃင်ႉ",
+      "assamese_script": "কোন⁵ থাও³ প⁵ ম⁵ লাও⁵ হ³ সাঙ⁶ মান² তা¹ চাঙ⁵",
+      "morphemes": [
+        "kon5",
+        "thau3",
+        "p5",
+        "mj5",
+        "lau5",
+        "haɯ3",
+        "sang6",
+        "man2",
+        "ta1",
+        "tsaang5"
+      ],
+      "glosses": [
+        "person",
+        "old",
+        "father",
+        "mother",
+        "tell",
+        "GIVE",
+        "what",
+        "3Sg",
+        "FUT",
+        "know"
+      ],
+      "free_translation_en": "The adults, the parents will tell them what they should know.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s007",
+      "text_roman": "an5 mau1 nii5 pi1 het1",
+      "lik_tai": "ဢၼ်ႉ မဝ် ၼႉ ပိ ေႁတ်",
+      "assamese_script": "অন⁵ মাও¹ ন⁵ পি¹ হেত্‌¹",
+      "morphemes": [
+        "an5",
+        "mau1",
+        "nii5",
+        "pi1",
+        "het1"
+      ],
+      "glosses": [
+        "CLF",
+        "NEG",
+        "good",
+        "don't",
+        "do"
+      ],
+      "free_translation_en": "Do not do what is not good.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s008",
+      "text_roman": "an5 nai4 luk4 n1 nai4",
+      "lik_tai": "ဢၼ်ႉ ၼႆး လုၵ်း ၼ ၼႆး",
+      "assamese_script": "অন⁵ নাই⁴ লুক্‌⁴ ন¹ নাই⁴",
+      "morphemes": [
+        "an5",
+        "nai4",
+        "luk4",
+        "n1",
+        "nai4"
+      ],
+      "glosses": [
+        "CLF",
+        "DEF",
+        "child",
+        "child",
+        "DEF"
+      ],
+      "free_translation_en": "These children, we teach these children that they should do good, do like this!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": "* Phake word, khan1 nau1 in Khamyang."
+    },
+    {
+      "id": "book_advice_children_s009",
+      "text_roman": "nai4 nii2 uu1 nan4 ɯng1 nii2",
+      "lik_tai": "ၼႆး ၼႇ ဢ ၼၼ်း ဢိုင် ၼႇ",
+      "assamese_script": "নাই⁴ ন² অ¹ নান⁴ উঙ¹ ন²",
+      "morphemes": [
+        "nai4",
+        "nii2",
+        "uu1",
+        "nan4",
+        "ɯng1",
+        "nii2"
+      ],
+      "glosses": [
+        "this",
+        "good",
+        "to be",
+        "that",
+        "not",
+        "good"
+      ],
+      "free_translation_en": "This is good, that is not good.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s010",
+      "text_roman": "pung1 an5 sn6 luk4 n1 sa1 nai4",
+      "lik_tai": "ပုင် ဢၼ်ႉ ꩢၼ်ႊ လုၵ်း ၼ ꩢႃ ၼႆး",
+      "assamese_script": "পুঙ¹ অন⁵ সন⁶ লুক্‌⁴ ন¹ সা¹ নাই⁴",
+      "morphemes": [
+        "pung1",
+        "an5",
+        "sn6",
+        "luk4",
+        "n1",
+        "sa1",
+        "nai4"
+      ],
+      "glosses": [
+        "story",
+        "CLF",
+        "teach",
+        "child",
+        "child",
+        "PRT",
+        "PRT"
+      ],
+      "free_translation_en": "The stories of teaching children, all that you tell them, from us to the grandchildren",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s011",
+      "text_roman": "suu6 uu1 nii2 nii2 naa4 kau5 kaa1 lj1",
+      "lik_tai": "ꩢႊ ဢ ၼႇ ၼႇ ၼႃး ၵဝ်ႉ ၵႃ လ",
+      "assamese_script": "স⁶ অ¹ ন² ন² না⁴ কাও⁵ কা¹ ল¹",
+      "morphemes": [
+        "suu6",
+        "uu1",
+        "nii2",
+        "nii2",
+        "naa4",
+        "kau5",
+        "kaa1",
+        "lj1"
+      ],
+      "glosses": [
+        "2Pl",
+        "live",
+        "good",
+        "good",
+        "PRT",
+        "1Sg",
+        "go",
+        "roam"
+      ],
+      "free_translation_en": "You all be good, when I go to Margherita, don't quarrel.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s012",
+      "text_roman": "suu6 pii1 tuk4 kan5 ɯ2 waa5 se6",
+      "lik_tai": "ꩢႊ ပ တုၵ်း ၵၼ်ႉ ဢိုႇ ဝႃႉ ေꩢႊ",
+      "assamese_script": "স⁶ প¹ তুক্‌⁴ কান⁵ উ² ৱা⁵ সে⁶",
+      "morphemes": [
+        "suu6",
+        "pii1",
+        "tuk4",
+        "kan5",
+        "ɯ2",
+        "waa5",
+        "se6"
+      ],
+      "glosses": [
+        "2Pl",
+        "don't",
+        "fight",
+        "RECIP",
+        "yes",
+        "say",
+        "PRT"
+      ],
+      "free_translation_en": "Don't you fight each other.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s013",
+      "text_roman": "pii1 tuk4 kan5 man5 kan5",
+      "lik_tai": "ပ တုၵ်း ၵၼ်ႉ မၼ်ႉ ၵၼ်ႉ",
+      "assamese_script": "প¹ তুক্‌⁴ কান⁵ মান⁵ কান⁵",
+      "morphemes": [
+        "pii1",
+        "tuk4",
+        "kan5",
+        "man5",
+        "kan5"
+      ],
+      "glosses": [
+        "don't",
+        "fight",
+        "RECIP",
+        "beat",
+        "RECIP"
+      ],
+      "free_translation_en": "Don't fight and hit each other.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s014",
+      "text_roman": "suu6 nii5 nii5 se6 uu1 ka3",
+      "lik_tai": "ꩢႊ ၼႉ ၼႉ ေꩢႊ ဢ ၵႃႈ",
+      "assamese_script": "স⁶ ন⁵ ন⁵ সে⁶ অ¹ কা³",
+      "morphemes": [
+        "suu6",
+        "nii5",
+        "nii5",
+        "se6",
+        "uu1",
+        "ka3"
+      ],
+      "glosses": [
+        "2Pl",
+        "peace/good",
+        "peace/good",
+        "PRT",
+        "live",
+        "GO.IMP"
+      ],
+      "free_translation_en": "Live peacefully, until I come home!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s015",
+      "text_roman": "suu6 tng4 mai3 kaa1 yj4",
+      "lik_tai": "ꩢႊ တင်း မႆႈ ၵႃ ယး",
+      "assamese_script": "স⁶ তঙ⁴ মাই³ কা¹ য⁴",
+      "morphemes": [
+        "suu6",
+        "tng4",
+        "mai3",
+        "kaa1",
+        "yj4"
+      ],
+      "glosses": [
+        "2Pl",
+        "hungry",
+        "hungry",
+        "go",
+        "PRT"
+      ],
+      "free_translation_en": "If you are hungry, you have parents, ask them for food.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s016",
+      "text_roman": "tii5 hɛn2 tng4 mai3 se6 pii1 uu1",
+      "lik_tai": "တႉ ႄႁၼ်ႇ တင်း မႆႈ ေꩢႊ ပ ဢ",
+      "assamese_script": "ত⁵ হেন² তঙ⁴ মাই³ সে⁶ প¹ অ¹",
+      "morphemes": [
+        "tii5",
+        "hɛn2",
+        "tng4",
+        "mai3",
+        "se6",
+        "pii1",
+        "uu1"
+      ],
+      "glosses": [
+        "at",
+        "house",
+        "hungry",
+        "hungry",
+        "PRT",
+        "don't",
+        "live"
+      ],
+      "free_translation_en": "Don't live in hunger at home.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s017",
+      "text_roman": "a1 khing1 kaa1 is1 kul1 thɯng6 yj1",
+      "lik_tai": "ဢႃ ၶိင် ၵႃ ဢ ၵ ထိုင်ႊ ယ",
+      "assamese_script": "অ¹ খিঙ¹ কা¹ অ¹ ক¹ থুঙ⁶ য¹",
+      "morphemes": [
+        "a1",
+        "khing1",
+        "kaa1",
+        "is1",
+        "kul1",
+        "thɯng6",
+        "yj1"
+      ],
+      "glosses": [
+        "time",
+        "time",
+        "go",
+        "school",
+        "school",
+        "reach",
+        "if"
+      ],
+      "free_translation_en": "When it is time to go to school, eat and then go to school.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s018",
+      "text_roman": "kaa1 sn6 lik4 tii5 is1 kul1",
+      "lik_tai": "ၵႃ ꩢၼ်ႊ လိၵ်း တႉ ဢ ၵ",
+      "assamese_script": "কা¹ সন⁶ লিক্‌⁴ ত⁵ অ¹ ক¹",
+      "morphemes": [
+        "kaa1",
+        "sn6",
+        "lik4",
+        "tii5",
+        "is1",
+        "kul1"
+      ],
+      "glosses": [
+        "go",
+        "learn",
+        "learn",
+        "at",
+        "school",
+        "school"
+      ],
+      "free_translation_en": "Go and study at school.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s019",
+      "text_roman": "ka1 sang6",
+      "lik_tai": "ၵႃ ꩢင်ႊ",
+      "assamese_script": "কা¹ সাঙ⁶",
+      "morphemes": [
+        "ka1",
+        "sang6"
+      ],
+      "glosses": [
+        "what",
+        "what"
+      ],
+      "free_translation_en": "Sentence 19 from book_advice_children.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": "This line is very indistinct"
+    },
+    {
+      "id": "book_advice_children_s020",
+      "text_roman": "pk4 maa2 se6 maa2 kin5 khau3 ka3",
+      "lik_tai": "ပၵ်း မႃႇ ေꩢႊ မႃႇ ၵိၼ်ႉ ၶဝ်ႈ ၵႃႈ",
+      "assamese_script": "পক্‌⁴ মা² সে⁶ মা² কিন⁵ খাও³ কা³",
+      "morphemes": [
+        "pk4",
+        "maa2",
+        "se6",
+        "maa2",
+        "kin5",
+        "khau3",
+        "ka3"
+      ],
+      "glosses": [
+        "return",
+        "come",
+        "PRT",
+        "come",
+        "eat",
+        "food",
+        "GO.IMP"
+      ],
+      "free_translation_en": "Eat your food after coming back (from school)!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s021",
+      "text_roman": "nai4 khau6 pung1 an5 sn6 laan6 na1 khau6",
+      "lik_tai": "ၼႆး ၶဝ်ႊ ပုင် ဢၼ်ႉ ꩢၼ်ႊ လႃၼ်ႊ ၼႃ ၶဝ်ႊ",
+      "assamese_script": "নাই⁴ খাও⁶ পুঙ¹ অন⁵ সন⁶ লান⁶ না¹ খাও⁶",
+      "morphemes": [
+        "nai4",
+        "khau6",
+        "pung1",
+        "an5",
+        "sn6",
+        "laan6",
+        "na1",
+        "khau6"
+      ],
+      "glosses": [
+        "this",
+        "3Pl",
+        "story",
+        "CLF",
+        "teach",
+        "grandchild",
+        "3Pl",
+        "3Pl"
+      ],
+      "free_translation_en": "This is the story of teaching grandchildren, the extent of the words that children take to keep.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s022",
+      "text_roman": "mɛ5 nan3 pung1 hau2 kon2 lung6 yj4",
+      "lik_tai": "ႄမႉ ၼၼ်ႈ ပုင် ႁဝ်ႇ ၵူၼ်ႇ လုင်ႊ ယး",
+      "assamese_script": "মে⁵ নান³ পুঙ¹ হাও² কোন² লুঙ⁶ য⁴",
+      "morphemes": [
+        "mɛ5",
+        "nan3",
+        "pung1",
+        "hau2",
+        "kon2",
+        "lung6",
+        "yj4"
+      ],
+      "glosses": [
+        "time",
+        "that",
+        "story",
+        "1Pl",
+        "person",
+        "big",
+        "PRT"
+      ],
+      "free_translation_en": "Then, the story of us adults.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s023",
+      "text_roman": "hau2 maan3 nai4 haɯ3 p2 nii5 nii5 hau2 sii1 haa3 k4",
+      "lik_tai": "ႁဝ်ႇ မႃၼ်ႈ ၼႆး ႁႈ ပႇ ၼႉ ၼႉ ႁဝ်ႇ ꩢ ႁႃႈ ၵး",
+      "assamese_script": "হাও² মান³ নাই⁴ হ³ প² ন⁵ ন⁵ হাও² স¹ হা³ ক⁴",
+      "morphemes": [
+        "hau2",
+        "maan3",
+        "nai4",
+        "haɯ3",
+        "p2",
+        "nii5",
+        "nii5",
+        "hau2",
+        "sii1",
+        "haa3",
+        "k4"
+      ],
+      "glosses": [
+        "1Pl",
+        "village",
+        "DEF",
+        "GIVE",
+        "if",
+        "good",
+        "good",
+        "1Pl",
+        "4",
+        "5",
+        "person"
+      ],
+      "free_translation_en": "We in this village, if four or five of us sit together and make a festival,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s024",
+      "text_roman": "pi2 sang6 pi2 khaam2 sang6 la1 haa1 nai4",
+      "lik_tai": "ပိႇ ꩢင်ႊ ပိႇ ၶႃမ်ႇ ꩢင်ႊ လႃ ႁႃ ၼႆး",
+      "assamese_script": "পি² সাঙ⁶ পি² খাম² সাঙ⁶ লা¹ হা¹ নাই⁴",
+      "morphemes": [
+        "pi2",
+        "sang6",
+        "pi2",
+        "khaam2",
+        "sang6",
+        "la1",
+        "haa1",
+        "nai4"
+      ],
+      "glosses": [
+        "festival",
+        "what",
+        "festival",
+        "sermon",
+        "what",
+        "how",
+        "how",
+        "how"
+      ],
+      "free_translation_en": "What festival, what sermon, where the novice monk preaches?",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s025",
+      "text_roman": "hau2 kon2 maan3 nai4 nan4 khau1",
+      "lik_tai": "ႁဝ်ႇ ၵူၼ်ႇ မႃၼ်ႈ ၼႆး ၼၼ်း ၶဝ်",
+      "assamese_script": "হাও² কোন² মান³ নাই⁴ নান⁴ খাও¹",
+      "morphemes": [
+        "hau2",
+        "kon2",
+        "maan3",
+        "nai4",
+        "nan4",
+        "khau1"
+      ],
+      "glosses": [
+        "1Pl",
+        "people",
+        "village",
+        "PRT",
+        "that",
+        "3Pl"
+      ],
+      "free_translation_en": "We, the people of the village,\tdiscuss what to do.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": "* Obviously pronounced [kzn2]"
+    },
+    {
+      "id": "book_advice_children_s026",
+      "text_roman": "waa5 kaa1 pok1 sum4",
+      "lik_tai": "ဝႃႉ ၵႃ ပူၵ် ꩢုမ်း",
+      "assamese_script": "ৱা⁵ কা¹ পোক্‌¹ সুম⁴",
+      "morphemes": [
+        "waa5",
+        "kaa1",
+        "pok1",
+        "sum4"
+      ],
+      "glosses": [
+        "say",
+        "go",
+        "build",
+        "tent, hall, meeting place"
+      ],
+      "free_translation_en": "We should build a meeting place.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s027",
+      "text_roman": "waa5 kaa1 tii5 kyng2 khau6 waa5",
+      "lik_tai": "ဝႃႉ ၵႃ တႉ ၵင်ႇ ၶဝ်ႊ ဝႃႉ",
+      "assamese_script": "ৱা⁵ কা¹ ত⁵ কঙ² খাও⁶ ৱা⁵",
+      "morphemes": [
+        "waa5",
+        "kaa1",
+        "tii5",
+        "kyng2",
+        "khau6",
+        "waa5"
+      ],
+      "glosses": [
+        "say",
+        "go",
+        "at",
+        "temple",
+        "PRT",
+        "say"
+      ],
+      "free_translation_en": "We should (build it) at the temple.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s028",
+      "text_roman": "het1 au5 sjn3 au5 saa1",
+      "lik_tai": "ေႁတ် ဢဝ်ႉ ꩢၼ်ႈ ဢဝ်ႉ ꩢႃ",
+      "assamese_script": "হেত্‌¹ ঔ⁵ সন³ ঔ⁵ সা¹",
+      "morphemes": [
+        "het1",
+        "au5",
+        "sjn3",
+        "au5",
+        "saa1"
+      ],
+      "glosses": [
+        "do",
+        "take",
+        "beautiful",
+        "take",
+        "good, beautiful"
+      ],
+      "free_translation_en": "And make it beautiful.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s029",
+      "text_roman": "nai4 se6 hau2 phung6 kon2 thau3 na1 kau1 yj4",
+      "lik_tai": "ၼႆး ေꩢႊ ႁဝ်ႇ ၽုင်ႊ ၵူၼ်ႇ ထဝ်ႈ ၼႃ ၵဝ် ယး",
+      "assamese_script": "নাই⁴ সে⁶ হাও² ফুঙ⁶ কোন² থাও³ না¹ কাও¹ য⁴",
+      "morphemes": [
+        "nai4",
+        "se6",
+        "hau2",
+        "phung6",
+        "kon2",
+        "thau3",
+        "na1",
+        "kau1",
+        "yj4"
+      ],
+      "glosses": [
+        "this",
+        "PRT",
+        "1Pl",
+        "group",
+        "person",
+        "old",
+        "again",
+        "again",
+        "PRT"
+      ],
+      "free_translation_en": "Like this, the old people (of the village) again discussed.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": "* nai4 se6 given as 'in such a way'"
+    },
+    {
+      "id": "book_advice_children_s030",
+      "text_roman": "aa1 muu2 an5 nii5 nai4 tsang1 haɯ3 het1",
+      "lik_tai": "ဢႃ မႇ ဢၼ်ႉ ၼႉ ၼႆး ၸင် ႁႈ ေႁတ်",
+      "assamese_script": "আ¹ ম² অন⁵ ন⁵ নাই⁴ চাঙ¹ হ³ হেত্‌¹",
+      "morphemes": [
+        "aa1",
+        "muu2",
+        "an5",
+        "nii5",
+        "nai4",
+        "tsang1",
+        "haɯ3",
+        "het1"
+      ],
+      "glosses": [
+        "work",
+        "work",
+        "CLF",
+        "good",
+        "this",
+        "then",
+        "GIVE",
+        "do"
+      ],
+      "free_translation_en": "Only good work should be done.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s031",
+      "text_roman": "aa1 muu2 an5 ma1 nii5 nai4 ma1 haɯ3 het1",
+      "lik_tai": "ဢႃ မႇ ဢၼ်ႉ မႃ ၼႉ ၼႆး မႃ ႁႈ ေႁတ်",
+      "assamese_script": "আ¹ ম² অন⁵ মা¹ ন⁵ নাই⁴ মা¹ হ³ হেত্‌¹",
+      "morphemes": [
+        "aa1",
+        "muu2",
+        "an5",
+        "ma1",
+        "nii5",
+        "nai4",
+        "ma1",
+        "haɯ3",
+        "het1"
+      ],
+      "glosses": [
+        "work",
+        "work",
+        "CLF",
+        "NEG",
+        "good",
+        "this",
+        "not",
+        "GIVE",
+        "do"
+      ],
+      "free_translation_en": "The growing children should not be allowed to do wrong deeds.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": "* Sounds like [na1 khau6]"
+    },
+    {
+      "id": "book_advice_children_s032",
+      "text_roman": "an5 nan4 khau6 sa1 nai4 j2",
+      "lik_tai": "ဢၼ်ႉ ၼၼ်း ၶဝ်ႊ ꩢႃ ၼႆး ဢႇ",
+      "assamese_script": "অন⁵ নান⁴ খাও⁶ সা¹ নাই⁴ অ²",
+      "morphemes": [
+        "an5",
+        "nan4",
+        "khau6",
+        "sa1",
+        "nai4",
+        "j2"
+      ],
+      "glosses": [
+        "CLF",
+        "those",
+        "3Pl",
+        "PRT",
+        "PRT",
+        "EXCL"
+      ],
+      "free_translation_en": "Those ...",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s033",
+      "text_roman": "pung1 hau2 naai5 ma1 tsaɯ5",
+      "lik_tai": "ပုင် ႁဝ်ႇ ၼႃႆႉ မႃ ၸႉ",
+      "assamese_script": "পুঙ¹ হাও² নাই⁵ মা¹ চ⁵",
+      "morphemes": [
+        "pung1",
+        "hau2",
+        "naai5",
+        "ma1",
+        "tsaɯ5"
+      ],
+      "glosses": [
+        "story,teaching",
+        "1Pl",
+        "only",
+        "not",
+        "be"
+      ],
+      "free_translation_en": "This is not the our teaching alone.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s034",
+      "text_roman": "kaa5 tsj1 puk1 thaa1 wa1 saa1 hau2 nai4 tang1 lung6",
+      "lik_tai": "ၵႃႉ ၸ ပုၵ် ထႃ ဝႃ ꩢႃ ႁဝ်ႇ ၼႆး တင် လုင်ႊ",
+      "assamese_script": "কা⁵ চ¹ পুক্‌¹ থা¹ ৱা¹ সা¹ হাও² নাই⁴ তাঙ¹ লুঙ⁶",
+      "morphemes": [
+        "kaa5",
+        "tsj1",
+        "puk1",
+        "thaa1",
+        "wa1",
+        "saa1",
+        "hau2",
+        "nai4",
+        "tang1",
+        "lung6"
+      ],
+      "glosses": [
+        "all",
+        "all",
+        "Buddhist",
+        "Buddhist",
+        "religion",
+        "religion",
+        "1Pl",
+        "this",
+        "all",
+        "all"
+      ],
+      "free_translation_en": "We are all Buddhists,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s035",
+      "text_roman": "aa1 kiu2 taang2 kyjng2",
+      "lik_tai": "ဢႃ ၵႇ တႃင်ႇ ၵင်ႇ",
+      "assamese_script": "আ¹ ক² তাঙ² কঙ²",
+      "morphemes": [
+        "aa1",
+        "kiu2",
+        "taang2",
+        "kyjng2"
+      ],
+      "glosses": [
+        "good deeds",
+        "good deeds",
+        "manners",
+        "manners"
+      ],
+      "free_translation_en": "Only those things which are wholesome will be told to do.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s036",
+      "text_roman": "phaɯ6 maa2 k4 pii5 nng4 maa2 kaa1",
+      "lik_tai": "ၽႊ မႃႇ ၵး ပႉ ၼင်း မႃႇ ၵႃ",
+      "assamese_script": "ফ⁶ মা² ক⁴ প⁵ নঙ⁴ মা² কা¹",
+      "morphemes": [
+        "phaɯ6",
+        "maa2",
+        "k4",
+        "pii5",
+        "nng4",
+        "maa2",
+        "kaa1"
+      ],
+      "glosses": [
+        "who",
+        "come",
+        "LINK",
+        "elder",
+        "younger",
+        "come",
+        "GO"
+      ],
+      "free_translation_en": "Whosoever comes, even relatives,",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s037",
+      "text_roman": "nang1 kau1 hau2 haɯ3 uu1 ka3 haɯ3 sau2 ka3 haɯ3",
+      "lik_tai": "ၼင် ၵဝ် ႁဝ်ႇ ႁႈ ဢ ၵႃႈ ႁႈ ꩢဝ်ႇ ၵႃႈ ႁႈ",
+      "assamese_script": "নাঙ¹ কাও¹ হাও² হ³ অ¹ কা³ হ³ সাও² কা³ হ³",
+      "morphemes": [
+        "nang1",
+        "kau1",
+        "hau2",
+        "haɯ3",
+        "uu1",
+        "ka3",
+        "haɯ3",
+        "sau2",
+        "ka3",
+        "haɯ3"
+      ],
+      "glosses": [
+        "also",
+        "also",
+        "1Pl",
+        "GIVE",
+        "stay",
+        "GO.IMP",
+        "GIVE",
+        "stay",
+        "GO.IMP",
+        "GIVE"
+      ],
+      "free_translation_en": "And moreover, we let them stay, rest, eat, and sleep.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s038",
+      "text_roman": "au5 lj1 kaa1 maan3 k4",
+      "lik_tai": "ဢဝ်ႉ လ ၵႃ မႃၼ်ႈ ၵး",
+      "assamese_script": "ঔ⁵ ল¹ কা¹ মান³ ক⁴",
+      "morphemes": [
+        "au5",
+        "lj1",
+        "kaa1",
+        "maan3",
+        "k4"
+      ],
+      "glosses": [
+        "take",
+        "visit",
+        "GO",
+        "village",
+        "also"
+      ],
+      "free_translation_en": "Take them to visit the village as well.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s039",
+      "text_roman": "au5 pung1 tai2 kham2 yang2",
+      "lik_tai": "ဢဝ်ႉ ပုင် တႆႇ ၶမ်ႇ ယင်ႇ",
+      "assamese_script": "ঔ⁵ পুঙ¹ তাই² খাম² যাঙ²",
+      "morphemes": [
+        "au5",
+        "pung1",
+        "tai2",
+        "kham2",
+        "yang2"
+      ],
+      "glosses": [
+        "take",
+        "story",
+        "Tai",
+        "Khamyang",
+        "Khamyang"
+      ],
+      "free_translation_en": "Take this Khamyangs story. You will find the Phakes are of this kind and allow you to visit.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s040",
+      "text_roman": "tai2 kham1 tii1 k4 phan2 nan4 se6 au5 lj1",
+      "lik_tai": "တႆႇ ၶမ် တ ၵး ၽၼ်ႇ ၼၼ်း ေꩢႊ ဢဝ်ႉ လ",
+      "assamese_script": "তাই² খাম¹ ত¹ ক⁴ ফান² নান⁴ সে⁶ ঔ⁵ ল¹",
+      "morphemes": [
+        "tai2",
+        "kham1",
+        "tii1",
+        "k4",
+        "phan2",
+        "nan4",
+        "se6",
+        "au5",
+        "lj1"
+      ],
+      "glosses": [
+        "Tai",
+        "Khamti",
+        "Khamti",
+        "LINK",
+        "type",
+        "that",
+        "PRT",
+        "TAKE",
+        "roam"
+      ],
+      "free_translation_en": "Tai Khamtis are also of this type, allowing people to come and visit.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s041",
+      "text_roman": "tsang1 nai4 maɯ2 tsau3 maa2 kaa1 n2 kaa1 kyng2 hau2",
+      "lik_tai": "ၸင် ၼႆး မႇ ၸဝ်ႈ မႃႇ ၵႃ ၼႇ ၵႃ ၵင်ႇ ႁဝ်ႇ",
+      "assamese_script": "চাঙ¹ নাই⁴ ম² চাও³ মা² কা¹ ন² কা¹ কঙ² হাও²",
+      "morphemes": [
+        "tsang1",
+        "nai4",
+        "maɯ2",
+        "tsau3",
+        "maa2",
+        "kaa1",
+        "n2",
+        "kaa1",
+        "kyng2",
+        "hau2"
+      ],
+      "glosses": [
+        "now",
+        "now",
+        "2Sg",
+        "RESP",
+        "come",
+        "GO",
+        "lead",
+        "GO",
+        "temple",
+        "1Pl"
+      ],
+      "free_translation_en": "Now that you have come, let us go to the temple.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s042",
+      "text_roman": "hau2 waa5 n2 kaa1 haɯ3 an5 nai4 khau6 yj4",
+      "lik_tai": "ႁဝ်ႇ ဝႃႉ ၼႇ ၵႃ ႁႈ ဢၼ်ႉ ၼႆး ၶဝ်ႊ ယး",
+      "assamese_script": "হাও² ৱা⁵ ন² কা¹ হ³ অন⁵ নাই⁴ খাও⁶ য⁴",
+      "morphemes": [
+        "hau2",
+        "waa5",
+        "n2",
+        "kaa1",
+        "haɯ3",
+        "an5",
+        "nai4",
+        "khau6",
+        "yj4"
+      ],
+      "glosses": [
+        "1Pl",
+        "say",
+        "lead",
+        "GO",
+        "GIVE",
+        "CLF",
+        "this",
+        "3Pl",
+        "PRT"
+      ],
+      "free_translation_en": "We should take you there in this way.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s043",
+      "text_roman": "khaam2 kon2 lung6 khaam2 kon2 yaɯ1 kon2 thau3 khau6",
+      "lik_tai": "ၶႃမ်ႇ ၵူၼ်ႇ လုင်ႊ ၶႃမ်ႇ ၵူၼ်ႇ ယ ၵူၼ်ႇ ထဝ်ႈ ၶဝ်ႊ",
+      "assamese_script": "খাম² কোন² লুঙ⁶ খাম² কোন² য¹ কোন² থাও³ খাও⁶",
+      "morphemes": [
+        "khaam2",
+        "kon2",
+        "lung6",
+        "khaam2",
+        "kon2",
+        "yaɯ1",
+        "kon2",
+        "thau3",
+        "khau6"
+      ],
+      "glosses": [
+        "word",
+        "person",
+        "big",
+        "word",
+        "person",
+        "big",
+        "person",
+        "old",
+        "3PL"
+      ],
+      "free_translation_en": "These are the words of the old people, there is only this much.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    },
+    {
+      "id": "book_advice_children_s044",
+      "text_roman": "kha1 lai4 naai2 au5 tɛk3 wai4 kan5 naa4",
+      "lik_tai": "ၶႃ လႆး ၼႃႆႇ ဢဝ်ႉ ႄတၵ်ႈ ဝႆး ၵၼ်ႉ ၼႃး",
+      "assamese_script": "খা¹ লাই⁴ নাই² ঔ⁵ তেক্‌³ ৱাই⁴ কান⁵ না⁴",
+      "morphemes": [
+        "kha1",
+        "lai4",
+        "naai2",
+        "au5",
+        "tɛk3",
+        "wai4",
+        "kan5",
+        "naa4"
+      ],
+      "glosses": [
+        "this much",
+        "this much",
+        "only",
+        "take",
+        "end",
+        "keep",
+        "PRT",
+        "PRT-HORT"
+      ],
+      "free_translation_en": "Let us end here.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-2.mp3",
+      "notes": ""
+    }
+  ],
+  "book_id": "book_advice_children",
+  "title": "Advice and Moral Guidance to Children",
+  "title_tai": "Kham1 Son3 Luk4 On1",
+  "title_as": ""
+}

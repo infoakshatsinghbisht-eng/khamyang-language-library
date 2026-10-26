@@ -1,0 +1,118 @@
+{
+  "book_id": "book_robinson_1841_khamyang_nora",
+  "title": "A Descriptive Account of Asam: The Khamyang, Nora and Shan Nations",
+  "title_tai": "ပိုၼ်း တႆး ၼွႃး လႄႈ ၶမ်းယၢင်း ၼႂ်း ပပ်ႉ ဝီႇလီႇယႅမ်ႇ ရွပ်ႉပိၼ်ႇသႅၼ်ႇ",
+  "title_as": "অসমৰ ঐতিহাসিক বিৱৰণ: নোৰা, খাময়াং আৰু শ্বান জনগোষ্ঠী (উইলিয়াম ৰবিন্সন, ১৮৪১)",
+  "author": "William Robinson",
+  "year": 1841,
+  "genre": "Historical Ethnography & Geography",
+  "category": "Colonial Historical Documentation",
+  "provenance": "Ostell & Lepage, British Library / Calcutta (1841); digitized by Internet Archive (in.ernet.dli.2015.279285)",
+  "digitalized_from": "scratch/Robinson_1841_Descriptive_Account_Asam.txt",
+  "license": "Public Domain (Published 1841)",
+  "total_sentences": 3,
+  "description": "Historical account by William Robinson (1841) covering the geography, manners, script, and societal status of the Nora (Tai Khamyang), Khamti, and Ahom in the early 19th-century Brahmaputra valley.",
+  "units": [
+    {
+      "unit_id": "robinson_1841_u001",
+      "surface_tai": "ၵူၼ် ၼွႃး လႄႈ ၶမ်းယၢင်း မီး လိၵ်ႈလၢႆး လႄႈ သာသၼႃႇ ၵဝ်ႇၵႄႇ",
+      "surface_assamese": "নোৰা আৰু খাময়াংসকলৰ নিজস্ব লিপি, সাহিত্য আৰু প্ৰাচীন বৌদ্ধ ধৰ্ম আছে",
+      "romanization": "kon nɔɔ lɛ kham-yaaŋ mii lik-laai lɛ saa-sa-naa kao-kɛ̀",
+      "morphemes": [
+        "kon",
+        "nɔɔ",
+        "lɛ",
+        "kham-yaaŋ",
+        "mii",
+        "lik-laai",
+        "lɛ",
+        "saa-sa-naa",
+        "kao-kɛ̀"
+      ],
+      "gloss": [
+        "people",
+        "Nora",
+        "and",
+        "Khamyang",
+        "have",
+        "literature",
+        "and",
+        "religion",
+        "ancient"
+      ],
+      "translation_en": "The Nora and Khamyang people possess their own written script, literature, and ancient Buddhist faith.",
+      "translation_as": "নোৰা আৰু খাময়াংসকলৰ নিজস্ব লিপি, সাহিত্য আৰু প্ৰাচীন বৌদ্ধ ধৰ্ম আছে।",
+      "notes": "Robinson (1841: 320). Earliest comprehensive British ethnographic report on the Nora and Khamyang."
+    },
+    {
+      "unit_id": "robinson_1841_u002",
+      "surface_tai": "ၶဝ် ယူႇ သဝ်း ႁိမ်း ၼမ်ႉ မီး သူၼ် ၼႃး ႁဵတ်း ၵၢၼ် ၵိုမ်း",
+      "surface_assamese": "তেওঁলোকে নদীৰ কাষত বসবাস কৰি কৃষি আৰু ধানখেতি কৰে",
+      "romanization": "khao yuu sao him nam mii son naa het kaan kəm",
+      "morphemes": [
+        "khao",
+        "yuu",
+        "sao",
+        "him",
+        "nam",
+        "mii",
+        "son",
+        "naa",
+        "het",
+        "kaan",
+        "kəm"
+      ],
+      "gloss": [
+        "3PL",
+        "live",
+        "dwell",
+        "bank",
+        "river",
+        "have",
+        "orchard",
+        "paddy.field",
+        "do",
+        "work",
+        "industrious"
+      ],
+      "translation_en": "They dwell along the riverbanks, cultivating orchards and wet-rice paddies with great industry.",
+      "translation_as": "তেওঁলোকে নদীৰ কাষত বসবাস কৰি কৃষি আৰু ধানখেতি কৰে।",
+      "notes": "Robinson (1841: 323). Agriculture and settlement patterns of Upper Assam Tai."
+    },
+    {
+      "unit_id": "robinson_1841_u003",
+      "surface_tai": "ၵူၼ် ၼွႃး မီး ၸိုဝ်ႈသဵင် ယႂ်ႇ တီႈ မိူင်း ဢႃႇသၢမ် ပၢၼ် ၶုၼ် ၵဝ်ႇ",
+      "surface_assamese": "আহোম ৰজাসকলৰ দিনত নোৰা জাতিৰ অসমত উচ্চ মৰ্যাদা আছিল",
+      "romanization": "kon nɔɔ mii cɯɯ-seŋ yaɯ tii mə́ŋ aa-saam paan khun kao",
+      "morphemes": [
+        "kon",
+        "nɔɔ",
+        "mii",
+        "cɯɯ-seŋ",
+        "yaɯ",
+        "tii",
+        "mə́ŋ",
+        "aa-saam",
+        "paan",
+        "khun",
+        "kao"
+      ],
+      "gloss": [
+        "people",
+        "Nora",
+        "have",
+        "fame/renown",
+        "great",
+        "at",
+        "country",
+        "Assam",
+        "epoch",
+        "king",
+        "ancient"
+      ],
+      "translation_en": "The Nora people enjoyed high prestige in Assam during the reign of the ancient kings.",
+      "translation_as": "আহোম ৰজাসকলৰ দিনত নোৰা জাতিৰ অসমত উচ্চ মৰ্যাদা আছিল।",
+      "notes": "Historical prestige of the Nora court."
+    }
+  ]
+}

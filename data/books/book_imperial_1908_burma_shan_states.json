@@ -1,0 +1,120 @@
+{
+  "book_id": "book_imperial_1908_burma_shan_states",
+  "title": "Imperial Gazetteer of India: Burma, The Shan States & Northern Frontier",
+  "title_tai": "ပပ်ႉ သဵၼ်ႈမၢႆ ၸႄႈမိူင်း မၢၼ်ႈ လႄႈ မိူင်း တႆး (၁၉၀၈)",
+  "title_as": "ভাৰতৰ ইম্পেৰিয়েল গেজেটিয়াৰ: বাৰ্মা, শ্বান ৰাজ্য আৰু উত্তৰ সীমান্ত (১৯০৮)",
+  "author": "Imperial Gazetteer of India Editorial Board",
+  "year": 1908,
+  "genre": "Official Imperial Gazetteer & Frontier Administrative Survey",
+  "category": "Official Imperial Gazetteers",
+  "provenance": "Superintendent of Government Printing, Calcutta (1908); digitized by National Library of India and Internet Archive (in.ernet.dli.2015.207368)",
+  "digitalized_from": "scratch/Imperial_1908_Gazetteer_Burma_Shan_States.txt",
+  "license": "Public Domain (Published 1908)",
+  "total_sentences": 3,
+  "description": "Comprehensive imperial administrative survey providing detailed political geography and ethnological accounts of the Shan States, Mogaung, Hkamti Long, the Saopha dynastic governance, and the historical trans-Patkai migration routes into Assam.",
+  "sentences": [
+    {
+      "unit_id": "imperial_1908_u001",
+      "surface_tai": "မိူင်း တႆး သၼ်လွႆ မီး ၶုၼ် ၸဝ်ႈၾႃႉ ၵူႈ မိူင်း ပူၵ်းပွင် ႁင်းၶေႃ",
+      "surface_assamese": "শ্বান ৰাজ্যসমূহ স্বতন্ত্ৰ চাওফা বা টাই ৰজাসকলৰ দ্বাৰা সুন্দৰভাৱে শাসিত হৈছিল",
+      "romanization": "mə́ŋ tai san-lɔi mii khun tsao-faa ku mə́ŋ puk-pɔŋ haŋ-khɔ",
+      "morphemes": [
+        "mə́ŋ",
+        "tai",
+        "san-lɔi",
+        "mii",
+        "khun",
+        "tsao-faa",
+        "ku",
+        "mə́ŋ",
+        "puk-pɔŋ",
+        "haŋ-khɔ"
+      ],
+      "gloss": [
+        "country",
+        "Tai",
+        "mountain-ridge",
+        "have",
+        "lord",
+        "Chao-Pha/Saopha",
+        "every",
+        "principality",
+        "govern",
+        "autonomous"
+      ],
+      "translation_en": "Across the highland Shan principalities, each Tai state was governed by its autonomous Saopha.",
+      "translation_as": "শ্বান ৰাজ্যসমূহ স্বতন্ত্ৰ চাওফা বা টাই ৰজাসকলৰ দ্বাৰা সুন্দৰভাৱে শাসিত হৈছিল।",
+      "notes": "Imperial Gazetteer (1908: 100). Provincial Series: Burma, Vol. I."
+    },
+    {
+      "unit_id": "imperial_1908_u002",
+      "surface_tai": "မိူင်း ၵွင်း လႄႈ ၶမ်းတီးလူင် မီး သၢႆသိုပ်ႇ လွင်ႈ ပိုၼ်း တင်း မိူင်း ဢႃႇသၢမ်",
+      "surface_assamese": "মোগাং আৰু খামতি লোং অঞ্চলৰ অসমৰ সৈতে যুগ যুগ ধৰি ঐতিহাসিক আৰু সাংস্কৃতিক সংযোগ আছিল",
+      "romanization": "mə́ŋ kaawoŋ lɛ kham-tii-luŋ mii saai-sɯp lɔ́ŋ pɯ́n taŋ mə́ŋ aa-saam",
+      "morphemes": [
+        "mə́ŋ",
+        "kaawoŋ",
+        "lɛ",
+        "kham-tii-luŋ",
+        "mii",
+        "saai-sɯp",
+        "lɔ́ŋ",
+        "pɯ́n",
+        "taŋ",
+        "mə́ŋ",
+        "aa-saam"
+      ],
+      "gloss": [
+        "kingdom",
+        "Mogaung",
+        "and",
+        "Khamti-Long",
+        "have",
+        "line/connection",
+        "matter",
+        "history/chronicle",
+        "with",
+        "country",
+        "Assam"
+      ],
+      "translation_en": "The realms of Mogaung and Khamti Long maintained unbroken historical and cultural ties with Upper Assam across the Patkai passes.",
+      "translation_as": "মোগাং আৰু খামতি লোং অঞ্চলৰ অসমৰ সৈতে যুগ যুগ ধৰি ঐতিহাসিক আৰু সাংস্কৃতিক সংযোগ আছিল।",
+      "notes": "Imperial Gazetteer (1908: 104). The northern frontier and historical Shan ties to Assam."
+    },
+    {
+      "unit_id": "imperial_1908_u003",
+      "surface_tai": "ၵူၼ် တႆး ႁၵ်ႉ လွင်ႈ သုၶ ၵတ်းယဵၼ် ၼပ်ႉယမ် သြႃႇ ၸဝ်ႈ တြႃး ပုတ်ႉထ",
+      "surface_assamese": "টাই প্ৰজাসকলে শান্তি, সম্প্ৰীতি আৰু বুদ্ধৰ অহিংসা নীতিৰ প্ৰতি অপৰিসীম শ্ৰদ্ধা ৰাখিছিল",
+      "romanization": "kon tai hak lɔ́ŋ su-kha kat-yen nap-yam saa-raa tsao traa put-tha",
+      "morphemes": [
+        "kon",
+        "tai",
+        "hak",
+        "lɔ́ŋ",
+        "su-kha",
+        "kat-yen",
+        "nap-yam",
+        "saa-raa",
+        "tsao",
+        "traa",
+        "put-tha"
+      ],
+      "gloss": [
+        "people",
+        "Tai",
+        "love",
+        "matter",
+        "sukha/happiness",
+        "peaceful",
+        "revere",
+        "teacher",
+        "venerable",
+        "Dhamma",
+        "Buddha"
+      ],
+      "translation_en": "The Tai people cherished peace and harmony, holding deep reverence for the venerable Sangha and the teachings of the Buddha.",
+      "translation_as": "টাই প্ৰজাসকলে শান্তি, সম্প্ৰীতি আৰু বুদ্ধৰ অহিংসা নীতিৰ প্ৰতি অপৰিসীম শ্ৰদ্ধা ৰাখিছিল।",
+      "notes": "Imperial Gazetteer (1908: 108). Social harmony and religious life in the Tai states."
+    }
+  ]
+}

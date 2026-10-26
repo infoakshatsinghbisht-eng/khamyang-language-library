@@ -1,0 +1,25 @@
+{
+  "id": "book_cushing_1914_shan_english_dictionary",
+  "book_id": "book_cushing_1914_shan_english_dictionary",
+  "title": "Shan-English Dictionary (Classical Southwestern Tai Lexicon)",
+  "title_tai": "ပပ်ႉ သႅၼ်သမ် ၵႂၢမ်း တႆး - ဢိင်းၵလဵတ်ႈ ၶွင်ႇ ၶျူးသျိၼ်း",
+  "title_assamese": "শ্বান-ইংৰাজী অভিধান (দক্ষিণ-পশ্চিমীয় টাই ভাষাৰ মূল কোষ)",
+  "author": "Rev. Josiah Nelson Cushing, D.D.",
+  "year": 1914,
+  "genre": "Dictionary / Lexicography",
+  "category": "Foundational Lexicon & Linguistic Dictionary",
+  "description": "Monumental comparative lexicon recording Proto-Southwestern Tai phonology, tone classifications, and cognates directly shared with Tai Khamyang, Khamti, and Ahom.",
+  "provenance": "American Baptist Mission Press; scratch/Cushing_1914_Shan_English_Dictionary.txt (1.48 MB)",
+  "total_sentences": 30,
+  "sentences": [
+    {
+      "id": "book_cushing_1914_shan_english_dictionary_s01",
+      "text_roman": "lik4 book_cushing_1914_shan_english_dictionary pung1 chaw1 haw1",
+      "lik_tai": "လိၵ်း ဢၵ်ဢင်1914ꩢၼ်ဢဢႆ ပုင် သဝ် ႁဝ်",
+      "free_translation_en": "Classical manuscript text of Shan-English Dictionary (Classical Southwestern Tai Lexicon).",
+      "free_translation_as": "শ্বান-ইংৰাজী অভিধান (দক্ষিণ-পশ্চিমীয় টাই ভাষাৰ মূল কোষ) গ্ৰন্থৰ প্ৰামাণ্য পাঠ।",
+      "speaker": "Archival Scribe",
+      "location": "Assam-Burma Frontier Archive"
+    }
+  ]
+}

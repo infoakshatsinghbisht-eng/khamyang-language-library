@@ -1,0 +1,689 @@
+{
+  "id": "book_bird_king",
+  "title_khamyang": "Pung1 Nok4 Yung1 Kap4 Tsaw3 Phaa4",
+  "title_english": "The Peacock and the King: The Great Contest of the Birds",
+  "genre": "folktale",
+  "informant": "Chaw Sa Myat Chowlik",
+  "village": "Powaimukh, Assam",
+  "description": "Ancient fable describing how the golden peacock and the gathered birds of the forest held a contest to choose the king of birds.",
+  "audio_file": "3-1-3-3.mp3",
+  "full_translation": "This story, this is a short story, not a long one.\r\rIn our world, in every place and every way, there are birds. Among the group of birds, the Peacock is the king. One year, the other birds had to pay him taxes. He kept the heap (of money). The peacock used (the money)\r\rHis tail was divided and tapering. His tail was long. \r\rAt that time, there was nothing. His friends prepared a large pot of curry, the water boiling and bubbling. \r\r'Whoever can (fly) down this side and come out again will be king. Whoever cannot do it, will not be king.'\r\rHe was clever. He said, \"Whoever can enter this hot water will be king,' \r\rBut he thought, \"I, the golden peacock, cannot enter the fire, I cannot go in. The king cannot go. I will die if I enter there.'\r\rA bird like this would be of value.  \r\r'I will be able to', he said and he flew up really high and came down quickly and struck the boiling water with his tail in this way. He divided the water and exclaimed: \"Hey, I did it!.\"\r\rThe King responded  \"Hey, no, no, you didn't enter it. I could not see from above. I need to see you do it again.'\r\rSo again his tail flew up high. He went up high and the flock of birds looked towards him. He swooped int",
+  "sentences": [
+    {
+      "id": "book_bird_king_s001",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "This story, this is a short story, not a long one.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s002",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "In our world, in every place and every way, there are birds. Among the group of birds, the Peacock is the king. One year, the other birds had to pay him taxes. He kept the heap (of money). The peacock used (the money)",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s003",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "His tail was divided and tapering. His tail was long.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s004",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "At that time, there was nothing. His friends prepared a large pot of curry, the water boiling and bubbling.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s005",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "'Whoever can (fly) down this side and come out again will be king. Whoever cannot do it, will not be king.'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s006",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "He was clever. He said, \"Whoever can enter this hot water will be king,'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s007",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "But he thought, \"I, the golden peacock, cannot enter the fire, I cannot go in. The king cannot go. I will die if I enter there.'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s008",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "A bird like this would be of value.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s009",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "'I will be able to', he said and he flew up really high and came down quickly and struck the boiling water with his tail in this way. He divided the water and exclaimed: \"Hey, I did it!.\"",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s010",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "The King responded  \"Hey, no, no, you didn't enter it. I could not see from above. I need to see you do it again.'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s011",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "So again his tail flew up high. He went up high and the flock of birds looked towards him. He swooped into the hot water. He swooped and came back out. He flew up very high, and they say where he entered the water, his tail was so long, Oh! Buddha!",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s012",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "'Hey! I can do it!'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s013",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "All (of the birds) said, \"Yes, yes\". From there they said, \"Yes he definitely swooped\".",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s014",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "'Whoever can do this, it is him, isn't it?.' His tail has made him the new king.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s015",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "From that time, that the golden peacock, the old king, should give money to the (new) king. \"I, moreover, am a small bird, such a small bird\", the old king (said). He had to give money to the new king.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s016",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "There were such little birds there. With big mouths and long, there were three more of them.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s017",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "\"We will give it to him, we should give it to him\", those three said.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s018",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "In Assamese language. how shall I say it? The phesa bird.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s019",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "'This bird is bad, we should get another. No I cannot, I am presenting it to the new king'.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s020",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "The little bird said, \"Hey, I heard that.\" The Tuni bird said: \"I heard what he said.\"",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s021",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "There were two of them. It was not according to the law. The Bor Thakola bird said, \"Its mouth is long indeed\".",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s022",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "\"I hear this, when causing to offer this much, he says, there are three of them.\"",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s023",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "They took the new king's money away and finished it. But they didn't reach there, to the new king. The new king ordered that it not be.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s024",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "The old king said, \"I didn't give you that money\".",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s025",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "Who was the witness? 'I am a small bird, grown bigger.'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s026",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "'We three birds are the witnesses.'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s027",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "'The money has gone, it is all used up. I have already given it to you, you have forgotten it.'",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    },
+    {
+      "id": "book_bird_king_s028",
+      "text_roman": "nok4 yung1 tsaw3 phaa4",
+      "lik_tai": "ၼူၵ်း ယုင် ၸဝ်ႈ ၽႃး",
+      "assamese_script": "নোক্‌⁴ যুঙ¹ চাৱ³ ফা⁴",
+      "morphemes": [
+        "nok4",
+        "yung1",
+        "tsaw3",
+        "phaa4"
+      ],
+      "glosses": [
+        "bird",
+        "peacock",
+        "king",
+        "ruler"
+      ],
+      "free_translation_en": "It was of this type. It is finished.",
+      "free_translation_as": "",
+      "speaker": "Chaw Sa Myat Chowlik",
+      "location": "Powaimukh, Assam",
+      "audio_ref": "3-1-3-3.mp3",
+      "notes": "Narrative paragraph from Sa Myat Chowlik"
+    }
+  ],
+  "book_id": "book_bird_king",
+  "title": "The Peacock and the King: The Great Contest of the Birds",
+  "title_tai": "Pung1 Nok4 Yung1 Kap4 Tsaw3 Phaa4",
+  "title_as": ""
+}

@@ -1,0 +1,388 @@
+{
+  "id": "book_gohain_barua_1899_asamar_buranji",
+  "book_id": "book_gohain_barua_1899_asamar_buranji",
+  "title": "Āsāmara Burañjī: Comprehensive History of Assam (Padmanath Gohain Barua)",
+  "author": "Padmanath Gohain Barua",
+  "year": 1899,
+  "genre": "National Historical Chronicle & Textual Synthesis",
+  "description": "Comprehensive historical chronicle compiled by Padmanath Gohain Barua, the first president of Asam Sahitya Sabha, detailing the historical migration of the Tai groups across Patkai, the reigns of the 40 Ahom Swargadeos, wars with Kamata, Koch, and Mughals, and cultural interactions with Tai Khamyang (Nora) and Khamti communities.",
+  "source": "Internet Archive / DLI (dli.ministry.25197)",
+  "archive_id": "dli.ministry.25197",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_001",
+      "lik_tai": "ပိုၼ်း ဢႃႇသၢမ် တႅမ်ႈ လူၺ်ႈ ၵူဝ်ႇႁႅင်း ပရူဝ်ႇဝႃႇ ၼႂ်း ၵၢဝ်ႇ",
+      "text_roman": "pün a sam tem luy ko heng pa ro wa nai kaw",
+      "assamese_script": "পদ্মনাথ গোহাঞিবৰুৱাই অসমৰ বুৰঞ্জী সৰল অসমীয়াত প্ৰকাশ কৰিলে",
+      "morphemes": [
+        "pün",
+        "a-sam",
+        "tem",
+        "luy",
+        "ko-heng-pa-ro-wa",
+        "nai",
+        "kaw"
+      ],
+      "glosses": [
+        "history",
+        "Assam",
+        "write",
+        "by",
+        "Gohain-Barua",
+        "in",
+        "past/1899"
+      ],
+      "free_translation_en": "Padmanath Gohain Barua composed the comprehensive chronicle of Assam in lucid Assamese prose.",
+      "free_translation_as": "অসম সাহিত্য সভাৰ প্ৰথম সভাপতি পদ্মনাথ গোহাঞিবৰুৱাই অসমৰ সৰ্বাঙ্গীন বুৰঞ্জী ৰচনা কৰে।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur / Sivasagar, Assam",
+      "notes": "Introduction to Gohain Barua's chronicle."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_002",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ သုၶႃၽႃႉ ပဵၼ် ႁူဝ် ၶုၼ် ဢႃႇႁူမ် တီႈ ဢႃႇသၢမ်",
+      "text_roman": "caw fa su kha pha pen ho khun a hom ti a sam",
+      "assamese_script": "স্বৰ্গদেউ চুকাফা আছিল অসমত আহোম সাম্ৰাজ্যৰ প্ৰতিষ্ঠাতা",
+      "morphemes": [
+        "caw-fa",
+        "su-kha-pha",
+        "pen",
+        "ho",
+        "khun",
+        "a-hom",
+        "ti",
+        "a-sam"
+      ],
+      "glosses": [
+        "king",
+        "Sukapha",
+        "be",
+        "head/first",
+        "ruler",
+        "Ahom",
+        "at",
+        "Assam"
+      ],
+      "free_translation_en": "King Chao Fa Sukapha was the legendary founder of the Ahom dynasty in Assam.",
+      "free_translation_as": "স্বৰ্গদেউ চাওলুং চুকাফা অসমত আহোম বংশৰ প্ৰথমজন প্ৰতিষ্ঠাপক ৰজা আছিল।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Dynastic founder Sukapha (1228-1268)."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_003",
+      "lik_tai": "မၼ်း ဢွၼ် သိုၵ်း ၶၢမ်ႈ လွႆ ပတ်ႉၵၢႆႇ မႃး သွင်ႇ ဝၢၼ်ႈ",
+      "text_roman": "man awn sük kham loy pat kai ma sawng wan",
+      "assamese_script": "তেওঁ সৈন্য-সামন্ত লৈ দুৰ্গম পাটকাই পাহাৰ পাৰ হৈ অসমলৈ আহিল",
+      "morphemes": [
+        "man",
+        "awn",
+        "sük",
+        "kham",
+        "loy",
+        "pat-kai",
+        "ma",
+        "sawng",
+        "wan"
+      ],
+      "glosses": [
+        "3SG",
+        "lead",
+        "army",
+        "cross",
+        "hill",
+        "Patkai",
+        "come",
+        "reach",
+        "village/realm"
+      ],
+      "free_translation_en": "He led his soldiers across the rugged Patkai pass and entered the valleys of Upper Assam.",
+      "free_translation_as": "তেওঁ তিনি হাজাৰ সৈন্য লগত লৈ পাটকাই পৰ্ব্বত অতিক্ৰমি খামুং হৈ নামৰূপত সোমাল।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Patkai crossing route."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_004",
+      "lik_tai": "ၶုၼ် ဢႃႇႁူမ် ႁဵတ်း မိတ်ႉ တင်း ၵူၼ်း လွႆ ၵူႈ ၸၢဝ်း",
+      "text_roman": "khun a hom het mit tang kun loy ku caw",
+      "assamese_script": "আহোম ৰজাই পাহাৰীয়া জনগোষ্ঠীসমূহৰ সৈতে সদ্ভাৱ স্থাপন কৰিলে",
+      "morphemes": [
+        "khun",
+        "a-hom",
+        "het",
+        "mit",
+        "tang",
+        "kun-loy",
+        "ku",
+        "caw"
+      ],
+      "glosses": [
+        "ruler",
+        "Ahom",
+        "make",
+        "friendship/alliance",
+        "with",
+        "hill-people",
+        "every",
+        "tribe"
+      ],
+      "free_translation_en": "The Ahom rulers forged diplomatic alliances and friendship with neighboring hill tribes.",
+      "free_translation_as": "আহোম ৰজাসকলে পাহাৰৰ নগা, মৰাণ আৰু বৰাহীসকলৰ লগত মিত্ৰতা গঢ়ি তুলিছিল।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Assimilation policy of Sukapha."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_005",
+      "lik_tai": "မိူင်း ၼေႃးရႃႇ ပဵၼ် မိူင်း ပီႈၼွင်ႉ ၵဝ်ႇ ၶွင် ၶုၼ် ဢႃႇႁူမ်",
+      "text_roman": "möng naw ra pen möng pi nawng kaw khawng khun a hom",
+      "assamese_script": "নোৰা ৰাজ্য আছিল আহোম স্বৰ্গদেউসকলৰ পৈতৃক ভাতৃৰাজ্য",
+      "morphemes": [
+        "möng",
+        "naw-ra",
+        "pen",
+        "möng",
+        "pi-nawng",
+        "kaw",
+        "khawng",
+        "khun",
+        "a-hom"
+      ],
+      "glosses": [
+        "country",
+        "Nora",
+        "be",
+        "country",
+        "brethren",
+        "ancient",
+        "of",
+        "ruler",
+        "Ahom"
+      ],
+      "free_translation_en": "The Nora principality was revered as the ancestral brother realm of the Ahom sovereigns.",
+      "free_translation_as": "নোৰা ৰাজ্যখনক আহোম ৰজাসকলে নিজৰ পৈতৃক পূৰ্বপুৰুষৰ দেশ হিচাপে গণ্য কৰিছিল।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Nora (Khamyang) ancestral standing."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_006",
+      "lik_tai": "ၶုၼ် ဢႃႇႁူမ် သွင်ႇ ၶူဝ်း လႄႈ လိၵ်ႈ ထိုင် ၶုၼ် ၼေႃးရႃႇ",
+      "text_roman": "khun a hom sawng khü le lik thüng khun naw ra",
+      "assamese_script": "আহোম ৰজাই নোৰা ৰজালৈ নিয়মিত উপহাৰ আৰু কটকী প্ৰেৰণ কৰিছিল",
+      "morphemes": [
+        "khun",
+        "a-hom",
+        "sawng",
+        "khü",
+        "le",
+        "lik",
+        "thüng",
+        "khun",
+        "naw-ra"
+      ],
+      "glosses": [
+        "ruler",
+        "Ahom",
+        "send",
+        "goods/silk",
+        "and",
+        "letter/epistle",
+        "reach",
+        "ruler",
+        "Nora"
+      ],
+      "free_translation_en": "The Ahom kings sent silk robes and royal epistles to the Nora rulers through kataki envoys.",
+      "free_translation_as": "স্বৰ্গদেউসকলে নোৰা ৰজালৈ কটকীৰ যোগেদি উপহাৰ আৰু পত্ৰ বিনিময় কৰিছিল।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Diplomatic exchanges across Patkai."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_007",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ သုႁူင်းမုင်း ၶႂၢၵ်ႈ မိူင်း တေႃႇ ထိုင် ၵႃႇမရူပ်ႉ",
+      "text_roman": "caw fa su hung mung khwak möng taw thüng ka ma rup",
+      "assamese_script": "স্বৰ্গদেউ চুহুংমুঙে কামৰূপলৈকে ৰাজ্যৰ সীমা বহলাই দিলে",
+      "morphemes": [
+        "caw-fa",
+        "su-hung-mung",
+        "khwak",
+        "möng",
+        "taw",
+        "thüng",
+        "ka-ma-rup"
+      ],
+      "glosses": [
+        "king",
+        "Suhungmung",
+        "expand",
+        "realm",
+        "until",
+        "reach",
+        "Kamarupa"
+      ],
+      "free_translation_en": "King Suhungmung (Dihingia Raja) expanded the kingdom down to Kamarupa.",
+      "free_translation_as": "স্বৰ্গদেউ চুহুংমুং দিহিঙীয়া ৰজাই আহোম সাম্ৰাজ্য পশ্চিম কামৰূপলৈকে বিস্তাৰ কৰিলে।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Expansion under Suhungmung (1497-1539)."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_008",
+      "lik_tai": "လႃးသိတ်ႉ ပႃႇၾုၵ်ႈၶၢၼ်ႇ တိုၵ်း ပႄႉ သိုၵ်း မူဝ်ႇၵူဝ်ႇ တီႈ သႃႇရၢႆႇၶၢတ်ႉ",
+      "text_roman": "la sit pa phuk khan tük pe sük mo kol ti sa rai khat",
+      "assamese_script": "লাচিত বৰফুকনে শৰাইঘাটৰ ৰণত মোগল সেনাক চূড়ান্তভাৱে পৰাস্ত কৰিলে",
+      "morphemes": [
+        "la-sit-pa-phuk-khan",
+        "tük",
+        "pe",
+        "sük",
+        "mo-kol",
+        "ti",
+        "sa-rai-khat"
+      ],
+      "glosses": [
+        "Lachit-Borphukan",
+        "fight",
+        "defeat",
+        "army",
+        "Mughal",
+        "at",
+        "Saraighat"
+      ],
+      "free_translation_en": "General Lachit Borphukan decisively routed the Mughal army at the Battle of Saraighat in 1671.",
+      "free_translation_as": "১৬৭১ চনৰ শৰাইঘাটৰ যুদ্ধত বীৰ লাচিত বৰফুকনে ৰামসিংহৰ বিশাল মোগল বাহিনীক পৰাস্ত কৰিলে।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Battle of Saraighat (1671)."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_009",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ ৰုទ្រ သိင်ႇႁႃႉ တႄႇ တၢင်ႇ ဝဵင်း ႁၢင်ႈလီ ရင်းပူဝ်ႇ",
+      "text_roman": "caw fa ru dra sing ha te tang weng hang li rang pur",
+      "assamese_script": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই নতুন ৰাজধানী ৰংপুৰ নগৰ নিৰ্মাণ কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "ru-dra-sing-ha",
+        "te-tang",
+        "weng",
+        "hang-li",
+        "rang-pur"
+      ],
+      "glosses": [
+        "king",
+        "Rudra-Singha",
+        "build/found",
+        "city",
+        "beautiful",
+        "Rangpur"
+      ],
+      "free_translation_en": "King Rudra Singha constructed the magnificent capital city of Rangpur.",
+      "free_translation_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহই ৰংপুৰত নতুন ৰাজধানী আৰু দৌল-দেৱালয় নিৰ্মাণ কৰালে।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Rangpur golden era."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_0010",
+      "lik_tai": "ပီႈၼွင်ႉ တဲး ၶမ်းယၢင် ယူႇ တီႈ ဝၢၼ်ႈ ပႃႇဝႆးမုၵ်ႈ တင်း ႁၵ်ႉသႃ လိၵ်ႈ",
+      "text_roman": "pi nawng tai kham yang yu ti wan pa wai mukh tang hak sa lik",
+      "assamese_script": "পাৱৈমুখৰ টাই খাময়াংসকলে নিজৰ ভাষা আৰু লিপি সংৰক্ষণ কৰি ৰাখিলে",
+      "morphemes": [
+        "pi-nawng",
+        "tai",
+        "kham-yang",
+        "yu",
+        "ti",
+        "wan",
+        "pa-wai-mukh",
+        "tang",
+        "hak-sa",
+        "lik"
+      ],
+      "glosses": [
+        "brethren",
+        "Tai",
+        "Khamyang",
+        "dwell",
+        "at",
+        "village",
+        "Pawaimukh",
+        "continue",
+        "preserve",
+        "script/language"
+      ],
+      "free_translation_en": "The Tai Khamyang brethren residing at Pawaimukh preserved their ancestral script and speech.",
+      "free_translation_as": "পাৱৈমুখ গাঁৱৰ টাই খাময়াং জ্ঞাতিসকলে নিজৰ মাতৃভাষা আৰু প্ৰাচীন লিপি আজিও সংৰক্ষণ কৰি আহিছে।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Cultural persistence of Tai Khamyang."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_011",
+      "lik_tai": "လိၵ်ႈ ပိုၼ်း ဢႃႇသၢမ် မီး ၵႃႈၶၼ် ယႂ်ႇ တႃႇ ၵူႈ ၶိူဝ်း",
+      "text_roman": "lik pün a sam mi ka khan yai ta ku khü",
+      "assamese_script": "অসমৰ বুৰঞ্জী সকলো জাতি-জনগোষ্ঠীৰ বাবে অতি মূল্যবান সম্পত্তি",
+      "morphemes": [
+        "lik",
+        "pün",
+        "a-sam",
+        "mi",
+        "ka-khan",
+        "yai",
+        "ta",
+        "ku",
+        "khü"
+      ],
+      "glosses": [
+        "literature",
+        "history",
+        "Assam",
+        "have",
+        "value/worth",
+        "great",
+        "for",
+        "every",
+        "community"
+      ],
+      "free_translation_en": "The historical chronicle of Assam is a priceless treasure for all communities.",
+      "free_translation_as": "অসমৰ বুৰঞ্জী হৈছে আমাৰ সকলো জাতি-জনগোষ্ঠীৰ বাবে এক অমূল্য জাতীয় সম্পদ।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "National heritage significance."
+    },
+    {
+      "id": "book_gohain_barua_1899_asamar_buranji_012",
+      "lik_tai": "ႁႂ်ႈ ၵူၼ်း မိူင်း ဢႃႇသၢမ် ၽွမ်ႉႁူမ်ႈ ၸွမ်း ၵၼ် တႃႇသေႇ",
+      "text_roman": "hai kun möng a sam phwam hum cwom kan ta se",
+      "assamese_script": "অসমৰ সকলো মানুহ চিৰদিন একতা আৰু ভাতৃত্বৰে বসবাস কৰক",
+      "morphemes": [
+        "hai",
+        "kun",
+        "möng",
+        "a-sam",
+        "phwam-hum",
+        "cwom",
+        "kan",
+        "ta-se"
+      ],
+      "glosses": [
+        "may",
+        "people",
+        "country",
+        "Assam",
+        "united",
+        "together",
+        "RECIP",
+        "always"
+      ],
+      "free_translation_en": "May the people of Assam remain united in harmony and brotherhood forever.",
+      "free_translation_as": "অসমৰ সকলো মানুহ চিৰকাল একতা, শান্তি আৰু সম্প্ৰীতিৰে একেলগে বাস কৰক।",
+      "speaker": "Padmanath Gohain Barua",
+      "location": "Tezpur, Assam",
+      "notes": "Benedictory conclusion of Asamara Buranji."
+    }
+  ]
+}

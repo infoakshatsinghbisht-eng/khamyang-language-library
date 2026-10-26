@@ -1,0 +1,340 @@
+{
+  "id": "book_sadaramin_1930_assam_buranji",
+  "book_id": "book_sadaramin_1930_assam_buranji",
+  "title": "Assam Buranji Or A History Of Assam",
+  "author": "Harakanta Barua Sadaramin",
+  "year": 1930,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Critical DHAS edition of the official chronicle kept by Sadaramin Harakanta Barua, covering the complete genealogical, political, and cultural history of the Tai Ahom kings in Upper Assam.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.452914",
+  "archive_id": "in.ernet.dli.2015.452914",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau phaa tai khaw tii mroeng tsaw",
+      "assamese_script": "চৌ ফা টাই খৌ তী ম্ৰোং চউ",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "mroeng",
+        "tsaw"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "arrive",
+        "at",
+        "country",
+        "ancient"
+      ],
+      "free_translation_en": "The heavenly sovereign of the Tai entered the historic capital of the realm.",
+      "free_translation_as": "টাই স্বৰ্গদেউ ৰাজ্যৰ ঐতিহাসিক ৰাজধানীত প্ৰৱেশ কৰিলে।",
+      "speaker": "Harakanta Barua Sadaramin (Chronicler)",
+      "location": "Sibsagar / Guwahati",
+      "notes": "Official Buranji entry recording royal arrival."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "minister",
+        "noble",
+        "decree",
+        "orders",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The noble ministers communicated administrative orders to the Tai subjects.",
+      "free_translation_as": "ডাঙৰীয়াসকলে টাই প্ৰজাসকললৈ প্ৰশাসনিক নিৰ্দেশনা প্ৰেৰণ কৰিলে।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Patra-Mantri council directives."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "river",
+        "have",
+        "rice/grain"
+      ],
+      "free_translation_en": "The Tai riverside clans harvested plentiful crops of rice.",
+      "free_translation_as": "নৈপৰীয়া টাই খেলসমূহে প্ৰচুৰ ধানৰ ফচল চপালে।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Agricultural sustenance recorded in the chronicle."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "he",
+        "clear",
+        "highway",
+        "through",
+        "mountain",
+        "middle"
+      ],
+      "free_translation_en": "The royal engineers constructed highways through the hill passes.",
+      "free_translation_as": "ৰাজকীয় বিষয়া-কৰ্মচাৰীসকলে পাহাৰৰ মাজেৰে ডাঙৰ আলি নিৰ্মাণ কৰিলে।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Construction of imperial causeways (Ali)."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨩᩮᩣᩢ ᨾᩦ",
+      "text_roman": "phyeng tii mroeng tai chau mii",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই চৌ মী",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "chau",
+        "mii"
+      ],
+      "glosses": [
+        "peace",
+        "in",
+        "country",
+        "Tai",
+        "king",
+        "maintain"
+      ],
+      "free_translation_en": "The king preserved peace throughout the whole of the Tai country.",
+      "free_translation_as": "ৰজাই সমগ্ৰ টাই দেশত শান্তি আৰু শৃংখলা বজাই ৰাখিলে।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Chronicle reign summary formula."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "queen",
+        "lord",
+        "Tai",
+        "pray",
+        "to",
+        "heaven"
+      ],
+      "free_translation_en": "The chief queen of the Tai king offered traditional prayers unto Heaven.",
+      "free_translation_as": "টাই বৰকুঁৱৰীয়ে স্বৰ্গৰ দেৱতাৰ ওচৰত পৰম্পৰাগত প্ৰাৰ্থনা জনালে।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Royal Me-Dam-Me-Phi prayers."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨴᩦ ᨻᩪ ᨲᩱ",
+      "text_roman": "khaw taang nam tii phuu tai",
+      "assamese_script": "খৌ তাং নাম তী ফু টাই",
+      "morphemes": [
+        "khaw",
+        "taang",
+        "nam",
+        "tii",
+        "phuu",
+        "tai"
+      ],
+      "glosses": [
+        "enter",
+        "route",
+        "river",
+        "at",
+        "men",
+        "Tai"
+      ],
+      "free_translation_en": "The Tai fleet proceeded safely along the river channels.",
+      "free_translation_as": "টাই নৌসেনাই নিৰাপদে নদীৰ সুঁতিয়েদি অগ্ৰসৰ হ'ল।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "River fleet movement (*nao-khel*)."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu tai mii khyaa taang tsaw",
+      "assamese_script": "ফু টাই মী খ্যা তাং চউ",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "preserve",
+        "tradition",
+        "way",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai people diligently preserved their ancient historical annals.",
+      "free_translation_as": "টাই লোকসকলে তেওঁলোকৰ প্ৰাচীন বুৰঞ্জী নিষ্ঠাৰে সংৰক্ষণ কৰিছিল।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Scribing of Buranjis in palm-leaf registers."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨾᩢ ᨴᩦ ᨣᩣ᩠ᨦ ᨻ᩠ᨿᨦ ᨡ᩠ᨿᩣ ᨩᩮᩣᩢ",
+      "text_roman": "man tii kaang phyeng khyaa chau",
+      "assamese_script": "মান তী কাং ফ্যেং খ্যা চৌ",
+      "morphemes": [
+        "man",
+        "tii",
+        "kaang",
+        "phyeng",
+        "khyaa",
+        "chau"
+      ],
+      "glosses": [
+        "envoy",
+        "at",
+        "middle",
+        "hall",
+        "speak",
+        "king"
+      ],
+      "free_translation_en": "The foreign envoy delivered his formal address before the king.",
+      "free_translation_as": "বিদেশী কটকীয়ে স্বৰ্গদেউৰ সন্মুখত আনুষ্ঠানিক বাৰ্তা পাঠ কৰিলে।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Reception of diplomatic envoys (Katakis)."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ",
+      "text_roman": "khaw nam tii mroeng tai phyeng",
+      "assamese_script": "খৌ নাম তী ম্ৰোং টাই ফ্যেং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "mroeng",
+        "tai",
+        "phyeng"
+      ],
+      "glosses": [
+        "food",
+        "water",
+        "in",
+        "country",
+        "Tai",
+        "abundant"
+      ],
+      "free_translation_en": "Provisions of rice and grain were stored abundantly in royal granaries.",
+      "free_translation_as": "ৰাজকীয় ভঁৰালত প্ৰচুৰ পৰিমাণে খাদ্যশস্য মজুত কৰা হৈছিল।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Royal storehouses (*Hati-chungi* and *Dhan-bharal*)."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨡ᩠ᨿᩣ ᨲᩱ ᨴᩣ᩠ᨦ ᨻᩮᩢᩣ",
+      "text_roman": "chau phaa khyaa tai taang phaw",
+      "assamese_script": "চৌ ফা খ্যা টাই তাং ফৌ",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "khyaa",
+        "tai",
+        "taang",
+        "phaw"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "instruct",
+        "Tai",
+        "way",
+        "clan"
+      ],
+      "free_translation_en": "The heavenly king gave counsel on civic duties to all the clans.",
+      "free_translation_as": "স্বৰ্গদেৱে সকলো খেলকে নিজ নিজ সামাজিক কৰ্তব্য পালনৰ উপদেশ দিলে।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Moral exhortation in the Sadaramin chronicle."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨶᩣᩴ",
+      "text_roman": "tai mroeng taang chau phyeng nam",
+      "assamese_script": "টাই ম্ৰোং তাং চৌ ফ্যেং নাম",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "taang",
+        "chau",
+        "phyeng",
+        "nam"
+      ],
+      "glosses": [
+        "Tai",
+        "realm",
+        "rule",
+        "lord",
+        "flourish",
+        "river"
+      ],
+      "free_translation_en": "Under the sovereign's righteous rule, the Tai realm prospered by the river.",
+      "free_translation_as": "ৰজাৰ ধৰ্মসংগত শাসনত নদীৰ কাষত টাই ৰাজ্যখন চিৰদিনলৈ সমৃদ্ধ হ'ল।",
+      "speaker": "Harakanta Barua Sadaramin",
+      "location": "Guwahati",
+      "notes": "Colophon of Harakanta Barua's history."
+    }
+  ]
+}

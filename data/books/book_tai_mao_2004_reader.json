@@ -1,0 +1,380 @@
+{
+  "id": "book_tai_mao_2004_reader",
+  "book_id": "book_tai_mao_2004_reader",
+  "title": "Shan Language Reader (Tai Mao / Mong Mao Homeland Primer)",
+  "author": "Lumbini Buddhist Sasana Council of Mong Mao",
+  "year": 2004,
+  "genre": "Ancestral Homeland Primer & Folk Literature",
+  "description": "Authentic reader and primer published by the Buddhist Sasana Council of Mong Mao (the historical ancestral homeland from which Chao Lung Sukapha and the Tai Khamyang / Nora migrated across the Patkai hills into Assam), preserving the original Tai Mao syllabary, Buddhist chants, and folktales.",
+  "source": "Internet Archive (tai-reader)",
+  "archive_id": "tai-reader",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_tai_mao_2004_reader_001",
+      "lik_tai": "ပပ်ႉ ႁဵၼ်း လိၵ်ႈ တႆး မိူင်းမၢဝ်း ပုၼ်ႈတႃႇ လုၵ်ႈလၢၼ်",
+      "text_roman": "pap hen lik tai möng mao pun ta luk lan",
+      "assamese_script": "পাপ হেন লিক ত্তাই ম্যং মাও পুন তা লুক লান",
+      "morphemes": [
+        "pap",
+        "hen",
+        "lik",
+        "tai",
+        "möng-mao",
+        "pun-ta",
+        "luk-lan"
+      ],
+      "glosses": [
+        "book",
+        "learn/study",
+        "script",
+        "Tai",
+        "Mong-Mao",
+        "for",
+        "children/descendants"
+      ],
+      "free_translation_en": "Tai Mao language study book from Mong Mao for the young generation.",
+      "free_translation_as": "মং মাও উপত্যকাৰ টাই শিক্ষাপুথি আমাৰ উত্তৰ পুৰুষৰ বাবে।",
+      "speaker": "Mong Mao Buddhist Council",
+      "location": "Mong Mao / Ruili Valley",
+      "notes": "Title heading of the Tai Mao reader."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_002",
+      "lik_tai": "မိူင်းမၢဝ်း ပဵၼ် မိူင်း ၵဝ်ႇ ၶွင် ၸဝ်ႈ ၾႃႉ သုၶႃၽႃႉ",
+      "text_roman": "möng mao pen möng kaw khawng caw fa su kha pha",
+      "assamese_script": "মং মাও আছিল স্বৰ্গদেউ চুকাফাৰ প্ৰাচীন মাতৃভূমি",
+      "morphemes": [
+        "möng-mao",
+        "pen",
+        "möng",
+        "kaw",
+        "khawng",
+        "caw-fa",
+        "su-kha-pha"
+      ],
+      "glosses": [
+        "Mong-Mao",
+        "be",
+        "country",
+        "ancient",
+        "of",
+        "king",
+        "Sukapha"
+      ],
+      "free_translation_en": "Mong Mao is the ancient kingdom from where King Chao Fa Sukapha set forth.",
+      "free_translation_as": "মং মাও হৈছে স্বৰ্গদেউ চুকাফা আৰু খাময়াংসকলৰ পুৰণি ঐতিহাসিক গৃহভূমি।",
+      "speaker": "Tai Mao Native Elder",
+      "location": "Mong Mao",
+      "notes": "Historical origin of Assam Tai peoples."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_003",
+      "lik_tai": "တူဝ် လိၵ်ႈ တႆးမၢဝ်း မီး သဵင် လီ ငၢမ်း ၼႂ်း ၵႂၢမ်း",
+      "text_roman": "tu lik tai mao mi syeŋ li ngam nai kwam",
+      "assamese_script": "টাই মাও লিপিৰ আখৰবোৰৰ উচ্চাৰণ অতিশয় সুৰীয়া আৰু সুন্দৰ",
+      "morphemes": [
+        "tu",
+        "lik",
+        "tai-mao",
+        "mi",
+        "syeŋ",
+        "li",
+        "ngam",
+        "nai",
+        "kwam"
+      ],
+      "glosses": [
+        "letter",
+        "script",
+        "Tai-Mao",
+        "have",
+        "sound/tone",
+        "good",
+        "beautiful",
+        "in",
+        "speech"
+      ],
+      "free_translation_en": "The letters of the Tai Mao script possess melodic and graceful pronunciation.",
+      "free_translation_as": "টাই মাও লিপিৰ আখৰসমূহৰ উচ্চাৰণ অতি মধুৰ আৰু সুন্দৰ।",
+      "speaker": "Tai Mao Native Elder",
+      "location": "Mong Mao",
+      "notes": "Lesson 1: Phonetics."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_004",
+      "lik_tai": "ၵဝ် ႁၵ်ႉ ဢူႈ မႄႈ လႄႈ ၵျွင်း ၽြႃး ပုတ်ႉထ",
+      "text_roman": "kao hak u me le kyawng phra put tha",
+      "assamese_script": "মই পিতৃ-মাতৃ আৰু বৌদ্ধ বিহাৰক শ্ৰদ্ধা কৰোঁ",
+      "morphemes": [
+        "kao",
+        "hak",
+        "u",
+        "me",
+        "le",
+        "kyawng",
+        "phra",
+        "put-tha"
+      ],
+      "glosses": [
+        "1SG",
+        "love/revere",
+        "father",
+        "mother",
+        "and",
+        "vihara",
+        "lord",
+        "Buddha"
+      ],
+      "free_translation_en": "I revere my father and mother and the sacred Buddhist monastery.",
+      "free_translation_as": "মই মা-দেউতা আৰু পৱিত্ৰ বৌদ্ধ বিহাৰক অন্তৰেৰে ভক্তি কৰোঁ।",
+      "speaker": "Tai Mao Student",
+      "location": "Mong Mao",
+      "notes": "Moral reading lesson."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_005",
+      "lik_tai": "ၼမ်ႉ မၢဝ်း လႆ လူင်း ၵတ်းယဵၼ် ၼႂ်း ပၢင်ႇ",
+      "text_roman": "nam mao lai lung kat yen nai pang",
+      "assamese_script": "মাও নদীখন শান্তভাৱে উপত্যকাৰে বৈ গৈছে",
+      "morphemes": [
+        "nam-mao",
+        "lai",
+        "lung",
+        "kat-yen",
+        "nai",
+        "pang"
+      ],
+      "glosses": [
+        "Mao-river/Shweli",
+        "flow",
+        "down",
+        "peaceful/cool",
+        "in",
+        "valley/plain"
+      ],
+      "free_translation_en": "The Mao river (Nam Mao / Shweli) flows peacefully through the fertile valley.",
+      "free_translation_as": "মাও নদীখনে সেউজীয়া উপত্যকাৰ মাজেৰে নিৰিবিলিভাৱে বৈ গৈছে।",
+      "speaker": "Tai Mao Elder",
+      "location": "Mong Mao",
+      "notes": "Nam Mao geographical description."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_006",
+      "lik_tai": "ပီႈၼွင်ႉ ၼႂ်း ဝၢၼ်ႈ ႁဵတ်း ၼႃး ၶဝ်ႈ လီ လီ",
+      "text_roman": "pi nawng nai wan het na khao li li",
+      "assamese_script": "গাঁওবাসীয়ে পথাৰত উত্তম ধান খেতি কৰিছে",
+      "morphemes": [
+        "pi-nawng",
+        "nai",
+        "wan",
+        "het",
+        "na",
+        "khao",
+        "li",
+        "li"
+      ],
+      "glosses": [
+        "brethren",
+        "in",
+        "village",
+        "do",
+        "paddy",
+        "rice",
+        "good",
+        "good"
+      ],
+      "free_translation_en": "The villagers cultivate rich rice paddies and work with diligence.",
+      "free_translation_as": "গাঁৱৰ ভাতৃসকলে পথাৰত বৰ সুন্দৰকৈ ধান খেতি কৰিছে।",
+      "speaker": "Tai Mao Elder",
+      "location": "Mong Mao",
+      "notes": "Wet-rice agriculture."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_007",
+      "lik_tai": "ဝၼ်း သၢင်းၵျၢၼ်ႇ ၵူၼ်း တႆး သွၵ်ႉ ၼမ်ႉ ၵၼ် လီ ငၢမ်း",
+      "text_roman": "wan sang kyan kun tai sawk nam kan li ngam",
+      "assamese_script": "চাংকেন উৎসৱত টাই মানুহে পৰস্পৰ পানী ছটিয়াই আনন্দ কৰে",
+      "morphemes": [
+        "wan",
+        "sang-kyan",
+        "kun",
+        "tai",
+        "sawk",
+        "nam",
+        "kan",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "day",
+        "Songkran/Sangken",
+        "people",
+        "Tai",
+        "splash/sprinkle",
+        "water",
+        "RECIP",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "On Songkran day, the Tai people sprinkle pure water on each other with joyous laughter.",
+      "free_translation_as": "চাংকেন উৎসৱৰ দিনা টাই লোকসকলে পৰস্পৰৰ গাত সুগন্ধি পানী ছটিয়ায়।",
+      "speaker": "Tai Mao Elder",
+      "location": "Mong Mao",
+      "notes": "Poy Sangken rituals."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_008",
+      "lik_tai": "မႄႈ ႁဝ်း ၵိင်ႇ ၽႃႈ တဲး လၢႆး ငၢမ်း ၼိူဝ် ႁုၵ်ႇ",
+      "text_roman": "me hao king pha tai lai ngam nü huk",
+      "assamese_script": "আমাৰ মাতৃয়ে তাঁতশালত সুন্দৰ চানেকীয়া টাই কাপোৰ বৈছে",
+      "morphemes": [
+        "me",
+        "hao",
+        "king",
+        "pha",
+        "tai",
+        "lai",
+        "ngam",
+        "nü",
+        "huk"
+      ],
+      "glosses": [
+        "mother",
+        "1PL",
+        "weave",
+        "cloth",
+        "Tai",
+        "patterned",
+        "beautiful",
+        "on",
+        "loom"
+      ],
+      "free_translation_en": "Our mother weaves beautiful patterned Tai textiles on the traditional loom.",
+      "free_translation_as": "আমাৰ মাতৃয়ে তাঁতশালত মনোৰম চানেকীয়া টাই কাপোৰ তৈয়াৰ কৰিছে।",
+      "speaker": "Tai Mao Student",
+      "location": "Mong Mao",
+      "notes": "Traditional textile weaving."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_009",
+      "lik_tai": "လုၵ်ႈဢွၼ်ႇ ၶဝ်ႈ ၵျွင်း ႁဵၼ်း လိၵ်ႈ ထမ်း ပုတ်ႉထ",
+      "text_roman": "luk awn khao kyawng hen lik tham put tha",
+      "assamese_script": "ল’ৰা-ছোৱালীয়ে বিহাৰলৈ গৈ বুদ্ধৰ ধৰ্মপুথি অধ্যয়ন কৰে",
+      "morphemes": [
+        "luk-awn",
+        "khao",
+        "kyawng",
+        "hen",
+        "lik",
+        "tham",
+        "put-tha"
+      ],
+      "glosses": [
+        "children",
+        "enter",
+        "vihara",
+        "study",
+        "script/text",
+        "Dharma",
+        "Buddha"
+      ],
+      "free_translation_en": "The young novices enter the monastery to study the sacred Dharma texts of the Buddha.",
+      "free_translation_as": "শিশু আৰু কিশোৰসকলে বৌদ্ধ বিহাৰত পৱিত্ৰ ধৰ্মপুথি অধ্যয়ন কৰে।",
+      "speaker": "Mong Mao Buddhist Council",
+      "location": "Mong Mao",
+      "notes": "Monastic education."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_010",
+      "lik_tai": "ၶမ်းယၢင် လႄႈ တႆးမၢဝ်း ပဵၼ် ပီႈၼွင်ႉ သၢႆ လိူတ်ႈ လဵဝ်",
+      "text_roman": "kham yang le tai mao pen pi nawng sai lüt lew",
+      "assamese_script": "খাময়াং আৰু টাই মাও একে তেজৰ সম্পৰ্ক থকা ভাতৃ",
+      "morphemes": [
+        "kham-yang",
+        "le",
+        "tai-mao",
+        "pen",
+        "pi-nawng",
+        "sai-lüt",
+        "lew"
+      ],
+      "glosses": [
+        "Khamyang",
+        "and",
+        "Tai-Mao",
+        "be",
+        "brethren",
+        "bloodline",
+        "one/single"
+      ],
+      "free_translation_en": "The Khamyang and the Tai Mao are brethren of one common ancestral bloodline.",
+      "free_translation_as": "টাই খাময়াং আৰু টাই মাওসকল একে তেজ আৰু মূল বংশৰে ভাই-ভনী।",
+      "speaker": "Tai Mao Elder",
+      "location": "Mong Mao",
+      "notes": "Historical kinship between Assam Tai and Mong Mao."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_011",
+      "lik_tai": "ႁဝ်း တေ လုမ်းလႃး ၵႂၢမ်း လႄႈ လိၵ်ႈ ႁဝ်း ၵူႈ ဝၼ်း",
+      "text_roman": "hao te lum la kwam le lik hao ku wan",
+      "assamese_script": "আমি সদায় আমাৰ মাতৃভাষা আৰু লিপি সংৰক্ষণ কৰিম",
+      "morphemes": [
+        "hao",
+        "te",
+        "lum-la",
+        "kwam",
+        "le",
+        "lik",
+        "hao",
+        "ku",
+        "wan"
+      ],
+      "glosses": [
+        "1PL",
+        "FUT",
+        "cherish/protect",
+        "language",
+        "and",
+        "script",
+        "1PL:POSS",
+        "every",
+        "day"
+      ],
+      "free_translation_en": "We shall cherish and protect our mother tongue and script every single day.",
+      "free_translation_as": "আমি সদায় নিষ্ঠাৰে আমাৰ মাতৃভাষা আৰু লিপি সংৰক্ষণ আৰু চৰ্চা কৰিম।",
+      "speaker": "Mong Mao Buddhist Council",
+      "location": "Mong Mao",
+      "notes": "Language preservation resolution."
+    },
+    {
+      "id": "book_tai_mao_2004_reader_012",
+      "lik_tai": "သႃႇထု သႃႇထု သႃႇထု ႁႂ်ႈ မိူင်းမၢဝ်း မီးသုၵ်ႈ တႃႇသေႇ",
+      "text_roman": "sa thu sa thu sa thu hai möng mao mi suk ta se",
+      "assamese_script": "সাধু সাধু সাধু! মং মাও ভূমি চিৰদিন শান্তিপূৰ্ণ হৈ থাকক",
+      "morphemes": [
+        "sa-thu",
+        "sa-thu",
+        "sa-thu",
+        "hai",
+        "möng-mao",
+        "mi-suk",
+        "ta-se"
+      ],
+      "glosses": [
+        "sadhu",
+        "sadhu",
+        "sadhu",
+        "may",
+        "Mong-Mao",
+        "have-happiness",
+        "forever"
+      ],
+      "free_translation_en": "Sadhu, Sadhu, Sadhu! May peace and auspicious happiness reign over Mong Mao forever.",
+      "free_translation_as": "সাধু, সাধু, সাধু! মং মাও আৰু সমগ্ৰ টাই ভূমিত চিৰদিন সুখ আৰু শান্তি বিৰাজমান হওক।",
+      "speaker": "Mong Mao Buddhist Council",
+      "location": "Mong Mao",
+      "notes": "Benedictory conclusion."
+    }
+  ]
+}

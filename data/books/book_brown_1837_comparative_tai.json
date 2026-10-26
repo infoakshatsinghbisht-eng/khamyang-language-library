@@ -1,0 +1,114 @@
+{
+  "book_id": "book_brown_1837_comparative_tai",
+  "title": "Comparison of Indo-Chinese Languages: The First Comparative Vocabularies of Tai, Khamti and Nora",
+  "title_tai": "ပပ်ႉ ၵၢၼ် ၼိူင်း ၽႃႇသႃႇ တႆး ၶွင်ႇ ၸဝ်ႈ ၼေႇထၢၼ်ႇ ၿရွင်း",
+  "title_as": "ভাৰত-চীন ভাষাৰ তুলনামূলক অধ্যয়ন: খামতি আৰু নোৰা ভাষাৰ প্ৰথম শব্দকোষ (ৰেভাৰেণ্ড নাথান ব্ৰাউন, ১৮৩৭)",
+  "author": "Rev. Nathan Brown",
+  "year": 1837,
+  "genre": "Comparative Philology & Lexicography",
+  "category": "Pioneer Linguistic Survey",
+  "provenance": "Journal of the Asiatic Society of Bengal (JASB), Vol. VI, Pt. II, Calcutta (1837); digitized by PAHAR and Internet Archive (dli.pahar.0207)",
+  "digitalized_from": "scratch/Brown_1837_Comparison_Indo_Chinese_Languages.pdf",
+  "license": "Public Domain (Published 1837)",
+  "total_sentences": 3,
+  "description": "Historic pioneer philological survey by American missionary-linguist Rev. Nathan Brown at Sadiya. Features the earliest published comparative tables documenting that Tai Khamti, Nora (Khamyang), and Siamese share cognate vocabulary and common tonal grammar.",
+  "units": [
+    {
+      "unit_id": "brown_1837_u001",
+      "surface_tai": "ၽႃႇသႃႇ တႆး ၶမ်းတီး လႄႈ ၼွႃး မီး ၶေႃႈၵႂၢမ်း လဵဝ် ၵၼ်",
+      "surface_assamese": "খামতি আৰু নোৰা ভাষাৰ মূল শব্দ সম্ভাৰ একেই",
+      "romanization": "phaa-saa tai kham-tii lɛ nɔɔ mii khɔ́-kwaam leo kan",
+      "morphemes": [
+        "phaa-saa",
+        "tai",
+        "kham-tii",
+        "lɛ",
+        "nɔɔ",
+        "mii",
+        "khɔ́-kwaam",
+        "leo",
+        "kan"
+      ],
+      "gloss": [
+        "language",
+        "Tai",
+        "Khamti",
+        "and",
+        "Nora",
+        "have",
+        "word/speech",
+        "one/same",
+        "each.other"
+      ],
+      "translation_en": "The languages of Tai Khamti and Nora share the identical foundational root vocabulary.",
+      "translation_as": "খামতি আৰু নোৰা ভাষাৰ মূল শব্দ সম্ভাৰ একেই।",
+      "notes": "Brown (1837: 1025). Earliest comparative demonstration of lexical identity between Khamti and Nora."
+    },
+    {
+      "unit_id": "brown_1837_u002",
+      "surface_tai": "ၼမ်ႉ ၾႆး လမ်း လိၼ် ပဵၼ် ၶူဝ်း သၽႃႇဝ တီႈ ၵၢင်ႁၢဝ်",
+      "surface_assamese": "পানী, জুই, বতাহ আৰু মাটি প্ৰকৃতিৰ আদিম উপাদান",
+      "romanization": "nam faai lam lin pen khoo sa-phaa-wa tii kaaŋ-haao",
+      "morphemes": [
+        "nam",
+        "faai",
+        "lam",
+        "lin",
+        "pen",
+        "khoo",
+        "sa-phaa-wa",
+        "tii",
+        "kaaŋ-haao"
+      ],
+      "gloss": [
+        "water",
+        "fire",
+        "wind",
+        "earth",
+        "be",
+        "element",
+        "nature",
+        "at",
+        "cosmos"
+      ],
+      "translation_en": "Water, fire, wind, and earth are the fundamental elements of nature under heaven.",
+      "translation_as": "পানী, জুই, বতাহ আৰু মাটি প্ৰকৃতিৰ আদিম উপাদান।",
+      "notes": "Brown (1837: 1029). Core elemental comparative vocabulary table across Southwestern Tai."
+    },
+    {
+      "unit_id": "brown_1837_u003",
+      "surface_tai": "ၵူၼ် တႆး မေႃ ဢၢၼ်ႇ လိၵ်ႈ တိုဝ်း မိုဝ်း တႅမ်ႈ ၼိူဝ် ဝႂ် လၢၼ်း",
+      "surface_assamese": "টাইসকলে সাঁচিপাত আৰু তালপাতত লিপি লিখিব জানিছিল",
+      "romanization": "kon tai mɔ́ aan lik tɯɯ mɯ́ tɛm nə́ waɯ laan",
+      "morphemes": [
+        "kon",
+        "tai",
+        "mɔ́",
+        "aan",
+        "lik",
+        "tɯɯ",
+        "mɯ́",
+        "tɛm",
+        "nə́",
+        "waɯ",
+        "laan"
+      ],
+      "gloss": [
+        "person",
+        "Tai",
+        "know",
+        "read",
+        "script",
+        "use",
+        "hand",
+        "write",
+        "on",
+        "leaf",
+        "palm"
+      ],
+      "translation_en": "The Tai people are literate, writing by hand upon palm and bark leaves.",
+      "translation_as": "টাইসকলে সাঁচিপাত আৰু তালপাতত লিপি লিখিব জানিছিল।",
+      "notes": "Brown's field observation at Sadiya on the literacy of Assam Tai communities."
+    }
+  ]
+}

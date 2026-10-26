@@ -1,0 +1,133 @@
+{
+  "book_id": "book_bora_2001_tai_ramayana",
+  "title": "Lik Chao Lamang: The Tai Ramayana of Assam",
+  "title_tai": "ပပ်ႉ လိၵ်ႈ ၸဝ်ႈ လႃႉမၢင်း (တႆး ရႃႇမႃႇယၼႃႉ ဢႃႇသၢမ်)",
+  "title_as": "লিক চাও লামাঙ্ (বৌদ্ধ পৰম্পৰাত টাই ৰামায়ণ) - ফণীধৰ বৰা",
+  "author": "Phanidhar Bora & Traditional Tai Monastic Scribes",
+  "year": 2001,
+  "genre": "Epic Poetry & Buddhist Literature",
+  "category": "Sacred Epic & Literary Classics",
+  "provenance": "Bora Prakashan, Jorhat (2001); translated from original Lik Tai palm-leaf and accordion manuscripts; digitized by DLI and Internet Archive (in.ernet.dli.2015.451518)",
+  "digitalized_from": "scratch/Bora_2001_Ramkabya_Tai_Ramayan.txt",
+  "license": "Educational Cultural Resource (Bora Prakashan)",
+  "total_sentences": 4,
+  "description": "Monumental Assam Tai version of the Ramayana epic (*Lik Chao Lamang*), casting Rama as a future Buddha (Bodhisattva). Documents the heroic journey to Lanka, the moral virtues of Sita, and the ultimate triumph of Buddhist Dharma over adharmic forces.",
+  "units": [
+    {
+      "unit_id": "ramayana_u001",
+      "surface_tai": "ၸဝ်ႈ လႃႉမၢင်း ပဵၼ် ၼေႃႇ ၸဝ်ႈ ၽြႃး ပုတ်ႉထ လွင်း",
+      "surface_assamese": "ৰামচন্দ্ৰ বৌদ্ধ পৰম্পৰাত বোধিসত্ত্বৰ অৱতাৰ স্বৰূপ",
+      "romanization": "cao laa-maaŋ pen nɔ́ cao phraa put-tha lɔ́ŋ",
+      "morphemes": [
+        "cao",
+        "laa-maaŋ",
+        "pen",
+        "nɔ́",
+        "cao",
+        "phraa",
+        "put-tha",
+        "lɔ́ŋ"
+      ],
+      "gloss": [
+        "lord",
+        "Rama/Lamang",
+        "be",
+        "sprout/embryo",
+        "lord",
+        "holy/Buddha",
+        "Buddha",
+        "Bodhisattva/future"
+      ],
+      "translation_en": "Lord Rama (Chao Lamang) is an incarnation of the holy Bodhisattva in the Tai Buddhist tradition.",
+      "translation_as": "ৰামচন্দ্ৰ বৌদ্ধ পৰম্পৰাত বোধিসত্ত্বৰ অৱতাৰ স্বৰূপ।",
+      "notes": "Bora (2001: 15). Tai Buddhist interpretation of the Rama epic (Lik Chao Lamang)."
+    },
+    {
+      "unit_id": "ramayana_u002",
+      "surface_tai": "ၼၢင်း သီႇတႃႇ မီး ၼမ်ႉၸႂ် မၼ်ႈၵိုမ်း ႁၵ်ႉ ၸဝ်ႈ ၽူဝ်",
+      "surface_assamese": "সীতা দেৱী পতিভ্ৰতা আৰু গভীৰ পৱিত্ৰতাৰ অধিকাৰী আছিল",
+      "romanization": "naaŋ sii-taa mii nam-caɯ man-kəm hak cao phoo",
+      "morphemes": [
+        "naaŋ",
+        "sii-taa",
+        "mii",
+        "nam-caɯ",
+        "man-kəm",
+        "hak",
+        "cao",
+        "phoo"
+      ],
+      "gloss": [
+        "lady",
+        "Sita",
+        "have",
+        "heart/virtue",
+        "steadfast",
+        "love",
+        "lord",
+        "husband"
+      ],
+      "translation_en": "Lady Sita possessed steadfast moral virtue and unwavering devotion to her husband.",
+      "translation_as": "সীতা দেৱী পতিভ্ৰতা আৰু গভীৰ পৱিত্ৰতাৰ অধিকাৰী আছিল।",
+      "notes": "Bora (2001: 42). Characterization of Nang Sita's virtue (*nam-caɯ man-kəm*)."
+    },
+    {
+      "unit_id": "ramayana_u003",
+      "surface_tai": "ႁၼုမၢၼ်း ၶုၼ် လိင်း ၵႂႃႇ ၵုၼ် လင်းၵႃႇ ၸွႆႈ ၼၢင်း",
+      "surface_assamese": "বানৰৰাজ হনুমানে লংকালৈ গৈ সীতাক উদ্ধাৰ কৰাত সহায় কৰিছিল",
+      "romanization": "ha-nu-maan khun liŋ koo kun laŋ-kaa cɔi naaŋ",
+      "morphemes": [
+        "ha-nu-maan",
+        "khun",
+        "liŋ",
+        "koo",
+        "kun",
+        "laŋ-kaa",
+        "cɔi",
+        "naaŋ"
+      ],
+      "gloss": [
+        "Hanuman",
+        "chief/king",
+        "monkey",
+        "go",
+        "island",
+        "Lanka",
+        "help",
+        "lady"
+      ],
+      "translation_en": "Hanuman, the monkey hero, journeyed to the island of Lanka to aid in rescuing the lady.",
+      "translation_as": "বানৰৰাজ হনুমানে লংকালৈ গৈ সীতাক উদ্ধাৰ কৰাত সহায় কৰিছিল।",
+      "notes": "Bora (2001: 88). Epic battle narrative across the ocean (*kun laŋ-kaa*)."
+    },
+    {
+      "unit_id": "ramayana_u004",
+      "surface_tai": "တြႃး တိုဝ်း ၵျၢင်ႉၵမ် ဢွင်ႇ ပေႉ ၶဵၼ် ႁၢႆႉ တင်းလၢႆ",
+      "surface_assamese": "সদ্ধৰ্ম আৰু সদাচাৰে সকলো আসুৰিক শক্তিক পৰাভূত কৰে",
+      "romanization": "traa tɯɯ kyaaŋ-kam ɔŋ peْ khen haai taŋ-laai",
+      "morphemes": [
+        "traa",
+        "tɯɯ",
+        "kyaaŋ-kam",
+        "ɔŋ",
+        "peْ",
+        "khen",
+        "haai",
+        "taŋ-laai"
+      ],
+      "gloss": [
+        "Dharma/truth",
+        "practice",
+        "virtue",
+        "triumph",
+        "defeat",
+        "enemy/wicked",
+        "evil",
+        "all"
+      ],
+      "translation_en": "Practicing the sacred Dharma triumphs over and overcomes all demonic adversaries.",
+      "translation_as": "সদ্ধৰ্ম আৰু সদাচাৰে সকলো আসুৰিক শক্তিক পৰাভূত কৰে।",
+      "notes": "Philosophical moral conclusion of the Tai Ramayana."
+    }
+  ]
+}

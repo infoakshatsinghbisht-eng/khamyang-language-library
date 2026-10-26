@@ -71,6 +71,39 @@
       "assamese_name": "ঢেঁকী",
       "description": "Heavy wooden treadle-pestle operated by foot lever to dehusk paddy and crush rice into fine powder for festive rice cakes.",
       "source_id": "src_morey2005"
+    },
+    {
+      "id": "mat_007",
+      "name_khamyang_roman": "huk4",
+      "lik_tai": "ႁုၵ်ႈ",
+      "assamese_script": "হুক⁴",
+      "ipa": "/huk⁵⁵/",
+      "name_english": "Traditional Tai Loom",
+      "category": "textile_technology",
+      "description": "Horizontal frame loom constructed from hardwood and bamboo, used by Tai Khamyang women to weave patterned silk and cotton textiles.",
+      "cultural_significance": "Weaving is considered a core cultural virtue; every home in Powaimukh retains a dedicated loom area under or beside the stilt house."
+    },
+    {
+      "id": "mat_008",
+      "name_khamyang_roman": "kong1 luang1",
+      "lik_tai": "ၵူင်လူင်",
+      "assamese_script": "কুং¹ লুং¹",
+      "ipa": "/koŋ³³ luaŋ³³/",
+      "name_english": "Sacred Great Monastery Drum",
+      "category": "musical_instrument",
+      "description": "Massive hollowed-log drum covered with stretched cowhide, suspended in the monastery drum tower.",
+      "cultural_significance": "Beaten at dawn and dusk to signal monk chanting hours and summon villagers for communal assemblies."
+    },
+    {
+      "id": "mat_009",
+      "name_khamyang_roman": "suup4",
+      "lik_tai": "သုၵ်ႈ",
+      "assamese_script": "চুপ⁴",
+      "ipa": "/suːp⁵⁵/",
+      "name_english": "Conical Bamboo Fish Trap",
+      "category": "subsistence_tool",
+      "description": "Tightly woven conical bamboo basket placed in flowing streams and river shallows of the Buridihing to catch fish and river prawns.",
+      "cultural_significance": "Reflects deep traditional ecological knowledge of aquatic currents and seasonal fish migration."
     }
   ],
   "ethnobotany_and_fauna": [
@@ -191,6 +224,28 @@
       "season": "January 31",
       "description": "Ancient ancestral worship ceremony honoring the departed spirits of forefathers (Dam) and celestial deities (Phi) for community peace and fertility.",
       "source_id": "src_buragohain1998"
+    },
+    {
+      "id": "fest_005",
+      "name_khamyang_roman": "poy1 ka1 thin1",
+      "lik_tai": "ပွႆးၵထိၼ်ႇ",
+      "assamese_script": "পয়¹ কা¹ থিন¹",
+      "ipa": "/pɔi³³ ka³³ tʰin³³/",
+      "name_english": "Kathina Robe Offering Festival",
+      "month": "October / November (End of Vassa)",
+      "description": "Major post-rainy season Buddhist festival where villagers jointly weave, sew, and offer sacred saffron robes to the monastic Sangha.",
+      "cultural_significance": "Highest communal merit-making festival of the Buddhist year in Powaimukh."
+    },
+    {
+      "id": "fest_006",
+      "name_khamyang_roman": "poy1 lu1 lik4",
+      "lik_tai": "ပွႆးလူလိၵ်ႈ",
+      "assamese_script": "পয়¹ লু¹ লিক⁴",
+      "ipa": "/pɔi³³ lu³³ lik⁵⁵/",
+      "name_english": "Sacred Manuscript Inscription Festival",
+      "month": "Auspicious Full Moon periods",
+      "description": "Ceremonial festival celebrating the copying, donation, and public recitation of palm-leaf and sanchi-bark manuscripts (Lik Tai).",
+      "cultural_significance": "Crucial ritual mechanism through which Tai Buddhist literature was historically preserved and transmitted across centuries."
     }
   ]
 }

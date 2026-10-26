@@ -7,7 +7,7 @@ in Powaimukh village (including Chaw Sa Myat Chowlik & Deben Chowlik).
 
 import json
 import os
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Any
 from khamyang.core.models import FolkText, InterlinearUnit
 
 DATA_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "texts.json")
@@ -237,14 +237,28 @@ class KhamyangCorpus:
             with open(self.data_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
                 for t_dict in data:
-                    sentences = [InterlinearUnit(**s) for s in t_dict.get("sentences", [])]
-                    t_dict["sentences"] = sentences
-                    self._texts.append(FolkText(**t_dict))
+                    self._texts.append(FolkText.from_dict(t_dict))
         else:
             self._texts = get_default_corpus()
 
     def get_all(self) -> List[FolkText]:
         return list(self._texts)
+
+    def list_books(self) -> List[Dict[str, Any]]:
+        """Returns summarized catalog of all digitalized books and texts."""
+        return [
+            {
+                "id": t.id,
+                "title_khamyang": t.title_khamyang,
+                "title_english": t.title_english,
+                "genre": t.genre,
+                "informant": t.informant,
+                "village": t.village,
+                "sentence_count": len(t.sentences),
+                "has_audio": bool(t.audio_file),
+            }
+            for t in self._texts
+        ]
 
     def get_by_id(self, text_id: str) -> Optional[FolkText]:
         for t in self._texts:
@@ -252,16 +266,65 @@ class KhamyangCorpus:
                 return t
         return None
 
+    def get_book(self, book_id: str) -> Optional[FolkText]:
+        """Alias for get_by_id to access a digitalized book."""
+        return self.get_by_id(book_id)
+
     def search(self, query: str) -> List[FolkText]:
         q = query.strip().lower()
         res = []
         for t in self._texts:
-            if q in t.title_khamyang.lower() or q in t.title_english.lower() or q in t.description.lower():
+            if (
+                q in t.title_khamyang.lower()
+                or q in t.title_english.lower()
+                or q in t.description.lower()
+                or any(q in s.free_translation_en.lower() or q in s.text_roman.lower() for s in t.sentences)
+            ):
                 res.append(t)
         return res
 
+    def read_book(self, book_id: str) -> str:
+        """Renders a digitalized book in rich markdown format."""
+        b = self.get_by_id(book_id)
+        if not b:
+            return f"Book '{book_id}' not found in library."
+
+        out = [
+            f"# 📖 {b.title_english}",
+            f"**Tai Khamyang Title**: {b.title_khamyang}",
+            f"**Genre**: `{b.genre}` | **Informant/Reader**: {b.informant}",
+            f"**Location**: {b.village}",
+            f"\n> {b.description}\n",
+        ]
+        if b.full_translation:
+            out.append("### English Translation Summary\n")
+            out.append(f"{b.full_translation}\n")
+
+        out.append(f"### Interlinear Annotated Sentences ({len(b.sentences)} sentences)\n")
+        for idx, s in enumerate(b.sentences, 1):
+            out.append(f"#### Sentence {idx} (`{s.id}`)")
+            out.append(f"- **Romanized**: `{s.text_roman}`")
+            if s.lik_tai:
+                out.append(f"- **Lik Tai Script**: {s.lik_tai}")
+            if s.assamese_script:
+                out.append(f"- **Assamese Script**: {s.assamese_script}")
+            if s.morphemes and s.glosses:
+                morph_str = " | ".join(s.morphemes)
+                gloss_str = " | ".join(s.glosses)
+                out.append(f"- **Morphemes**: {morph_str}")
+                out.append(f"- **Glosses**: {gloss_str}")
+            out.append(f"- **Translation**: *\"{s.free_translation_en}\"*")
+            if s.free_translation_as:
+                out.append(f"- **Assamese**: {s.free_translation_as}")
+            if s.notes:
+                out.append(f"- **Linguistic Notes**: {s.notes}")
+            out.append("")
+
+        return "\n".join(out)
+
     def save(self, path: Optional[str] = None):
         out_p = path or self.data_path
+
         with open(out_p, "w", encoding="utf-8") as f:
             json.dump([t.to_dict() for t in self._texts], f, ensure_ascii=False, indent=2)
 

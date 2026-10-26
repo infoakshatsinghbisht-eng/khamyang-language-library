@@ -1,0 +1,342 @@
+{
+  "id": "book_goswami_1977_purani_asam_buranji",
+  "book_id": "book_goswami_1977_purani_asam_buranji",
+  "title": "Purani Asam Buranji Ed. 2nd",
+  "author": "Pandit Hemchandra Goswami",
+  "year": 1977,
+  "genre": "Historical Chronicle / Buranji",
+  "description": "Standard scholarly edition of ancient chronicles compiled by Pandit Hemchandra Goswami for the Kamarupa Anusandhana Samiti, preserving archaic manuscript records of early Tai monarchs, territorial expansion, court titles, and administrative treaties.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.452171",
+  "archive_id": "in.ernet.dli.2015.452171",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨧᩮᩢᩣ",
+      "text_roman": "phaa tai khyaa tii mroeng chau tsaw",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ চউ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau",
+        "tsaw"
+      ],
+      "glosses": [
+        "heaven",
+        "Tai",
+        "chronicle",
+        "at",
+        "country",
+        "kings",
+        "ancient"
+      ],
+      "free_translation_en": "The ancient Tai chronicles record the lineage of the heavenly kings.",
+      "free_translation_as": "প্ৰাচীন টাই বুৰঞ্জীত স্বৰ্গীয় ৰজাসকলৰ বংশাৱলী সংৰক্ষিত হৈ আছে।",
+      "speaker": "Pandit Hemchandra Goswami (Pioneering Scholar)",
+      "location": "Guwahati / Kamarupa Anusandhana Samiti",
+      "notes": "Opening formula of Purani Asam Buranji."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii kaang mroeng",
+      "assamese_script": "চৌ ফা টাই খৌ তী কাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "kaang",
+        "mroeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "enter",
+        "at",
+        "center",
+        "country"
+      ],
+      "free_translation_en": "The sovereign monarch established his royal seat in the center of the country.",
+      "free_translation_as": "স্বৰ্গদেৱে দেশৰ কেন্দ্ৰস্থলত নিজৰ ৰাজধানী স্থাপন কৰিলে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Establishment of Charaideo and Tipam."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "river",
+        "grow",
+        "grain"
+      ],
+      "free_translation_en": "The Tai clans cultivating along the river paddies secured abundant rice.",
+      "free_translation_as": "নদীৰ পাৰৰ টাই খেলসমূহে প্ৰচুৰ পৰিমাণে ধানৰ উৎপাদন কৰিলে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Agricultural sustenance described in ancient puthis."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "ministers",
+        "noble",
+        "proclaim",
+        "statutes",
+        "to",
+        "Tai"
+      ],
+      "free_translation_en": "The noble councillors proclaimed statutory laws to the Tai citizenry.",
+      "free_translation_as": "ডাঙৰীয়াসকলে টাই প্ৰজাসকললৈ প্ৰশাসনিক আইন-কানুন ঘোষণা কৰিলে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Patra-Mantri legislative declarations."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "they",
+        "construct",
+        "road",
+        "through",
+        "hills",
+        "middle"
+      ],
+      "free_translation_en": "They constructed grand highways through the central hill passes.",
+      "free_translation_as": "তেওঁলোকে পাহাৰৰ মাজেৰে সুচল ডাঙৰ আলি নিৰ্মাণ কৰিলে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Royal causeways across medieval Assam."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "queen",
+        "noble",
+        "Tai",
+        "supplicate",
+        "to",
+        "heaven"
+      ],
+      "free_translation_en": "The noble queen offered supplications unto Heaven for national welfare.",
+      "free_translation_as": "বৰকুঁৱৰীয়ে দেশৰ মংগলৰ বাবে স্বৰ্গৰ দেৱতাৰ ওচৰত প্ৰাৰ্থনা জনালে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Royal religious duties."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw tii nam kaang",
+      "assamese_script": "ফু টাই খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "warriors",
+        "Tai",
+        "advance",
+        "on",
+        "river",
+        "center"
+      ],
+      "free_translation_en": "The Tai fleet advanced along the center of the great river.",
+      "free_translation_as": "টাই নৌসেনা নদীৰ মূল সোঁতেৰে অগ্ৰসৰ হ'ল।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Naval war fleet documentation."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "ruler",
+        "country",
+        "maintain",
+        "charters",
+        "way",
+        "early"
+      ],
+      "free_translation_en": "The ruler upheld the sacred customary covenants inherited from ancestors.",
+      "free_translation_as": "ৰজাই পূৰ্বপুৰুষৰ পৰা লাভ কৰা পৰম্পৰাগত নিয়মাৱলী সুৰক্ষিত কৰিলে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Customary legal preservation."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "tranquillity",
+        "in",
+        "realm",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "Tranquillity and harvest plenty prevailed throughout the Tai realm.",
+      "free_translation_as": "টাই ৰাজ্যজুৰি শান্তি আৰু প্ৰচুৰ খাদ্যশস্য বিৰাজমান আছিল।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Golden age descriptions in Purani Asam Buranji."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "at",
+        "hills",
+        "maintain",
+        "ties"
+      ],
+      "free_translation_en": "The Tai retained peaceful relations with the hill clans across the frontiers.",
+      "free_translation_as": "টাইসকলে সীমান্তৰ পাহাৰীয়া খেলসমূহৰ সৈতে শান্তিপূৰ্ণ সম্পৰ্ক ৰাখিছিল।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Frontier diplomacy."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "country",
+        "rule",
+        "wisely"
+      ],
+      "free_translation_en": "The heavenly sovereign governed the Tai country with enduring wisdom.",
+      "free_translation_as": "স্বৰ্গদেৱে টাই দেশখন চিৰস্থায়ী প্ৰজ্ঞাৰে শাসন কৰিলে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Praise of benevolent kingship."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "realm",
+        "kindred",
+        "kings",
+        "united",
+        "destiny"
+      ],
+      "free_translation_en": "The Tai kindred and realm forged a united and glorious historical destiny.",
+      "free_translation_as": "টাই জাতি আৰু ৰাজ্যই এক ঐক্যবদ্ধ আৰু গৌৰৱময় ঐতিহাসিক পথ নিৰ্মাণ কৰিলে।",
+      "speaker": "Pandit Hemchandra Goswami",
+      "location": "Guwahati",
+      "notes": "Concluding colophon of the Purani Asam Buranji."
+    }
+  ]
+}

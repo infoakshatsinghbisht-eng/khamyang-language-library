@@ -1,0 +1,114 @@
+{
+  "book_id": "book_wilcox_hannay_1873_hill_tracts",
+  "title": "Hill Tracts Between Assam and Burma: Expeditions to the Khamti and Nora Settlements",
+  "title_tai": "ပိုၼ်း လွႆ ပတ်ႉၵႆႇ လႄႈ ဝၢၼ်ႈ တႆး ၼႂ်း ပပ်ႉ ဝီႇလ်ၵွၵ်ႉသ်",
+  "title_as": "অসম আৰু ব্ৰহ্মদেশৰ পাৰ্বত্য অঞ্চল: খামতি আৰু নোৰা অভিযান (১৮৭৩)",
+  "author": "Lieutenant R. Wilcox & Captain S. F. Hannay",
+  "year": 1873,
+  "genre": "Geographical Surveys & Exploratory Journals",
+  "category": "Historical Travelogues & Frontier Geography",
+  "provenance": "Bengal Secretariat Press, Calcutta (1873); reprinted by Vivek Publishing Co. (1978); digitized by PAHAR and Internet Archive (dli.pahar.0760)",
+  "digitalized_from": "scratch/Hill_Tracts_1873_Assam_Burmah_Patkai.txt",
+  "license": "Public Domain (Published 1873)",
+  "total_sentences": 3,
+  "description": "Collection of official 19th-century exploratory memoirs by British surveyors Lieutenant R. Wilcox, Captain S.F. Hannay, and Captain R.B. Pemberton navigating the Patkai range, mapping the Buri Dihing and Tengapani river valleys, and detailing first encounters with the Nora and Khamti communities.",
+  "units": [
+    {
+      "unit_id": "wilcox_1873_u001",
+      "surface_tai": "ႁဝ်း ၶိုၼ်ႈ လွႆ ပတ်ႉၵႆႇ ႁၼ် ဝၢၼ်ႈ ၵူၼ် တႆး ၵိုမ်း လီ",
+      "surface_assamese": "আমি পাটকাই পৰ্বত বগাই সুন্দৰ আৰু সুবিন্যস্ত টাই গাঁওসমূহ দেখা পালোঁ",
+      "romanization": "hao khɯn lɔi pat-kai han waan kon tai kəm lii",
+      "morphemes": [
+        "hao",
+        "khɯn",
+        "lɔi",
+        "pat-kai",
+        "han",
+        "waan",
+        "kon",
+        "tai",
+        "kəm",
+        "lii"
+      ],
+      "gloss": [
+        "1PL",
+        "ascend",
+        "mountain",
+        "Patkai",
+        "see",
+        "village",
+        "person",
+        "Tai",
+        "firm/orderly",
+        "good"
+      ],
+      "translation_en": "Ascending the Patkai range, we beheld the orderly and prosperous villages of the Tai peoples.",
+      "translation_as": "আমি পাটকাই পৰ্বত বগাই সুন্দৰ আৰু সুবিন্যস্ত টাই গাঁওসমূহ দেখা পালোঁ।",
+      "notes": "Wilcox (1873: 48). First geographical survey of the upper passes and Tai settlements."
+    },
+    {
+      "unit_id": "wilcox_1873_u002",
+      "surface_tai": "ၼမ်ႉ တိင်းၵႃႉပႃႉၼီႇ မီး ႁိူဝ်း လတ်း ၵႂႃႇမႃး ၵူႈ ဝၼ်း",
+      "surface_assamese": "টেঙাপানী নদীয়েদি প্ৰতিদিনে নাও চলাচল কৰে",
+      "romanization": "nam teŋ-gaa-paa-nii mii hə́ lat koo-maa ku wan",
+      "morphemes": [
+        "nam",
+        "teŋ-gaa-paa-nii",
+        "mii",
+        "hə́",
+        "lat",
+        "koo-maa",
+        "ku",
+        "wan"
+      ],
+      "gloss": [
+        "river",
+        "Tengapani",
+        "have",
+        "boat",
+        "traverse",
+        "commute",
+        "every",
+        "day"
+      ],
+      "translation_en": "Boats navigate along the Tengapani river each day for riverine trade and transport.",
+      "translation_as": "টেঙাপানী নদীয়েদি প্ৰতিদিনে নাও চলাচল কৰে।",
+      "notes": "Hannay (1873: 112). Trade routes connecting the Khamyang and Khamti villages."
+    },
+    {
+      "unit_id": "wilcox_1873_u003",
+      "surface_tai": "ၵူၼ် ၼွႃး ယူႇ ၸွမ်း ႁိမ်း ၼမ်ႉ မီး ၵၢၼ် သၢၼ် သႅဝ် လီငၢမ်း",
+      "surface_assamese": "নোৰাসকল নদীৰ কাষত বাস কৰে আৰু উৎকৃষ্ট বাঁহ-বেতৰ কাম কৰে",
+      "romanization": "kon nɔɔ yuu cɔm him nam mii kaan saan seo lii-ŋaam",
+      "morphemes": [
+        "kon",
+        "nɔɔ",
+        "yuu",
+        "cɔm",
+        "him",
+        "nam",
+        "mii",
+        "kaan",
+        "saan",
+        "seo",
+        "lii-ŋaam"
+      ],
+      "gloss": [
+        "people",
+        "Nora",
+        "dwell",
+        "along",
+        "edge",
+        "river",
+        "have",
+        "work",
+        "weave",
+        "craft",
+        "exquisite"
+      ],
+      "translation_en": "The Nora people dwell along the river edge and possess exquisite weaving and bamboo crafts.",
+      "translation_as": "নোৰাসকল নদীৰ কাষত বাস কৰে আৰু উৎকৃষ্ট বাঁহ-বেতৰ কাম কৰে।",
+      "notes": "Pemberton's report on Nora material culture."
+    }
+  ]
+}

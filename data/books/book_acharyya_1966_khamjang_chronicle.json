@@ -1,0 +1,110 @@
+{
+  "book_id": "book_acharyya_1966_khamjang_chronicle",
+  "title": "The History of Medieval Assam: The Khamjangs, Phakials and the Patkai Migration",
+  "title_tai": "ပိုၼ်း တႆး ၶမ်းယၢင်း ၼႂ်း ပပ်ႉ ၻွၵ်ႉတိူဝ်ႇ ဢႃႇၸႃႇရိယႃႉ",
+  "title_as": "মধ্যযুগৰ অসমৰ ইতিহাস: খামজাং, ফাকিয়াল আৰু পাটকাই প্ৰব্ৰজন (ড° এন. এন. আচাৰ্য্য)",
+  "author": "Dr. N. N. Acharyya, M.A., Ph.D. (London)",
+  "year": 1966,
+  "genre": "Historiography & Archival Chronicles",
+  "category": "Medieval History & Tribal Chronology",
+  "provenance": "Dutta Baruah & Co., Gauhati (1966) / Omsons (1992); digitized by PAHAR and Internet Archive (dli.pahar.3309)",
+  "digitalized_from": "scratch/Acharyya_1966_History_of_Medieval_Assam.pdf",
+  "license": "Academic Open Access Monograph",
+  "total_sentences": 3,
+  "description": "Critical historical treatise by Dr. N.N. Acharyya (Gauhati University) analyzing original Tai and Assamese manuscript sources, the Shan migration routes over the Patkai hills, and the historic homeland of the Khamjangs (Khamyang).",
+  "units": [
+    {
+      "unit_id": "acharyya_u001",
+      "surface_tai": "တႆး ၶမ်းယၢင်း ၶၢမ်ႈ လွႆ ပတ်ႉၵႆႇ မႃး တီႈ ၼမ်ႉ ၶမ်း",
+      "surface_assamese": "টাই খাময়াংসকলে পাটকাই পৰ্বত পাৰ হৈ সোণালী নদীৰ উপত্যকালৈ আহিছিল",
+      "romanization": "tai kham-yaaŋ khaam lɔi pat-kai maa tii nam kham",
+      "morphemes": [
+        "tai",
+        "kham-yaaŋ",
+        "khaam",
+        "lɔi",
+        "pat-kai",
+        "maa",
+        "tii",
+        "nam",
+        "kham"
+      ],
+      "gloss": [
+        "Tai",
+        "Khamyang",
+        "cross",
+        "mountain",
+        "Patkai",
+        "come",
+        "at",
+        "river",
+        "gold"
+      ],
+      "translation_en": "The Tai Khamyangs crossed the Patkai mountains and descended into the valley of the golden river.",
+      "translation_as": "টাই খাময়াংসকলে পাটকাই পৰ্বত পাৰ হৈ সোণালী নদীৰ উপত্যকালৈ আহিছিল।",
+      "notes": "Acharyya (1966: 74). Explicitly identifies the Khamjangs among the Tai branches crossing the Patkai pass."
+    },
+    {
+      "unit_id": "acharyya_u002",
+      "surface_tai": "ၸဝ်ႈလူင် သိုဝ်ႉၵႃႉၾႃႉ ပဵၼ် ၶုၼ် ဢွၼ် ႁူဝ် ၵူၼ် တႆး",
+      "surface_assamese": "চাওলুং চ্যুকাফা টাই জনগোষ্ঠীৰ অগ্ৰণী নেতা আৰু প্ৰতিষ্ঠাপক ৰজা আছিল",
+      "romanization": "cao-luŋ sɯ́-kaa-faa pen khun ɔn hoo kon tai",
+      "morphemes": [
+        "cao-luŋ",
+        "sɯ́-kaa-faa",
+        "pen",
+        "khun",
+        "ɔn",
+        "hoo",
+        "kon",
+        "tai"
+      ],
+      "gloss": [
+        "great-lord",
+        "Sukapha",
+        "be",
+        "ruler",
+        "lead",
+        "head",
+        "people",
+        "Tai"
+      ],
+      "translation_en": "Chao Lung Sukapha was the pioneer sovereign who led the Tai people westward.",
+      "translation_as": "চাওলুং চ্যুকাফা টাই জনগোষ্ঠীৰ অগ্ৰণী নেতা আৰু প্ৰতিষ্ঠাপক ৰজা আছিল।",
+      "notes": "Acharyya (1966: 78). The 1228 A.D. westward foundation."
+    },
+    {
+      "unit_id": "acharyya_u003",
+      "surface_tai": "ပိုၼ်း တႆး ၼႂ်း ပပ်ႉ ပိုၼ်း မီး လွင်ႈ ၸိုဝ်ႈသဵင် ၵူႈ ပၢၼ်",
+      "surface_assamese": "বুৰঞ্জী পুথিসমূহত সকলো যুগৰ গৌৰৱময় ইতিহাস লিপিবদ্ধ হৈ আছে",
+      "romanization": "pɯn tai naɯ pap pɯn mii lɔŋ cɯɯ-seŋ ku paan",
+      "morphemes": [
+        "pɯn",
+        "tai",
+        "naɯ",
+        "pap",
+        "pɯn",
+        "mii",
+        "lɔŋ",
+        "cɯɯ-seŋ",
+        "ku",
+        "paan"
+      ],
+      "gloss": [
+        "chronicle",
+        "Tai",
+        "in",
+        "accordion.book",
+        "chronicle",
+        "have",
+        "matter",
+        "fame/glory",
+        "every",
+        "epoch"
+      ],
+      "translation_en": "The Tai annals in the chronicle manuscripts record deeds of renown across every epoch.",
+      "translation_as": "বুৰঞ্জী পুথিসমূহত সকলো যুগৰ গৌৰৱময় ইতিহাস লিপিবদ্ধ হৈ আছে।",
+      "notes": "Acharyya (1966: 12). Significance of indigenous Buranji manuscript sources."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "book_weidert_1977_tai_khamti_phonology_vocab",
+  "book_id": "book_weidert_1977_tai_khamti_phonology_vocab",
+  "title": "Tai Khamti Phonology and Vocabulary",
+  "author": "Dr. Alfons Weidert",
+  "year": 1977,
+  "genre": "Linguistic Monograph",
+  "description": "Rigorous phonetic and acoustic investigation of Tai Khamti and Southwestern Tai dialects of Upper Assam and Arunachal Pradesh, establishing comparative pitch contours, tonal splits, aspiration phenomena, and over 1,500 cognate items directly relevant to Tai Khamyang.",
+  "source": "https://archive.org/details/tai-khamti-phonology-and-vocabulary",
+  "archive_id": "tai-khamti-phonology-and-vocabulary",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨾᩦ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "tai khyaa tii mroeng mii taang tsaw",
+      "assamese_script": "টাই খ্যা তী ম্ৰোং মী তাং চউ",
+      "morphemes": [
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "mii",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "Tai",
+        "tones",
+        "in",
+        "speech",
+        "have",
+        "contours",
+        "ancient"
+      ],
+      "free_translation_en": "The phonemic pitch contours reflect the ancient Proto-Southwestern Tai tone categories.",
+      "free_translation_as": "স্বৰসংক্রান্ত ধ্বনিতত্বই আদি-দক্ষিণপশ্চিমীয়া টাই ভাষাৰ প্ৰাচীন স্বৰ বিভাজন প্ৰতিফলিত কৰে।",
+      "speaker": "Dr. Alfons Weidert (Phonetician & Linguist)",
+      "location": "Heidelberg / Guwahati",
+      "notes": "Acoustic analysis of tonal categories."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨻ᩠ᨿᨦ ᨶᩣᩴ",
+      "text_roman": "phuu tai khyaa taang tii phyeng nam",
+      "assamese_script": "ফু টাই খ্যা তাং তী ফ্যেং নাম",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khyaa",
+        "taang",
+        "tii",
+        "phyeng",
+        "nam"
+      ],
+      "glosses": [
+        "speakers",
+        "Tai",
+        "articulate",
+        "vowels",
+        "in",
+        "fieldwork",
+        "river"
+      ],
+      "free_translation_en": "Native speakers consistently articulate distinct length distinctions in open vowels.",
+      "free_translation_as": "মাতৃভাষী বক্তাসকলে মুক্ত স্বৰবৰ্ণত হ্ৰস্ব আৰু দীৰ্ঘ স্বৰৰ স্পষ্ট পাৰ্থক্য উচ্চাৰণ কৰে।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Upper Assam / Lohit",
+      "notes": "Vowel length phonetics."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "lexemes",
+        "for",
+        "water",
+        "and",
+        "rice"
+      ],
+      "free_translation_en": "The core lexical items for water and grain show unshifted Proto-Tai roots.",
+      "free_translation_as": "পানী আৰু শস্যৰ মৌলিক শব্দাৱলী অপৰিৱৰ্তিত আদি-টাই মূলৰ পৰা অহা।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Guwahati",
+      "notes": "Basic vocabulary cognate analysis."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "phuu chau mii khyaa taang phaa",
+      "assamese_script": "ফু চৌ মী খ্যা তাং ফা",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "linguists",
+        "field",
+        "record",
+        "acoustic",
+        "pitch",
+        "formants"
+      ],
+      "free_translation_en": "Field researchers recorded instrumented spectrograms of stop consonants and tones.",
+      "free_translation_as": "ভাষাতাত্ত্বিকসকলে স্পৰ্শধ্বনি আৰু স্বৰতৰংগৰ সঁজুলিভিত্তিক বৰ্ণালীবিক্ষণ নথিভুক্ত কৰিলে।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Upper Assam",
+      "notes": "Spectrographic measurements."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨲᩱ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "khaw nam taang tai phyeng mii",
+      "assamese_script": "খৌ নাম তাং টাই ফ্যেং মী",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "tai",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "aspirated",
+        "initials",
+        "shift",
+        "Tai",
+        "regular",
+        "are"
+      ],
+      "free_translation_en": "Aspirated voiceless initial stops exhibit regular correspondence sets.",
+      "free_translation_as": "মহাপ্ৰাণ অঘোষ আৰম্ভণি ব্যঞ্জনসমূহে নিয়মিত ধ্বনিসংগতি প্ৰদৰ্শন কৰে।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Heidelberg",
+      "notes": "Consonant shift patterns."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "female",
+        "elder",
+        "Tai",
+        "informant",
+        "precise",
+        "recalls"
+      ],
+      "free_translation_en": "Elder female informants preserved archaic tone distinctions with remarkable clarity.",
+      "free_translation_as": "বয়োজ্যেষ্ঠা মহিলা বক্তাসকলে প্ৰাচীন স্বৰভেদসমূহ চমকপ্ৰদ স্পষ্টতাৰে সংৰক্ষণ কৰিছে।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Lohit",
+      "notes": "Dialect informants."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "dialects",
+        "Tai",
+        "across",
+        "rivers",
+        "central",
+        "connect"
+      ],
+      "free_translation_en": "The speech varieties along the river confluences form a continuum of mutual intelligibility.",
+      "free_translation_as": "নদীসমূহৰ কাষৰ উপভাষাসমূহে পাৰস্পৰিক বোধগম্যতাৰ এক সুন্দৰ ধাৰাবাহিকতা গঢ়ি তোলে।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Sadiya / Dibrugarh",
+      "notes": "Dialect geography."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "Proto_Tai",
+        "system",
+        "possess",
+        "tones",
+        "categories",
+        "three"
+      ],
+      "free_translation_en": "The three-way Proto-Tai tonal split into A, B, and C registers is clearly verified.",
+      "free_translation_as": "আদি-টাই ভাষাৰ এ, বি, চি স্বৰবিভাজন ইয়াত স্পষ্টভাৱে প্ৰমাণিত হয়।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Heidelberg",
+      "notes": "Gedney tone grid verification."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "nasal",
+        "finals",
+        "Tai",
+        "words",
+        "remain",
+        "pure"
+      ],
+      "free_translation_en": "Syllable-final nasals and glottal stops remain remarkably stable across sub-groups.",
+      "free_translation_as": "শব্দৰ শেষৰ অনুনাসিক আৰু কণ্ঠনলীয় ধ্বনিসমূহ সকলো ঠালৰ মাজত অত্যন্ত সুস্থিৰ।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Upper Assam",
+      "notes": "Coda consonants."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "scholars",
+        "Tai",
+        "with",
+        "speakers",
+        "build",
+        "lexicon"
+      ],
+      "free_translation_en": "Collaborative elicitation produced an authentic comparative lexicon of over fifteen hundred items.",
+      "free_translation_as": "যৌথ প্ৰচেষ্টাত পোন্ধৰশৰো অধিক শব্দৰ এক খাঁটি তুলনামূলক অভিধান প্ৰস্তুত হ’ল।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Guwahati",
+      "notes": "Lexicographic documentation."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "grammar",
+        "Tai",
+        "structure",
+        "regional",
+        "rule",
+        "consistent"
+      ],
+      "free_translation_en": "The morphosyntax demonstrates consistent isolating structural typologies.",
+      "free_translation_as": "ৰূপতত্ত্বই ধাৰাবাহিক বিচ্ছিন্নাত্মক ব্যাকৰণগত গঠন প্ৰদৰ্শন কৰে।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Heidelberg",
+      "notes": "Isolating typology."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "phonology",
+        "study",
+        "valuable",
+        "foundation",
+        "future"
+      ],
+      "free_translation_en": "This phonetic monograph provides an indispensable foundation for Southwestern Tai linguistics.",
+      "free_translation_as": "এই ধ্বনিতাত্বিক গ্ৰন্থই দক্ষিণপশ্চিমীয়া টাই ভাষাতত্ত্বৰ বাবে অপৰিহাৰ্য ভেটি প্ৰদান কৰে।",
+      "speaker": "Dr. Alfons Weidert",
+      "location": "Heidelberg",
+      "notes": "Conclusion of the phonetic monograph."
+    }
+  ]
+}

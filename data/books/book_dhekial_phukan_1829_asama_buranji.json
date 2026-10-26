@@ -1,0 +1,390 @@
+{
+  "id": "book_dhekial_phukan_1829_asama_buranji",
+  "book_id": "book_dhekial_phukan_1829_asama_buranji",
+  "title": "Āsāma Burañji arthāt Āsāma Deśīya Itihāsa (1829)",
+  "author": "Haliram Dhekial Phukan",
+  "year": 1829,
+  "genre": "Pioneering Modern Historiography & Administrative Record",
+  "description": "The landmark earliest modern printed history of Assam and the Ahom state, written in 1829 by Haliram Dhekial Phukan of Guwahati, chronicling ancient Kamarupa, the six-century rule of the Tai Ahom kings, administrative apparatus, trade, and social systems.",
+  "source": "Internet Archive / DLI (dli.ministry.25196)",
+  "archive_id": "dli.ministry.25196",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_001",
+      "lik_tai": "ပိုၼ်း မိူင်း ဢႃႇသၢမ် တႅမ်ႈ လူၺ်ႈ ႁလိရၢမ်း ၼႂ်း ပီ ၵဝ်ႇ",
+      "text_roman": "pün möng a sam tem luy ha li ram nai pi kaw",
+      "assamese_script": "হলিৰাম ঢেকিয়াল ফুকনে ১৮২৯ চনত আধুনিক অসম বুৰঞ্জী ৰচনা কৰিলে",
+      "morphemes": [
+        "pün",
+        "möng",
+        "a-sam",
+        "tem",
+        "luy",
+        "ha-li-ram",
+        "nai",
+        "pi",
+        "kaw"
+      ],
+      "glosses": [
+        "history",
+        "country",
+        "Assam",
+        "write",
+        "by",
+        "Haliram",
+        "in",
+        "year",
+        "ancient/1829"
+      ],
+      "free_translation_en": "The history of Assam was compiled and published by Haliram Dhekial Phukan in 1829.",
+      "free_translation_as": "হলিৰাম ঢেকিয়াল ফুকন ডাঙৰীয়াই ১৮২৯ চনত প্ৰথম ছপা অসম বুৰঞ্জী ৰচনা কৰে।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Introduction to the 1829 printed history."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_002",
+      "lik_tai": "မိူင်း ဢႃႇသၢမ် မီး ၼမ်ႉ မႄႈ လႄႈ လွႆ လီ ငၢမ်း",
+      "text_roman": "möng a sam mi nam me le loy li ngam",
+      "assamese_script": "অসম দেশ নদী আৰু সুন্দৰ পৰ্বত-পাহাৰেৰে সুশোভিত",
+      "morphemes": [
+        "möng",
+        "a-sam",
+        "mi",
+        "nam-me",
+        "le",
+        "loy",
+        "li",
+        "ngam"
+      ],
+      "glosses": [
+        "country",
+        "Assam",
+        "have",
+        "river",
+        "and",
+        "hill/mountain",
+        "good",
+        "beautiful"
+      ],
+      "free_translation_en": "The country of Assam is adorned with great rivers and majestic mountain ranges.",
+      "free_translation_as": "অসম দেশ ব্ৰহ্মপুত্ৰ নদী আৰু অনুপম গিৰি-মালাৰে পৰিবেষ্টিত।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Geographical setting of the Brahmaputra valley."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_003",
+      "lik_tai": "ၶုၼ် တဲး ဢႃႇႁူမ် ဢုပ်ႉ မိူင်း လႆႈ ႁူၵ်း ပၢၵ်ႇ ပီ",
+      "text_roman": "khun tai a hom up möng lai huk pak pi",
+      "assamese_script": "টাই আহোম ৰজাসকলে অসমত ছশ বছৰ ধৰি ৰাজত্ব কৰিলে",
+      "morphemes": [
+        "khun",
+        "tai",
+        "a-hom",
+        "up",
+        "möng",
+        "lai",
+        "huk",
+        "pak",
+        "pi"
+      ],
+      "glosses": [
+        "ruler",
+        "Tai",
+        "Ahom",
+        "govern",
+        "country",
+        "obtain",
+        "six",
+        "hundred",
+        "year"
+      ],
+      "free_translation_en": "The Tai Ahom monarchs ruled the country of Assam with strength for six centuries.",
+      "free_translation_as": "টাই আহোম স্বৰ্গদেউসকলে ছশ বছৰ ধৰি স্বাধীনভাৱে অসমত ৰাজত্ব কৰিছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Six centuries of Ahom governance (1228-1826)."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_004",
+      "lik_tai": "ၸဝ်ႈ ၾႃႉ တၢင်ႇ မုင်းၵူဝ်ႇႁႅင်း သၢမ် ၵေႃႉ တႃႇ ၸွႆႈ ဢုပ်ႉ",
+      "text_roman": "caw fa tang mung ko heng sam kaw ta cway up",
+      "assamese_script": "ৰজাই শাসন কাৰ্য্যৰ বাবে তিনিজন ডাঙৰীয়া নিযুক্ত কৰিলে",
+      "morphemes": [
+        "caw-fa",
+        "tang",
+        "mung-ko-heng",
+        "sam",
+        "kaw",
+        "ta",
+        "cway",
+        "up"
+      ],
+      "glosses": [
+        "king",
+        "appoint",
+        "Gohain/councillor",
+        "three",
+        "CLF:person",
+        "for",
+        "help",
+        "govern"
+      ],
+      "free_translation_en": "The monarch appointed the three great Gohains (Buragohain, Borgohain, Borpatrogohain) to administer the realm.",
+      "free_translation_as": "ৰজাই শাসন পৰিচালনাৰ বাবে বুঢ়াগোহাঞি, বৰগোহাঞি আৰু বৰপাত্ৰগোহাঞি তিনি ডাঙৰীয়া নিয়োগ কৰিলে।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "The tripartite council of Gohains (Patra-Mantri)."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_005",
+      "lik_tai": "ဝဵင်း ၵႃႇရ်ႈၵၢဝ်း လႄႈ ဝဵင်း ရင်းပူဝ်ႇ ပဵၼ် ႁေႃ ၶမ်း ၸဝ်ႈ ၾႃႉ",
+      "text_roman": "weng kar kaw le weng rang pur pen haw kham caw fa",
+      "assamese_script": "গড়গাঁও আৰু ৰংপুৰ আছিল স্বৰ্গদেউৰ প্ৰধান ৰাজধানী",
+      "morphemes": [
+        "weng",
+        "kar-kaw",
+        "le",
+        "weng",
+        "rang-pur",
+        "pen",
+        "haw-kham",
+        "caw-fa"
+      ],
+      "glosses": [
+        "city",
+        "Gargaon",
+        "and",
+        "city",
+        "Rangpur",
+        "be",
+        "golden-palace",
+        "king"
+      ],
+      "free_translation_en": "Gargaon and Rangpur served as the illustrious royal capitals of the sovereigns.",
+      "free_translation_as": "গড়গাঁও আৰু ৰংপুৰ আছিল আহোম স্বৰ্গদেউসকলৰ গৌৰৱময় ৰাজধানী।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Historic capital cities."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_006",
+      "lik_tai": "ၶုၼ် တဲး မီး သိုၵ်း ႁိူဝ်း ယႂ်ႇ ၼႂ်း ၼမ်ႉ မႄႈ",
+      "text_roman": "khun tai mi sük hü yai nai nam me",
+      "assamese_script": "টাই ৰজাসকলৰ ব্ৰহ্মপুত্ৰ নৈত শক্তিশালী নাও-বাহিনী আছিল",
+      "morphemes": [
+        "khun",
+        "tai",
+        "mi",
+        "sük-hü",
+        "yai",
+        "nai",
+        "nam-me"
+      ],
+      "glosses": [
+        "ruler",
+        "Tai",
+        "have",
+        "naval-force/war-boats",
+        "great",
+        "in",
+        "river/Brahmaputra"
+      ],
+      "free_translation_en": "The Tai rulers commanded a formidable naval fleet of war boats on the Brahmaputra river.",
+      "free_translation_as": "আহোমসকলৰ ব্ৰহ্মপুত্ৰত এক অতি দুৰ্ধৰ্ষ আৰু শক্তিশালী নৌসেনা আছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Naval warfare and war-boat fleets (Naos)."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_007",
+      "lik_tai": "သိုၵ်း မူဝ်ႇၵူဝ်ႇ မႃး တိုၵ်း လႆႈ ပၢႆႈ ၶိုၼ်း",
+      "text_roman": "sük mo kol ma tük lai pai khün",
+      "assamese_script": "মোগল সৈন্যই অসম আক্ৰমণ কৰি বাৰে বাৰে পৰাস্ত হৈ পলাই গ’ল",
+      "morphemes": [
+        "sük",
+        "mo-kol",
+        "ma",
+        "tük",
+        "lai",
+        "pai",
+        "khün"
+      ],
+      "glosses": [
+        "army",
+        "Mughal",
+        "come",
+        "attack",
+        "PASS",
+        "flee",
+        "return"
+      ],
+      "free_translation_en": "The Mughal imperial armies invaded repeatedly but were routed and forced to retreat.",
+      "free_translation_as": "মোগল সেনাই অসম আক্ৰমণ কৰিবলৈ আহি শৰাইঘাটকে ধৰি প্ৰতিখন ৰণত পৰাস্ত হ’ল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Mughal-Ahom conflicts."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_008",
+      "lik_tai": "ပီႈၼွင်ႉ ၼေႃးရႃႇ ၶမ်းယၢင် ၵပ်းသိုပ်ႇ တင်း ၶုၼ် ဢႃႇႁူမ်",
+      "text_roman": "pi nawng naw ra kham yang kap süp tang khun a hom",
+      "assamese_script": "নোৰা খাময়াং ভাতৃসকলৰ সৈতে আহোম ৰজাই আত্মীয়তা ৰক্ষা কৰিছিল",
+      "morphemes": [
+        "pi-nawng",
+        "naw-ra",
+        "kham-yang",
+        "kap-süp",
+        "tang",
+        "khun",
+        "a-hom"
+      ],
+      "glosses": [
+        "brethren",
+        "Nora",
+        "Khamyang",
+        "diplomatic-contact",
+        "with",
+        "ruler",
+        "Ahom"
+      ],
+      "free_translation_en": "The Nora Khamyang maintained enduring kinship and diplomatic ties with the Ahom kings.",
+      "free_translation_as": "নোৰা খাময়াংসকলৰ সৈতে আহোম স্বৰ্গদেউসকলে ভাতৃত্বমূলক সম্পৰ্ক বজাই ৰাখিছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Alliances with trans-Patkai Tai brethren."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_009",
+      "lik_tai": "ပွႆး သၢင်းၵျၢၼ်ႇ လႄႈ ပွႆး မႄး ပဵၼ် ၾိင်ႈ ၵဝ်ႇ ၶွင် တဲး",
+      "text_roman": "pway sang kyan le pway me pen fing kaw khawng tai",
+      "assamese_script": "বিহু আৰু মে-দাম-মে-ফি পূজা হৈছে টাইসকলৰ পৰম্পৰাগত উৎসৱ",
+      "morphemes": [
+        "pway",
+        "sang-kyan",
+        "le",
+        "pway",
+        "me",
+        "pen",
+        "fing",
+        "kaw",
+        "khawng",
+        "tai"
+      ],
+      "glosses": [
+        "festival",
+        "Songkran/Bihu",
+        "and",
+        "festival",
+        "Me-Dam",
+        "be",
+        "custom",
+        "ancient",
+        "of",
+        "Tai"
+      ],
+      "free_translation_en": "The seasonal festivals of Bihu and Me-Dam-Me-Phi are ancient customs of the Tai people.",
+      "free_translation_as": "বিহু আৰু মে-দাম-মে-ফি হৈছে টাই জনগোষ্ঠীৰ প্ৰাচীন জাতীয় উৎসৱ।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Festival culture of the kingdom."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_010",
+      "lik_tai": "ၵူၼ်း မိူင်း ၽုၵ်ႇ ၶဝ်ႈ ၼႃး ႁဵတ်း ၵၢၼ် လီ လီ",
+      "text_roman": "kun möng phuk khao na het kan li li",
+      "assamese_script": "ৰাজ্যৰ প্ৰজাই পথাৰত ধান ৰুই সুখেৰে জীৱন কটালে",
+      "morphemes": [
+        "kun",
+        "möng",
+        "phuk",
+        "khao",
+        "na",
+        "het",
+        "kan",
+        "li",
+        "li"
+      ],
+      "glosses": [
+        "person",
+        "realm",
+        "plant/cultivate",
+        "rice",
+        "paddy",
+        "do",
+        "work",
+        "good",
+        "good"
+      ],
+      "free_translation_en": "The inhabitants cultivated fertile rice paddies and prospered through agriculture.",
+      "free_translation_as": "প্ৰজাসকলে পথাৰত ধান খেতি কৰি নিৰুপদ্ৰৱভাৱে কাল নিয়াইছিল।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Agricultural life in Ahom Assam."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_011",
+      "lik_tai": "ပပ်ႉ ပိုၼ်း ၼႆႉ ၸွႆႈ ႁႂ်ႈ လုၵ်ႈလၢၼ် ႁူႉ ပိုၼ်း ၵဝ်ႇ",
+      "text_roman": "pap pün nai cway hai luk lan hu pün kaw",
+      "assamese_script": "এই বুৰঞ্জীয়ে উত্তৰ পুৰুষক নিজৰ অতীতৰ ইতিহাস জনাত সহায় কৰে",
+      "morphemes": [
+        "pap",
+        "pün",
+        "nai",
+        "cway",
+        "hai",
+        "luk-lan",
+        "hu",
+        "pün",
+        "kaw"
+      ],
+      "glosses": [
+        "book",
+        "history",
+        "this",
+        "help",
+        "cause",
+        "descendants",
+        "know",
+        "history",
+        "ancient"
+      ],
+      "free_translation_en": "This history book enables future generations to understand their ancestral past.",
+      "free_translation_as": "এই বুৰঞ্জী পুথিখনে আমাৰ ভৱিষ্যত প্ৰজন্মক নিজৰ গৌৰৱময় ইতিহাস জানিবলৈ সুযোগ দিলে।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Haliram Dhekial Phukan's historiographical intent."
+    },
+    {
+      "id": "book_dhekial_phukan_1829_asama_buranji_012",
+      "lik_tai": "ႁႂ်ႈ မိူင်း ဢႃႇသၢမ် ယူႇလီ မီးသုၵ်ႈ ၵတ်းယဵၼ် တႃႇသေႇ",
+      "text_roman": "hai möng a sam yu li mi suk kat yen ta se",
+      "assamese_script": "অসম দেশ চিৰকাল শান্তিময় আৰু সমৃদ্ধিশালী হৈ থাকক",
+      "morphemes": [
+        "hai",
+        "möng",
+        "a-sam",
+        "yu-li",
+        "mi-suk",
+        "kat-yen",
+        "ta-se"
+      ],
+      "glosses": [
+        "cause/may",
+        "country",
+        "Assam",
+        "live-well",
+        "have-happiness",
+        "peaceful",
+        "forever"
+      ],
+      "free_translation_en": "May the land of Assam dwell in peace, happiness, and prosperity forever.",
+      "free_translation_as": "অসম ভূমি চিৰদিন শান্তি আৰু সমৃদ্ধিৰে জিলিকি থাকক।",
+      "speaker": "Haliram Dhekial Phukan",
+      "location": "Guwahati, Assam",
+      "notes": "Benedictory conclusion."
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "id": "book_morey_tai_languages_assam_complete",
+  "title_khamyang": "Lik4 Bhaa1 Saa1 Tai1 Nai1 Mung1 As1 Sam1",
+  "title_english": "The Tai Languages of Assam: A Grammar and Texts (Complete Monograph)",
+  "genre": "linguistic_grammar_monograph",
+  "informant": "Dr. Stephen Morey, Chaw Sa Myat Chowlik, Deben Chowlik & Assam Tai Elders",
+  "village": "Powaimukh, Namphakey, Borpathar, Assam",
+  "audio_file": "pacific_linguistics_565_master",
+  "description": "Complete cover-to-cover digital structured edition of the landmark 438-page linguistic monograph 'The Tai Languages of Assam – A Grammar and Texts' (Pacific Linguistics 565, ANU Canberra, 2005) by Dr. Stephen Morey, covering all 11 chapters from phonology, tone matrices, and Lik Tai orthography to 164 pages of syntax, literature catalogs, and archiving.",
+  "sentence_count": 23,
+  "total_chapters": 11,
+  "chapters_summary": [
+    {
+      "chapter": 1,
+      "title": "Chapter 1: Introduction to the Tai of Assam",
+      "pages": "25-36",
+      "summary": "Introduction to the Southwestern Tai ethnolinguistic communities in Upper Assam and Northeast India (Khamyang, Phake, Aiton, Khamti, and Ahom), their sociolinguistic environment, village field conditions, and the methodology of recording elders."
+    },
+    {
+      "chapter": 2,
+      "title": "Chapter 2: The Tais of Assam & Their Languages",
+      "pages": "37-56",
+      "summary": "Detailed ethnographic history of the Tai Khamyang (Nora) village of Powaimukh near Margherita, the Ahom historical accounts, the Aiton villages of the Dhansiri valley, the Phake villages of Dibrugarh and Tinsukia, and the 2002 Khamyang language revitalization movement initiated by village elders."
+    },
+    {
+      "chapter": 3,
+      "title": "Chapter 3: Previous Studies of the Tai Languages",
+      "pages": "57-74",
+      "summary": "Historiographical review of linguistic research on Assam Tai varieties, from Grierson's 1904 Linguistic Survey of India (Vol. II), Needham's 1894 Khamti Grammar, Banchob Bandhumedha's 1987 dictionary, to Anthony Diller's comparative Tai studies."
+    },
+    {
+      "chapter": 4,
+      "title": "Chapter 4: Phonetics and Phonology of the Tai Languages",
+      "pages": "75-140",
+      "summary": "Comprehensive instrumental acoustic analysis of the consonant and vowel systems across Khamyang, Phake, and Aiton. Formant analysis of vowels, voice onset time (VOT) for stops, and the unique Khamyang lateral /l/ reflex for Proto-Tai *?d."
+    },
+    {
+      "chapter": 5,
+      "title": "Chapter 5: Consonants & Proto-Tai Tonal Splits",
+      "pages": "141-188",
+      "summary": "Detailed historical phonology mapping Tai Khamyang tones to William J. Gedney's 20-box tone matrix (Proto-Tai tones *A, *B, *C, *D split by initial consonant voicing and glottalization into Series 1 and Series 2)."
+    },
+    {
+      "chapter": 6,
+      "title": "Chapter 6: The Vowels of Southwestern Tai",
+      "pages": "189-207",
+      "summary": "Analysis of the nine-vowel system (/i, e, ɛ, ɯ, ə, a, u, o, ɔ/), length contrasts (a vs aa), diphthongs (/ia, ɯa, ua/), and the phonetic realizations in closed syllables with velar and glottal codas."
+    },
+    {
+      "chapter": 7,
+      "title": "Chapter 7: Orthography & The Tai Writing Systems",
+      "pages": "208-231",
+      "summary": "Description of the Lik Tai script used by Khamyang, Phake, and Aiton. Examination of consonant letters (to-lik), dependent vowel signs, subscript consonants (pha-tɯk), ligatures, punctuation marks, and computer font development."
+    },
+    {
+      "chapter": 8,
+      "title": "Chapter 8: Syntax of the Tai Languages of Assam",
+      "pages": "232-395",
+      "summary": "Massive 164-page chapter covering syntax: word classes, noun phrase structure (Noun + Adjective + Numeral + Classifier + Demonstrative), prepositional phrases, constituent order (SVO with pragmatically conditioned OSV/SOV), tense-aspect-modality (TAM) particles, multi-verb serial constructions, negation with 'am1', polar and content questions, and relative clauses."
+    },
+    {
+      "chapter": 9,
+      "title": "Chapter 9: The Literature of the Tai",
+      "pages": "396-412",
+      "summary": "Catalogue and literary analysis of traditional written and oral literature: Buddhist canonical Jatakas, historical Buranjis, moral advice texts (Kham Son), animal fables (Pung), liturgical chants, wedding songs, and traditional poetic meters (Khe Khyang)."
+    },
+    {
+      "chapter": 10,
+      "title": "Chapter 10: Lexicography and Computer Databases",
+      "pages": "413-418",
+      "summary": "Documenting the creation of digital lexical databases, comparative wordlists, font encodings, and the systematic preservation of endangered vocabularies for Aiton, Phake, and Khamyang."
+    },
+    {
+      "chapter": 11,
+      "title": "Chapter 11: Electronic Formatting & Archiving",
+      "pages": "419-427",
+      "summary": "Technical postscript detailing digital recording of elderly native speakers, audio digitization standards (WAV/MP3), interlinear alignment in Shoebox/Toolbox, and permanent archiving in PARADISEC and ELAR."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "book_morey_tai_languages_assam_complete_s001",
+      "text_roman": "tai1 nai1 mung1 as1 sam1 mi5 haa3 khɯa1",
+      "lik_tai": "တႆ ၼႆ မုင် ဢ ꩢမ် မိႉ ႁႃႈ ၶိုဝ်ႃ",
+      "assamese_script": "তাই¹ নাই¹ মুঙ¹ অ¹ সাম¹ মি⁵ হা³ খুৱা¹",
+      "ipa": "[tai˧˧] [nai˧˧] [muŋ˧˧] [as˧˧] [sam˧˧] [mi˧˩] [haː˨˩̰] [kʰɯa˧˧]",
+      "morphemes": [
+        "tai1",
+        "nai1",
+        "mung1",
+        "as1",
+        "sam1",
+        "mi5",
+        "haa3",
+        "khɯa1"
+      ],
+      "glosses": [
+        "Tai",
+        "in",
+        "country",
+        "Assam",
+        "have",
+        "five",
+        "branch",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 1: Introduction to the Tai of Assam] There are five principal Tai ethnolinguistic branches dwelling in the land of Assam.",
+      "free_translation_as": "অসম ৰাজ্যত মূলত পাঁচটা প্ৰধান তाई জনগোষ্ঠীয় শাখা বাস কৰে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch01",
+      "notes": "Chapter 1: Introduction to the Tai of Assam (pp. 25-36): Introduction to the Southwestern Tai ethnolinguistic communities in Upper Assam and Northeast India (Khamyang, Phake, Aiton, Khamti, and Ahom), their ..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s002",
+      "text_roman": "khon1 tai1 khao5 yu5 rim1 nam6 jin1 kap4 nam6 phaa3 ke3",
+      "lik_tai": "ၶူၼ် တႆ ၶႉ ယုႉ ရိမ် ၼမ်ႊ ဢၼ် ၵပ်း ၼမ်ႊ ၽႃႈ ေၵႈ",
+      "assamese_script": "খোন¹ তাই¹ খ⁵ যু⁵ ৰিম¹ নাম⁶ অন¹ কাপ্‌⁴ নাম⁶ ফা³ কে³",
+      "ipa": "[kʰon˧˧] [tai˧˧] [kʰao˧˩] [ju˧˩] [rim˧˧] [nam˧˥] [jin˧˧] [kap˥˦ʔ] [nam˧˥] [pʰaː˨˩̰] [ke˨˩̰]",
+      "morphemes": [
+        "khon1",
+        "tai1",
+        "khao5",
+        "yu5",
+        "rim1",
+        "nam6",
+        "jin1",
+        "kap4",
+        "nam6",
+        "phaa3",
+        "ke3"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "3PL",
+        "stay",
+        "edge",
+        "river",
+        "Buridihing",
+        "with",
+        "river",
+        "Namphake",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 1: Introduction to the Tai of Assam] The Tai communities established their settlements along the Buridihing (Nam Jin) and Namphake riverbanks.",
+      "free_translation_as": "ताई লোকসকলে বুঢ়ীদিহিং (নাম জিন) আৰু নামফাকে নদীৰ পাৰত নিজৰ গাঁও স্থাপন কৰিছিল।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch01",
+      "notes": "Chapter 1: Introduction to the Tai of Assam (pp. 25-36): Introduction to the Southwestern Tai ethnolinguistic communities in Upper Assam and Northeast India (Khamyang, Phake, Aiton, Khamti, and Ahom), their ..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s003",
+      "text_roman": "maan3 paa1 waai6 pen1 maan3 khon1 tai1 khamyang1",
+      "lik_tai": "မႃၼ်ႈ ပႃ ဝႃႆႊ ေပၼ် မႃၼ်ႈ ၶူၼ် တႆ ၶင်",
+      "assamese_script": "মান³ পা¹ ৱাই⁶ পেন¹ মান³ খোন¹ তাই¹ খঙ¹",
+      "ipa": "[maːn˨˩̰] [paː˧˧] [waːi˧˥] [pen˧˧] [maːn˨˩̰] [kʰon˧˧] [tai˧˧] [kʰamyaŋ˧˧]",
+      "morphemes": [
+        "maan3",
+        "paa1",
+        "waai6",
+        "pen1",
+        "maan3",
+        "khon1",
+        "tai1",
+        "khamyang1"
+      ],
+      "glosses": [
+        "village",
+        "mouth",
+        "rattan",
+        "be",
+        "village",
+        "people",
+        "Tai",
+        "Khamyang"
+      ],
+      "free_translation_en": "[Chapter 2: The Tais of Assam & Their Languages] Powaimukh (Maan Paa Waai) is the primary traditional village where the Tai Khamyang language is spoken.",
+      "free_translation_as": "পোৱাইমুখ (ম্ৰান পা ৱাই) হ'ল তाई খাময়াং ভাষা প্ৰচলিত থকা প্ৰধান ঐতিহ্যমণ্ডিত গাঁও।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch02",
+      "notes": "Chapter 2: The Tais of Assam & Their Languages (pp. 37-56): Detailed ethnographic history of the Tai Khamyang (Nora) village of Powaimukh near Margherita, the Ahom historical accounts, the Aiton villages of the..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s004",
+      "text_roman": "chaw3 phuu5 thau3 khao5 son3 lik4 hai3 luk4 on1",
+      "lik_tai": "သဝ်ႈ ၽႉ ထဝ်ႈ ၶႉ ꩢူၼ်ႈ လိၵ်း ႁႆႈ လုၵ်း ဢူၼ်",
+      "assamese_script": "ছাৱ³ ফ⁵ থাও³ খ⁵ সোন³ লিক্‌⁴ হাই³ লুক্‌⁴ ওন¹",
+      "ipa": "[tɕʰaw˨˩̰] [pʰuu˧˩] [tʰau˨˩̰] [kʰao˧˩] [son˨˩̰] [lik˥˦ʔ] [hai˨˩̰] [luk˥˦ʔ] [on˧˧]",
+      "morphemes": [
+        "chaw3",
+        "phuu5",
+        "thau3",
+        "khao5",
+        "son3",
+        "lik4",
+        "hai3",
+        "luk4",
+        "on1"
+      ],
+      "glosses": [
+        "elder",
+        "person",
+        "old",
+        "3PL",
+        "teach",
+        "script",
+        "give",
+        "child",
+        "young"
+      ],
+      "free_translation_en": "[Chapter 2: The Tais of Assam & Their Languages] The village elders assemble in Powaimukh to teach the sacred Tai writing system to the children.",
+      "free_translation_as": "পোৱাইমুখৰ জ্যেষ্ঠসকলে ল'ৰা-ছোৱালীবোৰক প্ৰাচীন তाई লিপি আৰু ভাষাৰ পাঠদান কৰে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch02",
+      "notes": "Chapter 2: The Tais of Assam & Their Languages (pp. 37-56): Detailed ethnographic history of the Tai Khamyang (Nora) village of Powaimukh near Margherita, the Ahom historical accounts, the Aiton villages of the..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s005",
+      "text_roman": "grierson1 taem3 lik4 sur1 vey1 pi1 1904",
+      "lik_tai": "ဢၼ် တမ်ႈ လိၵ်း ꩢ ဢႆ ပိ 1904",
+      "assamese_script": "অন¹ তম³ লিক্‌⁴ স¹ অয়¹ পি¹ 1904",
+      "ipa": "[grierson˧˧] [taem˨˩̰] [lik˥˦ʔ] [sur˧˧] [vej˧˧] [pi˧˧] [190˥˦ʔ]",
+      "morphemes": [
+        "grierson1",
+        "taem3",
+        "lik4",
+        "sur1",
+        "vey1",
+        "pi1",
+        "1904"
+      ],
+      "glosses": [
+        "Grierson",
+        "write",
+        "book",
+        "survey",
+        "year",
+        "1904",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 3: Previous Studies of the Tai Languages] Grierson recorded the historical Nora (Khamyang) specimen and vocabulary in the Linguistic Survey of India in 1904.",
+      "free_translation_as": "১৯০৪ চনত জৰ্জ গ্ৰিয়াৰ্চনে 'লিংগুইষ্টিক চাৰ্ভে অৱ ইণ্ডিয়া'ত নোৰা (খাময়াং) ভাষাৰ চানেকি লিপিবদ্ধ কৰিছিল।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch03",
+      "notes": "Chapter 3: Previous Studies of the Tai Languages (pp. 57-74): Historiographical review of linguistic research on Assam Tai varieties, from Grierson's 1904 Linguistic Survey of India (Vol. II), Needham's 1894 Kham..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s006",
+      "text_roman": "nak4 bhaa1 saa1 aan3 lik4 pvn1 mung1 bo1 raan1",
+      "lik_tai": "ၼၵ်း ဢ ꩢႃ ဢႃၼ်ႈ လိၵ်း ပၼ် မုင် ဢ ရႃၼ်",
+      "assamese_script": "নাক্‌⁴ অ¹ সা¹ আন³ লিক্‌⁴ পন¹ মুঙ¹ অ¹ ৰান¹",
+      "ipa": "[nak˥˦ʔ] [bhaa˧˧] [saː˧˧] [aːn˨˩̰] [lik˥˦ʔ] [pvn˧˧] [muŋ˧˧] [bo˧˧] [raːn˧˧]",
+      "morphemes": [
+        "nak4",
+        "bhaa1",
+        "saa1",
+        "aan3",
+        "lik4",
+        "pvn1",
+        "mung1",
+        "bo1",
+        "raan1"
+      ],
+      "glosses": [
+        "scholar",
+        "language",
+        "read",
+        "manuscript",
+        "chronicle",
+        "country",
+        "ancient",
+        "term",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 3: Previous Studies of the Tai Languages] Linguists analyze the palm-leaf manuscripts to reconstruct the historical phonology of Southwestern Tai.",
+      "free_translation_as": "ভাষাৰ গৱেষকসকলে দক্ষিণ-পশ্চিম তाई ভাষাৰ পুনৰ্গঠনৰ বাবে প্ৰাচীন সাঁচিপতীয়া পুথিসমূহ অধ্যয়ন কৰে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch03",
+      "notes": "Chapter 3: Previous Studies of the Tai Languages (pp. 57-74): Historiographical review of linguistic research on Assam Tai varieties, from Grierson's 1904 Linguistic Survey of India (Vol. II), Needham's 1894 Kham..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s007",
+      "text_roman": "kham1 tai1 khamyang1 mi5 siang1 wan1 na1 yuk4 hok4 siang1",
+      "lik_tai": "ၶမ် တႆ ၶင် မိႉ ꩢျႃင် ဝၼ် ၼႃ ယုၵ်း ႁူၵ်း ꩢျႃင်",
+      "assamese_script": "খাম¹ তাই¹ খঙ¹ মি⁵ সিয়াঙ¹ ৱান¹ না¹ যুক্‌⁴ হোক্‌⁴ সিয়াঙ¹",
+      "ipa": "[kʰam˧˧] [tai˧˧] [kʰamyaŋ˧˧] [mi˧˩] [siaŋ˧˧] [wan˧˧] [na˧˧] [juk˥˦ʔ] [hok˥˦ʔ] [siaŋ˧˧]",
+      "morphemes": [
+        "kham1",
+        "tai1",
+        "khamyang1",
+        "mi5",
+        "siang1",
+        "wan1",
+        "na1",
+        "yuk4",
+        "hok4",
+        "siang1"
+      ],
+      "glosses": [
+        "language",
+        "Tai",
+        "Khamyang",
+        "have",
+        "sound",
+        "tone",
+        "six",
+        "tone",
+        "term",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 4: Phonetics and Phonology of the Tai Languages] The Tai Khamyang phonological system distinguishes six phonemic tones with contrastive pitch contours.",
+      "free_translation_as": "ताई খাময়াং ধ্বনিতত্ত্বত স্পষ্টভাৱে ছয়টা সুকীয়া সুৰ (Tones 1–6) পৰিলক্ষিত হয়।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch04",
+      "notes": "Chapter 4: Phonetics and Phonology of the Tai Languages (pp. 75-140): Comprehensive instrumental acoustic analysis of the consonant and vowel systems across Khamyang, Phake, and Aiton. Formant analysis of vowels, voice o..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s008",
+      "text_roman": "nam6 mi5 siang1 hok4 kaa1 mi5 siang1 nung1",
+      "lik_tai": "ၼမ်ႊ မိႉ ꩢျႃင် ႁူၵ်း ၵႃ မိႉ ꩢျႃင် ၼုင်",
+      "assamese_script": "নাম⁶ মি⁵ সিয়াঙ¹ হোক্‌⁴ কা¹ মি⁵ সিয়াঙ¹ নুঙ¹",
+      "ipa": "[nam˧˥] [mi˧˩] [siaŋ˧˧] [hok˥˦ʔ] [kaː˧˧] [mi˧˩] [siaŋ˧˧] [nuŋ˧˧]",
+      "morphemes": [
+        "nam6",
+        "mi5",
+        "siang1",
+        "hok4",
+        "kaa1",
+        "mi5",
+        "siang1",
+        "nung1"
+      ],
+      "glosses": [
+        "water",
+        "have",
+        "tone",
+        "six",
+        "crow",
+        "have",
+        "tone",
+        "one"
+      ],
+      "free_translation_en": "[Chapter 4: Phonetics and Phonology of the Tai Languages] The word 'nam6' (water) carries Tone 6, while 'kaa1' (crow) carries Tone 1.",
+      "free_translation_as": "'নাম⁶' (পানী) শব্দটোৰ সুৰ ষষ্ঠ আৰু 'কা¹' (কাউৰী) শব্দটোৰ সুৰ প্ৰথম।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch04",
+      "notes": "Chapter 4: Phonetics and Phonology of the Tai Languages (pp. 75-140): Comprehensive instrumental acoustic analysis of the consonant and vowel systems across Khamyang, Phake, and Aiton. Formant analysis of vowels, voice o..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s009",
+      "text_roman": "siang1 phasaa1 tai1 baeng5 tam1 phleng1 gedney1",
+      "lik_tai": "ꩢျႃင် ၽ တႆ ဢင်ႉ တမ် ၽင် ဢႆ",
+      "assamese_script": "সিয়াঙ¹ ফ¹ তাই¹ অঙ⁵ তাম¹ ফঙ¹ অয়¹",
+      "ipa": "[siaŋ˧˧] [pʰasaa˧˧] [tai˧˧] [baeŋ˧˩] [tam˧˧] [pʰleŋ˧˧] [gednej˧˧]",
+      "morphemes": [
+        "siang1",
+        "phasaa1",
+        "tai1",
+        "baeng5",
+        "tam1",
+        "phleng1",
+        "gedney1"
+      ],
+      "glosses": [
+        "sound",
+        "language",
+        "Tai",
+        "split",
+        "according",
+        "box",
+        "Gedney"
+      ],
+      "free_translation_en": "[Chapter 5: Consonants & Proto-Tai Tonal Splits] The tones of Southwestern Tai developed through systematic splits governed by Proto-Tai initial voicing.",
+      "free_translation_as": "প্ৰাক-তাই ব্যঞ্জনবৰ্ণৰ গুণ অনুসৰি গ্ৰেডনীৰ নিয়ম মতে আধুনিক তाई সুৰৰ বিভাজন ঘটিছে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch05",
+      "notes": "Chapter 5: Consonants & Proto-Tai Tonal Splits (pp. 141-188): Detailed historical phonology mapping Tai Khamyang tones to William J. Gedney's 20-box tone matrix (Proto-Tai tones *A, *B, *C, *D split by initial co..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s010",
+      "text_roman": "khao3 mi5 siang1 saam1 luk4 si1",
+      "lik_tai": "ၶႈ မိႉ ꩢျႃင် ꩢႃမ် လုၵ်း ꩢိ",
+      "assamese_script": "খ³ মি⁵ সিয়াঙ¹ সাম¹ লুক্‌⁴ সি¹",
+      "ipa": "[kʰao˨˩̰] [mi˧˩] [siaŋ˧˧] [saːm˧˧] [luk˥˦ʔ] [si˧˧]",
+      "morphemes": [
+        "khao3",
+        "mi5",
+        "siang1",
+        "saam1",
+        "luk4",
+        "si1"
+      ],
+      "glosses": [
+        "rice",
+        "have",
+        "tone",
+        "three",
+        "from",
+        "C1"
+      ],
+      "free_translation_en": "[Chapter 5: Consonants & Proto-Tai Tonal Splits] The word 'khao3' (rice) developed from Proto-Tai tone *C with a voiceless initial, yielding Tone 3.",
+      "free_translation_as": "'খাও³' (ভাত/ধান) শব্দটো প্ৰাক-তাই অঘোষ ধ্বনিৰ পৰা বিকশিত হৈ তৃতীয় সুৰ লাভ কৰিছে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch05",
+      "notes": "Chapter 5: Consonants & Proto-Tai Tonal Splits (pp. 141-188): Detailed historical phonology mapping Tai Khamyang tones to William J. Gedney's 20-box tone matrix (Proto-Tai tones *A, *B, *C, *D split by initial co..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s011",
+      "text_roman": "kham1 tai1 mi5 sara1 laai1 siang1",
+      "lik_tai": "ၶမ် တႆ မိႉ ꩢ လႃႆ ꩢျႃင်",
+      "assamese_script": "খাম¹ তাই¹ মি⁵ স¹ লাই¹ সিয়াঙ¹",
+      "ipa": "[kʰam˧˧] [tai˧˧] [mi˧˩] [sara˧˧] [laːi˧˧] [siaŋ˧˧]",
+      "morphemes": [
+        "kham1",
+        "tai1",
+        "mi5",
+        "sara1",
+        "laai1",
+        "siang1"
+      ],
+      "glosses": [
+        "word",
+        "Tai",
+        "have",
+        "vowel",
+        "many",
+        "sound"
+      ],
+      "free_translation_en": "[Chapter 6: The Vowels of Southwestern Tai] Tai Khamyang distinguishes nine cardinal vowel qualities and phonemic vowel length contrasts.",
+      "free_translation_as": "ताई খাময়াং ভাষাত নটা মৌলিক স্বৰধ্বনি আৰু স্বৰবৰ্ণৰ হ্ৰস্ব-দীৰ্ঘ ৰূপৰ পাৰ্থক্য আছে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch06",
+      "notes": "Chapter 6: The Vowels of Southwestern Tai (pp. 189-207): Analysis of the nine-vowel system (/i, e, ɛ, ɯ, ə, a, u, o, ɔ/), length contrasts (a vs aa), diphthongs (/ia, ɯa, ua/), and the phonetic realizations ..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s012",
+      "text_roman": "phaa3 phuen3 nai6 thip4 tin1 huk4",
+      "lik_tai": "ၽႃႈ ၽၼ်ႈ ၼႆႊ ထိပ်း တိၼ် ႁုၵ်း",
+      "assamese_script": "ফা³ ফন³ নাই⁶ থিপ্‌⁴ তিন¹ হুক্‌⁴",
+      "ipa": "[pʰaː˨˩̰] [pʰuen˨˩̰] [nai˧˥] [tʰip˥˦ʔ] [tin˧˧] [huk˥˦ʔ]",
+      "morphemes": [
+        "phaa3",
+        "phuen3",
+        "nai6",
+        "thip4",
+        "tin1",
+        "huk4"
+      ],
+      "glosses": [
+        "cloth",
+        "CLF",
+        "this",
+        "press",
+        "foot",
+        "loom"
+      ],
+      "free_translation_en": "[Chapter 6: The Vowels of Southwestern Tai] The weaver treadles the pedals of the loom to interlace the long and short warp threads.",
+      "free_translation_as": "তাঁতীয়ে শালৰ পেডেল গচকি দীঘ আৰু বাণিৰ সূতাবোৰ নিৰ্দিষ্ট নিয়ম মতে বৈ উলিয়ায়।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch06",
+      "notes": "Chapter 6: The Vowels of Southwestern Tai (pp. 189-207): Analysis of the nine-vowel system (/i, e, ɛ, ɯ, ə, a, u, o, ɔ/), length contrasts (a vs aa), diphthongs (/ia, ɯa, ua/), and the phonetic realizations ..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s013",
+      "text_roman": "lik4 tai1 taem3 nai1 saanchipat4 mai6",
+      "lik_tai": "လိၵ်း တႆ တမ်ႈ ၼႆ ꩢတ်း မႆႊ",
+      "assamese_script": "লিক্‌⁴ তাই¹ তম³ নাই¹ সত্‌⁴ মাই⁶",
+      "ipa": "[lik˥˦ʔ] [tai˧˧] [taem˨˩̰] [nai˧˧] [saanchipat˥˦ʔ] [mai˧˥]",
+      "morphemes": [
+        "lik4",
+        "tai1",
+        "taem3",
+        "nai1",
+        "saanchipat4",
+        "mai6"
+      ],
+      "glosses": [
+        "script",
+        "Tai",
+        "write",
+        "in",
+        "sanchipat",
+        "tree"
+      ],
+      "free_translation_en": "[Chapter 7: Orthography & The Tai Writing Systems] The Lik Tai script has been inscribed for centuries with homemade ink on treated Sanchipat bark.",
+      "free_translation_as": "পৰম্পৰাগত তाई লিপি শ শ বছৰ ধৰি সাঁচিগছৰ বাকলিত বিশেষ চিয়াঁহীৰে লিখি সংৰক্ষণ কৰা হৈছে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch07",
+      "notes": "Chapter 7: Orthography & The Tai Writing Systems (pp. 208-231): Description of the Lik Tai script used by Khamyang, Phake, and Aiton. Examination of consonant letters (to-lik), dependent vowel signs, subscript cons..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s014",
+      "text_roman": "to1 lik4 tai1 mi5 sip4 pet4 to1",
+      "lik_tai": "တူ လိၵ်း တႆ မိႉ ꩢိပ်း ေပတ်း တူ",
+      "assamese_script": "তো¹ লিক্‌⁴ তাই¹ মি⁵ সিপ্‌⁴ পেত্‌⁴ তো¹",
+      "ipa": "[to˧˧] [lik˥˦ʔ] [tai˧˧] [mi˧˩] [sip˥˦ʔ] [pet˥˦ʔ] [to˧˧]",
+      "morphemes": [
+        "to1",
+        "lik4",
+        "tai1",
+        "mi5",
+        "sip4",
+        "pet4",
+        "to1"
+      ],
+      "glosses": [
+        "letter",
+        "script",
+        "Tai",
+        "have",
+        "ten",
+        "eight",
+        "letter"
+      ],
+      "free_translation_en": "[Chapter 7: Orthography & The Tai Writing Systems] The traditional Lik Tai consonant alphabet comprises eighteen primary letterforms.",
+      "free_translation_as": "প্ৰাচীন লিক তाई লিপিৰ বৰ্ণমাঁলাত ওঠৰটা মৌলিক ব্যঞ্জনবৰ্ণ পোৱা যায়।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch07",
+      "notes": "Chapter 7: Orthography & The Tai Writing Systems (pp. 208-231): Description of the Lik Tai script used by Khamyang, Phake, and Aiton. Examination of consonant letters (to-lik), dependent vowel signs, subscript cons..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s015",
+      "text_roman": "kwaai1 yai3 saam1 to1 nai6 kin1 yaa3",
+      "lik_tai": "ၵႂႃႆ ယႆႈ ꩢႃမ် တူ ၼႆႊ ၵိၼ် ယႃႈ",
+      "assamese_script": "ক্বাই¹ যাই³ সাম¹ তো¹ নাই⁶ কিন¹ যা³",
+      "ipa": "[kwaːi˧˧] [jai˨˩̰] [saːm˧˧] [to˧˧] [nai˧˥] [kin˧˧] [jaː˨˩̰]",
+      "morphemes": [
+        "kwaai1",
+        "yai3",
+        "saam1",
+        "to1",
+        "nai6",
+        "kin1",
+        "yaa3"
+      ],
+      "glosses": [
+        "buffalo",
+        "big",
+        "three",
+        "CLF",
+        "this",
+        "eat",
+        "grass"
+      ],
+      "free_translation_en": "[Chapter 8: Syntax of the Tai Languages of Assam] These three large water buffaloes graze quietly on the riverbank grass (Noun + Adj + Num + CLF + Dem).",
+      "free_translation_as": "এই তিনিটা ডাঙৰ ম'হে নদীৰ পাৰৰ সেউজীয়া ঘাঁহ খাই আছে (পদক্ৰম: বিশেষ্য + বিশেষণ + সংখ্যা + শ্ৰেণীসূচক + নিৰ্দেশক)।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch08",
+      "notes": "Chapter 8: Syntax of the Tai Languages of Assam (pp. 232-395): Massive 164-page chapter covering syntax: word classes, noun phrase structure (Noun + Adjective + Numeral + Classifier + Demonstrative), prepositional..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s016",
+      "text_roman": "man1 tsaw3 kin1 khaw3 yaaw4 am1 pai1",
+      "lik_tai": "မၼ် ၸဝ်ႈ ၵိၼ် ၶဝ်ႈ ယႃဝ်း ဢမ် ပႆ",
+      "assamese_script": "মান¹ চাৱ³ কিন¹ খাৱ³ যাৱ⁴ অম¹ পাই¹",
+      "ipa": "[man˧˧] [tɕaw˨˩̰] [kin˧˧] [kʰaw˨˩̰] [jaːw˥˦ʔ] [am˧˧] [pai˧˧]",
+      "morphemes": [
+        "man1",
+        "tsaw3",
+        "kin1",
+        "khaw3",
+        "yaaw4",
+        "am1",
+        "pai1"
+      ],
+      "glosses": [
+        "3SG",
+        "lord",
+        "eat",
+        "rice",
+        "COMPL",
+        "NEG",
+        "go"
+      ],
+      "free_translation_en": "[Chapter 8: Syntax of the Tai Languages of Assam] He has already eaten his meal and will not depart today (TAM completive 'yaaw4' + negation 'am1').",
+      "free_translation_as": "তেওঁ ইতিমধ্যে ভোজন সম্পন্ন কৰিলে আৰু আজি ক'লৈকো নাযায়।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch08",
+      "notes": "Chapter 8: Syntax of the Tai Languages of Assam (pp. 232-395): Massive 164-page chapter covering syntax: word classes, noun phrase structure (Noun + Adjective + Numeral + Classifier + Demonstrative), prepositional..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s017",
+      "text_roman": "haw1 ao1 heua1 khaa3 nam6 jin1",
+      "lik_tai": "ႁဝ် ဢ ႁ ၶႃႈ ၼမ်ႊ ဢၼ်",
+      "assamese_script": "হাৱ¹ অ¹ হ¹ খা³ নাম⁶ অন¹",
+      "ipa": "[haw˧˧] [ao˧˧] [heua˧˧] [kʰaː˨˩̰] [nam˧˥] [jin˧˧]",
+      "morphemes": [
+        "haw1",
+        "ao1",
+        "heua1",
+        "khaa3",
+        "nam6",
+        "jin1"
+      ],
+      "glosses": [
+        "1PL",
+        "take",
+        "boat",
+        "cross",
+        "river",
+        "Buridihing"
+      ],
+      "free_translation_en": "[Chapter 8: Syntax of the Tai Languages of Assam] We took the wooden boat and crossed the deep flowing current of the Buridihing (Serial Verb).",
+      "free_translation_as": "আমি নাও লৈ বুঢ়ীদিহিঙৰ গভীৰ পানী পাৰ হৈ সিপাৰলৈ গ'লোঁ (ক্ৰিয়া-শৃংখল)।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch08",
+      "notes": "Chapter 8: Syntax of the Tai Languages of Assam (pp. 232-395): Massive 164-page chapter covering syntax: word classes, noun phrase structure (Noun + Adjective + Numeral + Classifier + Demonstrative), prepositional..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s018",
+      "text_roman": "lik4 pung1 kap4 lik4 tham1 pen1 mo1 ro1 dok4",
+      "lik_tai": "လိၵ်း ပုင် ၵပ်း လိၵ်း ထမ် ေပၼ် မူ ရူ ဢၵ်း",
+      "assamese_script": "লিক্‌⁴ পুঙ¹ কাপ্‌⁴ লিক্‌⁴ থাম¹ পেন¹ মো¹ ৰো¹ অক্‌⁴",
+      "ipa": "[lik˥˦ʔ] [puŋ˧˧] [kap˥˦ʔ] [lik˥˦ʔ] [tʰam˧˧] [pen˧˧] [mo˧˧] [ro˧˧] [dok˥˦ʔ]",
+      "morphemes": [
+        "lik4",
+        "pung1",
+        "kap4",
+        "lik4",
+        "tham1",
+        "pen1",
+        "mo1",
+        "ro1",
+        "dok4"
+      ],
+      "glosses": [
+        "book",
+        "fable",
+        "with",
+        "book",
+        "Dhamma",
+        "be",
+        "heritage",
+        "term",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 9: The Literature of the Tai] The moral fables and sacred Buddhist scriptures constitute the treasured literary heritage of the Tai.",
+      "free_translation_as": "নীতি-কথাৰ পুথি আৰু পৱিত্ৰ ধৰ্মশাস্ত্ৰসমূহেই হ'ল তाई জনগোষ্ঠীৰ আটাইতকৈ গৌৰৱময় আধ্যাত্মিক ঐতিহ্য।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch09",
+      "notes": "Chapter 9: The Literature of the Tai (pp. 396-412): Catalogue and literary analysis of traditional written and oral literature: Buddhist canonical Jatakas, historical Buranjis, moral advice texts (Kham ..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s019",
+      "text_roman": "chaw3 sa1 myat4 aan3 lik4 proat4 phuu5 thau3",
+      "lik_tai": "သဝ်ႈ ꩢႃ မတ်း ဢႃၼ်ႈ လိၵ်း ပတ်း ၽႉ ထဝ်ႈ",
+      "assamese_script": "ছাৱ³ সা¹ মত্‌⁴ আন³ লিক্‌⁴ পত্‌⁴ ফ⁵ থাও³",
+      "ipa": "[tɕʰaw˨˩̰] [sa˧˧] [myat˥˦ʔ] [aːn˨˩̰] [lik˥˦ʔ] [proat˥˦ʔ] [pʰuu˧˩] [tʰau˨˩̰]",
+      "morphemes": [
+        "chaw3",
+        "sa1",
+        "myat4",
+        "aan3",
+        "lik4",
+        "proat4",
+        "phuu5",
+        "thau3"
+      ],
+      "glosses": [
+        "elder",
+        "Sa",
+        "Myat",
+        "read",
+        "manuscript",
+        "deliver",
+        "elder",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 9: The Literature of the Tai] Elder Chaw Sa Myat Chowlik recited the ancient manuscript tales for the preservation of our language.",
+      "free_translation_as": "প্ৰয়াত চৌ সা ম্যত চৌলিকে নিজৰ জাতি আৰু ভাষাৰ হকে প্ৰাচীন পুথিৰ কথাসমূহ সুমধুৰভাৱে পাঠ কৰিছিল।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch09",
+      "notes": "Chapter 9: The Literature of the Tai (pp. 396-412): Catalogue and literary analysis of traditional written and oral literature: Buddhist canonical Jatakas, historical Buranjis, moral advice texts (Kham ..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s020",
+      "text_roman": "lik4 saap4 kham1 tai1 kep4 wai3 nai1 com1 pu1 ter1",
+      "lik_tai": "လိၵ်း ꩢႃပ်း ၶမ် တႆ ေၵပ်း ဝႆႈ ၼႆ ဢမ် ပု တ",
+      "assamese_script": "লিক্‌⁴ সাপ্‌⁴ খাম¹ তাই¹ কেপ্‌⁴ ৱাই³ নাই¹ অম¹ পু¹ ত¹",
+      "ipa": "[lik˥˦ʔ] [saːp˥˦ʔ] [kʰam˧˧] [tai˧˧] [kep˥˦ʔ] [wai˨˩̰] [nai˧˧] [com˧˧] [pu˧˧] [ter˧˧]",
+      "morphemes": [
+        "lik4",
+        "saap4",
+        "kham1",
+        "tai1",
+        "kep4",
+        "wai3",
+        "nai1",
+        "com1",
+        "pu1",
+        "ter1"
+      ],
+      "glosses": [
+        "dictionary",
+        "word",
+        "Tai",
+        "collect",
+        "store",
+        "in",
+        "computer",
+        "term",
+        "term",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 10: Lexicography and Computer Databases] The vocabulary of the Tai Khamyang language is systematically catalogued and preserved in digital form.",
+      "free_translation_as": "ताई খাময়াং ভাষাৰ শব্দকোষ কম্পিউটাৰাইজড ব্যৱস্থাৰে সংৰক্ষণ আৰু প্ৰণালীবদ্ধ কৰা হৈছে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch10",
+      "notes": "Chapter 10: Lexicography and Computer Databases (pp. 413-418): Documenting the creation of digital lexical databases, comparative wordlists, font encodings, and the systematic preservation of endangered vocabulari..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s021",
+      "text_roman": "kham1 tai1 nora1 yu5 man3 khɯn1 wan1",
+      "lik_tai": "ၶမ် တႆ ၼ ယုႉ မၼ်ႈ ၶိုၼ် ဝၼ်",
+      "assamese_script": "খাম¹ তাই¹ ন¹ যু⁵ মান³ খুন¹ ৱান¹",
+      "ipa": "[kʰam˧˧] [tai˧˧] [nora˧˧] [ju˧˩] [man˨˩̰] [kʰɯn˧˧] [wan˧˧]",
+      "morphemes": [
+        "kham1",
+        "tai1",
+        "nora1",
+        "yu5",
+        "man3",
+        "khɯn1",
+        "wan1"
+      ],
+      "glosses": [
+        "language",
+        "Tai",
+        "Nora",
+        "stay",
+        "firm",
+        "night",
+        "day"
+      ],
+      "free_translation_en": "[Chapter 10: Lexicography and Computer Databases] Through careful linguistic documentation, the voice of the Tai Nora will endure through the ages.",
+      "free_translation_as": "নিৰন্তৰ ভাষা গৱেষণা আৰু সংৰক্ষণৰ জৰিয়তে তाई নোৰা ভাষা অনন্ত কাললৈ জীয়াই থাকিব।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch10",
+      "notes": "Chapter 10: Lexicography and Computer Databases (pp. 413-418): Documenting the creation of digital lexical databases, comparative wordlists, font encodings, and the systematic preservation of endangered vocabulari..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s022",
+      "text_roman": "siang1 phuu5 thau3 ao1 wai3 nai1 archive1",
+      "lik_tai": "ꩢျႃင် ၽႉ ထဝ်ႈ ဢ ဝႆႈ ၼႆ ဢ",
+      "assamese_script": "সিয়াঙ¹ ফ⁵ থাও³ অ¹ ৱাই³ নাই¹ অ¹",
+      "ipa": "[siaŋ˧˧] [pʰuu˧˩] [tʰau˨˩̰] [ao˧˧] [wai˨˩̰] [nai˧˧] [archive˧˧]",
+      "morphemes": [
+        "siang1",
+        "phuu5",
+        "thau3",
+        "ao1",
+        "wai3",
+        "nai1",
+        "archive1"
+      ],
+      "glosses": [
+        "voice",
+        "elder",
+        "record",
+        "store",
+        "in",
+        "archive",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 11: Electronic Formatting & Archiving] The authentic spoken voices of the elders are safely archived in permanent digital repositories.",
+      "free_translation_as": "পোৱাইমুখৰ জ্যেষ্ঠসকলৰ মুখৰ প্ৰকৃত কণ্ঠস্বৰ স্থায়ী ডিজিটেল সংগ্ৰহালয়ত সংৰক্ষিত কৰা হৈছে।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch11",
+      "notes": "Chapter 11: Electronic Formatting & Archiving (pp. 419-427): Technical postscript detailing digital recording of elderly native speakers, audio digitization standards (WAV/MP3), interlinear alignment in Shoebox/..."
+    },
+    {
+      "id": "book_morey_tai_languages_assam_complete_s023",
+      "text_roman": "luk4 laan1 tai1 dai3 fang1 siang1 pu5 yaa3",
+      "lik_tai": "လုၵ်း လႃၼ် တႆ ဢႈ ꩯင် ꩢျႃင် ပုႉ ယႃႈ",
+      "assamese_script": "লুক্‌⁴ লান¹ তাই¹ অ³ ফ়াঙ¹ সিয়াঙ¹ পু⁵ যা³",
+      "ipa": "[luk˥˦ʔ] [laːn˧˧] [tai˧˧] [dai˨˩̰] [faŋ˧˧] [siaŋ˧˧] [pu˧˩] [jaː˨˩̰]",
+      "morphemes": [
+        "luk4",
+        "laan1",
+        "tai1",
+        "dai3",
+        "fang1",
+        "siang1",
+        "pu5",
+        "yaa3"
+      ],
+      "glosses": [
+        "descendants",
+        "Tai",
+        "obtain",
+        "listen",
+        "voice",
+        "ancestor",
+        "term",
+        "term"
+      ],
+      "free_translation_en": "[Chapter 11: Electronic Formatting & Archiving] Future generations of Tai youth will be able to hear the genuine spoken words of their ancestors.",
+      "free_translation_as": "ভৱিষ্যতৰ তाई নৱপ্ৰজন্মই নিজৰ পূৰ্বপুৰুষসকলৰ পৱিত্ৰ মুখনিসৃত বাণী স্পষ্টকৈ শুনিবলৈ সক্ষম হ'ব।",
+      "speaker": "Dr. Stephen Morey / Powaimukh Elders",
+      "location": "Upper Assam / Powaimukh",
+      "audio_ref": "morey_pl565_ch11",
+      "notes": "Chapter 11: Electronic Formatting & Archiving (pp. 419-427): Technical postscript detailing digital recording of elderly native speakers, audio digitization standards (WAV/MP3), interlinear alignment in Shoebox/..."
+    }
+  ],
+  "full_translation": "The complete digital reference edition of Stephen Morey's grammar and texts of the Tai languages of Assam.",
+  "book_id": "book_morey_tai_languages_assam_complete",
+  "title": "The Tai Languages of Assam: A Grammar and Texts (Complete Monograph)",
+  "title_tai": "Lik4 Bhaa1 Saa1 Tai1 Nai1 Mung1 As1 Sam1",
+  "title_as": ""
+}

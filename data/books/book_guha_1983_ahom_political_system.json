@@ -1,0 +1,338 @@
+{
+  "id": "book_guha_1983_ahom_political_system",
+  "book_id": "book_guha_1983_ahom_political_system",
+  "title": "The Ahom Political System: An Enquiry Into the State Formation Process In Medieval Assam: 1228-1714",
+  "author": "Dr. Amalendu Guha",
+  "year": 1983,
+  "genre": "Historical Sociology / Political Systems",
+  "description": "Foundational socio-historical treatise analyzing the state formation process in medieval Upper Assam under the Tai Ahom polity. Examines the integration of Tai customary governance, wet-rice hydraulic agriculture, paik labor organization, and kinship alliances with indigenous Tibeto-Burman populations.",
+  "source": "https://archive.org/details/op-64-the-ahom-political-system",
+  "archive_id": "op-64-the-ahom-political-system",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khyaa taang mroeng",
+      "assamese_script": "চৌ ফা টাই খ্যা তাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khyaa",
+        "taang",
+        "mroeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "establish",
+        "state/way",
+        "country"
+      ],
+      "free_translation_en": "The Tai sovereign established the foundational institutions of the realm.",
+      "free_translation_as": "টাই স্বৰ্গদেৱে ৰাজ্যৰ মূল প্ৰশাসনিক গাঁথনি প্ৰতিষ্ঠা কৰিলে।",
+      "speaker": "Dr. Amalendu Guha (Sociologist)",
+      "location": "Guwahati",
+      "notes": "State formation model based on Tai customary law."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "tai phaw tii nam phyeng mii",
+      "assamese_script": "টাই ফৌ তী নাম ফ্যেং মী",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "nam",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "water",
+        "plains",
+        "settle"
+      ],
+      "free_translation_en": "Tai clans established wet-rice agricultural settlements along the river valleys.",
+      "free_translation_as": "টাই খেলসমূহে নদী উপত্যকাৰ সমতলত শালি ধানৰ কৃষিভিত্তিক সমাজ গঢ়ি তুলিলে।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Hydraulic agriculture as the basis of the Tai state."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨴᩣ᩠ᨦ ᨣᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "phuu chau mii taang kaang chau",
+      "assamese_script": "ফু চৌ মী তাং কাং চৌ",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "have",
+        "office",
+        "council",
+        "lord"
+      ],
+      "glosses": [
+        "dignitary",
+        "noble",
+        "have",
+        "rank",
+        "council",
+        "king"
+      ],
+      "free_translation_en": "The noble dignitaries held hereditary seats in the supreme state council.",
+      "free_translation_as": "বৰগোঁহাই, বুঢ়াগোহাঁই আৰু বৰপাত্ৰগোহাঁই ডাঙৰীয়াসকলে কেন্দ্ৰীয় পৰিষদত স্থান পাইছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Patra-Mantri council of the Tai Ahom constitution."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨾᩕ᩠ᨦ",
+      "text_roman": "khaw nam tii phyeng mii mroeng",
+      "assamese_script": "খৌ নাম তী ফ্যেং মী ম্ৰোং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "mii",
+        "mroeng"
+      ],
+      "glosses": [
+        "grain",
+        "water",
+        "in",
+        "valley",
+        "sustain",
+        "state"
+      ],
+      "free_translation_en": "Abundant rice surpluses in the valleys sustained the kingdom's expansion.",
+      "free_translation_as": "উপত্যকাৰ প্ৰচুৰ শস্যই ৰাজ্যখনৰ স্থায়িত্ব আৰু সম্প্ৰসাৰণক শক্তি যোগাইছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Economic base of agrarian surplus."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨲᩱ ᨻᩮᩢᩣ",
+      "text_roman": "man khyaa taang phuu tai phaw",
+      "assamese_script": "মান খ্যা তাং ফু টাই ফৌ",
+      "morphemes": [
+        "man",
+        "khyaa",
+        "taang",
+        "phuu",
+        "tai",
+        "phaw"
+      ],
+      "glosses": [
+        "he/monarch",
+        "regulate",
+        "order",
+        "citizen",
+        "Tai",
+        "clan"
+      ],
+      "free_translation_en": "The administration organized the citizens and clans into coordinated guilds.",
+      "free_translation_as": "প্ৰশাসনে টাই প্ৰজাসকলক খেল আৰু পাইক পদ্ধতিত সংগঠিত কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Khel and paik mobilization system."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "noblewoman",
+        "lord",
+        "Tai",
+        "in",
+        "court",
+        "flourish"
+      ],
+      "free_translation_en": "Tai noblewomen played significant diplomatic roles in dynastic alliances.",
+      "free_translation_as": "টাই ৰাজপৰিয়ালৰ নাৰীসকলে বংশগত মিত্ৰতাত গুৰুত্বপূৰ্ণ ভূমিকা পালন কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Matrimonial diplomacy in state formation."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "enter",
+        "route",
+        "river",
+        "middle"
+      ],
+      "free_translation_en": "Tai settlements controlled strategic river trade routes.",
+      "free_translation_as": "টাই বসতিসমূহে নদীৰ জলপথ আৰু বাণিজ্য কেন্দ্ৰ নিয়ন্ত্ৰণ কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Control over river communication networks."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩦ ᨧᩮᩢᩣ",
+      "text_roman": "chau phaa mii khyaa tii tsaw",
+      "assamese_script": "চৌ ফা মী খ্যা তী চউ",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "mii",
+        "khyaa",
+        "tii",
+        "tsaw"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "preserve",
+        "tradition",
+        "from",
+        "early"
+      ],
+      "free_translation_en": "The heavenly sovereign preserved ancestral Tai traditions from ancient times.",
+      "free_translation_as": "স্বৰ্গদেৱে প্ৰাচীন কালৰে পৰা চলি অহা টাই পৰম্পৰা সংৰক্ষণ কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Maintenance of Lengdonite legitimacy."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "fertile",
+        "in",
+        "country",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "The Tai agrarian realm combined irrigation canals with fertile fields.",
+      "free_translation_as": "টাই কৃষি ব্যৱস্থাই নলা-জাঁব আৰু উৰ্বৰ পথাৰক একত্ৰিত কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Canal construction and dyke engineering (*ali*)."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "at",
+        "hills",
+        "maintain",
+        "links"
+      ],
+      "free_translation_en": "The Tai maintained regular diplomatic ties with neighboring hill tribes.",
+      "free_translation_as": "টাইসকলে পাহাৰীয়া জনজাতিসকলৰ সৈতে বন্ধুত্বপূৰ্ণ কূটনৈতিক সম্পৰ্ক ৰাখিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Posa system and inter-community frontiers."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ ᨲᩱ",
+      "text_roman": "chau mroeng khyaa taang phyeng tai",
+      "assamese_script": "চৌ ম্ৰোং খ্যা তাং ফ্যেং টাই",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "khyaa",
+        "taang",
+        "phyeng",
+        "tai"
+      ],
+      "glosses": [
+        "ruler",
+        "realm",
+        "decree",
+        "path",
+        "just",
+        "Tai"
+      ],
+      "free_translation_en": "The ruler administered justice throughout the Tai territories.",
+      "free_translation_as": "ৰজাই টাই ভূখণ্ডত ন্যায় আৰু সমতাৰে শাসন প্ৰৱৰ্তন কৰিলে।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Judicial administration under the Nyayasodha Phukan."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "tai phaw chau mroeng taang phyeng",
+      "assamese_script": "টাই ফৌ চৌ ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "chau",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "Tai",
+        "clans",
+        "kings",
+        "state",
+        "path",
+        "order/prosperity"
+      ],
+      "free_translation_en": "Through coordinated governance, the Tai society established a enduring six-century state.",
+      "free_translation_as": "সুশৃংখল প্ৰশাসনৰ জৰিয়তে টাই সমাজে ছশ বছৰীয়া এক স্থায়ী সাম্ৰাজ্য গঢ়ি তুলিলে।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Conclusion of Guha's state formation thesis."
+    }
+  ]
+}

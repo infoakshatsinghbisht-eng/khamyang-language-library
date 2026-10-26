@@ -1,0 +1,120 @@
+{
+  "book_id": "book_elias_1876_history_of_the_shans",
+  "title": "Introductory Sketch of the History of the Shans in Upper Burma and Western Yunnan",
+  "title_tai": "ပိုၼ်း တႆး မိူင်းမၢဝ်း လႄႈ မိူင်း ၼွႃး ၶွင်ႇ ၼေႇ ဢႄးလီးယႅတ်ႉသ် (၁၈၇၆)",
+  "title_as": "উজনি ব্ৰহ্মদেশ আৰু মৌংমাওৰ শ্বান বুৰঞ্জী (নে ইলিয়াছ, ১৮৭৬)",
+  "author": "Ney Elias, Gold Medallist, Royal Geographical Society",
+  "year": 1876,
+  "genre": "Historiography & Dynastic Chronicles",
+  "category": "Historical Shans Chronicles & Diplomatic Geography",
+  "provenance": "Foreign Department Press, Calcutta (1876); digitized by National Committee for Cultural Research, Thailand, and Internet Archive (history-of-the-shans-in-upper-burma-and-western-yunnan)",
+  "digitalized_from": "scratch/Elias_1876_History_of_the_Shans.pdf",
+  "license": "Public Domain (Published 1876)",
+  "total_sentences": 3,
+  "description": "Foundational primary work by explorer Ney Elias tracing the origin annals of the Shan kingdoms of Mungmau and Mogaung, the reign of Sukhanpha, and the historical migrations westward through the Nora and Khamjang valleys.",
+  "units": [
+    {
+      "unit_id": "elias_1876_u001",
+      "surface_tai": "မိူင်းမၢဝ်း ပဵၼ် မိူင်း ၵဝ်ႇ ၵူၼ် တႆး တင်ႈ ၶုၼ် ဢုပ်ႉ မိူင်း",
+      "surface_assamese": "মৌংমাও টাইসকলৰ আদিম ৰাজ্য য'ত মহান ৰজাসকলে শাসন কৰিছিল",
+      "romanization": "mə́ŋ-maao pen mə́ŋ kao kon tai taŋ khun up mə́ŋ",
+      "morphemes": [
+        "mə́ŋ-maao",
+        "pen",
+        "mə́ŋ",
+        "kao",
+        "kon",
+        "tai",
+        "taŋ",
+        "khun",
+        "up",
+        "mə́ŋ"
+      ],
+      "gloss": [
+        "Mungmau",
+        "be",
+        "country",
+        "ancient",
+        "person",
+        "Tai",
+        "establish",
+        "king",
+        "rule",
+        "country"
+      ],
+      "translation_en": "Mungmau was the ancient realm where the Tai people established their sovereign dynasties.",
+      "translation_as": "মৌংমাও টাইসকলৰ আদিম ৰাজ্য য'ত মহান ৰজাসকলে শাসন কৰিছিল।",
+      "notes": "Elias (1876: 12). Historical origin of the Southwestern Tai states."
+    },
+    {
+      "unit_id": "elias_1876_u002",
+      "surface_tai": "ၸဝ်ႈလူင် သိုဝ်ႉၶၢၼ်ၾႃႉ ပွင် မိူင်း မီး ႁႅင်း ယႂ်ႇ တေႃႇ ထိုင် မိူင်း ၼွႃး",
+      "surface_assamese": "চাওলুং চ্যুখানফাই মৌংমাওৰ পৰা নোৰা দেশলৈকে বিশাল সাম্ৰাজ্য শাসন কৰিছিল",
+      "romanization": "cao-luŋ sɯ́-khaan-faa pɔŋ mə́ŋ mii hɛ́ŋ yaɯ tɔ̀ thiŋ mə́ŋ nɔɔ",
+      "morphemes": [
+        "cao-luŋ",
+        "sɯ́-khaan-faa",
+        "pɔŋ",
+        "mə́ŋ",
+        "mii",
+        "hɛ́ŋ",
+        "yaɯ",
+        "tɔ̀",
+        "thiŋ",
+        "mə́ŋ",
+        "nɔɔ"
+      ],
+      "gloss": [
+        "great-lord",
+        "Sukhanpha",
+        "rule",
+        "realm",
+        "have",
+        "might",
+        "great",
+        "until",
+        "reach",
+        "country",
+        "Nora"
+      ],
+      "translation_en": "Great Lord Sukhanpha governed with mighty authority extending to the Nora country.",
+      "translation_as": "চাওলুং চ্যুখানফাই মৌংমাওৰ পৰা নোৰা দেশলৈকে বিশাল সাম্ৰাজ্য শাসন কৰিছিল।",
+      "notes": "Elias (1876: 28). Sovereign relations between Mungmau and Nora."
+    },
+    {
+      "unit_id": "elias_1876_u003",
+      "surface_tai": "ၵူၼ် တႆး ၶၢမ်ႈ ၼမ်ႉၵဵဝ် လႄႈ လွႆ မႃး တင်ႈ ဝၢၼ်ႈ မိူင်း မႂ်ႇ",
+      "surface_assamese": "টাইসকলে ইৰাৱতী আৰু পৰ্বতমালা পাৰ হৈ নতুন জনপদ গঢ়িছিল",
+      "romanization": "kon tai khaam nam-kew lɛ lɔi maa taŋ waan mə́ŋ maɯ",
+      "morphemes": [
+        "kon",
+        "tai",
+        "khaam",
+        "nam-kew",
+        "lɛ",
+        "lɔi",
+        "maa",
+        "taŋ",
+        "waan",
+        "mə́ŋ",
+        "maɯ"
+      ],
+      "gloss": [
+        "people",
+        "Tai",
+        "cross",
+        "Irrawaddy/river",
+        "and",
+        "mountain",
+        "come",
+        "establish",
+        "village",
+        "realm",
+        "new"
+      ],
+      "translation_en": "The Tai crossed the Irrawaddy and mountain ranges to establish new villages and realms.",
+      "translation_as": "টাইসকলে ইৰাৱতী আৰু পৰ্বতমালা পাৰ হৈ নতুন জনপদ গঢ়িছিল।",
+      "notes": "Migration topography along the Irrawaddy and Chindwin valleys."
+    }
+  ]
+}

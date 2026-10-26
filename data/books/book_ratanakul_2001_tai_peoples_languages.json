@@ -1,0 +1,384 @@
+{
+  "id": "book_ratanakul_2001_tai_peoples_languages",
+  "book_id": "book_ratanakul_2001_tai_peoples_languages",
+  "title": "Tai Peoples and Their Languages: A Preliminary Observation (Comparative Khamyang, Phake, and Aiton)",
+  "author": "Prof. Suriya Ratanakul",
+  "year": 2001,
+  "genre": "Comparative Linguistics & Phonology",
+  "description": "Scholarly comparative monograph from the Institute of Language and Culture for Rural Development, Mahidol University, examining the phonological correspondences, tone split developments, and lexical cognates between the five Tai groups of Assam: Khamyang, Phake, Aiton, Khamti, and Turung.",
+  "source": "Internet Archive (tai-peoples-and-their-languages-a-preliminary-observation)",
+  "archive_id": "tai-peoples-and-their-languages-a-preliminary-observation",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_001",
+      "lik_tai": "ၵႂၢမ်း ၶမ်းယၢင် ၵႂၢမ်း ၽႃၵေႇ ၵႂၢမ်း ဢၢႆႈတွၼ်ႇ ပဵၼ် ၵႂၢမ်း ပီႈၼွင်ႉ",
+      "text_roman": "kwam kham yang kwam pha ke kwam ai tawn pen kwam pi nawng",
+      "assamese_script": "ক্বাম খাময়াং ক্বাম ফাকে ক্বাম আইতন পেন ক্বাম পী-নঙ",
+      "morphemes": [
+        "kwam",
+        "kham-yang",
+        "kwam",
+        "pha-ke",
+        "kwam",
+        "ai-tawn",
+        "pen",
+        "kwam",
+        "pi-nawng"
+      ],
+      "glosses": [
+        "language",
+        "Khamyang",
+        "language",
+        "Phake",
+        "language",
+        "Aiton",
+        "be",
+        "language",
+        "brethren/sister"
+      ],
+      "free_translation_en": "Khamyang, Phake, and Aiton are closely related sister languages within Southwestern Tai.",
+      "free_translation_as": "খাময়াং, ফাকে আৰু আইতন হৈছে পৰস্পৰ নিকট সম্পৰ্কীয় ভগ্নী ভাষা।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University, Bangkok",
+      "notes": "Comparative introductory thesis."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_002",
+      "lik_tai": "တဲး ၶမ်းယၢင် ယူႇ တီႈ မိူင်း ဢႃႇသၢမ် ၸဵမ် ၵဝ်ႇ",
+      "text_roman": "tai kham yang yu ti möng a sam cem kaw",
+      "assamese_script": "ত্তাই খাময়াং য়ু তী ম্যং আসাম চেম কৌ",
+      "morphemes": [
+        "tai",
+        "kham-yang",
+        "yu",
+        "ti",
+        "möng",
+        "a-sam",
+        "cem",
+        "kaw"
+      ],
+      "glosses": [
+        "Tai",
+        "Khamyang",
+        "dwell",
+        "at",
+        "country",
+        "Assam",
+        "since",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai Khamyang have inhabited Assam since early centuries.",
+      "free_translation_as": "টাই খাময়াংসকল প্ৰাচীন কালৰ পৰাই অসম ভূমিত বসবাস কৰি আহিছে।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Historical distribution in the Brahmaputra valley."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_003",
+      "lik_tai": "ၼမ်ႉ ၼႂ်း ၵႂၢမ်း တဲး ပဵၼ် ၼမ်ႉ ၵိၼ် လႄႈ ၼမ်ႉ မႄႈ",
+      "text_roman": "nam nai kwam tai pen nam kin le nam me",
+      "assamese_script": "নাম নাই ক্বাম ত্তাই পেন নাম কিন লে নাম মে",
+      "morphemes": [
+        "nam",
+        "nai",
+        "kwam",
+        "tai",
+        "pen",
+        "nam",
+        "kin",
+        "le",
+        "nam",
+        "me"
+      ],
+      "glosses": [
+        "water",
+        "in",
+        "language",
+        "Tai",
+        "be",
+        "water",
+        "drink",
+        "and",
+        "water",
+        "mother/river"
+      ],
+      "free_translation_en": "The word 'nam' in Tai signifies drinking water as well as river water.",
+      "free_translation_as": "টাই ভাষাত ‘নাম’ শব্দই খোৱাপানী আৰু নদী উভয়কে বুজায়।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Core vocabulary comparison: nam (water/river)."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_004",
+      "lik_tai": "ၶဝ်ႈ ၼႃး ပဵၼ် တၢင်း ၵိၼ် ပီႈၼွင်ႉ တဲး ၵူႈ ၵေႃႉ",
+      "text_roman": "khao na pen tang kin pi nawng tai ku kaw",
+      "assamese_script": "খাও না পেন তাং কিন পী-নঙ ত্তাই কু ক",
+      "morphemes": [
+        "khao",
+        "na",
+        "pen",
+        "tang-kin",
+        "pi-nawng",
+        "tai",
+        "ku",
+        "kaw"
+      ],
+      "glosses": [
+        "rice",
+        "paddy-field",
+        "be",
+        "food",
+        "brethren",
+        "Tai",
+        "every",
+        "CLF:person"
+      ],
+      "free_translation_en": "Wet-rice cultivation provides the staple sustenance for all Tai peoples.",
+      "free_translation_as": "পথাৰৰ ধান-চাউল হৈছে সকলো টাই জনগোষ্ঠীৰ মূল জীৱিকা আৰু খাদ্য।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Ethnographic analysis of wet-rice agriculture."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_005",
+      "lik_tai": "သဵင် တဲး ၶမ်းယၢင် လႅၵ်ႈလၢႆႈ ၸွမ်း ၵႂၢမ်း တႆးတူၵ်း",
+      "text_roman": "syeŋ tai kham yang lek lai cwom kwam tai tuk",
+      "assamese_script": "ছেং ত্তাই খাময়াং লেক লাই চোম ক্বাম ত্তাই তুক",
+      "morphemes": [
+        "syeŋ",
+        "tai",
+        "kham-yang",
+        "lek-lai",
+        "cwom",
+        "kwam",
+        "tai-tuk"
+      ],
+      "glosses": [
+        "tone/sound",
+        "Tai",
+        "Khamyang",
+        "shift/split",
+        "according",
+        "language",
+        "Southwestern-Tai"
+      ],
+      "free_translation_en": "The tones of Tai Khamyang underwent regular splits characteristic of Southwestern Tai.",
+      "free_translation_as": "টাই খাময়াং ভাষাৰ সুৰ পদ্ধতি দক্ষিণ-পশ্চিমীয় টাই ভাষাৰ স্বাভাৱিক বিভাজন অনুসৰি গঢ় লৈছে।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Tonal split analysis."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_006",
+      "lik_tai": "ႁိူၼ်း တဲး ယုၵ်ႉ သုင် ဝႆႉ ၼိူဝ် သဝ်",
+      "text_roman": "hün tai yuk sung wai nü sao",
+      "assamese_script": "হুন ত্তাই য়ুক ছুং ৱাই নু ছৌ",
+      "morphemes": [
+        "hün",
+        "tai",
+        "yuk",
+        "sung",
+        "wai",
+        "nü",
+        "sao"
+      ],
+      "glosses": [
+        "house",
+        "Tai",
+        "raise",
+        "high",
+        "PERF",
+        "on",
+        "post/pillar/stilt"
+      ],
+      "free_translation_en": "Traditional Tai houses are built raised on high stilts.",
+      "free_translation_as": "পৰম্পৰাগত টাই চাংঘৰবোৰ ওখ খুঁটাৰ ওপৰত নিৰ্মাণ কৰা হয়।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Stilt house architecture (Chang Ghar)."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_007",
+      "lik_tai": "ၾိင်ႈ ပွႆး သၢင်းၵျၢၼ်ႇ ပဵၼ် ပွႆး ယႂ်ႇ ၶွင် တဲး",
+      "text_roman": "fing pway sang kyan pen pway yai khawng tai",
+      "assamese_script": "ফিং পোই ছাং-ক্যান পেন পোই য়াই খঙ ত্তাই",
+      "morphemes": [
+        "fing",
+        "pway",
+        "sang-kyan",
+        "pen",
+        "pway",
+        "yai",
+        "khawng",
+        "tai"
+      ],
+      "glosses": [
+        "custom",
+        "festival",
+        "Songkran/water-festival",
+        "be",
+        "festival",
+        "great",
+        "of",
+        "Tai"
+      ],
+      "free_translation_en": "The Poy Sangken (Water Festival) is the grandest traditional festival of the Tai people.",
+      "free_translation_as": "পয় চাংকেন (জল মহোৎসৱ) হৈছে টাই জনগোষ্ঠীৰ বৃহত্তম উৎসৱ।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Cultural rituals: Poy Sangken."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_008",
+      "lik_tai": "ၶိူဝ်း ၼေႃးရႃႇ ပဵၼ် ၶိူဝ်း ၶိုၵ်ႉတွၼ်း ၼႂ်း ပိုၼ်း ဢႃႇသၢမ်",
+      "text_roman": "khü naw ra pen khü khük tawn nai pün a sam",
+      "assamese_script": "খু নোৰা পেন খু খুক-তন্ নাই পুন্ আসাম",
+      "morphemes": [
+        "khü",
+        "naw-ra",
+        "pen",
+        "khü",
+        "khük-tawn",
+        "nai",
+        "pün",
+        "a-sam"
+      ],
+      "glosses": [
+        "clan/group",
+        "Nora",
+        "be",
+        "group",
+        "prominent/special",
+        "in",
+        "history",
+        "Assam"
+      ],
+      "free_translation_en": "The Nora people held a prominent place in the royal chronicles of Assam.",
+      "free_translation_as": "নোৰা জনগোষ্ঠীয়ে অসমৰ বুৰঞ্জীত এক গুৰুত্বপূৰ্ণ স্থান অধিকাৰ কৰিছে।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Identification of Nora with Khamyang."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_009",
+      "lik_tai": "လိၵ်ႈ တဲး မီး တူဝ် လိၵ်ႈ ငၢမ်း လႄႈ လိုၵ်ႉလမ်ႇ",
+      "text_roman": "lik tai mi tu lik ngam le lük lam",
+      "assamese_script": "লিক ত্তাই মী তু লিক ঙাম লে লুক-লাম",
+      "morphemes": [
+        "lik",
+        "tai",
+        "mi",
+        "tu-lik",
+        "ngam",
+        "le",
+        "lük-lam"
+      ],
+      "glosses": [
+        "script",
+        "Tai",
+        "have",
+        "letter/character",
+        "beautiful",
+        "and",
+        "profound"
+      ],
+      "free_translation_en": "The Tai script possesses beautiful and profound characters.",
+      "free_translation_as": "টাই লিপিৰ আখৰসমূহ অতিশয় সুন্দৰ আৰু গভীৰ অৰ্থপূৰ্ণ।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Epigraphic and palaeographic appreciation."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_010",
+      "lik_tai": "ၵူၼ်း ၸၢဝ်း တဲး ႁၵ်ႉ ပီႈၼွင်ႉ ၸွမ်း ၵၼ် တႃႇသေႇ",
+      "text_roman": "kun caw tai hak pi nawng cwom kan ta se",
+      "assamese_script": "কুন চাও ত্তাই হাক পী-নঙ চোম কান তা ছে",
+      "morphemes": [
+        "kun",
+        "caw",
+        "tai",
+        "hak",
+        "pi-nawng",
+        "cwom",
+        "kan",
+        "ta-se"
+      ],
+      "glosses": [
+        "person",
+        "race/ethnicity",
+        "Tai",
+        "love",
+        "brethren",
+        "together",
+        "RECIP",
+        "always"
+      ],
+      "free_translation_en": "Tai peoples cherish and support one another in brotherly union.",
+      "free_translation_as": "টাই জনগোষ্ঠীৰ মানুহে সদায় ভাতৃত্ববোধেৰে একেলগে বাস কৰে।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Societal solidarity across borders."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_011",
+      "lik_tai": "ၶုၼ် တဲး ဢုပ်ႉ မိူင်း လီ ငၢမ်း ၼႂ်း ၵၢဝ်ႇ",
+      "text_roman": "khun tai up möng li ngam nai kaw",
+      "assamese_script": "খুন ত্তাই উপ ম্যং লী ঙাম নাই কাও",
+      "morphemes": [
+        "khun",
+        "tai",
+        "up",
+        "möng",
+        "li",
+        "ngam",
+        "nai",
+        "kaw"
+      ],
+      "glosses": [
+        "ruler/prince",
+        "Tai",
+        "govern/rule",
+        "realm",
+        "good",
+        "beautiful",
+        "in",
+        "ancient"
+      ],
+      "free_translation_en": "Tai princes governed their realms with justice and benevolence in olden times.",
+      "free_translation_as": "প্ৰাচীন কালত টাই ৰজাসকলে ন্যায় আৰু শান্তিৰে শাসন কৰিছিল।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Governance and polity in Shan-Tai principalities."
+    },
+    {
+      "id": "book_ratanakul_2001_tai_peoples_languages_012",
+      "lik_tai": "ၵႂၢမ်း တဲး ဢႃႇသၢမ် တေ ယူႇ ယိုၼ်းယၢဝ်း တႃႇသေႇ",
+      "text_roman": "kwam tai a sam te yu yün yao ta se",
+      "assamese_script": "ক্বাম ত্তাই আসাম তে য়ু য়ুন-য়াও তা ছে",
+      "morphemes": [
+        "kwam",
+        "tai",
+        "a-sam",
+        "te",
+        "yu",
+        "yün-yao",
+        "ta-se"
+      ],
+      "glosses": [
+        "language",
+        "Tai",
+        "Assam",
+        "FUT",
+        "endure",
+        "long-lasting",
+        "forever"
+      ],
+      "free_translation_en": "May the Tai languages of Assam endure and flourish forever.",
+      "free_translation_as": "অসমৰ টাই ভাষাসমূহ চিৰদিনৰ বাবে জীয়াই থাকক।",
+      "speaker": "Prof. Suriya Ratanakul",
+      "location": "Mahidol University",
+      "notes": "Concluding aspirational benediction."
+    }
+  ]
+}

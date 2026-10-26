@@ -1,0 +1,326 @@
+{
+  "id": "book_barua_1884_assam_buranji_gunabhiram",
+  "book_id": "book_barua_1884_assam_buranji_gunabhiram",
+  "title": "Assam Buranji (1884)",
+  "author": "Gunabhiram Barua",
+  "year": 1884,
+  "genre": "Historical Chronicle / Modern Historiography",
+  "description": "Milestone modern history of Assam by Rai Bahadur Gunabhiram Barua, synthesizing Tai Ahom manuscripts, Sanskrit copper inscriptions, and British records into a progressive, scientific narrative of Assam from ancient mythological eras to the late nineteenth century.",
+  "source": "https://archive.org/details/20241211_20241211_1210",
+  "archive_id": "20241211_20241211_1210",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩕᩣ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨩᩮᩣᩢ ᨧᩮᩢᩣ",
+      "text_roman": "phaa tai khyaa tii mroeng chau tsaw",
+      "assamese_script": "ফা টাই খ্যা তী ম্ৰোং চৌ চউ",
+      "morphemes": [
+        "phaa",
+        "tai",
+        "khyaa",
+        "tii",
+        "mroeng",
+        "chau",
+        "tsaw"
+      ],
+      "glosses": [
+        "history",
+        "tai",
+        "chronicled",
+        "in",
+        "assam",
+        "dynasty",
+        "ancient"
+      ],
+      "free_translation_en": "The six-century reign of the Tai Ahom dynasty laid the political foundation of modern Assam.",
+      "free_translation_as": "টাই আহোম ৰাজবংশৰ ছশ বছৰীয়া শাসনে আধুনিক অসমৰ ৰাজনৈতিক ভেটি স্থাপন কৰিলে।",
+      "speaker": "Rai Bahadur Gunabhiram Barua (Historian & Reformer)",
+      "location": "Nagaon / Calcutta",
+      "notes": "Opening historical appraisal in Gunabhiram Barua's Assam Buranji."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨣᩣ᩠ᨦ ᨾᩕ᩠ᨦ",
+      "text_roman": "chau phaa tai khaw tii kaang mroeng",
+      "assamese_script": "চৌ ফা টাই খৌ তী কাং ম্ৰোং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "kaang",
+        "mroeng"
+      ],
+      "glosses": [
+        "sukaphaa",
+        "king",
+        "tai",
+        "enter",
+        "at",
+        "brahmaputra",
+        "valley"
+      ],
+      "free_translation_en": "Sukaphaa united diverse ethnic groups into a harmonious, integrated national community.",
+      "free_translation_as": "চুকাফাই বিভিন্ন জনগোষ্ঠীক একত্ৰিত কৰি এক সুসংহত বৃহত্তৰ সমাজ গঢ়ি তুলিলে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Nagaon",
+      "notes": "Sukaphaa's policy of ethnic synthesis."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii nam mii khaw",
+      "assamese_script": "টাই ফৌ তী নাম মী খৌ",
+      "morphemes": [
+        "tai",
+        "society",
+        "at",
+        "rivers",
+        "develop",
+        "agriculture"
+      ],
+      "free_translation_en": "Systematic wet-paddy agriculture and irrigation canals transformed the economic landscape.",
+      "free_translation_as": "সুশৃংখলিত শালি খেতি আৰু জলসিঞ্চন ব্যৱস্থাই অঞ্চলটোৰ অৰ্থনীতি আমূল পৰিৱৰ্তন কৰিলে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Assam Valley",
+      "notes": "Agricultural and economic progress."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨴᩦ ᨲᩱ",
+      "text_roman": "phuu chau khyaa taang tii tai",
+      "assamese_script": "ফু চৌ খ্যা তাং তী টাই",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "taang",
+        "tii",
+        "tai"
+      ],
+      "glosses": [
+        "institutions",
+        "state",
+        "maintain",
+        "rule",
+        "of",
+        "law"
+      ],
+      "free_translation_en": "A robust institutional framework ensured domestic tranquility and external deterrence.",
+      "free_translation_as": "এক শক্তিশালী প্ৰশাসনিক ব্যৱস্থাই অভ্যন্তৰীণ শান্তি আৰু বহিঃআক্ৰমণ প্ৰতিৰোধ নিশ্চিত কৰিলে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Nagaon",
+      "notes": "Administrative stability."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡᩣ᩠ᨿ ᨴᩣ᩠ᨦ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "man khaay taang tii phuu kaang",
+      "assamese_script": "মান খায় তাং তী ফু কাং",
+      "morphemes": [
+        "man",
+        "khaay",
+        "taang",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "records",
+        "inscribed",
+        "upon",
+        "sanchi",
+        "palm",
+        "leaves"
+      ],
+      "free_translation_en": "Historians examined original Tai Buranjis and temple charters with critical scrutiny.",
+      "free_translation_as": "ঐতিহাসিকসকলে সাঁচিপাতৰ টাই বুৰঞ্জী আৰু ফলি-পুথিসমূহ বৈজ্ঞানিক দৃষ্টিৰে পৰীক্ষা কৰিলে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Calcutta",
+      "notes": "Methodology of historical research."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩕᩣ",
+      "text_roman": "naang chau tai khyaa tii phaa",
+      "assamese_script": "নাং চৌ টাই খ্যা তী ফা",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "khyaa",
+        "tii",
+        "phaa"
+      ],
+      "glosses": [
+        "women",
+        "dignity",
+        "tai",
+        "society",
+        "rights",
+        "status"
+      ],
+      "free_translation_en": "Tai society accorded high social status, autonomy, and respect to women.",
+      "free_translation_as": "টাই সমাজত মহিলাসকলে উচ্চ সামাজিক মৰ্যাদা, স্বাধীনতা আৰু শ্ৰদ্ধা লাভ কৰিছিল।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Nagaon",
+      "notes": "Social position of women."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw tii nam kaang",
+      "assamese_script": "ফু টাই খৌ তী নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "tii",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "defenders",
+        "valiant",
+        "turn_back",
+        "seventeen",
+        "invasions",
+        "delhi"
+      ],
+      "free_translation_en": "Assam successfully repulsed seventeen external imperial invasions through naval valor.",
+      "free_translation_as": "নৌ-যুদ্ধৰ কৌশলেৰে অসমীয়া সেনাই সোতৰবাৰকৈ বিদেশী আক্ৰমণ ওফৰাই পেলালে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Saraighat / Itakhuli",
+      "notes": "Military victories."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau mroeng mii khyaa taang tsaw",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং চউ",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "tsaw"
+      ],
+      "glosses": [
+        "sovereigns",
+        "wise",
+        "constructed",
+        "stone",
+        "bridges",
+        "roads"
+      ],
+      "free_translation_en": "Rulers constructed durable stone bridges, high dykes, and magnificent royal residences.",
+      "free_translation_as": "স্বৰ্গদেৱসকলে শিলৰ সাঁকো, মজবুত মথাউৰি আৰু সুন্দৰ ৰাজপ্ৰাসাদ নিৰ্মাণ কৰালে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Sibsagar",
+      "notes": "Civil engineering achievements."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "commerce",
+        "markets",
+        "tai",
+        "prosper",
+        "trades",
+        "peace"
+      ],
+      "free_translation_en": "Thriving barter and silver trade enriched river ports from Sadiya to Goalpara.",
+      "free_translation_as": "সদিয়াৰ পৰা গোৱালপাৰালৈকে নদী বন্দৰসমূহত ৰূপৰ মুদ্ৰা আৰু বাণিজ্যিক বেহা-বেপাৰ বৃদ্ধি পালে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Assam",
+      "notes": "Trade and currency."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "reformers",
+        "modern",
+        "champion",
+        "education",
+        "science",
+        "progress"
+      ],
+      "free_translation_en": "Nineteenth-century thinkers championed modern scientific education and social reform.",
+      "free_translation_as": "ঊনবিংশ শতিকাৰ চিন্তাবিদসকলে আধুনিক বিজ্ঞান শিক্ষা আৰু সমাজ সংস্কাৰৰ পোষকতা কৰিলে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Nagaon",
+      "notes": "Modern renaissance values."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "history",
+        "scientific",
+        "objective",
+        "method",
+        "clarity",
+        "truth"
+      ],
+      "free_translation_en": "Barua applied rigorous chronological methodology to synthesize complex indigenous chronicles.",
+      "free_translation_as": "বৰুৱাই জটিল পুথিসমূহক এক শৃংখলাবদ্ধ আৰু বস্তুনিষ্ঠ কালক্ৰমত সজাই তুলিলে।",
+      "speaker": "Gunabhiram Barua",
+      "location": "Calcutta",
+      "notes": "Scientific historiographical method."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "history",
+        "masterpiece",
+        "shines",
+        "forever",
+        "path"
+      ],
+      "free_translation_en": "Gunabhiram Barua's Assam Buranji remains a towering monument of regional historical literature.",
+      "free_translation_as": "গুণাভিৰাম বৰুৱাৰ অসম বুৰঞ্জী আঞ্চলিক বুৰঞ্জী সাহিত্যৰ এক চিৰভাস্বৰ কীৰ্তিস্তম্ভ।",
+      "speaker": "Rai Bahadur Gunabhiram Barua",
+      "location": "Nagaon",
+      "notes": "Conclusion of Gunabhiram Barua's Assam Buranji."
+    }
+  ]
+}

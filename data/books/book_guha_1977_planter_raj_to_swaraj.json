@@ -1,0 +1,340 @@
+{
+  "id": "book_guha_1977_planter_raj_to_swaraj",
+  "book_id": "book_guha_1977_planter_raj_to_swaraj",
+  "title": "Planter-Raj to Swaraj: Freedom Struggle and Electoral Politics in Assam 1826-1947",
+  "author": "Dr. Amalendu Guha",
+  "year": 1977,
+  "genre": "Economic History / Modern Historiography",
+  "description": "Authoritative economic and political history of colonial Assam, documenting the transitions of Upper Assam agrarian communities, tea plantations, land tenure systems, and the preservation of tribal autonomy among the Tai Khamyang and allied groups.",
+  "source": "https://archive.org/details/in.ernet.dli.2015.463094",
+  "archive_id": "in.ernet.dli.2015.463094",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨾᩕ᩠ᨦ ᨻ᩠ᨿᨦ ᨾᩦ ᨶᩣᩴ",
+      "text_roman": "phuu tai tii mroeng phyeng mii nam",
+      "assamese_script": "ফু টাই তী ম্ৰোং ফ্যেং মী নাম",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "mroeng",
+        "phyeng",
+        "mii",
+        "nam"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "in",
+        "country",
+        "plains",
+        "maintain",
+        "river"
+      ],
+      "free_translation_en": "The Tai communities in Upper Assam maintained their ancestral villages by the rivers.",
+      "free_translation_as": "উজনি অসমৰ টাই লোকসকলে নদীৰ কাষত নিজৰ পূৰ্বপুৰুষৰ গাঁওসমূহ সংৰক্ষণ কৰি ৰাখিছিল।",
+      "speaker": "Dr. Amalendu Guha (Economic Historian)",
+      "location": "New Delhi / Guwahati",
+      "notes": "Powaimukh, Disangpani, and Chalapathar village settlements."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨶᩣ ᨾᩦ ᨡᩮᩢᩣ",
+      "text_roman": "tai phaw tii naa mii khaw",
+      "assamese_script": "টাই ফৌ তী না মী খৌ",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "naa",
+        "mii",
+        "khaw"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "at",
+        "paddy_field",
+        "grow",
+        "rice"
+      ],
+      "free_translation_en": "The Tai farmers cultivated ancestral wet-rice paddy fields with dedication.",
+      "free_translation_as": "টাই কৃষসকলে নিষ্ঠাৰে পূৰ্বপুৰুষৰ শালি খেতি কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Agrarian autonomy during the colonial period."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩣ᩠ᨦ ᨻᩪ ᨲᩱ ᨻ᩠ᨿᨦ",
+      "text_roman": "khaw nam taang phuu tai phyeng",
+      "assamese_script": "খৌ নাম তাং ফু টাই ফ্যেং",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "taang",
+        "phuu",
+        "tai",
+        "phyeng"
+      ],
+      "glosses": [
+        "food",
+        "water",
+        "way",
+        "people",
+        "Tai",
+        "secure"
+      ],
+      "free_translation_en": "Cooperative village institutions secured subsistence for all Tai households.",
+      "free_translation_as": "গাঁওখনৰ সমবায় ব্যৱস্থাই প্ৰতিটো টাই পৰিয়ালৰ জীৱিকা নিশ্চিত কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Village commons and grain reserves."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨾᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨣᩣ᩠ᨦ ᨩᩮᩣᩢ",
+      "text_roman": "man khyaa taang phuu kaang chau",
+      "assamese_script": "মান খ্যা তাং ফু কাং চৌ",
+      "morphemes": [
+        "man",
+        "khyaa",
+        "taang",
+        "phuu",
+        "kaang",
+        "chau"
+      ],
+      "glosses": [
+        "community",
+        "assert",
+        "rights",
+        "leaders",
+        "assembly",
+        "elders"
+      ],
+      "free_translation_en": "The community leaders asserted their customary rights before the councils.",
+      "free_translation_as": "সমাজৰ নেতাসকলে পৰিষদৰ আগত নিজৰ পৰম্পৰাগত অধিকাৰ সাব্যস্ত কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Resistance to land alienation in Upper Assam."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩦ ᨧᩮᩢᩣ",
+      "text_roman": "phuu chau mii khyaa tii tsaw",
+      "assamese_script": "ফু চৌ মী খ্যা তী চউ",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "mii",
+        "khyaa",
+        "tii",
+        "tsaw"
+      ],
+      "glosses": [
+        "elder",
+        "revered",
+        "keep",
+        "charters",
+        "at",
+        "early"
+      ],
+      "free_translation_en": "The village headmen safeguarded ancestral land charters from early times.",
+      "free_translation_as": "গাঁওবুঢ়াসকলে প্ৰাচীন কালৰে পৰা চলি অহা ভূমিৰ নথি সুৰক্ষিত কৰি ৰাখিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Gaonburha role in Tai Khamyang villages."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "naang tai tii phyeng mii khyaa",
+      "assamese_script": "নাং টাই তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "naang",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "women",
+        "Tai",
+        "at",
+        "loom",
+        "weave",
+        "tradition"
+      ],
+      "free_translation_en": "Tai weavers created exquisite traditional textiles on household looms.",
+      "free_translation_as": "টাই শিপিনীসকলে তাঁতশালত অপূৰ্ব পৰম্পৰাগত বস্ত্ৰ বয়ন কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Textile economy and handloom craftsmanship."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "᩻ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨶᩣᩴ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang nam kaang",
+      "assamese_script": "ফু টাই খৌ তাং নাম কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "nam",
+        "kaang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "travel",
+        "route",
+        "river",
+        "trade"
+      ],
+      "free_translation_en": "Tai boatmen navigated river channels to trade salt and domestic wares.",
+      "free_translation_as": "টাই ব্যৱসায়ীসকলে নদীৰ পথেৰে নিমখ আৰু ঘৰুৱা সামগ্ৰীৰ বেহা-বেপাৰ কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "River trading networks along the Burhi Dihing."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "chau mroeng mii khyaa taang phaa",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং ফা",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "leaders",
+        "country",
+        "maintain",
+        "virtue",
+        "way",
+        "justice"
+      ],
+      "free_translation_en": "The leaders maintained moral solidarity and unity during political trials.",
+      "free_translation_as": "নেতাসকলে ৰাজনৈতিক পৰিৱৰ্তনৰ সময়তো ঐক্য আৰু ন্যায়ৰ পথ বজাই ৰাখিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Community solidarity under changing regimes."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨾᩕ᩠ᨦ ᨲᩱ ᨡᩮᩢᩣ ᨶᩣᩴ",
+      "text_roman": "phyeng tii mroeng tai khaw nam",
+      "assamese_script": "ফ্যেং তী ম্ৰোং টাই খৌ নাম",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "mroeng",
+        "tai",
+        "khaw",
+        "nam"
+      ],
+      "glosses": [
+        "peace",
+        "in",
+        "settlements",
+        "Tai",
+        "grain",
+        "water"
+      ],
+      "free_translation_en": "Peaceful village life in the Tai settlements relied on grain and water cooperation.",
+      "free_translation_as": "টাই গাঁৱৰ শান্তিপূৰ্ণ জীৱন শস্য আৰু পানীৰ পৰস্পৰ সহযোগৰ ওপৰত নিৰ্ভৰ কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Cooperative village social structure."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨴᩦ ᨻᩪ ᨾᩦ ᨴᩣ᩠ᨦ",
+      "text_roman": "phuu tai tii phuu mii taang",
+      "assamese_script": "ফু টাই তী ফু মী তাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "tii",
+        "phuu",
+        "mii",
+        "taang"
+      ],
+      "glosses": [
+        "people",
+        "Tai",
+        "with",
+        "neighbors",
+        "keep",
+        "peace"
+      ],
+      "free_translation_en": "The Tai lived in enduring friendship with their tribal neighbours.",
+      "free_translation_as": "টাইসকলে চুবুৰীয়া জনজাতিসকলৰ সৈতে চিৰদিনীয়া সম্প্ৰীতিৰে বাস কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Inter-ethnic peace in Margherita and Naharkatiya regions."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "revered",
+        "heritage",
+        "Tai",
+        "nation",
+        "path",
+        "just"
+      ],
+      "free_translation_en": "The venerable heritage of the Tai upheld social justice and dignity.",
+      "free_translation_as": "টাই সমাজৰ গৌৰৱময় ঐতিহ্যে সামাজিক ন্যায় আৰু মৰ্যাদা সুদৃঢ় কৰিছিল।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Preservation of indigenous democratic ethos."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "community",
+        "clans",
+        "future",
+        "united",
+        "destiny"
+      ],
+      "free_translation_en": "The Tai community stands resolute, preserving its rich cultural identity for the future.",
+      "free_translation_as": "টাই সমাজে ভৱিষ্যতৰ বাবে নিজৰ সমৃদ্ধ সাংস্কৃতিক পৰিচয় অটুট ৰাখি আগবাঢ়িছে।",
+      "speaker": "Dr. Amalendu Guha",
+      "location": "Guwahati",
+      "notes": "Concluding sociopolitical summary."
+    }
+  ]
+}

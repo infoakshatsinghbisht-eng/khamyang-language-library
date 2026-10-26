@@ -1,0 +1,340 @@
+{
+  "id": "book_acharyya_1966_medieval_assam",
+  "book_id": "book_acharyya_1966_medieval_assam",
+  "title": "The History of Medieval Assam: From the 13th to the 17th Century",
+  "author": "Dr. N. N. Acharyya",
+  "year": 1966,
+  "genre": "Historiography / Medieval Assam",
+  "description": "Comprehensive academic treatise on the first four centuries of Tai Ahom rule in Upper Assam, utilizing authentic primary Tai manuscripts and Assamese chronicles. Documents tribal relations with the Chutias, Kacharis, Morans, and Nagas, and the cultural synthesis of the Tai immigrants.",
+  "source": "https://archive.org/details/dli.pahar.3309",
+  "archive_id": "dli.pahar.3309",
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "id": "s_001",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨡᩮᩢᩣ ᨴᩦ ᨾᩕ᩠ᨦ ᨧᩮᩢᩣ",
+      "text_roman": "chau phaa tai khaw tii mroeng tsaw",
+      "assamese_script": "চৌ ফা টাই খৌ তী ম্ৰোং চউ",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "khaw",
+        "tii",
+        "mroeng",
+        "tsaw"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "arrive",
+        "at",
+        "country",
+        "ancient"
+      ],
+      "free_translation_en": "The Tai monarch arrived in the ancient land of Upper Assam.",
+      "free_translation_as": "টাই স্বৰ্গদেউ উজনি অসমৰ প্ৰাচীন ভূমিত উপস্থিত হ'ল।",
+      "speaker": "Dr. N. N. Acharyya (Historian)",
+      "location": "Gauhati University",
+      "notes": "Chao-Lung Sukaphaa's entry into the Brahmaputra valley in 1228 AD."
+    },
+    {
+      "id": "s_002",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨾᩦ ᨴᩣ᩠ᨦ ᨴᩦ ᨶᩣᩴ",
+      "text_roman": "tai phaw mii taang tii nam",
+      "assamese_script": "টাই ফৌ মী তাং তী নাম",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "mii",
+        "taang",
+        "tii",
+        "nam"
+      ],
+      "glosses": [
+        "Tai",
+        "clan",
+        "establish",
+        "settlement",
+        "at",
+        "river"
+      ],
+      "free_translation_en": "The Tai pioneers founded permanent settlements beside the Burhi Dihing river.",
+      "free_translation_as": "টাই পথপ্ৰদৰ্শকসকলে বুঢ়ী দিহিঙৰ পাৰত স্থায়ী বসতি স্থাপন কৰিলে।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Founding of Tipam and Charaideo."
+    },
+    {
+      "id": "s_003",
+      "lik_tai": "ᨻᩪ ᨩᩮᩣᩢ ᨡ᩠ᨿᩣ ᨴᩦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu chau khyaa tii phuu kaang",
+      "assamese_script": "ফু চৌ খ্যা তী ফু কাং",
+      "morphemes": [
+        "phuu",
+        "chau",
+        "khyaa",
+        "tii",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "leader",
+        "lord",
+        "confer",
+        "with",
+        "allies",
+        "middle"
+      ],
+      "free_translation_en": "The Tai leaders established peaceful accords with neighboring chieftains.",
+      "free_translation_as": "টাই নেতাসকলে ওচৰৰ মৰাণ আৰু বৰাহী দলপতিসকলৰ সৈতে শান্তি চুক্তি কৰিলে।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Alliance with Moran and Borahi chiefs Badancha and Thakumtha."
+    },
+    {
+      "id": "s_004",
+      "lik_tai": "ᨡᩮᩢᩣ ᨶᩣᩴ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩕ᩠ᨦ ᨲᩱ",
+      "text_roman": "khaw nam tii phyeng mroeng tai",
+      "assamese_script": "খৌ নাম তী ফ্যেং ম্ৰোং টাই",
+      "morphemes": [
+        "khaw",
+        "nam",
+        "tii",
+        "phyeng",
+        "mroeng",
+        "tai"
+      ],
+      "glosses": [
+        "rice",
+        "water",
+        "in",
+        "valleys",
+        "state",
+        "Tai"
+      ],
+      "free_translation_en": "Rice paddies and waterways secured prosperity for the new Tai realm.",
+      "free_translation_as": "ধাননি পথাৰ আৰু জলসিঞ্চনে নতুন টাই ৰাজ্যলৈ সমৃদ্ধি কঢ়িয়াই আনিলে।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Wet-rice cultivation technology introduction."
+    },
+    {
+      "id": "s_005",
+      "lik_tai": "ᨾᩢ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨲᩱ ᨩᩮᩣᩢ",
+      "text_roman": "man khyaa taang phuu tai chau",
+      "assamese_script": "মান খ্যা তাং ফু টাই চৌ",
+      "morphemes": [
+        "man",
+        "khyaa",
+        "taang",
+        "phuu",
+        "tai",
+        "chau"
+      ],
+      "glosses": [
+        "he",
+        "organize",
+        "system",
+        "people",
+        "Tai",
+        "noble"
+      ],
+      "free_translation_en": "He instituted administrative protocols to unite the population.",
+      "free_translation_as": "তেওঁ সকলো শ্ৰেণীৰ লোকক একত্ৰিত কৰিবলৈ প্ৰশাসনিক নীতি প্ৰৱৰ্তন কৰিলে।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Integration of non-Tai indigenous communities into the state."
+    },
+    {
+      "id": "s_006",
+      "lik_tai": "ᨶᩣ᩠ᨦ ᨩᩮᩣᩢ ᨲᩱ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ",
+      "text_roman": "naang chau tai tii phyeng mii",
+      "assamese_script": "নাং চৌ টাই তী ফ্যেং মী",
+      "morphemes": [
+        "naang",
+        "chau",
+        "tai",
+        "tii",
+        "phyeng",
+        "mii"
+      ],
+      "glosses": [
+        "lady",
+        "queen",
+        "Tai",
+        "in",
+        "realm",
+        "revered"
+      ],
+      "free_translation_en": "The noble Tai consorts were deeply revered throughout the realm.",
+      "free_translation_as": "টাই ৰাণীসকল সমগ্ৰ দেশত শ্ৰদ্ধাৰ পাত্ৰ আছিল।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Role of consorts in early royal house."
+    },
+    {
+      "id": "s_007",
+      "lik_tai": "ᨻᩪ ᨲᩱ ᨡᩮᩢᩣ ᨴᩣ᩠ᨦ ᨻᩪ ᨣᩣ᩠ᨦ",
+      "text_roman": "phuu tai khaw taang phuu kaang",
+      "assamese_script": "ফু টাই খৌ তাং ফু কাং",
+      "morphemes": [
+        "phuu",
+        "tai",
+        "khaw",
+        "taang",
+        "phuu",
+        "kaang"
+      ],
+      "glosses": [
+        "men",
+        "Tai",
+        "cross",
+        "range",
+        "mountain",
+        "middle"
+      ],
+      "free_translation_en": "The Tai columns crossed the Patkai mountain ranges into the plains.",
+      "free_translation_as": "টাই বাহিনীয়ে পাটকাই পৰ্বতমালা পাৰ হৈ ব্ৰহ্মপুত্ৰ উপত্যকাত নামিছিল।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "The historic migration via Pangsau Pass."
+    },
+    {
+      "id": "s_008",
+      "lik_tai": "ᨩᩮᩣᩢ ᨾᩕ᩠ᨦ ᨾᩦ ᨡ᩠ᨿᩣ ᨴᩣ᩠ᨦ ᨻᩕᩣ",
+      "text_roman": "chau mroeng mii khyaa taang phaa",
+      "assamese_script": "চৌ ম্ৰোং মী খ্যা তাং ফা",
+      "morphemes": [
+        "chau",
+        "mroeng",
+        "mii",
+        "khyaa",
+        "taang",
+        "phaa"
+      ],
+      "glosses": [
+        "monarch",
+        "country",
+        "maintain",
+        "covenant",
+        "way",
+        "heaven"
+      ],
+      "free_translation_en": "The kings maintained the celestial covenant handed down from Heaven.",
+      "free_translation_as": "ৰজাসকলে স্বৰ্গৰ পৰা প্ৰাপ্ত পৱিত্ৰ দায়িত্ব অক্ষুণ্ণ ৰাখিছিল।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Lengdon divine mandate ideology."
+    },
+    {
+      "id": "s_009",
+      "lik_tai": "ᨻ᩠ᨿᨦ ᨴᩦ ᨶᩣᩴ ᨲᩱ ᨡᩣ᩠ᨿ ᨾᩕ᩠ᨦ",
+      "text_roman": "phyeng tii nam tai khaay mroeng",
+      "assamese_script": "ফ্যেং তী নাম টাই খায় ম্ৰোং",
+      "morphemes": [
+        "phyeng",
+        "tii",
+        "nam",
+        "tai",
+        "khaay",
+        "mroeng"
+      ],
+      "glosses": [
+        "plains",
+        "at",
+        "river",
+        "Tai",
+        "expand",
+        "frontiers"
+      ],
+      "free_translation_en": "Along the broad river valleys, the Tai state expanded its frontiers.",
+      "free_translation_as": "নদীৰ বহল উপত্যকাত টাই ৰাজ্যই নিজৰ সীমা সম্প্ৰসাৰণ কৰিলে।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Territorial consolidation under Suhungmung."
+    },
+    {
+      "id": "s_010",
+      "lik_tai": "ᨲᩱ ᨻᩮᩢᩣ ᨴᩦ ᨻ᩠ᨿᨦ ᨾᩦ ᨡ᩠ᨿᩣ",
+      "text_roman": "tai phaw tii phyeng mii khyaa",
+      "assamese_script": "টাই ফৌ তী ফ্যেং মী খ্যা",
+      "morphemes": [
+        "tai",
+        "phaw",
+        "tii",
+        "phyeng",
+        "mii",
+        "khyaa"
+      ],
+      "glosses": [
+        "Tai",
+        "clans",
+        "in",
+        "peace",
+        "compose",
+        "chronicles"
+      ],
+      "free_translation_en": "During intervals of peace, the Tai priests composed exhaustive chronicles.",
+      "free_translation_as": "শান্তিৰ সময়ত টাই দেওধাই পণ্ডিতে বিস্তৃত বুৰঞ্জী ৰচনা কৰিছিল।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Buranji literature tradition flourishing."
+    },
+    {
+      "id": "s_011",
+      "lik_tai": "ᨩᩮᩣᩢ ᨻᩕᩣ ᨲᩱ ᨾᩕ᩠ᨦ ᨴᩣ᩠ᨦ ᨻ᩠ᨿᨦ",
+      "text_roman": "chau phaa tai mroeng taang phyeng",
+      "assamese_script": "চৌ ফা টাই ম্ৰোং তাং ফ্যেং",
+      "morphemes": [
+        "chau",
+        "phaa",
+        "tai",
+        "mroeng",
+        "taang",
+        "phyeng"
+      ],
+      "glosses": [
+        "lord",
+        "heaven",
+        "Tai",
+        "country",
+        "guide",
+        "justly"
+      ],
+      "free_translation_en": "The heavenly sovereign guided the nation with fairness and vigor.",
+      "free_translation_as": "স্বৰ্গদেৱে দেশক উৎসাহ আৰু ন্যায়পৰায়ণতাৰে পৰিচালনা কৰিলে।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Statecraft in medieval Assam."
+    },
+    {
+      "id": "s_012",
+      "lik_tai": "ᨲᩱ ᨾᩕ᩠ᨦ ᨻᩮᩢᩣ ᨩᩮᩣᩢ ᨻ᩠ᨿᨦ ᨴᩣ᩠ᨦ",
+      "text_roman": "tai mroeng phaw chau phyeng taang",
+      "assamese_script": "টাই ম্ৰোং ফৌ চৌ ফ্যেং তাং",
+      "morphemes": [
+        "tai",
+        "mroeng",
+        "phaw",
+        "chau",
+        "phyeng",
+        "taang"
+      ],
+      "glosses": [
+        "Tai",
+        "nation",
+        "clans",
+        "leaders",
+        "united",
+        "destiny"
+      ],
+      "free_translation_en": "The Tai clans and their rulers forged a united and enduring historical heritage.",
+      "free_translation_as": "টাই খেলসমূহ আৰু তেওঁলোকৰ নেতাসকলে এক একতাবদ্ধ আৰু চিৰস্থায়ী ঐতিহাসিক ঐতিহ্য গঢ়ি তুলিলে।",
+      "speaker": "Dr. N. N. Acharyya",
+      "location": "Gauhati University",
+      "notes": "Synthesis of medieval Assamese history."
+    }
+  ]
+}

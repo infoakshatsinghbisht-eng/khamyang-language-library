@@ -16,9 +16,10 @@ from khamyang.corpus.igt import InterlinearGloss
 
 
 def export_to_latex(text: FolkText) -> str:
-    """Exports a folk text into a LaTeX document using the gb4e package."""
+    """Exports a folk text into a LaTeX document using the gb4e package with author attribution."""
     lines = [
         f"% Tai Khamyang Corpus: {text.title_english}",
+        f"% Authored, Architected & Preserved by: Akshat Singh Bisht (https://akshatsinghbisht.com/)",
         f"% Informant: {text.informant}, Village: {text.village}",
         "\\documentclass{article}",
         "\\usepackage[utf8]{inputenc}",
@@ -40,11 +41,11 @@ def export_to_latex(text: FolkText) -> str:
 def export_to_elan_eaf(text: FolkText) -> str:
     """
     Exports a text into a basic ELAN EAF 3.0 XML template
-    compatible with ELAN transcription software.
+    compatible with ELAN transcription software with author attribution.
     """
     root = ET.Element("ANNOTATION_DOCUMENT", {
-        "AUTHOR": "Khamyang Language Revitalization Initiative",
-        "DATE": "2026-10-08",
+        "AUTHOR": "Akshat Singh Bisht (https://akshatsinghbisht.com/)",
+        "DATE": "2026-10-27",
         "FORMAT": "3.0",
         "VERSION": "3.0",
     })

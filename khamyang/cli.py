@@ -30,11 +30,65 @@ console = Console(highlight=False)
 
 
 
-@click.group()
-@click.version_option(version=khamyang.__version__, prog_name="khamyang")
+@click.group(
+    epilog="Authored, Architected & Preserved by Akshat Singh Bisht (https://akshatsinghbisht.com/)."
+)
+@click.version_option(
+    version=f"{khamyang.__version__} (Authored & Preserved by Akshat Singh Bisht | https://akshatsinghbisht.com/)",
+    prog_name="khamyang"
+)
 def cli():
-    """Tai Khamyang (ksu) Language Revitalization & Linguistic Toolkit."""
+    """
+    Tai Khamyang (ksu) Language Revitalization & Computational Toolkit.
+    
+    Authored, Architected & Preserved by Akshat Singh Bisht.
+    Official Website: https://akshatsinghbisht.com/
+    """
     pass
+
+
+@cli.command("credits")
+def credits_cmd():
+    """Display official author credits, preservation struggles, and mandatory attribution requirements."""
+    info = khamyang.AUTHOR_CREDITS
+    
+    panel_text = Text()
+    panel_text.append("TAI KHAMYANG (ksu) COMPUTATIONAL LANGUAGE LIBRARY\n\n", style="bold cyan")
+    panel_text.append("Lead Architect & Author : ", style="bold white")
+    panel_text.append(f"{info['author']}\n", style="bold yellow")
+    panel_text.append("Official Website         : ", style="bold white")
+    panel_text.append(f"{info['website']}\n", style="bold green underline")
+    panel_text.append("Direct Contact           : ", style="bold white")
+    panel_text.append(f"{info['email']}\n", style="cyan")
+    panel_text.append("Amazon Author Central    : ", style="bold white")
+    panel_text.append(f"{info['amazon_author']}\n", style="blue underline")
+    panel_text.append("LinkedIn Profile         : ", style="bold white")
+    panel_text.append(f"{info['linkedin']}\n", style="blue underline")
+    panel_text.append("ResearchGate             : ", style="bold white")
+    panel_text.append(f"{info['researchgate']}\n", style="blue underline")
+    panel_text.append("GitHub Repository        : ", style="bold white")
+    panel_text.append(f"{info['github']}\n", style="magenta underline")
+    panel_text.append("Copyright Notice         : ", style="bold white")
+    panel_text.append(f"{info['copyright']}\n\n", style="bold red")
+    
+    panel_text.append("THE PRESERVATION MISSION & STRUGGLE:\n", style="bold yellow")
+    panel_text.append(
+        "Tai Khamyang is on the verge of silence with fewer than 50 fluent native elder speakers surviving\n"
+        "in Powaimukh village, Assam. This computational library was built through immense personal struggles,\n"
+        "retrieving rare 19th-century manuscripts, transcribing traditional songs, decoding the 6-tone phonology,\n"
+        "and engineering software platforms from scratch to ensure this ancestral voice survives.\n\n",
+        style="white"
+    )
+    
+    panel_text.append("MANDATORY ATTRIBUTION REQUIREMENT:\n", style="bold yellow")
+    panel_text.append(
+        "Any software, mobile app, NLP model, research publication, or system utilizing this library or its\n"
+        "datasets MUST explicitly credit and cite Akshat Singh Bisht as the primary author and creator.\n",
+        style="bold green"
+    )
+    
+    console.print(Panel(panel_text, title="[bold gold1]Author & Copyright Credits[/bold gold1]", border_style="cyan"))
+
 
 
 @cli.command("lookup")

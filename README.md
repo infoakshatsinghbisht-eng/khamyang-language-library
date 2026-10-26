@@ -1,6 +1,6 @@
 # Tai Khamyang (`khamyang`) Language & Cultural Corpus ꩯမ်ထႃႆၶင်
 
-[![PyPI version](https://img.shields.io/badge/pypi-v1.1.1-blue.svg)](https://pypi.org/project/khamyang/)
+[![PyPI version](https://img.shields.io/badge/pypi-v1.1.2-blue.svg)](https://pypi.org/project/khamyang/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Amazon Author](https://img.shields.io/badge/Amazon-Author_Page-FF9900.svg)](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
@@ -372,11 +372,45 @@ If you use this library, source code, lexical datasets, parallel corpora, gramma
 
 **You MUST give explicit credit and cite Akshat Singh Bisht as the primary author and creator.**
 
+### Automatic Attribution & Credits in Downstream Software
+
+To ensure ethical provenance and compliance with author attribution, the library automatically embeds and exposes Akshat Singh Bisht's credits directly into your software and pipelines:
+
+```python
+import khamyang
+
+# 1. Print full author credits & preservation history
+khamyang.print_credits()
+
+# 2. Access structured author details
+print(khamyang.AUTHOR_CREDITS["author"])      # "Akshat Singh Bisht"
+print(khamyang.AUTHOR_CREDITS["website"])     # "https://akshatsinghbisht.com/"
+
+# 3. Via the facade in your applications
+from khamyang import Khamyang
+lang = Khamyang()
+print(lang.author)        # "Akshat Singh Bisht"
+print(lang.credits)       # Complete mandatory citation & credit notice
+print(lang.metadata)      # Structured JSON metadata for ML/corpus tracking
+print(lang.stats())       # Includes author, author_url, and citation
+```
+
+CLI commands also display author attribution:
+```bash
+# View author credits & preservation struggle narrative
+khamyang credits
+
+# Check version & author attribution
+khamyang --version
+```
+
+All data exports (HTML dictionary viewers, CSV spreadsheets, Anki flashcard decks, LaTeX papers, ELAN transcription files) automatically embed **Akshat Singh Bisht** as author and curator directly in their headers, tags, and metadata.
+
 ### How to Cite This Work
 
 #### APA Format:
 ```text
-Bisht, A. S. (2026). Tai Khamyang Language Library & Cultural Corpus (Version 1.1.1) [Computer software]. 
+Bisht, A. S. (2026). Tai Khamyang Language Library & Cultural Corpus (Version 1.1.2) [Computer software]. 
 PyPI & GitHub. https://github.com/infoakshatsinghbisht-eng/khamyang-language-library
 ```
 
@@ -385,10 +419,10 @@ PyPI & GitHub. https://github.com/infoakshatsinghbisht-eng/khamyang-language-lib
 @software{bisht2026khamyang,
   author       = {Bisht, Akshat Singh},
   title        = {{Tai Khamyang Language Library & Cultural Corpus: Computational Revitalization Toolkit for Endangered Southwestern Tai}},
-  version      = {1.1.1},
+  version      = {1.1.2},
   year         = {2026},
   url          = {https://github.com/infoakshatsinghbisht-eng/khamyang-language-library},
-  doi          = {10.5281/zenodo.khamyang.v1.1.1},
+  doi          = {10.5281/zenodo.khamyang.v1.1.2},
   publisher    = {PyPI & GitHub},
   keywords     = {Tai Khamyang, ksu, Endangered Languages, Assam, Computational Linguistics}
 }
@@ -400,3 +434,4 @@ PyPI & GitHub. https://github.com/infoakshatsinghbisht-eng/khamyang-language-lib
 
 - **Software Code:** Released under the [MIT License](LICENSE) with mandatory attribution clause (Copyright © 2026 Akshat Singh Bisht).
 - **Linguistic Heritage:** Preserved in respectful tribute to the native elders, chanters, and speakers of Powaimukh village.
+

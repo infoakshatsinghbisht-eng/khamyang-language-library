@@ -33,13 +33,26 @@ from khamyang.nlp import (
 )
 
 
+from khamyang.version import (
+    __version__,
+    __author__,
+    __copyright__,
+    __website__,
+    AUTHOR_CREDITS,
+    get_credits_text,
+)
+
+
 class Khamyang:
     """
     Master interface for the Tai Khamyang Computational Language Platform.
     
+    Authored, Architected & Preserved by Akshat Singh Bisht (https://akshatsinghbisht.com/).
+    
     Usage:
         >>> from khamyang import Khamyang
         >>> lang = Khamyang()
+        >>> lang.print_credits()  # Display author credit & attribution
         >>> lang.lookup("nam6")
         >>> lang.kinship("FaElBr")
         >>> lang.quantify("kwaai1", 2)
@@ -52,6 +65,23 @@ class Khamyang:
         self._corpus = get_corpus()
         self._data_dir = os.path.join(os.path.dirname(__file__), "data")
         self._root_data_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "data"))
+        self.author = __author__
+        self.copyright = __copyright__
+        self.website = __website__
+        self.author_info = AUTHOR_CREDITS
+
+    @property
+    def credits(self) -> str:
+        """Returns the mandatory author credit notice and attribution text."""
+        return get_credits_text()
+
+    def get_credits(self) -> str:
+        """Returns the formatted author credits and citation instructions."""
+        return get_credits_text()
+
+    def print_credits(self) -> None:
+        """Prints the full author credits and preservation struggle notice to stdout."""
+        print(get_credits_text())
 
     # --- DICTIONARY & SEARCH ---
     def lookup(self, term: str) -> List[Any]:
@@ -242,6 +272,11 @@ class Khamyang:
         """Calculates comprehensive database statistics."""
         d_stats = self._dict.statistics()
         return {
+            "author": __author__,
+            "author_url": __website__,
+            "copyright": __copyright__,
+            "citation": f"{__author__}. (2026). Khamyang: A Python Language Library and Revitalization Platform for Tai Khamyang (ksu) (v{__version__}). {__website__}",
+            "credits": f"Authored and Preserved by {__author__} ({__website__})",
             "lexical_entries": d_stats["total_words"],
             "categories": d_stats["total_categories"],
             "tones_distribution": d_stats["tones_distribution"],
@@ -253,3 +288,27 @@ class Khamyang:
             "geographic_toponyms": len(self.geography()),
             "scholarly_sources": len(self.sources()),
         }
+
+    @property
+    def metadata(self) -> Dict[str, Any]:
+        """Returns library metadata, author information, and licensing."""
+        return {
+            "name": "khamyang",
+            "version": __version__,
+            "author": __author__,
+            "website": __website__,
+            "copyright": __copyright__,
+            "author_profile": AUTHOR_CREDITS,
+            "license": "MIT with Mandatory Author Attribution",
+        }
+
+    def __repr__(self) -> str:
+        return f"<Khamyang v{__version__} (Authored & Preserved by {__author__} - {__website__})>"
+
+    def __str__(self) -> str:
+        return (
+            f"Tai Khamyang Language Library v{__version__}\n"
+            f"Authored, Architected & Preserved by: {__author__} ({__website__})\n"
+            f"Copyright: {__copyright__}"
+        )
+

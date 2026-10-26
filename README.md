@@ -1,6 +1,6 @@
 # Tai Khamyang (`khamyang`) Language & Cultural Corpus ꩯမ်ထႃႆၶင်
 
-[![PyPI version](https://img.shields.io/badge/pypi-v1.1.0-blue.svg)](https://pypi.org/project/khamyang/)
+[![PyPI version](https://img.shields.io/badge/pypi-v1.1.1-blue.svg)](https://pypi.org/project/khamyang/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Amazon Author](https://img.shields.io/badge/Amazon-Author_Page-FF9900.svg)](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
@@ -376,7 +376,7 @@ If you use this library, source code, lexical datasets, parallel corpora, gramma
 
 #### APA Format:
 ```text
-Bisht, A. S. (2026). Tai Khamyang Language Library & Cultural Corpus (Version 1.1.0) [Computer software]. 
+Bisht, A. S. (2026). Tai Khamyang Language Library & Cultural Corpus (Version 1.1.1) [Computer software]. 
 PyPI & GitHub. https://github.com/infoakshatsinghbisht-eng/khamyang-language-library
 ```
 
@@ -385,10 +385,10 @@ PyPI & GitHub. https://github.com/infoakshatsinghbisht-eng/khamyang-language-lib
 @software{bisht2026khamyang,
   author       = {Bisht, Akshat Singh},
   title        = {{Tai Khamyang Language Library & Cultural Corpus: Computational Revitalization Toolkit for Endangered Southwestern Tai}},
-  version      = {1.1.0},
+  version      = {1.1.1},
   year         = {2026},
   url          = {https://github.com/infoakshatsinghbisht-eng/khamyang-language-library},
-  doi          = {10.5281/zenodo.khamyang.v1.1.0},
+  doi          = {10.5281/zenodo.khamyang.v1.1.1},
   publisher    = {PyPI & GitHub},
   keywords     = {Tai Khamyang, ksu, Endangered Languages, Assam, Computational Linguistics}
 }

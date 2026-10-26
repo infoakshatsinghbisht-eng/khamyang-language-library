@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you utilize this library, codebase, linguistic models, or datasets for academic, NLP, or revitalization work, you MUST cite the primary author and creator, Akshat Singh Bisht, as below."
 title: "Tai Khamyang Language Library & Cultural Corpus"
-version: 1.1.0
+version: 1.1.1
 date-released: 2026-10-27
 authors:
   - family-names: "Bisht"
